@@ -1,0 +1,112 @@
+{
+    "regulation": {
+        "name": "Apple Regulated Substances Specification 069-0135-M",
+        "chemicals": [
+            {
+                "name": "Antimony",
+                "cas": "1309-64-4",
+                "ec": ""
+            },
+            {
+                "name": "Arsenic compounds",
+                "cas": "7440-38-2",
+                "ec": ""
+            },
+            {
+                "name": "Asbestos",
+                "cas": "1332-21-4",
+                "ec": ""
+            },
+            {
+                "name": "Asbestos",
+                "cas": "12001-28-4",
+                "ec": ""
+            },
+            {
+                "name": "Asbestos",
+                "cas": "12001-29-5",
+                "ec": ""
+            },
+            {
+                "name": "Asbestos",
+                "cas": "12172-73-5",
+                "ec": ""
+            },
+            {
+                "name": "Asbestos",
+                "cas": "77536-66-4",
+                "ec": ""
+            },
+            {
+                "name": "Asbestos",
+                "cas": "77536-67-5",
+                "ec": ""
+            },
+            {
+                "name": "Asbestos",
+                "cas": "77536-68-6",
+                "ec": ""
+            },
+            {
+                "name": "Asbestos",
+                "cas": "132207-32-0",
+                "ec": ""
+            },
+            {
+                "name": "Benzene",
+                "cas": "71-43-2",
+                "ec": ""
+            },
+            {
+                "name": "Beryllium compounds",
+                "cas": "7440-41-7",
+                "ec": ""
+            },
+            {
+                "name": "Bisphenol A (BPA)",
+                "cas": "80-05-7",
+                "ec": ""
+            },
+            {
+                "name": "Bromine",
+                "cas": "7726-95-6",
+                "ec": ""
+            },
+            {
+                "name": "Cadmium compounds",
+                "cas": "7440-43-9",
+                "ec": ""
+            },
+            {
+                "name": "Chlorine",
+                "cas": "7782-50-5",
+                "ec": ""
+            },
+            {
+                "name": "Dimethylfumarate (DMFu)",
+                "cas": "624-49-7",
+                "ec": ""
+            },
+            {
+                "name": "Formaldehyde",
+                "cas": "50-00-0",
+                "ec": ""
+            },
+            {
+                "name": "Halogenated Diphenyl Methanes",
+                "cas": "76253-60-6",
+                "ec": ""
+            },
+            {
+                "name": "Halogenated Diphenyl Methanes",
+                "cas": "81161-70-8",
+                "ec": ""
+            },
+            {
+                "name": "Halogenated Diphenyl Methanes",
+                "cas": "99688-47-8",
+                "ec": ""
+            }
+        ]
+    }
+}
