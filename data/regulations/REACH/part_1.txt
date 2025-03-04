@@ -1,0 +1,517 @@
+This text is meant purely as a documentation tool and has no legal effect. The Union's institutions do not assume any liability 
+for its contents. The authentic versions of the relevant acts, including their preambles, are those published in the Official 
+Journal of the European Union and available in EUR-Lex. Those official texts are directly accessible through the links 
+embedded in this document 
+►B ►C1 REGULATION (EC) No 1907/2006 OF THE EUROPEAN PARLIAMENT AND OF THE 
+COUNCIL 
+of 18 December 2006 
+concerning the Registration, Evaluation, Authorisation and Restriction of Chemicals (REACH), 
+establishing a European Chemicals Agency, amending Directive 1999/45/EC and repealing Council 
+Regulation (EEC) No 793/93 and Commission Regulation (EC) No 1488/94 as well as Council 
+Directive 76/769/EEC and Commission Directives 91/155/EEC, 93/67/EEC, 93/105/EC and 
+2000/21/EC 
+(Text with EEA relevance) ◄ 
+(OJ L 396, 30.12.2006, p. 1) 
+Amended by: 
+Official Journal 
+No 
+page 
+date 
+►M1 
+Council Regulation (EC) No 1354/2007 of 15 November 2007 
+L 304 
+1 
+22.11.2007 
+►M2 
+Commission Regulation (EC) No 987/2008 of 8 October 2008 
+L 268 
+14 
+9.10.2008 
+►M3 
+Regulation (EC) No 1272/2008 of the European Parliament and of the 
+Council of 16 December 2008 
+L 353 
+1 
+31.12.2008 
+►M4 
+Commission Regulation (EC) No 134/2009 of 16 February 2009 
+L 46 
+3 
+17.2.2009 
+►M5 
+Commission Regulation (EC) No 552/2009 of 22 June 2009 
+L 164 
+7 
+26.6.2009 
+►M6 
+Commission Regulation (EU) No 276/2010 of 31 March 2010 
+L 86 
+7 
+1.4.2010 
+►M7 
+Commission Regulation (EU) No 453/2010 of 20 May 2010 
+L 133 
+1 
+31.5.2010 
+►M8 
+Commission Regulation (EU) No 143/2011 of 17 February 2011 
+L 44 
+2 
+18.2.2011 
+►M9 
+Commission Regulation (EU) No 207/2011 of 2 March 2011 
+L 58 
+27 
+3.3.2011 
+►M10 
+Commission Regulation (EU) No 252/2011 of 15 March 2011 
+L 69 
+3 
+16.3.2011 
+►M11 
+Commission Regulation (EU) No 253/2011 of 15 March 2011 
+L 69 
+7 
+16.3.2011 
+►M12 
+Commission Regulation (EU) No 366/2011 of 14 April 2011 
+L 101 
+12 
+15.4.2011 
+►M13 
+Commission Regulation (EU) No 494/2011 of 20 May 2011 
+L 134 
+2 
+21.5.2011 
+►M14 
+Commission Regulation (EU) No 109/2012 of 9 February 2012 
+L 37 
+1 
+10.2.2012 
+►M15 
+Commission Regulation (EU) No 125/2012 of 14 February 2012 
+L 41 
+1 
+15.2.2012 
+►M16 
+Commission Regulation (EU) No 412/2012 of 15 May 2012 
+L 128 
+1 
+16.5.2012 
+►M17 
+Commission Regulation (EU) No 835/2012 of 18 September 2012 
+L 252 
+1 
+19.9.2012 
+►M18 
+Commission Regulation (EU) No 836/2012 of 18 September 2012 
+L 252 
+4 
+19.9.2012 
+►M19 
+Commission Regulation (EU) No 847/2012 of 19 September 2012 
+L 253 
+1 
+20.9.2012 
+►M20 
+Commission Regulation (EU) No 848/2012 of 19 September 2012 
+L 253 
+5 
+20.9.2012 
+►M21 
+Commission Regulation (EU) No 126/2013 of 13 February 2013 
+L 43 
+24 
+14.2.2013 
+►M22 
+Commission Regulation (EU) No 348/2013 of 17 April 2013 
+L 108 
+1 
+18.4.2013 
+02006R1907 — EN — 17.12.2022 — 056.001 — 1
+
+ 
+►M23 
+Council Regulation (EU) No 517/2013 of 13 May 2013 
+L 158 
+1 
+10.6.2013 
+►M24 
+Commission Regulation (EU) No 1272/2013 of 6 December 2013 
+L 328 
+69 
+7.12.2013 
+►M25 
+Commission Regulation (EU) No 301/2014 of 25 March 2014 
+L 90 
+1 
+26.3.2014 
+►M26 
+Commission Regulation (EU) No 317/2014 of 27 March 2014 
+L 93 
+24 
+28.3.2014 
+►M27 
+Commission Regulation (EU) No 474/2014 of 8 May 2014 
+L 136 
+19 
+9.5.2014 
+►M28 
+Commission Regulation (EU) No 895/2014 of 14 August 2014 
+L 244 
+6 
+19.8.2014 
+►M29 
+Commission Regulation (EU) 2015/282 of 20 February 2015 
+L 50 
+1 
+21.2.2015 
+►M30 
+Commission Regulation (EU) 2015/326 of 2 March 2015 
+L 58 
+43 
+3.3.2015 
+►M31 
+Commission Regulation (EU) 2015/628 of 22 April 2015 
+L 104 
+2 
+23.4.2015 
+►M32 
+Commission Regulation (EU) 2015/830 of 28 May 2015 
+L 132 
+8 
+29.5.2015 
+►M33 
+Commission Regulation (EU) 2015/1494 of 4 September 2015 
+L 233 
+2 
+5.9.2015 
+►M34 
+Commission Regulation (EU) 2016/26 of 13 January 2016 
+L 9 
+1 
+14.1.2016 
+►M35 
+Commission Regulation (EU) 2016/217 of 16 February 2016 
+L 40 
+5 
+17.2.2016 
+►M36 
+Commission Regulation (EU) 2016/863 of 31 May 2016 
+L 144 
+27 
+1.6.2016 
+►M37 
+Commission Regulation (EU) 2016/1005 of 22 June 2016 
+L 165 
+4 
+23.6.2016 
+►M38 
+Commission Regulation (EU) 2016/1017 of 23 June 2016 
+L 166 
+1 
+24.6.2016 
+►M39 
+Commission Regulation (EU) 2016/1688 of 20 September 2016 
+L 255 
+14 
+21.9.2016 
+►M40 
+Commission Regulation (EU) 2016/2235 of 12 December 2016 
+L 337 
+3 
+13.12.2016 
+►M41 
+Commission Regulation (EU) 2017/227 of 9 February 2017 
+L 35 
+6 
+10.2.2017 
+►M42 
+Commission Regulation (EU) 2017/706 of 19 April 2017 
+L 104 
+8 
+20.4.2017 
+►M43 
+Commission Regulation (EU) 2017/999 of 13 June 2017 
+L 150 
+7 
+14.6.2017 
+►M44 
+Commission Regulation (EU) 2017/1000 of 13 June 2017 
+L 150 
+14 
+14.6.2017 
+►M45 
+Commission Regulation (EU) 2017/1510 of 30 August 2017 
+L 224 
+110 
+31.8.2017 
+►M46 
+Commission Regulation (EU) 2018/35 of 10 January 2018 
+L 6 
+45 
+11.1.2018 
+►M47 
+Commission Regulation (EU) 2018/588 of 18 April 2018 
+L 99 
+3 
+19.4.2018 
+►M48 
+Commission Regulation (EU) 2018/589 of 18 April 2018 
+L 99 
+7 
+19.4.2018 
+►M49 
+Commission Regulation (EU) 2018/675 of 2 May 2018 
+L 114 
+4 
+4.5.2018 
+►M50 
+Commission Regulation (EU) 2018/1513 of 10 October 2018 
+L 256 
+1 
+12.10.2018 
+►M51 
+Commission Regulation (EU) 2018/1881 of 3 December 2018 
+L 308 
+1 
+4.12.2018 
+►M52 
+Commission Regulation (EU) 2018/2005 of 17 December 2018 
+L 322 
+14 
+18.12.2018 
+►M53 
+Commission Regulation (EU) 2019/957 of 11 June 2019 
+L 154 
+37 
+12.6.2019 
+►M54 
+Regulation (EU) 2019/1148 of the European Parliament and of the 
+Council of 20 June 2019 
+L 186 
+1 
+11.7.2019 
+►M55 
+Commission Regulation (EU) 2019/1691 of 9 October 2019 
+L 259 
+9 
+10.10.2019 
+►M56 
+Commission Regulation (EU) 2020/171 of 6 February 2020 
+L 35 
+1 
+7.2.2020 
+►M57 
+Commission Regulation (EU) 2020/507 of 7 April 2020 
+L 110 
+1 
+8.4.2020 
+►M58 
+Commission Regulation (EU) 2020/878 of 18 June 2020 
+L 203 
+28 
+26.6.2020 
+►M59 
+Commission Regulation (EU) 2020/1149 of 3 August 2020 
+L 252 
+24 
+4.8.2020 
+►M60 
+Commission Regulation (EU) 2020/2081 of 14 December 2020 
+L 423 
+6 
+15.12.2020 
+►M61 
+Commission Regulation (EU) 2020/2096 of 15 December 2020 
+L 425 
+3 
+16.12.2020 
+►M62 
+Commission Regulation (EU) 2020/2160 of 18 December 2020 
+L 431 
+38 
+21.12.2020 
+02006R1907 — EN — 17.12.2022 — 056.001 — 2
+
+ 
+►M63 
+Commission Regulation (EU) 2021/57 of 25 January 2021 
+L 24 
+19 
+26.1.2021 
+►M64 
+Commission Regulation (EU) 2021/979 of 17 June 2021 
+L 216 
+121 
+18.6.2021 
+►M65 
+Commission Regulation (EU) 2021/1199 of 20 July 2021 
+L 259 
+1 
+21.7.2021 
+►M66 
+Commission Regulation (EU) 2021/1297 of 4 August 2021 
+L 282 
+29 
+5.8.2021 
+►M67 
+Commission Regulation (EU) 2021/2030 of 19 November 2021 
+L 415 
+16 
+22.11.2021 
+►M68 
+Commission Regulation (EU) 2021/2045 of 23 November 2021 
+L 418 
+6 
+24.11.2021 
+►M69 
+Commission Regulation (EU) 2021/2204 of 13 December 2021 
+L 446 
+34 
+14.12.2021 
+►M70 
+Commission Regulation (EU) 2022/477 of 24 March 2022 
+L 98 
+38 
+25.3.2022 
+►M71 
+Commission Regulation (EU) 2022/586 of 8 April 2022 
+L 112 
+6 
+11.4.2022 
+Corrected by: 
+►C1 
+Corrigendum, OJ L 136, 29.5.2007, p. 3 (1907/2006) 
+►C2 
+Corrigendum, OJ L 141, 31.5.2008, p. 22 (1907/2006) 
+►C3 
+Corrigendum, OJ L 36, 5.2.2009, p. 84 (1907/2006) 
+►C4 
+Corrigendum, OJ L 49, 24.2.2011, p. 52 (143/2011) 
+►C5 
+Corrigendum, OJ L 136, 24.5.2011, p. 105 (494/2011) 
+►C6 
+Corrigendum, OJ L 102, 23.4.2018, p. 99 (2018/589) 
+►C7 
+Corrigendum, OJ L 249, 4.10.2018, p. 18 (2017/227) 
+►C8 
+Corrigendum, OJ L 141, 5.5.2020, p. 37 (2020/171) 
+►C9 
+Corrigendum, OJ L 83, 10.3.2022, p. 64 (2021/1297) 
+02006R1907 — EN — 17.12.2022 — 056.001 — 3
+
+02006R1907 — EN — 17.12.2022 — 056.001 — 4 
+▼C1 
+REGULATION (EC) No 1907/2006 OF THE EUROPEAN 
+PARLIAMENT AND OF THE COUNCIL 
+of 18 December 2006 
+concerning 
+the 
+Registration, 
+Evaluation, 
+Authorisation 
+and 
+Restriction of Chemicals (REACH), establishing a European 
+Chemicals Agency, amending Directive 1999/45/EC and repealing 
+Council Regulation (EEC) No 793/93 and Commission Regulation 
+(EC) No 1488/94 as well as Council Directive 76/769/EEC and 
+Commission Directives 91/155/EEC, 93/67/EEC, 93/105/EC and 
+2000/21/EC 
+(Text with EEA relevance) 
+TABLE OF CONTENTS 
+TITLE I 
+GENERAL ISSUES 
+Chapter 1 
+Aim, scope and application 
+Chapter 2 
+Definitions and general provision 
+TITLE II 
+REGISTRATION OF SUBSTANCES 
+Chapter 1 
+General obligation to register and information requirements 
+Chapter 2 
+Substances regarded as being registered 
+Chapter 3 
+Obligation to register and information requirements for 
+certain types of isolated intermediates 
+Chapter 4 
+Common provisions for all registrations 
+Chapter 5 
+Transitional provisions applicable to phase-in substances 
+and notified substances 
+TITLE III 
+DATA 
+SHARING 
+AND 
+AVOIDANCE 
+OF 
+UNNECESSARY TESTING 
+Chapter 1 
+Objectives and general rules 
+Chapter 2 
+Rules for non-phase-in substances and registrants of phase- 
+in substances who have not pre-registered 
+Chapter 3 
+Rules for phase-in-substances 
+TITLE IV 
+INFORMATION IN THE SUPPLY CHAIN 
+TITLE V 
+DOWNSTREAM USERS 
+TITLE VI 
+EVALUATION 
+Chapter 1 
+Dossier evaluation 
+Chapter 2 
+Substance evaluation 
+Chapter 3 
+Evaluation of intermediates 
+Chapter 4 
+Common provisions 
+▼B
+
+ 
+02006R1907 — EN — 17.12.2022 — 056.001 — 5 
+TITLE VII 
+AUTHORISATION 
+Chapter 1 
+Authorisation requirement 
+Chapter 2 
+Granting of authorisations 
+Chapter 3 
+Authorisations in the supply chain 
+TITLE VIII 
+RESTRICTIONS ON THE MANUFACTURING, PLACING 
+ON THE MARKET AND USE OF CERTAIN DANGEROUS 
+SUBSTANCES AND ►M3 MIXTURES ◄ 
+Chapter 1 
+General issues 
+Chapter 2 
+Restrictions process 
+TITLE IX 
+FEES AND CHARGES 
+TITLE X 
+AGENCY 
+TITLE XII 
+INFORMATION 
+TITLE XIII 
+COMPETENT AUTHORITIES 
+TITLE XIV 
+ENFORCEMENT 
+TITLE XV 
+TRANSITIONAL AND FINAL PROVISIONS 
+ANNEX I 
+GENERAL 
+PROVISIONS 
+FOR 
+ASSESSING 
+SUBSTANCES 
+AND 
+PREPARING 
+CHEMICAL 
+SAFETY REPORTS 
+ANNEX II 
+REQUIREMENTS FOR THE COMPILATION OF 
+SAFETY DATA SHEETS 
+ANNEX III 
+CRITERIA FOR SUBSTANCES REGISTERED 

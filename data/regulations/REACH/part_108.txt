@@ -1,0 +1,549 @@
+g carbon numbers 
+predominantly in the range of C 1 
+through C 3 .) 
+649-140-00-X 
+270-805-1 
+68478-25-1 
+►M21 _______ ◄ K 
+Tail 
+gas 
+(petroleum), 
+catalytic 
+reformed 
+naphtha 
+separator; 
+Refinery gas 
+(A complex combination of hydro­
+carbons obtained from the catalytic 
+reforming of straight-run naphtha. 
+It consists of hydrogen and hydro­
+carbons having carbon numbers 
+predominantly in the range of C 1 
+through C 6 .) 
+649-141-00-5 
+270-807-2 
+68478-27-3 
+►M21 _______ ◄ K 
+Tail 
+gas 
+(petroleum), 
+catalytic 
+reformed 
+naphtha 
+stabiliser; 
+Refinery gas 
+(A complex combination of hydro­
+carbons obtained from the stabili­
+sation 
+of 
+catalytic 
+reformed 
+naphtha. It consists of hydrogen 
+and hydrocarbons having carbon 
+numbers 
+predominantly 
+in 
+the 
+range of C 1 through C 6 .) 
+649-142-00-0 
+270-808-8 
+68478-28-4 
+►M21 _______ ◄ K 
+Tail 
+gas 
+(petroleum), 
+cracked 
+distillate 
+hydrotreater 
+separator; 
+Refinery gas 
+(A complex combination of hydro­
+carbons 
+obtained 
+by 
+treating 
+cracked distillates with hydrogen 
+in the presence of a catalyst. It 
+consists of hydrogen and saturated 
+aliphatic 
+hydrocarbons 
+having 
+carbon numbers predominantly in 
+the range of C 1 through C 5 .) 
+649-143-00-6 
+270-809-3 
+68478-29-5 
+►M21 _______ ◄ K 
+Tail gas (petroleum), hydrodesul­
+phurised 
+straight-run 
+naphtha 
+separator; Refinery gas 
+(A complex combination of hydro­
+carbons obtained from hydrodesul­
+phurisation of straight-run naphtha. 
+It 
+consists 
+of 
+hydrogen 
+and 
+saturated 
+aliphatic 
+hydrocarbons 
+having carbon numbers predomi­
+nantly in the range of C 1 through 
+C 6 .) 
+649-144-00-1 
+270-810-9 
+68478-30-8 
+►M21 _______ ◄ K 
+▼C1
+
+ 
+02006R1907 — EN — 17.12.2022 — 056.001 — 491 
+Substances 
+Index No 
+EC No 
+CAS No 
+Notes 
+Gases 
+(petroleum), 
+catalytic 
+reformed 
+straight-run 
+naphtha 
+stabiliser overheads; Refinery gas 
+(A complex combination of hydro­
+carbons obtained from the catalytic 
+reforming of straight-run naphtha 
+followed by fractionation of the 
+total 
+effluent. 
+It 
+consists 
+of 
+hydrogen, methane, ethane and 
+propane.) 
+649-145-00-7 
+270-999-8 
+68513-14-4 
+►M21 _______ ◄ K 
+Gases 
+(petroleum), 
+reformer 
+effluent high-pressure flash drum 
+off; Refinery gas 
+(A complex combination produced 
+by the high-pressure flashing of the 
+effluent from the reforming reactor. 
+It consists primarily of hydrogen 
+with various small amounts of 
+methane, ethane, and propane.) 
+649-146-00-2 
+271-003-4 
+68513-18-8 
+►M21 _______ ◄ K 
+Gases 
+(petroleum), 
+reformer 
+effluent low-pressure flash drum 
+off; Refinery gas 
+(A complex combination produced 
+by low-pressure flashing of the 
+effluent 
+from 
+the 
+reforming 
+reactor. It consists primarily of 
+hydrogen 
+with 
+various 
+small 
+amounts of methane, ethane, and 
+propane.) 
+649-147-00-8 
+271-005-5 
+68513-19-9 
+►M21 _______ ◄ K 
+Gases (petroleum), oil refinery gas 
+distillation off; Refinery gas 
+(A complex combination separated 
+by distillation of a gas stream 
+containing 
+hydrogen, 
+carbon 
+monoxide, 
+carbon 
+dioxide 
+and 
+hydrocarbons 
+having 
+carbon 
+numbers in the range of C 1 
+through 
+C 6 
+or 
+obtained 
+by 
+cracking ethane and propane. It 
+consists of hydrocarbons having 
+carbon numbers predominantly in 
+the range of C 1 through C 2 , 
+hydrogen, nitrogen, and carbon 
+monoxide.) 
+649-148-00-3 
+271-258-1 
+68527-15-1 
+►M21 _______ ◄ K 
+Gases (petroleum), benzene unit 
+hydrotreater 
+depentaniser 
+over­
+heads; Refinery gas 
+(A complex combination produced 
+by treating the feed from the 
+benzene unit with hydrogen in the 
+presence of a catalyst followed by 
+depentanising. It consists primarily 
+of hydrogen, ethane and propane 
+with various small amounts of 
+nitrogen, carbon monoxide, carbon 
+dioxide and hydrocarbons having 
+carbon numbers predominantly in 
+the range of C 1 through C 6 . It 
+may contain trace amounts of 
+benzene.) 
+649-149-00-9 
+271-623-5 
+68602-82-4 
+►M21 _______ ◄ K 
+▼C1
+
+ 
+02006R1907 — EN — 17.12.2022 — 056.001 — 492 
+Substances 
+Index No 
+EC No 
+CAS No 
+Notes 
+Gases 
+(petroleum), 
+secondary 
+absorber off, fluidised catalytic 
+cracker 
+overheads 
+fractionator; 
+Refinery gas 
+(A complex combination produced 
+by the fractionation of the overhead 
+products from the catalytic cracking 
+process in the fluidised catalytic 
+cracker. It consists of hydrogen, 
+nitrogen, and hydrocarbons having 
+carbon numbers predominantly in 
+the range of C 1 through C 3 .) 
+649-150-00-4 
+271-625-6 
+68602-84-6 
+►M21 _______ ◄ K 
+▼M14 
+Petroleum products, refinery gases; 
+Refinery gas; 
+[A complex combination which 
+consists primarily of hydrogen 
+with various small amounts of 
+methane, ethane, and propane.] 
+649-151-00-X 
+271-750-6 
+68607-11-4 
+K 
+▼C1 
+Gases (petroleum), hydrocracking 
+low-pressure separator; Refinery 
+gas 
+(A complex combination obtained 
+by the liquid-vapour separation of 
+the hydrocracking process reactor 
+effluent. It consists predominantly 
+of hydrogen and saturated hydro­
+carbons having carbon numbers 
+predominantly in the range of C 1 
+through C 3 .) 
+649-152-00-5 
+272-182-1 
+68783-06-2 
+►M21 _______ ◄ K 
+Gases 
+(petroleum), 
+refinery; 
+Refinery gas 
+(A complex combination obtained 
+from various petroleum refining 
+operations. It consists of hydrogen 
+and hydrocarbons having carbon 
+numbers 
+predominantly 
+in 
+the 
+range of C 1 through C 3 .) 
+649-153-00-0 
+272-338-9 
+68814-67-5 
+►M21 _______ ◄ K 
+Gases 
+(petroleum), 
+platformer 
+products separator off; Refinery gas 
+(A complex combination obtained 
+from the chemical reforming of 
+naphthenes 
+to 
+aromatics. 
+It 
+consists of hydrogen and saturated 
+aliphatic 
+hydrocarbons 
+having 
+carbon numbers predominantly in 
+the range of C 2 through C 4 .) 
+649-154-00-6 
+272-343-6 
+68814-90-4 
+►M21 _______ ◄ K 
+▼C1
+
+ 
+02006R1907 — EN — 17.12.2022 — 056.001 — 493 
+Substances 
+Index No 
+EC No 
+CAS No 
+Notes 
+Gases 
+(petroleum), 
+hydrotreated 
+sour 
+kerosine 
+depentaniser 
+stabiliser off; Refinery gas 
+(The 
+complex 
+combination 
+obtained from the depentaniser 
+stabilisation 
+of 
+hydrotreated 
+kerosine. It consists primarily of 
+hydrogen, methane, ethane, and 
+propane 
+with 
+various 
+small 
+amounts of nitrogen, hydrogen 
+sulphide, carbon monoxide and 
+hydrocarbons 
+having 
+carbon 
+numbers 
+predominantly 
+in 
+the 
+range of C 4 through C 5 .) 
+649-155-00-1 
+272-775-5 
+68911-58-0 
+►M21 _______ ◄ K 
+Gases 
+(petroleum), 
+hydrotreated 
+sour kerosine flash drum; Refinery 
+gas 
+(A complex combination obtained 
+from the flash drum of the unit 
+treating 
+sour 
+kerosine 
+with 
+hydrogen in the presence of a 
+catalyst. It consists primarily of 
+hydrogen 
+and 
+methane 
+with 
+various small amounts of nitrogen, 
+carbon 
+monoxide, 
+and 
+hydro- 
+carbons having carbon numbers 
+predominantly in the range of C 2 
+through C 5 .) 
+649-156-00-7 
+272-776-0 
+68911-59-1 
+►M21 _______ ◄ K 
+Gases 
+(petroleum), 
+distillate 
+unifiner desulphurisation stripper 
+off; Refinery gas 
+(A complex combination stripped 
+from the liquid product of the 
+unifiner desulphurisation process. 
+It consists of hydrogen sulphide, 
+methane, ethane, and propane.) 
+649-157-00-2 
+272-873-8 
+68919-01-7 
+►M21 _______ ◄ K 
+Gases 
+(petroleum), 
+fluidised 
+catalytic cracker fractionation off; 
+Refinery gas 
+(A complex combination produced 
+by the fractionation of the overhead 
+product of the fluidised catalytic 
+cracking process. It consists of 
+hydrogen, 
+hydrogen 
+sulphide, 
+nitrogen, and hydrocarbons having 
+carbon numbers predominantly in 
+the range of C 1 through C 5 .) 
+649-158-00-8 
+272-874-3 
+68919-02-8 
+►M21 _______ ◄ K 
+▼C1
+
+ 
+02006R1907 — EN — 17.12.2022 — 056.001 — 494 
+Substances 
+Index No 
+EC No 
+CAS No 
+Notes 
+Gases 
+(petroleum), 
+fluidised 
+catalytic 
+cracker 
+scrubbing 
+secondary absorber off; Refinery 
+gas 
+(A complex combination produced 
+by scrubbing the overhead gas from 
+the fluidised catalytic cracker. It 
+consists of hydrogen, nitrogen, 
+methane, ethane and propane.) 
+649-159-00-3 
+272-875-9 
+68919-03-9 
+►M21 _______ ◄ K 
+Gases (petroleum), heavy distillate 
+hydrotreater 
+desulphurisation 
+stripper off; Refinery gas 
+(A complex combination stripped 
+from the liquid product of the 
+heavy distillate hydrotreater desul­
+phurisation process. It consists of 
+hydrogen, hydrogen sulphide, and 
+saturated 
+aliphatic 
+hydrocarbons 
+having carbon numbers predomi­
+nantly in the range of C 1 through 
+C 5 .) 
+649-160-00-9 
+272-876-4 
+68919-04-0 
+►M21 _______ ◄ K 
+Gases 
+(petroleum), 
+platformer 
+stabiliser off, light ends fraction­
+ation; Refinery gas 
+(A complex combination obtained 
+by the fractionation of the light 
+ends of the platinum reactors of 
+the platformer unit. It consists of 
+hydrogen, methane, ethane and 
+propane.) 
+649-161-00-4 
+272-880-6 
+68919-07-3 
+►M21 _______ ◄ K 
+Gases (petroleum), preflash tower 
+off, crude distillation; Refinery gas 
+(A complex combination produced 
+from the first tower used in the 
+distillation of crude oil. It consists 
+of nitrogen and saturated aliphatic 
+hydrocarbons 
+having 
+carbon 
+numbers 
+predominantly 
+in 
+the 
+range of C 1 through C 5 .) 
+649-162-00-X 
+272-881-1 
+68919-08-4 
+►M21 _______ ◄ K 
+Gases (petroleum), tar stripper off; 
+Refinery gas 
+(A complex combination obtained 
+by the fractionation of reduced 
+crude oil. It consists of hydrogen 
+and hydrocarbons having carbon 
+numbers 
+predominantly 
+in 
+the 
+range of C 1 through C 4 .) 
+649-163-00-5 
+272-884-8 
+68919-11-9 
+►M21 _______ ◄ K 
+▼C1
+
+ 
+02006R1907 — EN — 17.12.2022 — 056.001 — 495 
+Substances 
+Index No 
+EC No 
+CAS No 
+Notes 
+Gases (petroleum), unifiner stripper 
+off; Refinery gas 
+(A combination of hydrogen and 
+methane obtained by fractionation 
+of the products from the unifiner 
+unit.) 
+649-164-00-0 
+272-885-3 
+68919-12-0 
+►M21 _______ ◄ K 
+Tail 
+gas 
+(petroleum), 
+catalytic 
+hydrodesulphurised 
+naphtha 
+separator; Refinery gas 
+(A complex combination of hydro­
+carbons obtained from the hydrode­
+sulphurisation 
+of 
+naphtha. 
+It 
+consists of hydrogen, methane, 
+ethane, and propane.) 
+649-165-00-6 
+273-173-5 
+68952-79-4 
+►M21 _______ ◄ K 
+Tail gas (petr

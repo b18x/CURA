@@ -1,0 +1,197 @@
+
+substance that has been registered in accordance with Title II is 
+available to the establishment undertaking the recovery. 
+8. 
+On-site isolated intermediates and transported isolated inter­
+mediates shall be exempted from: 
+(a) Chapter 1 of Title II, with the exception of Articles 8 and 9; and 
+(b) Title VII. 
+9. 
+The provisions of Titles II and VI shall not apply to polymers. 
+CHAPTER 2 
+Definitions and general provision 
+Article 3 
+Definitions 
+For the purposes of this Regulation: 
+1. substance: means a chemical element and its compounds in the 
+natural state or obtained by any manufacturing process, including 
+any additive necessary to preserve its stability and any impurity 
+deriving from the process used, but excluding any solvent which 
+may be separated without affecting the stability of the substance or 
+changing its composition; 
+2. ►M3 mixture ◄: means a mixture or solution composed of two or 
+more substances; 
+▼C1
+
+ 
+02006R1907 — EN — 17.12.2022 — 056.001 — 11 
+3. article: means an object which during production is given a special 
+shape, surface or design which determines its function to a greater 
+degree than does its chemical composition; 
+4. producer of an article: means any natural or legal person who 
+makes or assembles an article within the Community; 
+5. polymer: means a substance consisting of molecules characterised 
+by the sequence of one or more types of monomer units. Such 
+molecules must be distributed over a range of molecular weights 
+wherein differences in the molecular weight are primarily attribu­
+table to differences in the number of monomer units. A polymer 
+comprises the following: 
+(a) a simple weight majority of molecules containing at least three 
+monomer units which are covalently bound to at least one other 
+monomer unit or other reactant; 
+(b) less than a simple weight majority of molecules of the same 
+molecular weight. 
+In the context of this definition a ‘monomer unit’ means the reacted 
+form of a monomer substance in a polymer; 
+6. monomer: means a substance which is capable of forming covalent 
+bonds with a sequence of additional like or unlike molecules under 
+the conditions of the relevant polymer-forming reaction used for the 
+particular process; 
+7. registrant: means the manufacturer or the importer of a substance or 
+the producer or importer of an article submitting a registration for a 
+substance; 
+8. manufacturing: means production or extraction of substances in the 
+natural state; 
+9. manufacturer: means any natural or legal person established within 
+the Community who manufactures a substance within the 
+Community; 
+10. import: means the physical introduction into the customs territory of 
+the Community; 
+11. importer: means any natural or legal person established within the 
+Community who is responsible for import; 
+12. placing on the market: means supplying or making available, 
+whether in return for payment or free of charge, to a third party. 
+Import shall be deemed to be placing on the market; 
+13. downstream user: means any natural or legal person established 
+within the Community, other than the manufacturer or the 
+importer, who uses a substance, either on its own or in a 
+►M3 mixture ◄, in the course of his industrial or professional 
+activities. A distributor or a consumer is not a downstream user. 
+A re-importer exempted pursuant to Article 2(7)(c) shall be 
+regarded as a downstream user; 
+14. distributor: means any natural or legal person established within the 
+Community, including a retailer, who only stores and places on the 
+market a substance, on its own or in a ►M3 mixture ◄, for third 
+parties; 
+▼C1
+
+ 
+02006R1907 — EN — 17.12.2022 — 056.001 — 12 
+15. intermediate: means a substance that is manufactured for and 
+consumed in or used for chemical processing in order to be trans­
+formed into another substance (hereinafter referred to as synthesis): 
+(a) non-isolated intermediate: means an intermediate that during 
+synthesis is not intentionally removed (except for sampling) 
+from the equipment in which the synthesis takes place. Such 
+equipment includes the reaction vessel, its ancillary equipment, 
+and any equipment through which the substance(s) pass(es) 
+during a continuous flow or batch process as well as the 
+pipework for transfer from one vessel to another for the 
+purpose of the next reaction step, but it excludes tanks or 
+other vessels in which the substance(s) are stored after the 
+manufacture; 
+(b) on-site isolated intermediate: means an intermediate not meeting 
+the criteria of a non-isolated intermediate and where the manu­
+facture of the intermediate and the synthesis of (an)other 
+substance(s) from that intermediate take place on the same 
+site, operated by one or more legal entities; 
+(c) transported isolated intermediate: means an intermediate not 
+meeting the criteria of a non-isolated intermediate and trans­
+ported between or supplied to other sites; 
+16. site: means a single location, in which, if there is more than one 
+manufacturer of (a) substance(s), certain infrastructure and facilities 
+are shared; 
+17. actors in the supply chain: means all manufacturers and/or importers 
+and/or downstream users in a supply chain; 
+18. Agency: means the European Chemicals Agency as established by 
+this Regulation; 
+19. competent authority: means the authority or authorities or bodies 
+established by the Member States to carry out the obligations 
+arising from this Regulation; 
+20. phase-in substance: means a substance which meets at least one of 
+the following criteria: 
+(a) it is listed in the European Inventory of Existing Commercial 
+Chemical Substances (EINECS); 
+▼M23 
+(b) it was manufactured in the Community, or in the countries 
+acceding to the European Union on 1 January 1995, on 
+1 May 2004, on 1 January 2007 or on 1 July 2013, but not 
+placed on the market by the manufacturer or importer, at least 
+once in the 15 years before the entry into force of this Regu­
+lation, provided the manufacturer or importer has documentary 
+evidence of this; 
+▼C1
+
+ 
+02006R1907 — EN — 17.12.2022 — 056.001 — 13 
+(c) it was placed on the market in the Community, or in the 
+countries acceding to the European Union on 1 January 1995, 
+on 1 May 2004, on 1 January 2007 or on 1 July 2013, by the 
+manufacturer or importer before the entry into force of this 
+Regulation and it was considered as having been notified in 
+accordance with the first indent of Article 8(1) of Directive 
+67/548/EEC in the version of Article 8(1) resulting from the 
+amendment effected by Directive 79/831/EEC, but it does not 
+meet the definition of a polymer as set out in this Regulation, 
+provided the manufacturer or importer has documentary 
+evidence of this, including proof that the substance was 
+placed on the market by any manufacturer or importer 
+between 18 September 1981 and 31 October 1993 inclusive; 
+▼C1 
+21. notified substance: means a substance for which a notification has 
+been submitted and which could be placed on the market in 
+accordance with Directive 67/548/EEC; 
+22. product and process orientated research and development: means any 
+scientific development related to product development or the further 
+development of a substance, on its own, in ►M3 mixtures ◄ or 
+in articles in the course of which pilot plant or production trials are 
+used to develop the production process and/or to test the fields of 
+application of the substance; 
+23. scientific research and development: means any scientific experi­
+mentation, analysis or chemical research carried out under 
+controlled conditions in a volume less than one tonne per year; 
+24. use: means any processing, formulation, consumption, storage, 
+keeping, treatment, filling into containers, transfer from one 
+container to another, mixing, production of an article or any other 
+utilisation; 
+25. registrant's own use: means an industrial or professional use by the 
+registrant; 
+26. identified use: means a use of a substance on its own or in a 
+►M3 mixture ◄, or a use of a ►M3 mixture ◄, that is 
+intended by an actor in the supply chain, including his own use, 
+or that is made known to him in writing by an immediate down­
+stream user; 
+27. full study report: means a complete and comprehensive description 
+of the activity performed to generate the information. This covers 
+the complete scientific paper as published in the literature 
+describing the study performed or the full report prepared by the 
+test house describing the study performed; 
+28. robust study summary: means a detailed summary of the objectives, 
+methods, results and conclusions of a full study report providing 
+sufficient information to make an independent assessment of the 
+study minimising the need to consult the full study report; 
+29. study summary: means a summary of the objectives, methods, 
+results and conclusions of a full study report providing sufficient 
+information to make an assessment of the relevance of the study; 
+▼M23
+
+ 
+02006R1907 — EN — 17.12.2022 — 056.001 — 14 
+30. per year: means per calendar year, unless stated otherwise, for 
+phase-in substances that have been imported or manufactured for 
+at least three consecutive years, quantities per year shall be 
+calculated on the basis of the average production or import 
+volumes for the three preceding calendar years; 
+31. restriction: means any condition for or prohibition of the manu­
+facture, use or placing on the market; 
+32. supplier of a substance or a ►M3 mixture ◄: means any manu­
+facturer, importer, downstream user or distributor placing on the 
+market a substance, on its own or in a ►M3 mixture ◄, or a 
+►M3 mixture ◄; 
+33. supplier of an article: means any producer or importer of an article, 
+distributor or other actor in the supply chain placing an article on 
+the market; 
+34. recipient of a substance or a ►M3 mixture ◄: means a down­
+stream user or a distributor being supplied with a substance or a 
+►M3 mixture ◄; 
+35. recipient of an article: means an industrial or professi

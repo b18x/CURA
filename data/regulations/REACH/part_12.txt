@@ -1,0 +1,210 @@
+bstance and identify and apply any appropriate risk 
+management measures needed to ensure that the risks to human 
+health and the environment are adequately controlled. Where necessary, 
+this information shall be included in any safety data sheet prepared by 
+him. 
+7. 
+Downstream users shall keep their chemical safety report up to 
+date and available. 
+8. 
+A chemical safety report prepared in accordance with paragraph 4 
+of this Article need not include consideration of the risks to human 
+health from the end uses set out in Article 14(5). 
+Article 38 
+Obligation for downstream users to report information 
+1. 
+Before commencing or continuing with a particular use of a 
+substance that has been registered by an actor up the supply chain in 
+accordance with Articles 6 or 18, the downstream user shall report to 
+the Agency the information specified in paragraph 2 of this Article, in 
+the following cases: 
+(a) the downstream user has to prepare a chemical safety report in 
+accordance with Article 37(4); or 
+(b) the downstream user is relying on the exemptions in Article 37(4)(c) 
+or (f). 
+2. 
+The information reported by the downstream user shall include the 
+following: 
+(a) his identity and contact details as specified in Section 1.1 of 
+Annex VI; 
+(b) the registration number(s) referred to in Article 20(3), if available; 
+(c) the identity of the substance(s) as specified in Section 2.1 to 2.3.4 
+of Annex VI; 
+(d) the identity of the manufacturer(s) or the importer(s) or other 
+supplier as specified in Section 1.1 of Annex VI; 
+(e) a brief general description of the use(s), as specified in Section 3.5 
+of Annex VI, and of the conditions of use(s); 
+(f) except where the downstream user is relying on the exemption in 
+Article 37(4)(c), a proposal for additional testing on vertebrate 
+animals, where this is considered necessary by the downstream 
+user to complete his chemical safety assessment. 
+3. 
+The downstream user shall update this information without delay 
+in the event of a change in the information reported in accordance with 
+paragraph 1. 
+4. 
+A downstream user shall report to the Agency if his classification 
+of a substance is different to that of his supplier. 
+▼C1
+
+ 
+02006R1907 — EN — 17.12.2022 — 056.001 — 47 
+5. 
+Except where a downstream user is relying on the exemption in 
+Article 37(4)(c), reporting in accordance with paragraphs 1 to 4 of this 
+Article shall not be required in respect of a substance, on its own or in a 
+►M3 mixture ◄, used by the downstream user in quantities of less 
+than one tonne per year for that particular use. 
+Article 39 
+Application of downstream user obligations 
+1. 
+Downstream users shall be required to comply with the 
+requirements of Article 37 at the latest 12 months after receiving a 
+registration number communicated to them by their suppliers in a 
+safety data sheet. 
+2. 
+Downstream users shall be required to comply with the 
+requirements of Article 38 at the latest six months after receiving a 
+registration number communicated to them by their suppliers in a 
+safety data sheet. 
+TITLE VI 
+EVALUATION 
+CHAPTER 1 
+Dossier evaluation 
+Article 40 
+Examination of testing proposals 
+▼M3 
+1. 
+The Agency shall examine any testing proposal set out in a regis­
+tration or a downstream user report for provision of the information 
+specified in Annexes IX and X for a substance. Priority shall be 
+given to registrations of substances which have or may have PBT, 
+vPvB, sensitising and/or carcinogenic, mutagenic or toxic for repro­
+duction (CMR) properties, or substances above 100 tonnes per year 
+with uses resulting in widespread and diffuse exposure, provided they 
+fulfil the criteria for any of the following hazard classes or categories set 
+out in Annex I of Regulation (EC) No 1272/2008: 
+(a) hazard classes 2.1 to 2.4, 2.6 and 2.7, 2.8 types A and B, 2.9, 2.10, 
+2.12, 2.13 categories 1 and 2, 2.14 categories 1 and 2, 2.15 types A 
+to F; 
+(b) hazard classes 3.1 to 3.6, 3.7 adverse effects on sexual function and 
+fertility or on development, 3.8 effects other than narcotic effects, 
+3.9 and 3.10; 
+(c) hazard class 4.1; 
+(d) hazard class 5.1. 
+▼C1
+
+ 
+02006R1907 — EN — 17.12.2022 — 056.001 — 48 
+2. 
+Information relating to testing proposals involving tests on 
+vertebrate animals shall be published on the Agency website. The 
+Agency shall publish on its website the name of the substance, the 
+hazard end-point for which vertebrate testing is proposed, and the 
+date by which any third party information is required. It shall invite 
+third parties to submit, using the format provided by the Agency, scien­
+tifically valid information and studies that address the relevant substance 
+and hazard end-point, addressed by the testing proposal, within 45 days 
+of the date of publication. All such scientifically valid information and 
+studies received shall be taken into account by the Agency in preparing 
+its decision in accordance with paragraph 3. 
+3. 
+On the basis of the examination under paragraph 1, the Agency 
+shall draft one of the following decisions and that decision shall be 
+taken in accordance with the procedure laid down in Articles 50 and 51: 
+(a) a decision requiring the registrant(s) or downstream user(s) 
+concerned to carry out the proposed test and setting a deadline 
+for submission of the study summary, or the robust study 
+summary if required by Annex I; 
+(b) a decision in accordance with point (a), but modifying the 
+conditions under which the test is to be carried out; 
+(c) a decision in accordance with points (a), (b) or (d) but requiring 
+registrant(s) or downstream user(s) to carry out one or more ad­
+ditional tests in cases of non-compliance of the testing proposal with 
+Annexes IX, X and XI; 
+(d) a decision rejecting the testing proposal; 
+(e) a decision in accordance with points (a), (b) or (c), if several regis­
+trants or downstream users of the same substance have submitted 
+proposals for the same test, giving them the opportunity to reach an 
+agreement on who will perform the test on behalf of all of them and 
+to inform the Agency accordingly within 90 days. If the Agency is 
+not informed of such agreement within such 90 days, it shall 
+designate one of the registrants or downstream users, as appropriate, 
+to perform the test on behalf of all of them. 
+4. 
+The registrant or downstream user shall submit the information 
+required to the Agency by the deadline set. 
+Article 41 
+Compliance check of registrations 
+1. 
+The Agency may examine any registration in order to verify any 
+of the following: 
+(a) that the information in the technical dossier(s) submitted pursuant to 
+Article 10 complies with the requirements of Articles 10, 12 and 13 
+and with Annexes III and VI to X; 
+(b) that the adaptations of the standard information requirements and 
+the related justifications submitted in the technical dossier(s) comply 
+with the rules governing such adaptations set out in Annexes VII to 
+X and with the general rules set out in Annex XI; 
+▼C1
+
+ 
+02006R1907 — EN — 17.12.2022 — 056.001 — 49 
+(c) that any required chemical safety assessment and chemical safety 
+report comply with the requirements of Annex I and that the 
+proposed risk management measures are adequate; 
+(d) that any explanation(s) submitted in accordance with Article 11(3) 
+or Article 19(2) have an objective basis. 
+2. 
+The list of dossiers being checked for compliance by the Agency 
+shall be made available to Member States competent authorities. 
+3. 
+On the basis of an examination made pursuant to paragraph 1, the 
+Agency may, within 12 months of the start of the compliance check, 
+prepare a draft decision requiring the registrant(s) to submit any 
+information needed to bring the registration(s) into compliance with 
+the relevant information requirements and specifying adequate time 
+limits for the submission of further information. Such a decision shall 
+be taken in accordance with the procedure laid down in Articles 50 and 
+51. 
+4. 
+The registrant shall submit the information required to the Agency 
+by the deadline set. 
+5. 
+►M57 To check compliance of registration dossiers with this 
+Regulation, the Agency shall select, until 31 December 2023, a 
+percentage of those dossiers no lower than 20 % of the total received 
+by the Agency for registrations in tonnage bands of 100 tonnes or more 
+per year. 
+The Agency shall, until 31 December 2027, also select a percentage no 
+lower than 20 % of the total received by the Agency for registrations in 
+tonnage bands of less than 100 tonnes per year. 
+When selecting dossiers for compliance checking, the Agency shall give 
+priority, but not exclusively, to dossiers meeting at least one of the 
+following criteria: ◄ 
+(a) the dossier contains information in Article 10(a)(iv), (vi) and/or (vii) 
+submitted separately as per Article 11(3); or 
+(b) the dossier is for a substance manufactured or imported in quantities 
+of one tonne or more per year and does not meet the requirements 
+of Annex VII applying under either Article 12(1)(a) or (b), as the 
+case may be; or 
+(c) the dossier is for a substance listed in the Community rolling action 
+plan referred to in Article 44(2). 
+6. 
+Any third party may electronically submit information to the 
+Agency relating to substances that appear on the list referred to in 
+Article 28(4). The Agency shall consider this information together 
+with the information submitted according to Article 124 when 
+checking and selecting dossiers. 
+7. 
+The Commission may, after consulting with the Agency, take a 
+decision to vary the percentage of dossiers selected and amend or 
+include further criteria in paragraph 5 in accordance with the 
+procedure referred to in Article 133(4). 
+Article 42 
+Check of information submitted and follow-up to dossier evaluation 
+1. 
+The Agency shall examine any information submitted in 
+consequence of a decision taken under Articles 40 or 41, and draft 
+any appropriate decisions in accordance with these Articles, if 
+necessary

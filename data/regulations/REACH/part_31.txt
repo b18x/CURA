@@ -1,0 +1,194 @@
+ng 
+that the substance or mixture is not hazardous or any other statements 
+that are inconsistent with the classification of that substance or 
+mixture shall not be used. 
+0.2.5. 
+The date of compilation of the safety data sheet shall be given on the 
+first page. When a safety data sheet has been revised and the new, 
+revised version is provided to recipients, the changes shall be brought 
+to the attention of the recipients in Section 16 of the safety data sheet, 
+▼M58
+
+ 
+02006R1907 — EN — 17.12.2022 — 056.001 — 118 
+unless the changes have been indicated elsewhere. For the revised 
+safety data sheets, the date of compilation, identified as ‘Revision: 
+(date)’, shall appear on the first page, as well as one or more indi­
+cations of which version is replaced, such as version number, revision 
+number, or supersedes date. 
+0.3. 
+Safety data sheet format 
+0.3.1. 
+A safety data sheet is not a fixed length document. The length of the 
+safety data sheet shall be commensurate with the hazard of the 
+substance or mixture and the information available. 
+0.3.2. 
+All pages of a safety data sheet, including any annexes, shall be 
+numbered and shall bear either an indication of the length of the 
+safety data sheet (such as ‘page 1 of 3’) or an indication whether 
+there is a page following (such as ‘Continued on next page’ or ‘End 
+of safety data sheet’). 
+0.4. 
+Safety data sheet content 
+The information required by this Annex shall be included in the safety 
+data sheet, where applicable and available, in the relevant subsections 
+set out in Part B. The safety data sheet shall not contain blank 
+subsections. 
+0.5. 
+Other information requirements 
+The inclusion of additional relevant and available information in the 
+relevant subsections may be necessary in some cases in view of the 
+wide range of properties of substances and mixtures. 
+Additional safety and environmental information is required to address 
+the needs of seafarers and other transport workers in the bulk transport 
+of dangerous goods in sea-going or inland navigation bulk carriers or 
+tank-vessels subject to International Maritime Organisation (IMO) or 
+national regulations. Subsection 14.7 recommends the inclusion of 
+basic classification information when such cargoes are transported in 
+bulk according to the relevant IMO instruments. In addition, ships 
+carrying oil or oil fuel, as defined in Annex I of MARPOL ( 1 ), in 
+bulk or bunkering oil fuel are required, before loading, to be provided 
+with a ‘material safety data sheet’ in accordance with the IMO’s 
+Maritime Safety Committee (MSC) resolution ‘Recommendations 
+for Material Safety Data Sheets (MSDS) for MARPOL Annex I Oil 
+Cargo and Oil Fuel’ (MSC.286(86)). Therefore, in order to have one 
+harmonised safety data sheet for maritime and non-maritime use, the 
+additional provisions of Resolution MSC.286(86) may be included in 
+the safety data sheets, where appropriate, for marine transport of 
+MARPOL Annex I cargoes and marine fuel oils. 
+0.6. 
+Units 
+The units of measurement as set out in Council Directive 
+80/181/EEC ( 2 ) shall be used. 
+▼M58 
+( 1 ) Marpol – Consolidated edition 2006, London, IMO 2007, ISBN 978-92-801-4216-7. 
+( 2 ) Council Directive 80/181/EEC of 20 December 1979 on the approximation of the laws 
+of the Member States relating to units of measurement and on the repeal of Directive 
+71/354/EEC (OJ L 39, 15.2.1980, p. 40).
+
+ 
+02006R1907 — EN — 17.12.2022 — 056.001 — 119 
+0.7. 
+Special cases 
+Safety data sheets shall also be required for the special cases listed in 
+paragraph 1.3 of Annex I to Regulation (EC) No 1272/2008 for which 
+there are labelling derogations. 
+1. 
+SECTION 1: Identification of the substance/mixture and of the 
+company/undertaking 
+This section of the safety data sheet shall prescribe how the substance 
+or mixture shall be identified and how the identified relevant uses, the 
+name of the supplier of the substance or mixture and the contact detail 
+information of the supplier of the substance or mixture, including an 
+emergency contact, shall be provided in the safety data sheet. 
+1.1. 
+Product identifier 
+The product identifier shall be provided in accordance with 
+Article 18(2) of Regulation (EC) No 1272/2008 in the case of a 
+substance and in accordance with Article 18(3)(a) of Regulation 
+(EC) No 1272/2008 in the case of a mixture, and as provided on 
+the label in the official language(s) of the Member State(s) where 
+the substance or mixture is placed on the market, unless the 
+Member State(s) concerned provide(s) otherwise. 
+For substances subject to registration, the product identifier shall be 
+consistent with that provided in the registration and the registration 
+number assigned under Article 20(3) of this Regulation shall also be 
+indicated. Additional identifiers may be provided even if they have 
+not been used in the registration. 
+Without affecting the obligations of downstream users laid down in 
+Article 39 of this Regulation, the part of the registration number 
+referring to the individual registrant of a joint submission may be 
+omitted by a supplier who is a distributor or a downstream user 
+provided that: 
+(a) this supplier assumes the responsibility to provide the full regis­
+tration number upon request for enforcement purposes or, if the 
+full registration number is not available to him, to forward the 
+request to his supplier, in line with point (b); and 
+(b) this supplier provides the full registration number to the Member 
+State authority responsible for enforcement (the enforcement 
+authority) within 7 days upon request, received either directly 
+from the enforcement authority or forwarded by his recipient, 
+or, if the full registration number is not available to him, this 
+supplier shall forward the request to his supplier within 7 days 
+upon request and at the same time inform the enforcement 
+authority thereof. 
+A single safety data sheet may be provided to cover more than one 
+substance or mixture where the information in that safety data sheet 
+fulfils the requirements of this Annex for each of those substances or 
+mixtures. 
+Where different forms of a substance are covered by one safety data 
+sheet, relevant information shall be included, clearly indicating which 
+information is related to which form. Alternatively, a separate safety 
+data sheet may be prepared per form or group of forms. 
+▼M58
+
+ 
+02006R1907 — EN — 17.12.2022 — 056.001 — 120 
+If the safety data sheet pertains to one or more nanoforms, or 
+substances that include nanoforms, this shall be indicated by using 
+the word ‘nanoform’. 
+Other means of identification 
+Other names or synonyms by which the substance or mixture is 
+labelled or commonly known may be provided. 
+Where a mixture has a unique formula identifier (UFI) in accordance 
+with section 5 of Part A of Annex VIII to Regulation (EC) No 
+1272/2008 and that UFI is indicated in the safety data sheet, then 
+the UFI shall be provided in this subsection. 
+1.2. 
+Relevant identified uses of the substance or mixture and uses 
+advised against 
+At least a brief description of the identified uses (for example, floor 
+cleaning, or industrial use in polymer production, or professional use 
+in cleaning agents) relevant for the recipient(s) of the substance or 
+mixture shall be indicated. 
+The uses which the supplier advises against and the reasons why 
+shall, where applicable, be stated. This need not be an exhaustive list. 
+Where a chemical safety report is required, the information in this 
+subsection of the safety data sheet shall be consistent with the 
+identified uses in the chemical safety report and the exposure 
+scenarios from the chemical safety report set out in the annex to 
+the safety data sheet. 
+1.3. 
+Details of the supplier of the safety data sheet 
+The supplier of the safety data sheet, whether it is the manufacturer, 
+importer, only representative, downstream user or distributor, shall be 
+identified. The full address and telephone number of the supplier shall 
+be given as well as an email address for a competent person 
+responsible for the safety data sheet. 
+In addition, if the supplier is not located in the Member State where 
+the substance or mixture is placed on the market and he has 
+nominated a responsible person for that Member State, a full 
+address and telephone number for that responsible person shall be 
+given. 
+Where an only representative has been appointed, details of the non- 
+Union manufacturer or formulator may also be provided. 
+For registrants, the information on the supplier of the safety data 
+sheet and, if provided, on the supplier of the substance or mixture, 
+shall be consistent with the information on the identity of the manu­
+facturer, importer or only representative provided in the registration. 
+1.4. 
+Emergency telephone number 
+References to emergency information services shall be provided. If an 
+official advisory body exists in the Member State where the substance 
+or mixture is placed on the market (this may be the body responsible 
+for receiving information relating to health referred to in Article 45 of 
+Regulation (EC) No 1272/2008), its telephone number shall be given 
+and can suffice. If availability of such services is limited for any 
+reasons, such as hours of operation, or if there are limits on 
+specific types of information provided, this shall be clearly stated. 
+▼M58
+
+ 
+02006R1907 — EN — 17.12.2022 — 056.001 — 121 
+2. 
+SECTION 2: Hazards identification 
+This section of the safety data sheet shall describe the hazards of the 
+substance or mixture and the appropriate warning information asso­
+ciated with those hazards. 
+2.1. 
+Classification of the substance or mixture 
+The classification of the substance or the mixture which results from 
+the application of the classification criteria in Regulation (EC) No 
+1272/2008 shall be given. Where the supplier has notified information 
+regarding the substance to the classification and labelling inventory in 
+accordance with Article

@@ -1,0 +1,96 @@
+ired to ensure the alternative substance is 
+an environmentally responsible substitution. Substitutions should be selected based 
+on minimizing unintended consequences that might occur in phasing out a 
+potentially hazardous substance. Suppliers shall conduct alternative assessments 
+or obtain these assessments from their raw materials suppliers prior to making a 
+replacement. Contact Apple at environment@apple.com for more information on 
+conducting alternative assessments.
+	
+	
+16
+Scope  |  Definitions  |  Restricted Substances in Products  |  Reportable Substances and Future Restrictions in Products  |  Notifying Apple of Chemical Phase Out and Reformulation from Suppliers  |  Restrictions in Manufacturing Processes  |  Reportable Substances and 
+Future Restrictions in Manufacturing Processes  |  Supplementary Specifications  |  Demonstrating Compliance  |  Waiver Process  |  Full Material Disclosure (FMD)  |  Chemical Safety Disclosure (CSD)  |  Revision History  |  Referenced Documents  |  Appendices
+This document contains proprietary information of Apple Inc.
+Apple Regulated Substances Specification—069-0135-M |  March 2023
+
+10.  Waiver Process
+Any instances of materials exceeding the thresholds in this specification must 
+immediately be reported to Apple. Suppliers that are seeking a temporary waiver of 
+restrictions in the Apple Regulated Substances Specification must make the request
+to Apple in writing. Apple will review the request and provide its decision via email to 
+the requester. Contact Apple at environment@apple.com for more information on
+this process.
+11.  Full Material Disclosure (FMD)
+Apple has implemented the Full Material Disclosure (FMD) initiative that requires 
+suppliers to provide the entire chemical composition of the parts and materials used 
+in Apple products. Implementation of FMD requires suppliers to disclose the 
+complete, accurate, and precise identity of the parts and materials used in Apple 
+products. Apple’s Full Material Disclosure (FMD) requirements are documented in 
+the FMD Data Requirements for Part Suppliers (080-00316) and the FMD Data 
+Requirements for Material Suppliers (080-01462) specifications. The use of the 
+FMD data collected from suppliers is governed by the Apple FMD Data Use Policy 
+(080-00967), which restricts access to and use of the FMD data submitted to 
+Apple.  
+Apple will audit supplier FMD data submissions to ensure conformity with the 
+requirements. Apple will conduct analyses to ensure submissions accurately 
+reflect the composition of the parts and materials provided. The analyses will 
+include comparison of FMD data to supplier-provided test reports and may include 
+comparison to Apple test reports. Please contact FMD_Support@apple.com for 
+more information.
+12. Chemical Safety Disclosure (CSD)
+Suppliers must submit the required information in Apple SupplierCare System to 
+enable Apple to evaluate conformity with the requirements in Section 6 and Section 
+7 of this specification. Please contact CSD@group.apple.com for more information.
+	
+	
+17
+Scope  |  Definitions  |  Restricted Substances in Products  |  Reportable Substances and Future Restrictions in Products  |  Notifying Apple of Chemical Phase Out and Reformulation from Suppliers  |  Restrictions in Manufacturing Processes  |  Reportable Substances and 
+Future Restrictions in Manufacturing Processes  |  Supplementary Specifications  |  Demonstrating Compliance  |  Waiver Process  |  Full Material Disclosure (FMD)  |  Chemical Safety Disclosure (CSD)  |  Revision History  |  Referenced Documents  |  Appendices
+This document contains proprietary information of Apple Inc.
+Apple Regulated Substances Specification—069-0135-M |  March 2023
+
+13. Revision History
+	
+	
+18
+This document contains proprietary information of Apple Inc.
+Apple Regulated Substances Specification—069-0135-M |  March 2023
+Scope  |  Definitions  |  Restricted Substances in Products  |  Reportable Substances and Future Restrictions in Products  |  Notifying Apple of Chemical Phase Out and Reformulation from Suppliers  |  Restrictions in Manufacturing Processes  |  Reportable Substances and 
+Future Restrictions in Manufacturing Processes  |  Supplementary Specifications  |  Demonstrating Compliance  |  Waiver Process  |  Full Material Disclosure (FMD)  |  Chemical Safety Disclosure (CSD)  |  Revision History  |  Referenced Documents  |  Appendices
+Revision
+Date
+Revision Description
+M
+March 21, 2023
+Section 2: Added definitions for Brominated flame retardant and intentionally added. Section 3: Updated Adhesive monomers Group I to include adhesives in wearable products within the scope. Updated Mercury, Lead, 
+Arsenic, Brominated flame retardants, PVC, and Beryllium to indicate “No intentional use” under the threshold limit. Removed Benzenamine, N-phenyl-, reaction products with styrene and 2,4,4-trimethylpentene (BNST). 
+Added Brominated flame retardants restriction. Added PFHxA, its salts, and related substances restriction. Added Phenyl, Isopropylated Phosphate (3:1), or PIP 3:1 restriction. Added “1000 ppm in all materials unless 
+allowed per Apple SVHC disclosures. Must also report to Apple all use when > 1000 ppm in materials” for REACH SVHC restriction. Added Toluene restriction. Section 4: Updated the threshold section of PFAS section to 
+include 50 ppm for polymeric PFAS, 25 ppb for non-polymeric PFAS, and a link to pre-published draft Annex XV report. Added Perfluorohexanoic Acid (PFHxA). Added REACH Candidate List of SVHCs. Added Phenyl, 
+Isopropylated Phosphate (3:1), or PIP 3:1. Removed Aminoethyl ethanolamine and Diphenylamines, Substituted (SDPA) (including Appendix H). Regulation references updated for POP, PFOA, and PFCAs. Section 8: Added 
+Engineering Requirements Specification: PFAS and PFHxA Definitions and Substances (099-39076)Section 9: Added the following test methods for Beryllium “ICP-AES in addition to ICP-MS and ICP-OES in addition to 
+ICP-MS”. Added Fluorine. Added “LC-MS-MS methods that can achieve an MDL of 25 ppb” test method for PFOA and PFOS. Included language for conducting test method EN14582. Section 14: Updated POP regulation 
+to 2019/1021/EC. Section 15:  Updated substances in Appendix O and P.
+L
+March 15, 2021
+Multiple Sections: Updated Section 3, Section 4, and Section 6 introductions to include a clarified scope. Added a larger list of Brominated Organic Solvents that expands on “n-Propyl bromide” in Section 4, Section 6, and 
+Section 9.  Section 2: Added definitions for Alloys, Chemical Safety Disclosure (CSD), Coating, Mixture, No intentional use, Paint, ppb, Primer, Process chemical, Textile, Varnish, and Wearable products. Section 3: Added 
+restriction for Adhesive monomers Group I & II. Broadened restriction of Antimony to all Antimony compounds. Added restrictions for Benzene, Chlorinated Organic Solvents, and n-Hexane. Updated scope and restriction 
+thresholds for Hexavalent Chromium and its compounds. Updated restriction scope of Lead compounds to include “No intentional use” in all other materials besides those exempted by the EU. Lowered restriction threshold for 
+Mercury and its compounds. Added Natural rubber, latex restriction. Added restrictions for PFCAs (C9-C14), their salts and related substances, and PFHxS, its salts and related substances. Updated restriction thresholds for 
+PFOA and updated restriction group to include “its salts, and PFOA-related compounds.” Updated restriction for PFOS to include “and its derivatives.” Updated list of restricted Polybrominated Diphenyl Ethers (PBDEs). 
+Updated restriction threshold for Polycyclic Aromatic Hydrocarbons (PAHs). Section 4: Changed Section 4 column “Phase Out Priority” to “Phase-Out & Future Restrictions,” and clarified what is meant by “phase-out.” 
+Changed all “Priority 1” substances to “Begin phase-out immediately. Expect future restrictions.” Changed all “Reportable” substances to “Expect future restrictions.” Added Adhesive monomers Group I, Per- and 
+Polyfluoroalkyl Substance (PFAS), PFBS and related substances, PFHxA, its salts, and related substances, and Toluene to Section 4 with explicit timelines for phase-out. Expanded the list of reportable Bisphenol Chemicals. 
+Added Formaldehyde-releasing substances. Changed the phase-out and future restriction for Parts/Components utilizing RoHS exemptions from just reportable to “Begin phase-out immediately. Expect future restrictions.” 
+Added Skin sensitizing substances. Added reference to the Apple VOC Specification for Volatile Organic Compounds (VOCs). Added Melamine 
+and N-Ethyl-2-pyrrolidone to “Expect future restrictions.” Section 6: Increased scope of Benzene, Brominated Organic Solvents, n-Hexane, and Chlorinated Organic Solvents to include “No intentional use for all other 
+manufacturing process chemicals.” Added Methanol restriction for “No intentional use for cleaning agents, degreasers, and demolder solutions.” Section 7: Added Ethyl Benzene, Formaldehyde, Hydrogen Fluoride (HF), 
+Methanol, and Xylene. Changed instances of “Reportable” to “Expect future restrictions.” Section 8: Added Apple Volatile Organic Compound (VOC) Specification, 099-22549, and Safeguarding Substances Specification, 
+080-03584. Updated text for Apple Regulated Substances Specification for Prolonged Skin Contact Materials, 099-3470, and Conflict Minerals Restrictions, 069-5202. Section 9: Updated scope of materials in “Test results 
+required for” for Beryllium and PFOS, PFOA. Added “Any other substance listed in this specification” in which test results are required for “Any material if requested by Apple.” Updated test report requirements. Other Sections: 
+Updated description of Waiver Process (Section 10), Full Material Disclosure (FMD; Section 11), and Chemical Safety Disclosure (CSD; Section 12). Modified Appendix D. Removed SF6 from Appendix I. Created Appendices M, 
+N, O, P, and Q.
+K
+March 30, 2018
+Updated Scope to include supplier requirements. Updated restriction on BPA. Spli

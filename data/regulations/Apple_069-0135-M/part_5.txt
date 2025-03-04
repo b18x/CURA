@@ -1,0 +1,177 @@
+in the following link: http://
+apps.leg.wa.gov/WAC/default.aspx?cite=173-334-130
+Practical quantification limit 
+(PQL) if added intentionally
+All materials
+Expect future restrictions
+Children’s Safe Products Act
+100 ppm if present as a 
+contaminant
+
+5. Notifying Apple of Chemical Phase Out and Reformulation from Suppliers
+Suppliers are required to communicate promptly any change in chemical manufacturing processes, manufacturing site, or any other change that will affect any attribute of the material 
+either in its chemical composition (intentional or residual) or its lead time. For example, if for environmental or other purposes the supplier wishes to modify the goods or the processes, 
+production lines, or site(s) used to manufacture the parts or finished goods, the supplier must provide Apple with the reason (e.g., an internal initiative to a phase out or to reformulate 
+any material/part due to a chemical or any other concern), by contacting the supplier’s Apple Global Supply Manager(s) and the Apple Environmental Team at environment@apple.com 
+prior to any such modification. Apple will review the submission and decide whether, or to what extent, a modification is permitted. For any such modification, the supplier must, at
+a minimum, provide test reports to meet the requirements of Section 9 and test reports for other substances may also be requested. Subject to the above, suppliers must agree to 
+not modify the goods or the processes used to manufacture the goods in any way after qualification without Apple’s prior written consent.
+6. Restrictions in Manufacturing Processes
+Restrictions in Section 6 apply to manufacturing process chemicals used to create components or materials for Apple products and the assembly of Apple products including: 
+direct use during production or indirect use for manufacturing equipment, machines, or tools during maintenance. Restrictions do not apply to laboratory, housekeeping, 
+wastewater treatment plant, or other non-manufacturing processes. Suppliers must comply with threshold limits for the chemicals listed in this section. Test reports are required to 
+demonstrate compliance of non-use. “Non-use” and “no intentional use” are defined in Section 2. Per the Apple Supplier Code of Conduct, suppliers shall identify, evaluate, and 
+manage occupational health and safety hazards through a prioritized process of hazard elimination, engineering controls, and/or administrative controls. Suppliers shall provide 
+their employees with suitable job-related, appropriately maintained personal protective equipment and instruction on its proper use.
+This document contains proprietary information of Apple Inc.
+Apple Regulated Substances Specification—069-0135-M |  March 2023	
+ 
+12
+This document contains proprietary information of Apple Inc.
+Apple Regulated Substances Specification—069-0135-M |  March 2023
+Scope  |  Definitions  |  Restricted Substances in Products  |  Reportable Substances and Future Restrictions in Products  |  Notifying Apple of Chemical Phase Out and Reformulation from Suppliers  |  Restrictions in Manufacturing Processes  |  Reportable Substances and 
+Future Restrictions in Manufacturing Processes  |  Supplementary Specifications  |  Demonstrating Compliance  |  Waiver Process  |  Full Material Disclosure (FMD)  |  Chemical Safety Disclosure (CSD)  |  Revision History  |  Referenced Documents  |  Appendices
+Chemical or Chemical Group
+Substance Identifier or CAS No.
+Threshold & Scope
+References
+Benzene
+71-43-2
+Non-use for cleaning agents, degreasers, and demolder solutions
+No intentional use for all other manufacturing process chemicals
+Apple Policy
+Brominated Organic Solvents
+All Brominated Organic Solvents. See 
+Appendix M for examples
+Non-use for cleaning agents, degreasers, and demolder solutions
+No intentional use for all other manufacturing process chemicals
+Apple Policy
+Chlorinated Organic Solvents
+All Chlorinated Organic Solvents. See 
+Appendix G for examples
+Non-use for cleaning agents, degreasers, and demolder solutions
+No intentional use for all other manufacturing process chemicals
+Apple Policy
+Methanol
+67-56-1
+No intentional use for cleaning agents, degreasers, and demolder solutions
+Apple Policy
+n-Hexane
+110-54-3
+Non-use for cleaning agents, degreasers, and demolder solutions
+No intentional use for all other manufacturing process chemicals
+Apple Policy
+N-Methylpyrrolidone (NMP)  
+872-50-4
+Non-use for cleaning agents, degreasers, demolder solutions
+Apple Policy
+Ozone Depleting Chemicals (ODC)
+Appendix H and Appendix I
+No intentional use for all manufacturing process chemicals
+Montreal Protocol
+EC No. 2037/2000
+Toluene  
+108-88-3
+Non-use for cleaning agents, degreasers, demolder solutions
+Apple Policy
+
+7. Reportable Substances and Future Restrictions in Manufacturing Processes
+Suppliers are required to report the use of substances listed in Section 7 in any manufacturing process used to create components or materials for Apple products regardless of phase 
+out priority. Apple is prioritizing the chemicals it intends to phase out of Apple manufacturing processes in order to work effectively with its supply chain. Suppliers are required to report 
+use through the Chemical Safety Disclosure Portal. Apple may require disclosure of the use of manufacturing process chemicals and their chemical composition as deemed necessary. 
+This document contains proprietary information of Apple Inc.
+Apple Regulated Substances Specification—069-0135-M |  March 2023	
+ 
+13
+Chemical or Chemical Group
+Substance Identifier or CAS No.
+Reporting Threshold
+Scope
+Phase Out & Future Restrictions
+References
+Ethylbenzene
+100-41-4
+Detectable levels (Content)  
+All manufacturing processes
+Expect future restrictions
+Apple Policy
+Formaldehyde
+50-00-0
+Detectable levels (Content)  
+All manufacturing processes
+Expect future restrictions
+Apple Policy
+Hydrogen Fluoride (HF)
+7664-39-3
+Detectable levels (Content)  
+All manufacturing processes
+Expect future restrictions
+Apple Policy
+Methanol
+67-56-1
+Detectable levels (Content)  
+All manufacturing processes
+Expect future restrictions
+Apple Policy
+N-Methylpyrrolidone (NMP)  
+872-50-4
+Detectable levels (Content)  
+All manufacturing processes
+Expect future restrictions
+Apple Policy
+Toluene
+108-88-3 
+Detectable levels (Content)  
+All manufacturing processes
+Expect future restrictions
+Apple Policy
+Xylene
+1330-20-7
+Detectable levels (Content)  
+All manufacturing processes
+Expect future restrictions
+Apple Policy
+This document contains proprietary information of Apple Inc.
+Apple Regulated Substances Specification—069-0135-M |  March 2023
+Scope  |  Definitions  |  Restricted Substances in Products  |  Reportable Substances and Future Restrictions in Products  |  Notifying Apple of Chemical Phase Out and Reformulation from Suppliers  |  Restrictions in Manufacturing Processes  |  Reportable Substances and 
+Future Restrictions in Manufacturing Processes  |  Supplementary Specifications  |  Demonstrating Compliance  |  Waiver Process  |  Full Material Disclosure (FMD)  |  Chemical Safety Disclosure (CSD)  |  Revision History  |  Referenced Documents  |  Appendices
+
+8. Supplementary Specifications
+All Apple products must comply with the restrictions listed in this Regulated 
+Substances Specification. In cases when new restrictions are introduced over 
+a transition period, Apple may release supplementary specifications referencing 
+those specific restrictions. Drawings, fabrication notes, and product specifications 
+will reference the supplementary specification as applicable. The supplementary 
+specifications are available to qualified suppliers upon request by contacting 
+Apple at environment@apple.com.
+8.1 Apple Environmental Quality Specification, 069-8496
+The Apple Environmental Quality Specification sets forth Apple’s requirements for 
+final assembly facilities, module suppliers, and component suppliers to maintain 
+an environmental quality control program to ensure the environmental compliance
+of Apple products. The environmental quality control program for supplier facilities 
+must include a material declaration process, in-process controls, and audits of raw 
+materials and finished goods. All final assembly and module suppliers are required 
+to adhere to these requirements and provide information to Apple in a timely manner. 
+8.2 Apple Regulated Substances Specification for Prolonged Skin 
+Contact Materials, 099-3470
+The Apple Regulated Substances Specification for Prolonged Skin Contact Materials  
+applies to materials with direct or indirect prolonged skin contact in both wearable 
+and non-wearable products. Materials with no or incidental skin contact will not 
+need to comply with this specification. All materials, regardless of whether they are 
+in prolonged skin contact, must also comply with the Apple Regulated Substances 
+Specification (069-0135). 
+8.3 Conflict Minerals Restrictions, 069-5202 
+All suppliers of materials, parts, sub-components, components, or products 
+(Component Goods) that are to be incorporated into an Apple product and 
+containing tantalum, tungsten, tin, gold, or cobalt must comply with the specification 
+on Conflict Minerals Restrictions, 069-5202. Suppliers may only use tin, tantalum, 
+tungsten, gold, or cobalt in Component Goods if the supplier demonstrates that it 
+has exercised due diligence in the sourcing of such materials and reports to Apple 
+on the source and chain of custody of such metals in accordance with the OECD 
+Due Diligence Guidance for Responsible Supply Chains of Minerals from Conflict-
+Affected and High-Risk Areas. This will enable a determination as to whether those 
+metals are from the Democratic Republic of the Congo (DRC) or any adjoining 
+country and, if so,
+whether those metals directly or indirectly financed or benefited armed groups that 
+are perpetrators of serious human rights abuses in the DRC or an adjoining country. 
+Suppliers may only source tin, tantalum, tungsten, gold, or cobalt through smel

@@ -1,0 +1,531 @@
+ predominantly 
+of hydrocarbons having carbon 
+numbers 
+predominantly 
+in 
+the 
+range of C 1 through C 4 . It may 
+also contain small amounts of 
+hydrogen and hydrogen sulfide.) 
+649-085-00-1 
+271-001-3 
+68513-16-6 
+►M21 _______ ◄ K 
+Gases (petroleum), light straight- 
+run 
+naphtha 
+stabiliser 
+off; 
+Petroleum gas 
+(A complex combination of hydro­
+carbons obtained by the stabili­
+sation 
+of 
+light 
+straight-run 
+naphtha. It consists of saturated 
+aliphatic 
+hydrocarbons 
+having 
+carbon numbers predominantly in 
+the range of C 2 through C 6 .) 
+649-086-00-7 
+271-002-9 
+68513-17-7 
+►M21 _______ ◄ K 
+Residues (petroleum), alkylation 
+splitter, C 4 -rich; Petroleum gas 
+(A complex residuum from the 
+distillation of streams from various 
+refinery operations. It consists of 
+hydrocarbons 
+having 
+carbon 
+numbers in the range of C 4 
+through C 5 , predominantly butane, 
+and boiling in the range of approxi­
+mately - 11,7 °C to 27,8 °C.) 
+649-087-00-2 
+271-010-2 
+68513-66-6 
+►M21 _______ ◄ K 
+Hydrocarbons, C 1-4 ; Petroleum gas 
+(A complex combination of hydro­
+carbons 
+provided 
+by 
+thermal 
+cracking and absorber operations 
+and by distillation of crude oil. It 
+consists of hydrocarbons having 
+carbon numbers predominantly in 
+the range of C 1 through C 4 and 
+boiling in the range of approxi­
+mately minus 164 °C to minus 
+0,5 °C.) 
+649-088-00-8 
+271-032-2 
+68514-31-8 
+►M21 _______ ◄ K 
+▼M14 
+Hydrocarbons, C 1-4 , sweetened; 
+Petroleum gas; 
+[A complex combination of hydro­
+carbons obtained by subjecting 
+hydrocarbon gases to a sweetening 
+process to convert mercaptans or to 
+remove acidic impurities. It consists 
+of hydrocarbons having carbon 
+numbers 
+predominantly 
+in 
+the 
+range of C 1 through C 4 and 
+boiling in the range of approxi­
+mately – 164 °C to – 0,5 °C 
+(– 263 °F to 31 °F).] 
+649-089-00-3 
+271-038-5 
+68514-36-3 
+K 
+▼C1
+
+ 
+02006R1907 — EN — 17.12.2022 — 056.001 — 481 
+Substances 
+Index No 
+EC No 
+CAS No 
+Notes 
+Hydrocarbons, C 1-3 ; Petroleum gas 
+(A complex combination of hydro­
+carbons having carbon numbers 
+predominantly in the range of C 1 
+through C 3 and boiling in the 
+range of approximately - 164 °C 
+to - 42 °C.) 
+649-090-00-9 
+271-259-7 
+68527-16-2 
+►M21 _______ ◄ K 
+Hydrocarbons, 
+C 1-4 , 
+debutaniser 
+fraction; Petroleum gas 
+649-091-00-4 
+271-261-8 
+68527-19-5 
+►M21 _______ ◄ K 
+Gases 
+(petroleum), 
+C 1-5 , 
+wet; 
+Petroleum gas 
+(A complex combination of hydro­
+carbons produced by the distillation 
+of crude oil and/or the cracking of 
+tower gas oil. It consists of hydro­
+carbons having carbon numbers 
+predominantly in the range of C 1 
+through C 5 .) 
+649-092-00-X 
+271-624-0 
+68602-83-5 
+►M21 _______ ◄ K 
+Hydrocarbons, C 2-4 ; Petroleum gas 
+649-093-00-5 
+271-734-9 
+68606-25-7 
+►M21 _______ ◄ K 
+Hydrocarbons, C 3 ; Petroleum gas 
+649-094-00-0 
+271-735-4 
+68606-26-8 
+►M21 _______ ◄ K 
+Gases (petroleum), alkylation feed; 
+Petroleum gas 
+(A complex combination of hydro­
+carbons produced by the catalytic 
+cracking of gas oil. It consists of 
+hydrocarbons 
+having 
+carbon 
+numbers 
+predominantly 
+in 
+the 
+range of C 3 through C 4 .) 
+649-095-00-6 
+271-737-5 
+68606-27-9 
+►M21 _______ ◄ K 
+Gases 
+(petroleum), 
+depropaniser 
+bottoms 
+fractionation 
+off; 
+Petroleum gas 
+(A complex combination of hydro­
+carbons obtained from the frac­
+tionation of depropaniser bottoms. 
+It 
+consists 
+predominantly 
+of 
+butane, isobutane and butadiene.) 
+649-096-00-1 
+271-742-2 
+68606-34-8 
+►M21 _______ ◄ K 
+Gases (petroleum), refinery blend; 
+Petroleum gas 
+(A complex combination obtained 
+from various processes. It consists 
+of hydrogen, hydrogen sulfide and 
+hydrocarbons 
+having 
+carbon 
+numbers 
+predominantly 
+in 
+the 
+range of C 1 through C 5 .) 
+649-097-00-7 
+272-183-7 
+68783-07-3 
+►M21 _______ ◄ K 
+Gases 
+(petroleum), 
+catalytic 
+cracking; Petroleum gas 
+(A complex combination of hydro­
+carbons produced by the distillation 
+of the products from a catalytic 
+cracking 
+process. 
+It 
+consists 
+predominantly 
+of 
+hydrocarbons 
+having carbon numbers predomi­
+nantly in the range of C 3 through 
+C 5 .) 
+649-098-00-2 
+272-203-4 
+68783-64-2 
+►M21 _______ ◄ K 
+▼C1
+
+ 
+02006R1907 — EN — 17.12.2022 — 056.001 — 482 
+Substances 
+Index No 
+EC No 
+CAS No 
+Notes 
+Gases (petroleum), C 2-4 , sweetened; 
+Petroleum gas 
+(A complex combination of hydro­
+carbons obtained by subjecting a 
+petroleum distillate to a sweetening 
+process to convert mercaptans or to 
+remove acidic impurities. It consists 
+predominantly of saturated and 
+unsaturated hydrocarbons having 
+carbon numbers predominantly in 
+the range of C 2 through C 4 and 
+boiling in the range of approxi­
+mately - 51 °C to - 34 °C.) 
+649-099-00-8 
+272-205-5 
+68783-65-3 
+►M21 _______ ◄ K 
+Gases (petroleum), crude oil frac­
+tionation off; Petroleum gas 
+(A complex combination of hydro­
+carbons produced by the frac­
+tionation of crude oil. It consists 
+of saturated aliphatic hydrocarbons 
+having carbon numbers predomi­
+nantly in the range of C 1 through 
+C 5 .) 
+649-100-00-1 
+272-871-7 
+68918-99-0 
+►M21 _______ ◄ K 
+Gases (petroleum), dehexaniser off; 
+Petroleum gas 
+(A complex combination of hydro­
+carbons obtained by the frac­
+tionation of combined 
+naphtha 
+streams. It consists of saturated 
+aliphatic 
+hydrocarbons 
+having 
+carbon numbers predominantly in 
+the range of C 1 through C 5 .) 
+649-101-00-7 
+272-872-2 
+68919-00-6 
+►M21 _______ ◄ K 
+Gases (petroleum), light straight 
+run gasoline fractionation stabiliser 
+off; Petroleum gas 
+(A complex combination of hydro­
+carbons obtained by the frac­
+tionation 
+of 
+light 
+straight-run 
+gasoline. It consists of saturated 
+aliphatic 
+hydrocarbons 
+having 
+carbon numbers predominantly in 
+the range of C 1 through C 5 .) 
+649-102-00-2 
+272-878-5 
+68919-05-1 
+►M21 _______ ◄ K 
+Gases (petroleum), naphtha unifiner 
+desulphurisation 
+stripper 
+off; 
+Petroleum gas 
+(A complex combination of hydro­
+carbons produced by a naphtha 
+unifiner desulphurisation process 
+and stripped from the naphtha 
+product. It consists of saturated 
+aliphatic 
+hydrocarbons 
+having 
+carbon numbers predominantly in 
+the range of C 1 through C 4 .) 
+649-103-00-8 
+272-879-0 
+68919-06-2 
+►M21 _______ ◄ K 
+▼C1
+
+ 
+02006R1907 — EN — 17.12.2022 — 056.001 — 483 
+Substances 
+Index No 
+EC No 
+CAS No 
+Notes 
+Gases 
+(petroleum), 
+straight-run 
+naphtha catalytic reforming off; 
+Petroleum gas 
+(A complex combination of hydro­
+carbons obtained by the catalytic 
+reforming of straight-run naphtha 
+and 
+fractionation of 
+the 
+total 
+effluent. It consists of methane, 
+ethane, and propane.) 
+649-104-00-3 
+272-882-7 
+68919-09-5 
+►M21 _______ ◄ K 
+Gases 
+(petroleum), 
+fluidised 
+catalytic cracker splitter overheads; 
+Petroleum gas 
+(A complex combination of hydro­
+carbons produced by the frac­
+tionation of the charge to the 
+C 3 -C 4 splitter. It consists predomi­
+nantly of C 3 hydrocarbons.) 
+649-105-00-9 
+272-893-7 
+68919-20-0 
+►M21 _______ ◄ K 
+Gases 
+(petroleum), 
+straight-run 
+stabiliser off; Petroleum gas 
+(A complex combination of hydro­
+carbons obtained from the frac­
+tionation of the liquid from the 
+first tower used in the distillation 
+of 
+crude 
+oil. 
+It 
+consists 
+of 
+saturated 
+aliphatic 
+hydrocarbons 
+having carbon numbers predomi­
+nantly in the range of C 1 through 
+C 4 .) 
+649-106-00-4 
+272-883-2 
+68919-10-8 
+►M21 _______ ◄ K 
+Gases 
+(petroleum), 
+catalytic 
+cracked 
+naphtha 
+debutaniser; 
+Petroleum gas 
+(A complex combination of hydro­
+carbons obtained from fractionation 
+of catalytic cracked naphtha. It 
+consists of hydrocarbons having 
+carbon numbers predominantly in 
+the range of C 1 through C 4 .) 
+649-107-00-X 
+273-169-3 
+68952-76-1 
+►M21 _______ ◄ K 
+Tail 
+gas 
+(petroleum), 
+catalytic 
+cracked distillate and naphtha stabi­
+liser; Petroleum gas 
+(A complex combination of hydro­
+carbons obtained by the frac­
+tionation 
+of 
+catalytic 
+cracked 
+naphtha and distillate. It consists 
+predominantly 
+of 
+hydrocarbons 
+having carbon numbers predomi­
+nantly in the range of C 1 through 
+C 4 .) 
+649-108-00-5 
+273-170-9 
+68952-77-2 
+►M21 _______ ◄ K 
+▼C1
+
+ 
+02006R1907 — EN — 17.12.2022 — 056.001 — 484 
+Substances 
+Index No 
+EC No 
+CAS No 
+Notes 
+Tail 
+gas 
+(petroleum), 
+thermal- 
+cracked distillate, gas oil and 
+naphtha absorber; Petroleum gas 
+(A complex combination of hydro­
+carbons 
+obtained 
+from 
+the 
+separation of thermal-cracked distil­
+lates, naphtha and gas oil. It 
+consists predominantly of hydro­
+carbons having carbon numbers 
+predominantly in the range of C 1 
+through C 6 .) 
+649-109-00-0 
+273-175-6 
+68952-81-8 
+►M21 _______ ◄ K 
+Tail 
+gas 
+(petroleum), 
+thermal 
+cracked hydrocarbon fractionation 
+stabiliser, 
+petroleum 
+coking; 
+Petroleum gas 
+(A complex combination of hydro­
+carbons obtained from the frac­
+tionation stabilisation of thermal 
+cracked 
+hydrocarbons 
+from 
+a 
+petroleum 
+coking 
+process. 
+It 
+consists of hydrocarbons having 
+carbon numbers predominantly in 
+the range of C 1 through C 6 .) 
+649-110-00-6 
+273-176-1 
+68952-82-9 
+►M21 _______ ◄ K 
+Gases (petroleum, light steam- 
+cracked, 
+butadiene 
+concentrate; 
+Petroleum gas 
+(A complex combination of hydro­
+carbons produced by the distillation 
+of 
+products 
+from 
+a 
+thermal 
+cracking process. It consists of 
+hydrocarbons 
+having 
+a 
+carbon 
+number predominantly of C 4 .) 
+649-111-00-1 
+273-265-5 
+68955-28-2 
+►M21 _______ ◄ K 
+Gases 
+(petroleum), 
+straight-run 
+naphtha catalytic reformer stabiliser 
+overhead; Petroleum gas 
+(A complex combination of hydro­
+carbons obtained by the catalytic 
+reforming of straight-run naphtha 
+and the fractionation of the total 
+effluent. It consists of saturated 
+aliphatic 
+hydrocarbons 
+having 
+carbon numbers predominantly in 
+the range of C 2 through C 4 .) 
+649-112-00-7 
+273-270-2 
+68955-34-0 
+►M21 _______ ◄ K 
+Hydrocarbons, C 4 ; Petroleum gas 
+649-113-00-2 
+289-339-5 
+87741-01-3 
+►M21 _______ ◄ K 
+Alkanes, C 1-4 , C 3 -rich; Petroleum 
+gas 
+649-114-00-8 
+292-456-4 
+90622-55-2 
+►M21 _______ ◄ K 
+▼C1
+
+ 
+02006R1907 — EN — 17.12.2022 — 056.001 — 485 
+Substances 
+Index No 

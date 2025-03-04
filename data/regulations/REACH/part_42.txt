@@ -1,0 +1,244 @@
+ormation needs for the substance with 
+the information already available and the extent to which currently available 
+information can be applied to all nanoforms covered by the registration and 
+identify where there are gaps. 
+It is important at this stage to ensure that the available data is relevant and has 
+sufficient quality to fulfil the requirements. 
+▼M51
+
+ 
+02006R1907 — EN — 17.12.2022 — 056.001 — 160 
+STEP 4 — GENERATE NEW DATA/PROPOSE TESTING STRATEGY 
+In some cases it will not be necessary to generate new data. However, where 
+there is an information gap that needs to be filled, new data shall be generated 
+(Annexes VII and VIII), or a testing strategy shall be proposed (Annexes IX and 
+X), depending on the tonnage. New tests on vertebrates shall only be conducted 
+or proposed as a last resort when all other data sources have been exhausted. 
+The above approach shall also apply if there is a gap of available information for 
+one or more nanoforms of the substance included in the jointly submitted regis­
+tration dossier. 
+In some cases, the rules set out in Annexes VII to XI may require certain tests to 
+be undertaken earlier than or in addition to the standard requirements. 
+NOTES 
+Note 1: If it is not technically possible, or if it does not appear scientifically 
+necessary to give information, the reasons shall be clearly stated, in accordance 
+with the relevant provisions. 
+Note 2: The registrant may wish to declare that certain information submitted in 
+the registration dossier is commercially sensitive and its disclosure might harm 
+him commercially. If this is the case, he shall list the items and provide a 
+justification. 
+▼C1 
+INFORMATION REFERRED TO IN ARTICLE 10(a) (i) TO (v) 
+1. 
+GENERAL REGISTRANT INFORMATION 
+1.1. 
+Registrant 
+▼M70 
+1.1.1. 
+Name, address, telephone number and email address 
+▼C1 
+1.1.2. 
+Contact person 
+1.1.3. 
+Location of the registrant's production and own use site(s), as appro­
+priate 
+▼M70 
+1.1.4. 
+Where an only representative has been appointed in accordance with 
+Article 8(1), the following information regarding the natural or legal 
+person established outside the Union who appointed the only represen­
+tative: name, address, telephone number, email address, contact person, 
+location of the production site(s) or formulation site(s), as appropriate, 
+company website, as appropriate and national company identification 
+number(s), as appropriate. 
+1.2. 
+Joint submission of data 
+Articles 11 and 19 provide for the possibility for the lead registrant to 
+submit parts of the registration information on behalf of other member 
+registrants. 
+▼M51
+
+ 
+02006R1907 — EN — 17.12.2022 — 056.001 — 161 
+When, in accordance with Article 11(1), the lead registrant submits 
+information referred to in Article 10, point (a)(iv), (vi), (vii) and (ix), 
+the lead registrant shall describe the composition(s), nanoform or set of 
+similar nanoforms to which this information relates in accordance with 
+points 2.3.1 to 2.3.4 and subsection 2.4 of this Annex. Each member 
+registrant relying on information submitted by the lead registrant shall 
+indicate 
+which 
+information 
+thus 
+submitted 
+pertains 
+to 
+which 
+composition, nanoform or set of similar nanoforms of the substance 
+that the registrant identifies in accordance with Article 10, point 
+(a)(ii), and Article 11(1). 
+When, in accordance with Article 11(3), a registrant submits information 
+referred to in Article 10, point (a)(iv), (vi), (vii) or (ix), separately, this 
+registrant shall describe the composition(s), nanoform or set of similar 
+nanoforms of the substance to which this information relates in 
+accordance with points 2.3.1 to 2.3.4 and subsection 2.4 of this Annex. 
+▼C1 
+1.3 
+Third party appointed under Article 4 
+▼M70 
+1.3.1. 
+Name, address, telephone number and email address 
+▼C1 
+1.3.2. 
+Contact person 
+2. 
+IDENTIFICATION OF THE SUBSTANCE 
+▼M51 
+For each substance, the information given in this section shall be 
+sufficient to enable each substance to be identified and the different 
+nanoforms to be characterised. If it is not technically possible or if it 
+does not appear scientifically necessary to give information on one or 
+more of the items below, the reasons shall be clearly stated. 
+▼M70 
+2.1. 
+Name and any other identifier of each substance 
+2.1.1. 
+Name(s) in the IUPAC nomenclature. If unavailable, other international 
+chemical name(s) 
+▼C1 
+2.1.2. 
+Other names (usual name, trade name, abbreviation) 
+▼M70 
+2.1.3. 
+EC number, i.e. Einecs, Elincs or NLP number, or the number assigned 
+by the Agency (if available and appropriate) 
+▼C1 
+2.1.4. 
+CAS name and CAS number (if available) 
+▼M70 
+2.1.5. 
+Other identity code, such as customs number (if available) 
+2.2. 
+Information related to molecular and structural formula or crystal 
+structure of each substance 
+2.2.1. 
+Molecular formula and structural formula (including SMILES notation 
+and other representation if available) and description of crystal struc­
+ture(s) 
+▼M70
+
+ 
+02006R1907 — EN — 17.12.2022 — 056.001 — 162 
+2.2.2. 
+Information on optical activity and typical ratio of (stereo) isomers (if 
+applicable and appropriate) 
+2.2.3. 
+Molecular weight or molecular weight range 
+▼M51 
+2.3. 
+Composition of each substance. Where a registration covers one or more 
+nanoforms, these nanoforms shall be characterised pursuant to section 
+2.4 of this Annex. 
+▼M70 
+2.3.1. 
+Degree of purity (%), if applicable 
+2.3.2. 
+Names of constituents and impurities 
+In the case of a substance of unknown or variable composition, complex 
+reaction products or biological materials (UVCB): 
+— names of constituents present at a concentration of ≥ 10 %; 
+— names of known constituents present at a concentration of < 10 %; 
+— for constituents that cannot be identified individually, description of 
+groups of constituents based on chemical nature; 
+— description of the origin or source and the manufacturing process 
+2.3.3. 
+Typical concentration and concentration range (in percentage) of consti­
+tuents, groups of constituents that cannot be identified individually and 
+impurities as specified in point 2.3.2 
+2.3.4. 
+Names and typical concentration and concentration range (in percentage) 
+of additives 
+2.3.5. 
+All necessary qualitative analytical data specific for the identification of 
+the substance, such as ultra-violet, infra-red, nuclear magnetic resonance, 
+mass spectrum or diffraction data 
+2.3.6. 
+All necessary quantitative analytical data specific for the identification of 
+the substance, such as chromatographic, titrimetric, elemental analysis or 
+diffraction data 
+2.3.7. 
+Description of the analytical methods or the appropriate bibliographical 
+references that are necessary for the identification of the substance 
+(including the identification and quantification of its constituents and, 
+where appropriate, its impurities and additives). The description shall 
+consist of the experimental protocols followed and the relevant inter­
+pretation of the results reported under points 2.3.1 to 2.3.6. This 
+information shall be sufficient to allow the methods to be reproduced. 
+▼M51 
+2.4. 
+Characterisation of nanoforms of a substance: For each of the characteri­
+sation parameters, the information provided may be applicable to either 
+an individual nanoform or a set of similar nanoforms provided that the 
+boundaries of the set are clearly specified. 
+The information in points 2.4.2 – 2.4.5 shall be clearly assigned to the 
+different nanoforms or sets of similar nanoforms identified in point 2.4.1 
+▼C1
+
+ 
+02006R1907 — EN — 17.12.2022 — 056.001 — 163 
+2.4.1. 
+Names or other identifiers of the nanoforms or sets of similar nanoforms 
+of the substance 
+2.4.2. 
+Number based particle size distribution with indication of the number 
+fraction of constituent particles in the size range within 1 nm – 100 nm 
+2.4.3. 
+Description of surface functionalisation or treatment and identification of 
+each agent including IUPAC name and CAS or EC number 
+2.4.4. 
+Shape, aspect ratio and other morphological characterisation: cryst­
+allinity, information on assembly structure including e.g. shell like 
+structures or hollow structures, if appropriate 
+2.4.5. 
+Surface area (specific surface area by volume, specific surface area by 
+mass or both) 
+▼M70 
+2.4.6. 
+Description of the analytical methods or the appropriate bibliographical 
+references for the information elements in this subsection (2.4). The 
+description shall consist of the experimental protocols followed and 
+the relevant interpretation of the results reported under points 2.4.2 to 
+2.4.5. This information shall be sufficient to allow the methods to be 
+reproduced. 
+2.5. 
+Any other available information relevant for the identification of the 
+substance 
+▼C1 
+3. 
+INFORMATION ON MANUFACTURE AND USE(S) OF THE 
+SUBSTANCE(S) 
+▼M51 
+Where a substance being registered is manufactured or imported in one 
+or several nanoforms, the information on manufacture and use under 3.1- 
+3.7 shall include separate information on the different nanoforms or sets 
+of similar nanoforms as characterised in subsection 2.4. 
+▼C1 
+3.1. 
+Overall manufacture, quantities used for production of an article that is 
+subject to registration, and/or imports in tonnes per registrant per year in: 
+the calendar year of the registration (estimated quantity) 
+3.2. 
+In the case of a manufacturer or producer of articles: brief description of 
+the technological process used in manufacture or production of articles. 
+Precise details of the process, particularly those of a commercially 
+sensitive nature, are not required. 
+3.3. 
+An indication of the tonnage used for his own use(s) 
+3.4. 
+Form (substance, ►M3 mixture ◄ or article) and/or physical state under 
+which the substance is made available to downstream users. Concentration 
+or concentration range of the substance in ►M3 mixtures ◄ made 
+available to downstream users and quantities of the substance in articles 
+made available to downstream users. 
+▼M70 
+3.5. 

@@ -1,0 +1,193 @@
+ 40 of Regulation (EC) No 1272/2008, or has 
+provided that information as part of a registration pursuant to this 
+Regulation, the classification given in the safety data sheet shall be 
+the same as the classification provided in that notification or regis­
+tration. 
+If the mixture does not meet the criteria for classification in 
+accordance with Regulation (EC) No 1272/2008, this shall be 
+clearly stated. 
+Information on the substances in the mixture is provided under 
+subsection 3.2. 
+If the classification, including the hazard statements, is not written out 
+in full, reference shall be made to section 16 where the full text of 
+each classification, including each hazard statement, shall be given. 
+The most important adverse physical, human health and environmen­
+tal effects shall be listed in accordance with sections 9 to 12 of the 
+safety data sheet, in such a way as to allow non-experts to identify 
+the hazards of the substance or mixture. 
+2.2. 
+Label elements 
+Based on the classification, at least the following elements appearing 
+on the label in accordance with Regulation (EC) No 1272/2008 shall 
+be provided: hazard pictogram(s), signal word(s), hazard statement(s) 
+and precautionary statement(s). A graphical reproduction of the full 
+hazard pictogram in black and white or a graphical reproduction of 
+the symbol only may be substituted for the colour pictogram provided 
+in Regulation (EC) No 1272/2008. 
+The applicable label elements in accordance with Article 25(1) to (6) 
+and Article 32(6) of Regulation (EC) No 1272/2008 shall be 
+provided. 
+2.3. 
+Other hazards 
+Information shall be provided on whether the substance meets the 
+criteria for persistent, bioaccumulative and toxic or very persistent 
+and very bioaccumulative in accordance with Annex XIII, whether 
+the substance was included in the list established in accordance with 
+Article 59(1) for having endocrine disrupting properties, and whether 
+the substance is a substance identified as having endocrine disrupting 
+properties in accordance with the criteria set out in Commission 
+Delegated Regulation (EU) 2017/2100 ( 1 ) or Commission Regulation 
+(EU) 2018/605 ( 2 ). For a mixture, information shall be provided for 
+each such substance that is present in the mixture at a concentration 
+equal to or greater than 0,1 % by weight. 
+▼M58 
+( 1 ) Commission Delegated Regulation (EU) 2017/2100 of 4 September 2017 setting out 
+scientific criteria for the determination of endocrine-disrupting properties pursuant to 
+Regulation (EU) No 528/2012 of the European Parliament and Council (OJ L 301, 
+17.11.2017, p. 1). 
+( 2 ) Commission Regulation (EU) 2018/605 of 19 April 2018 amending Annex II to Regu­
+lation (EC) No 1107/2009 by setting out scientific criteria for the determination of 
+endocrine disrupting properties (OJ L 101, 20.4.2018, p. 33).
+
+ 
+02006R1907 — EN — 17.12.2022 — 056.001 — 122 
+Information shall be provided on other hazards which do not result in 
+classification but which may contribute to the overall hazards of the 
+substance or mixture, such as formation of air contaminants during 
+hardening or processing, dustiness, explosive properties which do not 
+fulfil the classification criteria of part 2 Section 2.1 of Annex I to 
+Regulation (EC) No 1272/2008, dust explosion hazards, cross-sensiti­
+sation, suffocation, freezing, high potency for odour or taste, or envi­
+ronmental effects like hazards to soil-dwelling organisms, or photo­
+chemical ozone creation potential. The statement ‘May form 
+explosible dust-air mixture if dispersed’ is appropriate in the case 
+of a dust explosion hazard. 
+3. 
+SECTION 3: Composition/information on ingredients 
+This section of the safety data sheet shall describe the chemical 
+identity of the ingredient(s) of the substance or mixture, including 
+impurities and stabilising additives as set out below. Appropriate and 
+available safety information on surface chemistry shall be indicated. 
+3.1. 
+Substances 
+The chemical identity of the main constituent of the substance shall 
+be provided by providing at least the product identifier or one of the 
+other means of identification given in subsection 1.1. 
+The chemical identity of any impurity, stabilising additive, or indi­
+vidual constituent other than the main constituent, which is itself 
+classified and which contributes to the classification of the 
+substance shall be provided as follows: 
+(a) the product identifier in accordance with Article 18(2) of Regu­
+lation (EC) No 1272/2008; 
+(b) if the product identifier is not available, one of the other names 
+(usual name, trade name, abbreviation) or identification numbers. 
+The specific concentration limit, the M-factor and the acute toxicity 
+estimate for substances included in Part 3 of Annex VI to Regulation 
+(EC) No 1272/2008 or determined in accordance with Annex I to that 
+Regulation shall be indicated, if available. 
+If the substance is registered and it covers a nanoform, the particle 
+characteristics that specify the nanoform, as described in Annex VI, 
+shall be indicated. 
+If the substance is not registered, but the safety data sheet covers 
+nanoforms, the particle characteristics of which have impact on the 
+safety of the substance, those characteristics shall be indicated. 
+Suppliers of substances may choose to list in addition all constituents 
+including non-classified ones. 
+This subsection may also be used to provide information on multi- 
+constituent substances. 
+3.2. 
+Mixtures 
+The product identifier, the concentration or concentration ranges and 
+the classifications shall be provided for at least all substances referred 
+to in points 3.2.1 or 3.2.2. Suppliers of mixtures may choose to list in 
+addition all substances in the mixture, including substances not 
+meeting the criteria for classification. This information shall enable 
+the recipient to identify readily the hazards of the substances in the 
+mixture. The hazards of the mixture itself shall be given in section 2. 
+▼M58
+
+ 
+02006R1907 — EN — 17.12.2022 — 056.001 — 123 
+The concentrations of the substances in a mixture shall be described 
+as either of the following: 
+(a) exact percentages in descending order by mass or volume, if 
+technically possible; 
+(b) ranges of percentages in descending order by mass or volume, if 
+technically possible. 
+When using a range of percentages, if the effects of the mixture as a 
+whole are not available, the health and environmental hazards shall 
+describe the effects of the highest concentration of each ingredient. 
+If the effects of the mixture as a whole are available, the classification 
+determined from this information shall be included under section 2. 
+Where the use of an alternative chemical name is permitted in 
+accordance with Article 24 of Regulation (EC) No 1272/2008, that 
+name can be used. 
+3.2.1. 
+For a mixture meeting the criteria for classification in accordance 
+with Regulation (EC) No 1272/2008, the following substances (see 
+also Table 1.1) shall be indicated, together with their concentration or 
+concentration range in the mixture: 
+(a) substances presenting a health or environmental hazard within the 
+meaning of Regulation (EC) No 1272/2008, if those substances 
+are present in concentrations equal to or greater than the lowest of 
+any of the following: 
+(i) 
+the generic cut-off values set out in Table 1.1 of Annex I to 
+Regulation (EC) No 1272/2008; 
+(ii) 
+the generic concentration limits given in parts 3 to 5 of 
+Annex I to Regulation (EC) No 1272/2008, taking into 
+account the concentrations specified in the notes to 
+certain tables in part 3 in relation to the obligation to 
+make available a safety data sheet for the mixture upon 
+request, and for aspiration hazard (Section 3.10 of Annex 
+I to Regulation (EC) No 1272/2008) ≥ 1 %; 
+(iii) the specific concentration limits given in Part 3 of Annex 
+VI to Regulation (EC) No 1272/2008; 
+(iv) if a M-factor has been given in Part 3 of Annex VI to 
+Regulation (EC) No 1272/2008, the generic cut-off value 
+in Table 1.1 of Annex I to that Regulation, adjusted using 
+the calculation set out in Section 4.1 of Annex I to that 
+Regulation; 
+(v) 
+the specific concentration limits provided to the classifi­
+cation and labelling inventory established under Regulation 
+(EC) No 1272/2008; 
+(vi) one tenth of the specific concentration limit for a substance 
+classified as skin sensitiser or respiratory sensitiser with a 
+specific concentration limit; 
+(vii) the concentration limits set out in Annex II to Regulation 
+(EC) No 1272/2008; 
+(viii) if an M-factor has been provided to the classification and 
+labelling inventory established under Regulation (EC) No 
+1272/2008, the generic cut-off value in Table 1.1 of Annex 
+I to that Regulation, adjusted using the calculation set out 
+in Section 4.1 of Annex I to that Regulation; 
+▼M58
+
+ 
+02006R1907 — EN — 17.12.2022 — 056.001 — 124 
+(b) substances for which there are Union workplace exposure limits 
+which are not already included under point (a); 
+(c) provided that the concentration of an individual substance is 
+equal to or greater than 0,1 %, substances that meet any of the 
+following criteria: 
+— substances that are persistent, bioaccumulative and toxic or 
+very persistent and very bioaccumulative in accordance with 
+the criteria set out in Annex XIII, 
+— substances included in the list established in accordance with 
+Article 59(1) for reasons other than the hazards referred to in 
+point (a) of this subsection such as endocrine disrupting prop­
+erties, 
+— substances identified as having endocrine disrupting prop­
+erties in accordance with the criteria set out in Delegated 
+Regulation (EU) 2017/2100 or Regulation (EU) 2018/605. 
+Table 1.1 
+List of hazard classes, hazard categories and concentration limits for which 
+a substance shall be listed as a substance in a mixture in subsection 3.2.1 
+Hazard class and category 
+Concentration limit (%) 
+Acute toxicity, category 1, 2 and 3 
+≥ 0,1 
+Acute toxicity, category 4 
+≥ 1 

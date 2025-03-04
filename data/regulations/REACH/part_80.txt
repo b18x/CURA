@@ -1,0 +1,599 @@
+9 
+►M5 _______ ◄ 
+Hydrazine-tri-nitromethane 
+609-053-00-X 
+414-850-9 
+— 
+2,5-dinitrotoluene 
+609-055-00-0 
+210-581-4 
+619-15-8 
+►M5 _______ ◄ 
+2-Nitrotoluene 
+609-065-00-5 
+201-853-3 
+88-72-2 
+►M5 _______ ◄ 
+Azobenzene 
+611-001-00-6 
+203-102-5 
+103-33-3 
+►M5 _______ ◄ 
+Methyl-ONN-azoxymethyl acetate; 
+methyl azoxy methyl acetate 
+611-004-00-2 
+209-765-7 
+592-62-1 
+Disodium {5-[(4′-((2,6-hydroxy-3- 
+((2-hydroxy-5-sulphophenyl)azo)- 
+phenyl)azo) 
+(1,1′-biphenyl)-4-yl)- 
+azo]salicylato(4-)} cuprate(2-); CI 
+Direct Brown 95 
+611-005-00-8 
+240-221-1 
+16071-86-6 
+4-o-Tolylazo-o-toluidine; 4-amino- 
+2′,3-dimethylazobenzene; 
+fast 
+garnet GBC base; AAT; o-aminoa­
+zotoluene 
+611-006-00-3 
+202-591-2 
+97-56-3 
+4-Aminoazobenzene 
+611-008-00-4 
+200-453-6 
+60-09-3 
+Benzidine based azo dyes; 4,4'- 
+diarylazobiphenyl dyes, with the 
+exception 
+of 
+those 
+specified 
+elsewhere in ►M5 Annex VI to 
+Regulation (EC) No 1272/2008 ◄ 
+611-024-00-1 
+— 
+— 
+Disodium 
+4-amino 
+3-[[4′-[(2,4- 
+diaminophenyl)azo][1,1′-biphenyl]- 
+4-yl]azo]-5-hydroxy-6-(pheny­
+lazo)naphtalene-2,7-disulphonate; 
+C.I. Direct Black 38 
+611-025-00-7 
+217-710-3 
+1937-37-7 
+Tetrasodium 3,3′-[[1,1′-biphenyl]- 
+4,4′-dylbis(azo)]bis[5-amino-4- 
+hydroxynaphthalene-2,7-disulpho- 
+nate]; C.I. Direct Blue 6 
+611-026-00-2 
+220-012-1 
+2602-46-2 
+Disodium 
+3,3′-[[1,1′-bifenyl]- 
+4,4′dylbis(azo)]bis[4-aminonaph­
+thalene-1-sulphonate); C.I. Direct 
+Red 28 
+611-027-00-8 
+209-358-4 
+573-58-0 
+o-Dianisidine based azo dyes; 4,4'- 
+diarylazo-3,3'-dimethoxybiphenyl 
+dyes 
+with 
+the 
+exception 
+of 
+those 
+mentioned 
+elsewhere 
+in 
+►M5 Annex VI to Regulation 
+(EC) No 1272/2008 ◄ 
+611-029-00-9 
+— 
+— 
+▼C1
+
+ 
+02006R1907 — EN — 17.12.2022 — 056.001 — 340 
+Substances 
+Index No 
+EC No 
+CAS No 
+Notes 
+o-Tolidine 
+based 
+dyes; 
+4,4'- 
+diarylazo-3,3'-dimethylbiphenyl 
+dyes, 
+with 
+the 
+exception 
+of 
+those 
+mentioned 
+elsewhere 
+in 
+►M5 Annex VI to Regulation 
+(EC) No 1272/2008 ◄ 
+611-030-00-4 
+— 
+— 
+1,4,5,8-Tetraaminoanthraquinone; 
+C.I. Disperse Blue 1 
+611-032-00-5 
+219-603-7 
+2475-45-8 
+6-hydroxy-1-(3-isopropoxypropyl)- 
+4-methyl-2-oxo-5-[4-(pheny­
+lazo)phenylazo]-1,2-dihydro-3- 
+pyridinecarbonitrile 
+611-057-00-1 
+400-340-3 
+85136-74-9 
+(6-(4-hydroxy-3-(2-methoxypheny­
+lazo)-2-sulfonato-7-naphthy­
+lamino)-1,3,5-triazin-2,4- 
+diyl)bis[(amino-1-methylethyl)- 
+ammonium] formate 
+611-058-00-7 
+402-060-7 
+108225-03-2 
+Trisodium-[4'-(8-acetylamino-3,6- 
+disulfonato-2-naphthylazo)-4''-(6- 
+benzoylamino-3-sulfonato-2-naph­
+thylazo)biphenyl-1,3',3'',1'''- 
+tetraolato-O, O', O'', O''']copper(II) 
+611-063-00-4 
+413-590-3 
+164058-22-4 
+(Methylenebis(4,1-phenylenazo(1- 
+(3-(dimethylamino)propyl)-1,2- 
+dihydro-6-hydroxy-4-methyl-2- 
+oxopyridine-5,3-diyl)))-1,1'-dipyri­
+dinium dichloride dihydrochloride 
+611-099-00-0 
+401-500-5 
+— 
+Phenylhydrazine [1] 
+612-023-00-9 
+202-873-5 [1] 
+100-63-0 [1] 
+►M5 _______ ◄ 
+Phenylhydrazinium chloride [2] 
+200-444-7 [2] 
+59-88-1 [2] 
+Phenylhydrazine hydrochloride [3] 
+248-259-0 [3] 
+27140-08-5 [3] 
+Phenylhydrazinium sulphate (2:1) 
+[4] 
+257-622-2 [4] 
+52033-74-6 [4] 
+2-Methoxyaniline; o-anisidine 
+612-035-00-4 
+201-963-1 
+90-04-0 
+►M5 _______ ◄ 
+3,3′-Dimethoxybenzidine; o-diani­
+sidine 
+612-036-00-X 
+204-355-4 
+119-90-4 
+Salts of 3,3′-dimethoxybenzidine; 
+salts of o-dianisidine 
+612-037-00-5 
+3,3′-Dimethylbenzidine; o-tolidine 
+612-041-00-7 
+204-358-0 
+119-93-7 
+▼M14 
+N,N′-diacetylbenzidine 
+612-044-00-3 
+210-338-2 
+613-35-4 
+▼C1 
+4,4′-Diaminodiphenylmethane; 
+4,4′-methylenedianiline 
+612-051-00-1 
+202-974-4 
+101-77-9 
+►M5 _______ ◄ 
+3,3′-Dichlorobenzidine; 3,3′-dich­
+lorobiphenyl-4,4′-ylenediamine 
+612-068-00-4 
+202-109-0 
+91-94-1 
+▼C1
+
+ 
+02006R1907 — EN — 17.12.2022 — 056.001 — 341 
+Substances 
+Index No 
+EC No 
+CAS No 
+Notes 
+Salts 
+of 
+3,3′-dichlorobenzidine; 
+salts of 3,3′-dichlorobiphenyl-4,4′- 
+ylenediamine 
+612-069-00-X 
+210-323-0[1] 
+265-293-1[2] 
+277-822-3[3] 
+612-83-9[1] 
+64969-34-2[2] 
+74332-73-3[3] 
+N-nitrosodimethylamine; dimethyl­
+nitrosamine 
+612-077-00-3 
+200-549-8 
+62-75-9 
+►M5 _______ ◄ 
+2,2′-Dichloro-4,4′-methylene­
+dianiline; 
+4,4′-Methylene bis(2-chloroaniline) 
+612-078-00-9 
+202-918-9 
+101-14-4 
+Salts of 2,2′-dichloro-4,4-methyl­
+enedianiline; salts of 4,4′-methyl­
+enebis(2-chloroaniline) 
+612-079-00-4 
+Salts of 
+3,3′-dimethylbenzidine; 
+salts of o-tolidine 
+612-081-00-5 
+210-322-5[1] 
+265-294-7[2] 
+277-985-0[3] 
+612-82-8[1] 
+64969-36-4[2] 
+74753-18-7[3] 
+1-Methyl-3-nitro-1-nitrosogua­
+nidine 
+612-083-00-6 
+200-730-1 
+70-25-7 
+4,4′-Methylenedi-o-toluidine 
+612-085-00-7 
+212-658-8 
+838-88-0 
+2,2′-(Nitrosoimino)bisethanol 
+612-090-00-4 
+214-237-4 
+1116-54-7 
+o-Toluidine 
+612-091-00-X 
+202-429-0 
+95-53-4 
+Nitrosodipropylamine 
+612-098-00-8 
+210-698-0 
+621-64-7 
+▼M14 
+4-Methyl-m-phenylenediamine; 
+2,4-Toluenediamine 
+612-099-00-3 
+202-453-1 
+95-80-7 
+▼C1 
+Toluene-2,4-diammonium sulphate 
+612-126-00-9 
+265-697-8 
+65321-67-7 
+4-Chloraniline 
+612-137-00-9 
+203-401-0 
+106-47-8 
+▼M14 
+Methyl-phenylene diamine; 
+Diaminotoluene; 
+[technical product – reaction mass 
+of 4-methyl-m-phenylene diamine 
+(EC No 202-453-1) and 2-methyl- 
+m-phenylene diamine (EC No 212- 
+513-9)] 
+612-151-00-5 
+— 
+— 
+▼C1 
+4-Chloro-o-toluidine [1] 
+4-chloro-o-toluidine hydrochloride 
+[2] 
+612-196-00-0 
+202-441-6 [1] 
+221-627-8 [2] 
+95-69-2 [1] 
+3165-93-3 [2] 
+►M5 _______ ◄ 
+2,4,5-Trimethylaniline [1] 
+2,4,5-trimethylaniline 
+hydro­
+chloride [2] 
+612-197-00-6 
+205-282-0 
+[1] 
+-[2] 
+137-17-7 [1] 
+21436-97-5 [2] 
+►M5 _______ ◄ 
+▼C1
+
+ 
+02006R1907 — EN — 17.12.2022 — 056.001 — 342 
+Substances 
+Index No 
+EC No 
+CAS No 
+Notes 
+4,4'-Thiodianiline [1] and its salts 
+612-198-00-1 
+205-370-9 [1] 
+139-65-1 [1] 
+►M5 _______ ◄ 
+4,4'-Oxydianiline [1] and its salts 
+p-Aminophenyl ether [1] 
+612-199-00-7 
+202-977-0 [1] 
+101-80-4 [1] 
+►M5 _______ ◄ 
+2,4-Diaminoanisole [1] 
+4-methoxy-m-phenylenediamine 
+2,4-diaminoanisole sulphate [2] 
+612-200-00-0 
+210-406-1 [1] 
+254-323-9 [2] 
+615-05-4 [1] 
+39156-41-7 [2] 
+N, N,N',N'-tetramethyl-4,4'-methyl­
+endianiline 
+612-201-00-6 
+202-959-2 
+101-61-1 
+C.I. Basic Violet 3 with ≥ 0,1 % of 
+Michler's ketone (EC No 202-027- 
+5) 
+612-205-00-8 
+208-953-6 
+548-62-9 
+►M5 _______ ◄ 
+6-Methoxy-m-toluidine 
+p-cresidine 
+612-209-00-X 
+204-419-1 
+120-71-8 
+►M5 _______ ◄ 
+▼M14 
+Biphenyl-3,3′,4,4′-tetrayltet­
+raamine; 
+Diaminobenzidine 
+612-239-00-3 
+202-110-6 
+91-95-2 
+(2-chloroethyl)(3-hydroxypro­
+pyl)ammonium chloride 
+612-246-00-1 
+429-740-6 
+40722-80-3 
+3-Amino-9-ethyl carbazole; 
+9-Ethylcarbazol-3-ylamine 
+612-280-00-7 
+205-057-7 
+132-32-1 
+▼M49 
+Reaction products of paraformal­
+dehyde and 2-hydroxypropylamine 
+(ratio 3:2); 
+[formaldehyde released from 3,3′- 
+methylenebis[5-methyloxazoli­
+dine]; 
+formaldehyde 
+released 
+from 
+oxazolidin]; 
+[MBO] 
+612-290-00-1 
+— 
+— 
+Reaction products of paraformal­
+dehyde 
+with 
+2-hydroxypropy­
+lamine (ratio 1:1); 
+[formaldehyde released from α,α,α- 
+trimethyl-1,3,5-triazine- 
+1,3,5(2H,4H,6H)-triethanol]; 
+[HPT] 
+612-291-00-7 
+— 
+— 
+Methylhydrazine 
+612-292-00-2 
+200-471-4 
+60-34-4 
+▼C1 
+Ethyleneimine; aziridine 
+613-001-00-1 
+205-793-9 
+151-56-4 
+2-Methylaziridine; propyleneimine 
+613-033-00-6 
+200-878-7 
+75-55-8 
+►M5 _______ ◄ 
+Captafol (ISO); 1,2,3,6-tetrahydro- 
+N-(1,1,2,2-tetrachloroethylthio) 
+phthalimide 
+613-046-00-7 
+219-363-3 
+2425-06-1 
+▼C1
+
+ 
+02006R1907 — EN — 17.12.2022 — 056.001 — 343 
+Substances 
+Index No 
+EC No 
+CAS No 
+Notes 
+Carbadox (INN); methyl 3-(quin­
+oxalin-2-ylmethylene)carbazate 
+1,4-dioxide; 2-(methoxycarbonyl­
+hydrazonomethyl) 
+quinoxaline 
+1,4-dioxide 
+613-050-00-9 
+229-879-0 
+6804-07-5 
+A mixture of: 1,3,5-tris(3-amino­
+methylphenyl)-1,3,5-(1H,3H,5H)- 
+triazine-2,4,6-trione; 
+a mixture of oligomers of 3,5- 
+bis(3-aminomethylphenyl)-1- 
+poly[3,5-bis(3-aminomethyl­
+phenyl)-2,4,6-trioxo-1,3,5- 
+(1H,3H,5H)-triazin-1-yl]-1,3,5- 
+(1H,3H,5H)-triazine-2,4,6-trione 
+613-199-00-X 
+421-550-1 
+— 
+▼M14 
+Quinoline 
+613-281-00-5 
+202-051-6 
+91-22-5 
+▼C1 
+Acrylamide 
+616-003-00-0 
+201-173-7 
+79-06-1 
+▼M69 
+Butanone oxime; ethyl methyl 
+ketoxime; ethyl methyl ketone 
+oxime 
+616-014-00-0 
+202-496-6 
+96-29-7 
+▼C1 
+Thioacetamide 
+616-026-00-6 
+200-541-4 
+62-55-5 
+A mixture of: N-[3-hydroxy-2-(2- 
+methylacryloylamino-methoxy)pro­
+poxymethyl]-2-methylacrylamide; 
+N-[2,3-Bis-(2-methylacryloy­
+lamino-methoxy)propoxymethyl]- 
+2-methylacrylamide; 
+methacry­
+lamide; 
+2-methyl-N-(2-methyl- 
+acryloylaminomethoxymethyl)- 
+acrylamide; 
+N-2,3-dihydroxypro­
+poxymethyl)-2-methylacrylamide 
+616-057-00-5 
+412-790-8 
+— 
+▼M14 
+N-[6,9-dihydro-9-[[2-hydroxy-1- 
+(hydroxymethyl)ethoxy]methyl]-6- 
+oxo-1H-purin-2-yl]acetamide 
+616-148-00-X 
+424-550-1 
+84245-12-5 
+▼M69 
+N-(hydroxymethyl)acrylamide; 
+methylolacrylamide; [NMA] 
+616-230-00-5 
+213-103-2 
+924-42-5 
+▼C1 
+Distillates 
+(coal 
+tar), 
+benzole 
+fraction; Light oil 
+(A complex combination of hydro­
+carbons obtained by the distillation 
+of coal tar. It consists of hydro­
+carbons having carbon numbers 
+primarily in the range of C 4 to 
+C 10 
+and 
+distilling 
+in 
+the 
+approximate 
+range 
+of 
+80 
+to 
+160 °C.) 
+648-001-00-0 
+283-482-7 
+84650-02-2 
+Tar oils, brown-coal; Light oil 
+(The distillate from lignite tar 
+boiling in the range of approxi­
+mately 80 to 250 °C. Composed 
+primarily 
+of 
+aliphatic 
+and 
+aromatic 
+hydrocarbons 
+and 
+monobasic phenols.) 
+648-002-00-6 
+302-674-4 
+94114-40-6 
+J 
+▼C1
+
+ 
+02006R1907 — EN — 17.12.2022 — 056.001 — 344 
+Substances 
+Index No 
+EC No 
+CAS No 
+Notes 
+Benzol forerunnings (coal); Light 
+oil redistillate, low boiling 
+(The distillate from coke oven 
+light oil having an approximate 
+distillation range below 100 °C. 
+Composed primarily of C 4 to C 6 
+aliphatic hydrocarbons.) 
+648-003-00-1 
+266-023-5 
+65996-88-5 
+J 
+Distillates 
+(coal 
+tar), 
+benzole 
+fraction, BTX-rich; Light oil redis­
+tillate, low boiling 
+(A residue from the distillation of 
+crude benzole to remove benzole 
+fronts. Composed primarily of 
+benzene, 
+toluene 
+and 
+xylenes 
+boiling in the range of approxi­
+mately 75 to 200 °C.) 
+648-004-00-7 
+309-984-9 
+101896-26-8 
+J 
+Aromatic hydrocarbons, C 6-10 , C 

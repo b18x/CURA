@@ -1,0 +1,261 @@
+General description of the identified use(s) 
+▼C1 
+3.6. 
+Information on waste quantities and composition of waste resulting from 
+manufacture of the substance, the use in articles and identified uses 
+3.7. 
+Uses advised against ►M7 (see Section 1 of the safety data sheet) ◄ 
+Where applicable, an indication of the uses which the registrant advises 
+against and why (i.e. non-statutory recommendations by supplier). This 
+need not be an exhaustive list. 
+▼M51
+
+ 
+02006R1907 — EN — 17.12.2022 — 056.001 — 164 
+4. 
+CLASSIFICATION AND LABELLING 
+▼M3 
+4.1 
+The hazard classification of the substance(s), resulting from the appli­
+cation of Title I and II of Regulation (EC) No 1272/2008 for all hazard 
+classes and categories in that Regulation, 
+In addition, for each entry, the reasons why no classification is given for 
+a hazard class or differentiation of a hazard class should be provided 
+(i.e. if data are lacking, inconclusive, or conclusive but not sufficient for 
+classification), 
+4.2 
+The resulting hazard label for the substance(s), resulting from the appli­
+cation of Title III of Regulation (EC) No 1272/2008, 
+4.3 
+Specific concentration limits, where applicable, resulting from the appli­
+cation of Article 10 of Regulation (EC) No 1272/2008. 
+▼C1 
+5. 
+GUIDANCE ON SAFE USE CONCERNING: 
+▼M51 
+This information shall be consistent with that in the Safety Data Sheet 
+where such a Safety Data Sheet is required according to Article 31. 
+Where a substance being registered is also manufactured or imported in 
+one or several nanoforms, the information pursuant to this Section shall 
+address the different nanoforms or sets of similar nanoforms as char­
+acterised in subsection 2.4 where relevant. 
+▼C1 
+5.1. 
+First-aid measures (Safety Data Sheet heading 4) 
+5.2. 
+Fire-fighting measures (Safety Data Sheet heading 5) 
+5.3. 
+Accidental release measures (Safety Data Sheet heading 6) 
+5.4. 
+Handling and storage (Safety Data Sheet heading 7) 
+5.5. 
+Transport information (Safety Data Sheet heading 14) 
+Where a Chemical Safety Report is not required, the following ad­
+ditional information is required: 
+5.6. 
+Exposure controls/personal protection (Safety Data Sheet heading 8) 
+5.7. 
+Stability and reactivity (Safety Data Sheet heading 10) 
+5.8. 
+Disposal considerations 
+5.8.1. 
+Disposal considerations (Safety Data Sheet heading 13) 
+5.8.2. 
+Information on recycling and methods of disposal for industry 
+5.8.3. 
+Information on recycling and methods of disposal for the public. 
+6. 
+INFORMATION ON EXPOSURE FOR SUBSTANCES REGISTERED 
+IN QUANTITIES BETWEEN 1 AND 10 TONNES PER YEAR PER 
+MANUFATCURER OR IMPORTER 
+▼M51 
+Where a substance being registered is manufactured or imported in one 
+or several nanoforms, the information pursuant to this Section shall 
+address the different nanoforms or sets of similar nanoforms as char­
+acterised in subsection 2.4 separately. 
+▼C1
+
+ 
+02006R1907 — EN — 17.12.2022 — 056.001 — 165 
+6.1. 
+Main use category: 
+6.1.1. 
+(a) industrial use; and/or 
+(b) professional use; and/or 
+(c) consumer use. 
+6.1.2. 
+Specification for industrial and professional use: 
+(a) used in closed system; and/or 
+(b) use resulting in inclusion into or onto matrix; and/or 
+(c) non-dispersive use; and/or 
+(d) dispersive use. 
+6.2. 
+Significant route(s) of exposure: 
+6.2.1. 
+Human exposure: 
+(a) oral; and/or 
+(b) dermal; and/or 
+(c) inhalatory. 
+6.2.2. 
+Environmental exposure: 
+(a) water; and/or 
+(b) air; and/or 
+(c) solid waste; and/or 
+(d) soil. 
+6.3. 
+Pattern of exposure: 
+(a) accidental/infrequent; and/or 
+(b) occasional; and/or 
+(c) continuous/frequent. 
+▼C1
+
+ 
+02006R1907 — EN — 17.12.2022 — 056.001 — 166 
+ANNEX VII 
+STANDARD INFORMATION REQUIREMENTS FOR SUBSTANCES 
+MANUFACTURED OR IMPORTED IN QUANTITIES OF ONE TONNE 
+OR MORE ( 1 ) 
+Column 1 of this Annex establishes the standard information required for: 
+(a) non-phase-in substances manufactured or imported in quantities of 1 to 10 
+tonnes; 
+(b) phase-in substances manufactured or imported in quantities of 1 to 10 tonnes 
+and meeting the criteria in Annex III in accordance with Article 12(1)(a) and 
+(b); and 
+(c) substances manufactured or imported in quantities of 10 tonnes or more. 
+Any other relevant physicochemical, toxicological and ecotoxicological 
+information that is available shall be provided. For substances not meeting the 
+criteria in Annex III only the physicochemical requirements as set out in section 
+7 of this Annex are required. 
+Column 2 of this Annex lists specific rules according to which the required 
+standard information may be omitted, replaced by other information, provided 
+at a different stage or adapted in another way. If the conditions are met under 
+which column 2 of this Annex allows adaptations, the registrant shall clearly 
+state this fact and the reasons for each adaptation under the appropriate headings 
+in the registration dossier. 
+▼M51 
+Without prejudice to the information submitted for other forms, any relevant 
+physicochemical, toxicological and ecotoxicological information shall include 
+characterisation of the nanoform tested and test conditions. A justification shall 
+be provided where QSARs are used or evidence is obtained by means other than 
+testing, as well as a description of the range of the characteristics/properties of 
+the nanoforms to which the evidence can be applied. 
+▼C1 
+In addition to these specific rules, a registrant may adapt the required standard 
+information set out in column 1 of this Annex according to the general rules 
+contained in Annex XI with the exception of Section 3 on substance-tailored 
+exposure waiving. In this case as well, he shall clearly state the reasons for any 
+decision to adapt the standard information under the appropriate headings in the 
+registration dossier referring to the appropriate specific rule(s) in column 2 or in 
+Annex XI ( 2 ). 
+Before new tests are carried out to determine the properties listed in this Annex, 
+all available in vitro data, in vivo data, historical human data, data from valid 
+(Q)SARs and data from structurally related substances (read-across approach) 
+shall be assessed first. In vivo testing with corrosive substances at concen­
+tration/dose levels causing corrosivity shall be avoided. Prior to testing, further 
+guidance on testing strategies should be consulted in addition to this Annex. 
+▼M64 
+Where a test method offers flexibility in the study design, for example in relation 
+to the choice of dose levels, the chosen study design shall ensure that the data 
+generated are adequate for hazard identification and risk assessment. To this end, 
+▼C1 
+( 1 ) This Annex shall apply to producers of articles that are required to register in accordance 
+with Article 7 and to other downstream users that are required to carry out tests under 
+this Regulation adapted as necessary. 
+( 2 ) Note: conditions for not requiring a specific test that are set out in the appropriate test 
+methods in the Commission Regulation on test methods as specified in Article 13(3) that 
+are not repeated in column 2, also apply.
+
+ 
+02006R1907 — EN — 17.12.2022 — 056.001 — 167 
+testing shall be performed at appropriately high dose levels. If dose (concen­
+tration) selection is limited by the physicochemical properties or biological 
+effects of the test substance, justification shall be provided. 
+▼C1 
+When, for certain endpoints, information is not provided for other reasons than 
+those mentioned in column 2 of this Annex or in Annex XI, this fact and the 
+reasons shall also be clearly stated. 
+7. INFORMATION ON THE PHYSICOCHEMICAL PROPERTIES OF THE 
+SUBSTANCE 
+COLUMN 1 
+STANDARD INFORMATION 
+REQUIRED 
+COLUMN 2 
+SPECIFIC RULES FOR ADAPTATION FROM COLUMN 1 
+7.1. 
+State of the substance at 
+20 °C and 101,3 kPa 
+7.2. 
+Melting/freezing point 
+7.2. 
+The study does not need to be conducted below a 
+lower limit of - 20 °C. 
+7.3. 
+Boiling point 
+7.3. 
+The study does not need to be conducted: 
+— for gases, or 
+— for solids which either melt above 300 °C or 
+decompose before boiling. In such cases the 
+boiling point under reduced pressure may be 
+estimated or measured, or 
+— for substances which decompose before boiling 
+(e.g. auto-oxidation, rearrangement, degradation, 
+decomposition, etc.). 
+7.4. 
+Relative density 
+7.4. 
+The study does not need to be conducted if: 
+— the substance is only stable in solution in a 
+particular solvent and the solution density is 
+similar to that of the solvent. In such cases, an 
+indication of whether the solution density is 
+higher or lower than the solvent density is suffi­
+cient, or 
+— the substance is a gas. In this case, an estimation 
+based on calculation shall be made from its 
+molecular weight and the Ideal Gas Laws. 
+7.5. 
+Vapour pressure 
+7.5. 
+The study does not need to be conducted if the 
+melting point is above 300 °C. 
+If the melting point is between 200 °C and 300 °C, a 
+limit value based on measurement or a recognised 
+calculation method is sufficient. 
+►M64 7.6. Surface tension of an 
+aqueous solution ◄ 
+7.6. 
+The study need only be conducted if: 
+— based on structure, surface activity is expected or 
+can be predicted, or 
+— surface activity is a desired property of the 
+material. 
+If the water solubility is below 1 mg/l at 20 °C the 
+test does not need to be conducted. 
+▼M51 
+7.7. 
+Water solubility 
+For nanoforms, in addition 
+the testing of dissolution 
+rate in water as well as in 
+relevant biological and envi­
+ronmental media shall be 
+considered. 
+7.7. 
+The study does not need to be conducted if: 
+— the substance is hydrolytically unstable at pH 4, 7 
+and 9 (half-life less than 12 hours), or 
+— the substance is readily oxidisable in water. 
+If the substance appears ‘insoluble’ in water, a limit 
+test up to the detection limit of the analytical method 
+shall be performed. 
+▼M64
+
+ 
+02006R1907 — EN — 17.12.2022 — 056.001 — 168 
+COLUMN 1 
+STANDARD INFORMATION 
+REQUIRED 
+COLUMN 2 
+SPECIFIC RULES FOR ADAPTATION FROM COLUMN 1 
+For nanoforms the potential confounding effec

@@ -1,0 +1,607 @@
+ approxi­
+mately 0 °C to 230 °C (25 °F to 
+446 °F).] 
+649-271-00-2 
+272-186-3 
+68783-12-0 
+P 
+Distillates 
+(petroleum), 
+light 
+straight-run gasoline fractionation 
+stabilizer overheads; 
+Low boiling point naphtha; 
+[A complex combination of hydro­
+carbons obtained by the frac­
+tionation 
+of 
+light 
+straight-run 
+gasoline. It consists of saturated 
+aliphatic 
+hydrocarbons 
+having 
+carbon numbers predominantly in 
+the range of C 3 through C 6 .] 
+649-272-00-8 
+272-931-2 
+68921-08-4 
+P 
+▼M14
+
+ 
+02006R1907 — EN — 17.12.2022 — 056.001 — 506 
+Substances 
+Index No 
+EC No 
+CAS No 
+Notes 
+Naphtha (petroleum), heavy straight 
+run, arom.-contg.; 
+Low boiling point naphtha; 
+[A complex combination of hydro­
+carbons obtained from a distillation 
+process of crude petroleum. It 
+consists predominantly of hydro­
+carbons having carbon numbers in 
+the range of C 8 through C 12 and 
+boiling in the range of approxi­
+mately 130 °C to 210 °C (266 °F 
+to 410 °F).] 
+649-273-00-3 
+309-945-6 
+101631-20-3 
+P 
+Naphtha 
+(petroleum), 
+full-range 
+alkylate; 
+Low 
+boiling 
+point 
+modified 
+naphtha; 
+[A complex combination of hydro­
+carbons produced by distillation of 
+the reaction products of isobutane 
+with monoolefinic hydrocarbons 
+usually ranging in carbon numbers 
+from C 3 through C 5 . It consists of 
+predominantly 
+branched 
+chain 
+saturated 
+hydrocarbons 
+having 
+carbon numbers predominantly in 
+the range of C 7 through C 12 and 
+boiling in the range of approxi­
+mately 90 °C to 220 °C (194 °F 
+to 428 °F).] 
+649-274-00-9 
+265-066-7 
+64741-64-6 
+P 
+Naphtha 
+(petroleum), 
+heavy 
+alkylate; 
+Low 
+boiling 
+point 
+modified 
+naphtha; 
+[A complex combination of hydro­
+carbons produced by distillation of 
+the reaction products of isobutane 
+with monoolefinic hydrocarbons 
+usually ranging in carbon numbers 
+from C 3 to C 5 . It consists of 
+predominantly 
+branched 
+chain 
+saturated 
+hydrocarbons 
+having 
+carbon numbers predominantly in 
+the range of C 9 through C 12 and 
+boiling in the range of approxi­
+mately 150 °C to 220 °C (302 °F 
+to 428 °F).] 
+649-275-00-4 
+265-067-2 
+64741-65-7 
+P 
+Naphtha (petroleum), light alkylate; 
+Low 
+boiling 
+point 
+modified 
+naphtha; 
+[A complex combination of hydro­
+carbons produced by distillation of 
+the reaction products of isobutane 
+with monoolefinic hydrocarbons 
+usually ranging in carbon numbers 
+from C 3 through C 5 . It consists of 
+predominantly 
+branched 
+chain 
+saturated 
+hydrocarbons 
+having 
+carbon numbers predominantly in 
+the range of C 7 through C 10 and 
+boiling in the range of approxi­
+mately 90 °C to 160 °C (194 °F 
+to 320 °F).] 
+649-276-00-X 
+265-068-8 
+64741-66-8 
+P 
+▼M14
+
+ 
+02006R1907 — EN — 17.12.2022 — 056.001 — 507 
+Substances 
+Index No 
+EC No 
+CAS No 
+Notes 
+Naphtha 
+(petroleum), 
+isomeriz­
+ation; 
+Low 
+boiling 
+point 
+modified 
+naphtha; 
+[A complex combination of hydro­
+carbons obtained from catalytic 
+isomerization 
+of 
+straight 
+chain 
+paraffinic C 4 through C 6 hydro­
+carbons. It consists predominantly 
+of saturated hydrocarbons such as 
+isobutane, 
+isopentane, 
+2,2- 
+dimethylbutane, 
+2-methylpentane, 
+and 3-methylpentane.] 
+649-277-00-5 
+265-073-5 
+64741-70-4 
+P 
+Naphtha 
+(petroleum), 
+solvent- 
+refined light; 
+Low 
+boiling 
+point 
+modified 
+naphtha; 
+[A complex combination of hydro­
+carbons obtained as the raffinate 
+from a solvent extraction process. 
+It 
+consists 
+predominantly 
+of 
+aliphatic 
+hydrocarbons 
+having 
+carbon numbers predominantly in 
+the range of C 5 through C 11 and 
+boiling in the range of approxi­
+mately 35 °C to 190 °C (95 °F to 
+374 °F).] 
+649-278-00-0 
+265-086-6 
+64741-84-0 
+P 
+Naphtha 
+(petroleum), 
+solvent- 
+refined heavy; 
+Low 
+boiling 
+point 
+modified 
+naphtha; 
+[A complex combination of hydro­
+carbons obtained as the raffinate 
+from a solvent extraction process. 
+It 
+consists 
+predominantly 
+of 
+aliphatic 
+hydrocarbons 
+having 
+carbon numbers predominantly in 
+the range of C 7 through C 12 and 
+boiling in the range of approxi­
+mately 90 °C to 230 °C (194 °F 
+to 446 °F).] 
+649-279-00-6 
+265-095-5 
+64741-92-0 
+P 
+Raffinates 
+(petroleum), 
+catalytic 
+reformer 
+ethylene 
+glycol-water 
+countercurrent exts.; 
+Low 
+boiling 
+point 
+modified 
+naphtha; 
+[A complex combination of hydro­
+carbons obtained as the raffinate 
+from the UDEX extraction process 
+on the catalytic reformer stream. It 
+consists of saturated hydrocarbons 
+having carbon numbers predomi­
+nantly in the range of C 6 through 
+C 9 .] 
+649-280-00-1 
+270-088-5 
+68410-71-9 
+P 
+▼M14
+
+ 
+02006R1907 — EN — 17.12.2022 — 056.001 — 508 
+Substances 
+Index No 
+EC No 
+CAS No 
+Notes 
+Raffinates (petroleum), reformer, 
+Lurgi unit-sepd.; 
+Low 
+boiling 
+point 
+modified 
+naphtha; 
+[The 
+complex 
+combination 
+of 
+hydrocarbons 
+obtained 
+as 
+a 
+raffinate from a Lurgi separation 
+unit. It consists predominantly of 
+non-aromatic hydrocarbons 
+with 
+various small amounts of aromatic 
+hydrocarbons 
+having 
+carbon 
+numbers 
+predominantly 
+in 
+the 
+range of C 6 through C 8 .] 
+649-281-00-7 
+270-349-3 
+68425-35-4 
+P 
+Naphtha 
+(petroleum), 
+full-range 
+alkylate, butane-contg.; 
+Low 
+boiling 
+point 
+modified 
+naphtha; 
+[A complex combination of hydro­
+carbons produced by the distillation 
+of 
+the 
+reaction 
+products 
+of 
+isobutane with monoolefinic hydro­
+carbons usually ranging in carbon 
+numbers from C 3 through C 5 . It 
+consists 
+of 
+predominantly 
+branched chain saturated hydro­
+carbons having carbon numbers 
+predominantly in the range of C 7 
+through C 12 with some butanes 
+and boiling in the range of approxi­
+mately 35 °C to 200 °C (95 °F to 
+428 °F).] 
+649-282-00-2 
+271-267-0 
+68527-27-5 
+P 
+Distillates 
+(petroleum), 
+naphtha 
+steam cracking-derived, solvent- 
+refined light hydrotreated; 
+Low 
+boiling 
+point 
+modified 
+naphtha; 
+[A complex combination of hydro­
+carbons obtained as the raffinates 
+from a solvent extraction process 
+of 
+hydrotreated 
+light 
+distillate 
+from steam-cracked naphtha.] 
+649-283-00-8 
+295-315-5 
+91995-53-8 
+P 
+Naphtha (petroleum), C 4-12 butane- 
+alkylate, isooctane-rich; 
+Low 
+boiling 
+point 
+modified 
+naphtha; 
+[A complex combination of hydro­
+carbons obtained by alkylation of 
+butanes. It consists predominantly 
+of hydrocarbons having carbon 
+numbers 
+predominantly 
+in 
+the 
+range of C 4 through C 12 , rich in 
+isooctane, and boiling in the range 
+of approximately 35 °C to 210 °C 
+(95 °F to 410 °F).] 
+649-284-00-3 
+295-430-0 
+92045-49-3 
+P 
+▼M14
+
+ 
+02006R1907 — EN — 17.12.2022 — 056.001 — 509 
+Substances 
+Index No 
+EC No 
+CAS No 
+Notes 
+Hydrocarbons, hydrotreated light 
+naphtha distillates, solvent-refined; 
+Low 
+boiling 
+point 
+modified 
+naphtha; 
+[A combination of hydrocarbons 
+obtained from the distillation of 
+hydrotreated naphtha followed by 
+a solvent extraction and distillation 
+process. It consists predominantly 
+of saturated hydrocarbons boiling 
+in the range of approximately 
+94 °C 
+to 
+99 °C 
+(201 
+°F 
+to 
+210 °F).] 
+649-285-00-9 
+295-436-3 
+92045-55-1 
+P 
+Naphtha (petroleum), isomerization, 
+C 6 -fraction; 
+Low 
+boiling 
+point 
+modified 
+naphtha; 
+[A complex combination of hydro­
+carbons obtained by distillation of a 
+gasoline which has been cata­
+lytically isomerized. It consists 
+predominantly of hexane isomers 
+boiling in the range of approxi­
+mately 60 °C to 66 °C (140 °F to 
+151 °F).] 
+649-286-00-4 
+295-440-5 
+92045-58-4 
+P 
+Hydrocarbons, 
+C 6-7 , 
+naphtha- 
+cracking, solvent-refined; 
+Low 
+boiling 
+point 
+modified 
+naphtha; 
+[A complex combination of hydro­
+carbons obtained by the sorption of 
+benzene from a catalytically fully 
+hydrogenated benzene-rich hydro­
+carbon cut that was distillatively 
+obtained 
+from 
+prehydrogenated 
+cracked 
+naphtha. 
+It 
+consists 
+predominantly of paraffinic and 
+naphthenic hydrocarbons having 
+carbon numbers predominantly in 
+the range of C 6 through C 7 and 
+boiling in the range of approxi­
+mately 70 °C to 100 °C (158 °F 
+to 212 °F).] 
+649-287-00-X 
+295-446-8 
+92045-64-2 
+P 
+Hydrocarbons, 
+C 6 -rich, 
+hydro­
+treated light naphtha distillates, 
+solvent-refined; 
+Low 
+boiling 
+point 
+modified 
+naphtha; 
+[A complex combination of hydro­
+carbons obtained by distillation of 
+hydrotreated naphtha followed by 
+solvent 
+extraction. 
+It 
+consists 
+predominantly of saturated hydro­
+carbons and boiling in the range 
+of approximately 65 °C to 70 °C 
+(149 °F to 158 °F).] 
+649-288-00-5 
+309-871-4 
+101316-67-0 
+P 
+▼M14
+
+ 
+02006R1907 — EN — 17.12.2022 — 056.001 — 510 
+Substances 
+Index No 
+EC No 
+CAS No 
+Notes 
+Naphtha 
+(petroleum), 
+heavy 
+catalytic cracked; 
+Low 
+boiling 
+point 
+cat-cracked 
+naphtha; 
+[A complex combination of hydro­
+carbons produced by a distillation 
+of 
+products 
+from 
+a 
+catalytic 
+cracking process. It consists of 
+hydrocarbons 
+having 
+carbon 
+numbers 
+predominantly 
+in 
+the 
+range of C 6 through C 12 and 
+boiling in the range of approxi­
+mately 65 °C to 230 °C (148 °F 
+to 446 °F). It contains a relatively 
+large proportion of unsaturated 
+hydrocarbons.] 
+649-289-00-0 
+265-055-7 
+64741-54-4 
+P 
+Naphtha (petroleum), light catalytic 
+cracked; 
+Low 
+boiling 
+point 
+cat-cracked 
+naphtha; 
+[A complex combination of hydro­
+carbons produced by the distillation 
+of 
+products 
+from 
+a 
+catalytic 
+cracking process. It consists of 
+hydrocarbons 
+having 
+carbon 
+numbers 
+predominantly 
+in 
+the 
+range of C 4 through C 11 and 
+boiling in the range of approxi­
+mately 
+– 
+20 °C 
+to 
+190 °C 
+(– 4 °F to 374 °F). It contains a 
+relatively 
+large 
+proportion 
+of 
+unsaturated hydrocarbons.] 
+649-290-00-6 
+265-056-2 
+64741-55-5 
+P 
+Hydrocarbons, 
+C 3-11 , 
+catalytic 
+cracker distillates; 
+Low 
+boiling 
+point 
+cat-cracked 
+naphtha; 
+[A complex combination of hydro­
+carbons produced by the distil­
+lations 
+of 
+products 
+from 
+a 
+catalytic 
+cracking 
+process. 
+It 
+consists of hydrocarbons having 
+carbon numbers predominantly in 
+the range of C 3 through C 11 and 
+boiling in a range approximately 
+up to 204 °C (400 °F).] 
+649-291-00-1 
+270-686-6 
+68476-46-0 
+P 
+Naphtha 
+(petroleum), 
+catalytic 
+cracked light distd.; 
+Low 
+boiling 
+point 
+cat-cracked 
+napht

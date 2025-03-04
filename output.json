@@ -1,112 +1,689 @@
 {
-    "regulation": {
-        "name": "Apple Regulated Substances Specification 069-0135-M",
-        "chemicals": [
-            {
-                "name": "Antimony",
-                "cas": "1309-64-4",
-                "ec": ""
-            },
-            {
-                "name": "Arsenic compounds",
-                "cas": "7440-38-2",
-                "ec": ""
-            },
-            {
-                "name": "Asbestos",
-                "cas": "1332-21-4",
-                "ec": ""
-            },
-            {
-                "name": "Asbestos",
-                "cas": "12001-28-4",
-                "ec": ""
-            },
-            {
-                "name": "Asbestos",
-                "cas": "12001-29-5",
-                "ec": ""
-            },
-            {
-                "name": "Asbestos",
-                "cas": "12172-73-5",
-                "ec": ""
-            },
-            {
-                "name": "Asbestos",
-                "cas": "77536-66-4",
-                "ec": ""
-            },
-            {
-                "name": "Asbestos",
-                "cas": "77536-67-5",
-                "ec": ""
-            },
-            {
-                "name": "Asbestos",
-                "cas": "77536-68-6",
-                "ec": ""
-            },
-            {
-                "name": "Asbestos",
-                "cas": "132207-32-0",
-                "ec": ""
-            },
-            {
-                "name": "Benzene",
-                "cas": "71-43-2",
-                "ec": ""
-            },
-            {
-                "name": "Beryllium compounds",
-                "cas": "7440-41-7",
-                "ec": ""
-            },
-            {
-                "name": "Bisphenol A (BPA)",
-                "cas": "80-05-7",
-                "ec": ""
-            },
-            {
-                "name": "Bromine",
-                "cas": "7726-95-6",
-                "ec": ""
-            },
-            {
-                "name": "Cadmium compounds",
-                "cas": "7440-43-9",
-                "ec": ""
-            },
-            {
-                "name": "Chlorine",
-                "cas": "7782-50-5",
-                "ec": ""
-            },
-            {
-                "name": "Dimethylfumarate (DMFu)",
-                "cas": "624-49-7",
-                "ec": ""
-            },
-            {
-                "name": "Formaldehyde",
-                "cas": "50-00-0",
-                "ec": ""
-            },
-            {
-                "name": "Halogenated Diphenyl Methanes",
-                "cas": "76253-60-6",
-                "ec": ""
-            },
-            {
-                "name": "Halogenated Diphenyl Methanes",
-                "cas": "81161-70-8",
-                "ec": ""
-            },
-            {
-                "name": "Halogenated Diphenyl Methanes",
-                "cas": "99688-47-8",
-                "ec": ""
-            }
-        ]
-    }
+    "chemicals": [
+        {
+            "chemical_name": "4-Aminoazobenzene",
+            "CAS": "60-09-3",
+            "regulation": "Apple Regulated Substances Specification 069-0135-M"
+        },
+        {
+            "chemical_name": "o-Aminoazotoluene",
+            "CAS": "97-56-3",
+            "regulation": "Apple Regulated Substances Specification 069-0135-M"
+        },
+        {
+            "chemical_name": "2-Amino-4-nitrotoluene",
+            "CAS": "99-55-8",
+            "regulation": "Apple Regulated Substances Specification 069-0135-M"
+        },
+        {
+            "chemical_name": "o-Anisidine",
+            "CAS": "90-04-0",
+            "regulation": "Apple Regulated Substances Specification 069-0135-M"
+        },
+        {
+            "chemical_name": "Benzidine",
+            "CAS": "92-87-5",
+            "regulation": "Apple Regulated Substances Specification 069-0135-M"
+        },
+        {
+            "chemical_name": "2,2'-dichloro-4,4'-methylenedianiline (MOCA)",
+            "CAS": "101-14-4",
+            "regulation": "Apple Regulated Substances Specification 069-0135-M"
+        },
+        {
+            "chemical_name": "Benzene",
+            "CAS": "71-43-2",
+            "regulation": "Apple Regulated Substances Specification 069-0135-M"
+        },
+        {
+            "chemical_name": "Chlorinated Organic Solvents",
+            "CAS": "OR",
+            "regulation": "Apple Regulated Substances Specification 069-0135-M"
+        },
+        {
+            "chemical_name": "Toluene",
+            "CAS": "OR",
+            "regulation": "Apple Regulated Substances Specification 069-0135-M"
+        },
+        {
+            "chemical_name": "Lead",
+            "CAS": "OR",
+            "regulation": "Apple Regulated Substances Specification 069-0135-M"
+        },
+        {
+            "chemical_name": "Mercury",
+            "CAS": "OR",
+            "regulation": "Apple Regulated Substances Specification 069-0135-M"
+        },
+        {
+            "chemical_name": "Perchlorates",
+            "CAS": "OR",
+            "regulation": "Apple Regulated Substances Specification 069-0135-M"
+        },
+        {
+            "chemical_name": "Arsenic",
+            "CAS": "7440-38-2",
+            "regulation": "Apple Regulated Substances Specification 069-0135-M"
+        },
+        {
+            "chemical_name": "Beryllium",
+            "CAS": "7440-41-7",
+            "regulation": "Apple Regulated Substances Specification 069-0135-M"
+        },
+        {
+            "chemical_name": "Bis(2-ethylhexyl) phthalate",
+            "CAS": "117-81-7",
+            "regulation": "Apple Regulated Substances Specification 069-0135-M"
+        },
+        {
+            "chemical_name": "Butyl benzyl phthalate",
+            "CAS": "85-68-7",
+            "regulation": "Apple Regulated Substances Specification 069-0135-M"
+        },
+        {
+            "chemical_name": "Cadmium",
+            "CAS": "7440-43-9",
+            "regulation": "Apple Regulated Substances Specification 069-0135-M"
+        },
+        {
+            "chemical_name": "Chlorine",
+            "CAS": "7782-50-5",
+            "regulation": "Apple Regulated Substances Specification 069-0135-M"
+        },
+        {
+            "chemical_name": "Chromium",
+            "CAS": "7440-47-3",
+            "regulation": "Apple Regulated Substances Specification 069-0135-M"
+        },
+        {
+            "chemical_name": "Dibutyl phthalate",
+            "CAS": "84-74-2",
+            "regulation": "Apple Regulated Substances Specification 069-0135-M"
+        },
+        {
+            "chemical_name": "Diisobutyl phthalate",
+            "CAS": "84-69-5",
+            "regulation": "Apple Regulated Substances Specification 069-0135-M"
+        },
+        {
+            "chemical_name": "Fluorine",
+            "CAS": "7782-41-4",
+            "regulation": "Apple Regulated Substances Specification 069-0135-M"
+        },
+        {
+            "chemical_name": "Hexavalent Chromium",
+            "CAS": "18540-29-9",
+            "regulation": "Apple Regulated Substances Specification 069-0135-M"
+        },
+        {
+            "chemical_name": "Lead",
+            "CAS": "7439-92-1",
+            "regulation": "Apple Regulated Substances Specification 069-0135-M"
+        },
+        {
+            "chemical_name": "Mercury",
+            "CAS": "7439-97-6",
+            "regulation": "Apple Regulated Substances Specification 069-0135-M"
+        },
+        {
+            "chemical_name": "Toluene",
+            "CAS": "108-88-3",
+            "regulation": "Apple Regulated Substances Specification 069-0135-M"
+        },
+        {
+            "chemical_name": "Brominated flame retardant",
+            "CAS": "N/A",
+            "regulation": "Apple Regulated Substances Specification 069-0135-M"
+        },
+        {
+            "chemical_name": "Mercury",
+            "CAS": "7439-97-6",
+            "regulation": "Apple Regulated Substances Specification 069-0135-M"
+        },
+        {
+            "chemical_name": "Lead",
+            "CAS": "7439-92-1",
+            "regulation": "Apple Regulated Substances Specification 069-0135-M"
+        },
+        {
+            "chemical_name": "Arsenic",
+            "CAS": "7440-38-2",
+            "regulation": "Apple Regulated Substances Specification 069-0135-M"
+        },
+        {
+            "chemical_name": "Brominated flame retardants",
+            "CAS": "N/A",
+            "regulation": "Apple Regulated Substances Specification 069-0135-M"
+        },
+        {
+            "chemical_name": "PVC",
+            "CAS": "9002-86-2",
+            "regulation": "Apple Regulated Substances Specification 069-0135-M"
+        },
+        {
+            "chemical_name": "Beryllium",
+            "CAS": "7440-41-7",
+            "regulation": "Apple Regulated Substances Specification 069-0135-M"
+        },
+        {
+            "chemical_name": "PFHxA",
+            "CAS": "N/A",
+            "regulation": "Apple Regulated Substances Specification 069-0135-M"
+        },
+        {
+            "chemical_name": "Phenyl, Isopropylated Phosphate (3:1)",
+            "CAS": "N/A",
+            "regulation": "Apple Regulated Substances Specification 069-0135-M"
+        },
+        {
+            "chemical_name": "Toluene",
+            "CAS": "108-88-3",
+            "regulation": "Apple Regulated Substances Specification 069-0135-M"
+        },
+        {
+            "chemical_name": "Perfluorohexanoic Acid (PFHxA)",
+            "CAS": "N/A",
+            "regulation": "Apple Regulated Substances Specification 069-0135-M"
+        },
+        {
+            "chemical_name": "REACH SVHC",
+            "CAS": "N/A",
+            "regulation": "Apple Regulated Substances Specification 069-0135-M"
+        },
+        {
+            "chemical_name": "PFAS",
+            "CAS": "N/A",
+            "regulation": "Apple Regulated Substances Specification 069-0135-M"
+        },
+        {
+            "chemical_name": "PFBS",
+            "CAS": "375-73-5",
+            "regulation": "Apple Regulated Substances Specification 069-0135-M"
+        },
+        {
+            "chemical_name": "PFOA",
+            "CAS": "335-67-1",
+            "regulation": "Apple Regulated Substances Specification 069-0135-M"
+        },
+        {
+            "chemical_name": "PFOS",
+            "CAS": "1763-23-1",
+            "regulation": "Apple Regulated Substances Specification 069-0135-M"
+        },
+        {
+            "chemical_name": "Polybrominated Diphenyl Ethers (PBDEs)",
+            "CAS": "N/A",
+            "regulation": "Apple Regulated Substances Specification 069-0135-M"
+        },
+        {
+            "chemical_name": "Polycyclic Aromatic Hydrocarbons (PAHs)",
+            "CAS": "N/A",
+            "regulation": "Apple Regulated Substances Specification 069-0135-M"
+        },
+        {
+            "chemical_name": "Melamine",
+            "CAS": "108-78-1",
+            "regulation": "Apple Regulated Substances Specification 069-0135-M"
+        },
+        {
+            "chemical_name": "N-Ethyl-2-pyrrolidone",
+            "CAS": "2687-91-4",
+            "regulation": "Apple Regulated Substances Specification 069-0135-M"
+        },
+        {
+            "chemical_name": "Alloys",
+            "CAS": "N/A",
+            "regulation": "Apple Regulated Substances Specification 069-0135-M"
+        },
+        {
+            "chemical_name": "Coating",
+            "CAS": "N/A",
+            "regulation": "Apple Regulated Substances Specification 069-0135-M"
+        },
+        {
+            "chemical_name": "Mixture",
+            "CAS": "N/A",
+            "regulation": "Apple Regulated Substances Specification 069-0135-M"
+        },
+        {
+            "chemical_name": "No intentional use",
+            "CAS": "N/A",
+            "regulation": "Apple Regulated Substances Specification 069-0135-M"
+        },
+        {
+            "chemical_name": "Paint",
+            "CAS": "N/A",
+            "regulation": "Apple Regulated Substances Specification 069-0135-M"
+        },
+        {
+            "chemical_name": "ppb",
+            "CAS": "N/A",
+            "regulation": "Apple Regulated Substances Specification 069-0135-M"
+        },
+        {
+            "chemical_name": "Primer",
+            "CAS": "N/A",
+            "regulation": "Apple Regulated Substances Specification 069-0135-M"
+        },
+        {
+            "chemical_name": "Process chemical",
+            "CAS": "N/A",
+            "regulation": "Apple Regulated Substances Specification 069-0135-M"
+        },
+        {
+            "chemical_name": "Textile",
+            "CAS": "N/A",
+            "regulation": "Apple Regulated Substances Specification 069-0135-M"
+        },
+        {
+            "chemical_name": "Varnish",
+            "CAS": "N/A",
+            "regulation": "Apple Regulated Substances Specification 069-0135-M"
+        },
+        {
+            "chemical_name": "Wearable products",
+            "CAS": "N/A",
+            "regulation": "Apple Regulated Substances Specification 069-0135-M"
+        },
+        {
+            "chemical_name": "Antimony",
+            "CAS": "7440-36-0",
+            "regulation": "Apple Regulated Substances Specification 069-0135-M"
+        },
+        {
+            "chemical_name": "Chlorinated Organic Solvents",
+            "CAS": "N/A",
+            "regulation": "Apple Regulated Substances Specification 069-0135-M"
+        },
+        {
+            "chemical_name": "n-Hexane",
+            "CAS": "110-54-3",
+            "regulation": "Apple Regulated Substances Specification 069-0135-M"
+        },
+        {
+            "chemical_name": "Hexavalent Chromium",
+            "CAS": "N/A",
+            "regulation": "Apple Regulated Substances Specification 069-0135-M"
+        },
+        {
+            "chemical_name": "Natural rubber, latex",
+            "CAS": "N/A",
+            "regulation": "Apple Regulated Substances Specification 069-0135-M"
+        },
+        {
+            "chemical_name": "PFCAs (C9-C14), their salts and related substances",
+            "CAS": "N/A",
+            "regulation": "Apple Regulated Substances Specification 069-0135-M"
+        },
+        {
+            "chemical_name": "PFHxS, its salts and related substances",
+            "CAS": "N/A",
+            "regulation": "Apple Regulated Substances Specification 069-0135-M"
+        },
+        {
+            "chemical_name": "Skin sensitizing substances",
+            "CAS": "N/A",
+            "regulation": "Apple Regulated Substances Specification 069-0135-M"
+        },
+        {
+            "chemical_name": "Adhesive monomers Group I",
+            "CAS": "N/A",
+            "regulation": "Apple Regulated Substances Specification 069-0135-M"
+        },
+        {
+            "chemical_name": "Adhesive monomers Group II",
+            "CAS": "N/A",
+            "regulation": "Apple Regulated Substances Specification 069-0135-M"
+        },
+        {
+            "chemical_name": "Benzene",
+            "CAS": "71-43-2",
+            "regulation": "Apple Regulated Substances Specification 069-0135-M"
+        },
+        {
+            "chemical_name": "Lead compounds",
+            "CAS": "N/A",
+            "regulation": "Apple Regulated Substances Specification 069-0135-M"
+        },
+        {
+            "chemical_name": "PFAS",
+            "CAS": "N/A",
+            "regulation": "Apple Regulated Substances Specification 069-0135-M"
+        },
+        {
+            "chemical_name": "PFAS",
+            "CAS": "N/A",
+            "regulation": "Apple Regulated Substances Specification 069-0135-M"
+        },
+        {
+            "chemical_name": "PFAS",
+            "CAS": "N/A",
+            "regulation": "Apple Regulated Substances Specification 069-0135-M"
+        },
+        {
+            "chemical_name": "PFAS",
+            "CAS": "N/A",
+            "regulation": "Apple Regulated Substances Specification 069-0135-M"
+        },
+        {
+            "chemical_name": "PFAS",
+            "CAS": "N/A",
+            "regulation": "Apple Regulated Substances Specification 069-0135-M"
+        },
+        {
+            "chemical_name": "PFAS",
+            "CAS": "N/A",
+            "regulation": "Apple Regulated Substances Specification 069-0135-M"
+        },
+        {
+            "chemical_name": "PFAS",
+            "CAS": "N/A",
+            "regulation": "Apple Regulated Substances Specification 069-0135-M"
+        },
+        {
+            "chemical_name": "PFAS",
+            "CAS": "N/A",
+            "regulation": "Apple Regulated Substances Specification 069-0135-M"
+        },
+        {
+            "chemical_name": "PFAS",
+            "CAS": "N/A",
+            "regulation": "Apple Regulated Substances Specification 069-0135-M"
+        },
+        {
+            "chemical_name": "PFAS",
+            "CAS": "N/A",
+            "regulation": "Apple Regulated Substances Specification 069-0135-M"
+        },
+        {
+            "chemical_name": "PFAS",
+            "CAS": "N/A",
+            "regulation": "Apple Regulated Substances Specification 069-0135-M"
+        },
+        {
+            "chemical_name": "PFAS",
+            "CAS": "N/A",
+            "regulation": "Apple Regulated Substances Specification 069-0135-M"
+        },
+        {
+            "chemical_name": "PFAS",
+            "CAS": "N/A",
+            "regulation": "Apple Regulated Substances Specification 069-0135-M"
+        },
+        {
+            "chemical_name": "PFAS",
+            "CAS": "N/A",
+            "regulation": "Apple Regulated Substances Specification 069-0135-M"
+        },
+        {
+            "chemical_name": "PFAS",
+            "CAS": "N/A",
+            "regulation": "Apple Regulated Substances Specification 069-0135-M"
+        },
+        {
+            "chemical_name": "PFAS",
+            "CAS": "N/A",
+            "regulation": "Apple Regulated Substances Specification 069-0135-M"
+        },
+        {
+            "chemical_name": "PFAS",
+            "CAS": "N/A",
+            "regulation": "Apple Regulated Substances Specification 069-0135-M"
+        },
+        {
+            "chemical_name": "PFAS",
+            "CAS": "N/A",
+            "regulation": "Apple Regulated Substances Specification 069-0135-M"
+        },
+        {
+            "chemical_name": "Benzene",
+            "CAS": "71-43-2",
+            "regulation": "Apple Regulated Substances Specification 069-0135-M"
+        },
+        {
+            "chemical_name": "Methanol",
+            "CAS": "67-56-1",
+            "regulation": "Apple Regulated Substances Specification 069-0135-M"
+        },
+        {
+            "chemical_name": "n-Hexane",
+            "CAS": "110-54-3",
+            "regulation": "Apple Regulated Substances Specification 069-0135-M"
+        },
+        {
+            "chemical_name": "N-Methylpyrrolidone (NMP)",
+            "CAS": "872-50-4",
+            "regulation": "Apple Regulated Substances Specification 069-0135-M"
+        },
+        {
+            "chemical_name": "Toluene",
+            "CAS": "108-88-3",
+            "regulation": "Apple Regulated Substances Specification 069-0135-M"
+        },
+        {
+            "chemical_name": "Ethylbenzene",
+            "CAS": "100-41-4",
+            "regulation": "Apple Regulated Substances Specification 069-0135-M"
+        },
+        {
+            "chemical_name": "Formaldehyde",
+            "CAS": "50-00-0",
+            "regulation": "Apple Regulated Substances Specification 069-0135-M"
+        },
+        {
+            "chemical_name": "Hydrogen Fluoride (HF)",
+            "CAS": "7664-39-3",
+            "regulation": "Apple Regulated Substances Specification 069-0135-M"
+        },
+        {
+            "chemical_name": "Xylene",
+            "CAS": "1330-20-7",
+            "regulation": "Apple Regulated Substances Specification 069-0135-M"
+        },
+        {
+            "chemical_name": "Tetrabromobisphenyl A (TBBA, TBBPA)",
+            "CAS": "79-94-7",
+            "regulation": "Apple Regulated Substances Specification 069-0135-M"
+        },
+        {
+            "chemical_name": "Toluene",
+            "CAS": "108-88-3",
+            "regulation": "Apple Regulated Substances Specification 069-0135-M"
+        },
+        {
+            "chemical_name": "Phenyl, Isopropylated Phosphate (3:1) or PIP 3:1",
+            "CAS": "68937-41-7",
+            "regulation": "Apple Regulated Substances Specification 069-0135-M"
+        },
+        {
+            "chemical_name": "Cobalt Compounds",
+            "CAS": "7440-48-4",
+            "regulation": "Apple Regulated Substances Specification 069-0135-M"
+        },
+        {
+            "chemical_name": "N-Ethyl-2-pyrrolidone",
+            "CAS": "2687-91-4",
+            "regulation": "Apple Regulated Substances Specification 069-0135-M"
+        },
+        {
+            "chemical_name": "Melamine",
+            "CAS": "108-78-1",
+            "regulation": "Apple Regulated Substances Specification 069-0135-M"
+        },
+        {
+            "chemical_name": "Brominated flame retardant",
+            "CAS": "",
+            "regulation": "Apple Regulated Substances Specification 069-0135-M"
+        },
+        {
+            "chemical_name": "Elemental Chlorine Free (ECF)",
+            "CAS": "",
+            "regulation": "Apple Regulated Substances Specification 069-0135-M"
+        },
+        {
+            "chemical_name": "Endocrine Disrupting Chemicals (EDCs)",
+            "CAS": "",
+            "regulation": "Apple Regulated Substances Specification 069-0135-M"
+        },
+        {
+            "chemical_name": "Per- and Polyfluoroalkyl Substances (PFAS)",
+            "CAS": "",
+            "regulation": "Apple Regulated Substances Specification 069-0135-M"
+        },
+        {
+            "chemical_name": "Lead",
+            "CAS": "7439-92-1",
+            "regulation": "Apple Regulated Substances Specification 069-0135-M"
+        },
+        {
+            "chemical_name": "Mercury",
+            "CAS": "7439-97-6",
+            "regulation": "Apple Regulated Substances Specification 069-0135-M"
+        },
+        {
+            "chemical_name": "Methyl-phenol compounds",
+            "CAS": "95-48-7",
+            "regulation": "Apple Regulated Substances Specification 069-0135-M"
+        },
+        {
+            "chemical_name": "Methyl-phenol compounds",
+            "CAS": "106-44-5",
+            "regulation": "Apple Regulated Substances Specification 069-0135-M"
+        },
+        {
+            "chemical_name": "Methyl-phenol compounds",
+            "CAS": "108-39-4",
+            "regulation": "Apple Regulated Substances Specification 069-0135-M"
+        },
+        {
+            "chemical_name": "Methyl-phenol compounds",
+            "CAS": "1319-77-3",
+            "regulation": "Apple Regulated Substances Specification 069-0135-M"
+        },
+        {
+            "chemical_name": "n-Hexane",
+            "CAS": "110-54-3",
+            "regulation": "Apple Regulated Substances Specification 069-0135-M"
+        },
+        {
+            "chemical_name": "Nickel and its compounds",
+            "CAS": "7440-02-0",
+            "regulation": "Apple Regulated Substances Specification 069-0135-M"
+        },
+        {
+            "chemical_name": "Perchlorates",
+            "CAS": "7601-89-0",
+            "regulation": "Apple Regulated Substances Specification 069-0135-M"
+        },
+        {
+            "chemical_name": "Perchlorates",
+            "CAS": "7778-74-7",
+            "regulation": "Apple Regulated Substances Specification 069-0135-M"
+        },
+        {
+            "chemical_name": "Perchlorates",
+            "CAS": "7790-98-9",
+            "regulation": "Apple Regulated Substances Specification 069-0135-M"
+        },
+        {
+            "chemical_name": "Perchlorates",
+            "CAS": "7791-03-9",
+            "regulation": "Apple Regulated Substances Specification 069-0135-M"
+        },
+        {
+            "chemical_name": "Perchlorates",
+            "CAS": "10034-81-8",
+            "regulation": "Apple Regulated Substances Specification 069-0135-M"
+        },
+        {
+            "chemical_name": "Phenyl, Isopropylated Phosphate (3:1) or PIP 3:1",
+            "CAS": "68937-41-7",
+            "regulation": "Apple Regulated Substances Specification 069-0135-M"
+        },
+        {
+            "chemical_name": "Polybrominated Biphenyls (PBBs)",
+            "CAS": "59536-65-1",
+            "regulation": "Apple Regulated Substances Specification 069-0135-M"
+        },
+        {
+            "chemical_name": "Polybrominated Diphenyl Ethers (PBDEs)",
+            "CAS": "Appendix N",
+            "regulation": "Apple Regulated Substances Specification 069-0135-M"
+        },
+        {
+            "chemical_name": "Polychlorinated Biphenyl (PCB)",
+            "CAS": "1336-36-3",
+            "regulation": "Apple Regulated Substances Specification 069-0135-M"
+        },
+        {
+            "chemical_name": "Polychlorinated Naphthalene (PCN)",
+            "CAS": "70776-03-3",
+            "regulation": "Apple Regulated Substances Specification 069-0135-M"
+        },
+        {
+            "chemical_name": "Polychlorinated Terphenyl (PCT)",
+            "CAS": "61788-33-8",
+            "regulation": "Apple Regulated Substances Specification 069-0135-M"
+        },
+        {
+            "chemical_name": "Polyvinyl Chloride (PVC)",
+            "CAS": "9002-86-2",
+            "regulation": "Apple Regulated Substances Specification 069-0135-M"
+        },
+        {
+            "chemical_name": "Antimony",
+            "CAS": "1309-64-4",
+            "regulation": "Apple Regulated Substances Specification 069-0135-M"
+        },
+        {
+            "chemical_name": "Arsenic compounds",
+            "CAS": "7440-38-2",
+            "regulation": "Apple Regulated Substances Specification 069-0135-M"
+        },
+        {
+            "chemical_name": "Benzene",
+            "CAS": "71-43-2",
+            "regulation": "Apple Regulated Substances Specification 069-0135-M"
+        },
+        {
+            "chemical_name": "Beryllium compounds",
+            "CAS": "7440-41-7",
+            "regulation": "Apple Regulated Substances Specification 069-0135-M"
+        },
+        {
+            "chemical_name": "Bisphenol A (BPA)",
+            "CAS": "80-05-7",
+            "regulation": "Apple Regulated Substances Specification 069-0135-M"
+        },
+        {
+            "chemical_name": "Bromine",
+            "CAS": "7726-95-6",
+            "regulation": "Apple Regulated Substances Specification 069-0135-M"
+        },
+        {
+            "chemical_name": "Cadmium compounds",
+            "CAS": "7440-43-9",
+            "regulation": "Apple Regulated Substances Specification 069-0135-M"
+        },
+        {
+            "chemical_name": "Chlorine",
+            "CAS": "7782-50-5",
+            "regulation": "Apple Regulated Substances Specification 069-0135-M"
+        },
+        {
+            "chemical_name": "Dimethylfumarate (DMFu)",
+            "CAS": "624-49-7",
+            "regulation": "Apple Regulated Substances Specification 069-0135-M"
+        },
+        {
+            "chemical_name": "Formaldehyde",
+            "CAS": "50-00-0",
+            "regulation": "Apple Regulated Substances Specification 069-0135-M"
+        },
+        {
+            "chemical_name": "Hexavalent Chromium compounds",
+            "CAS": "18540-29-9",
+            "regulation": "Apple Regulated Substances Specification 069-0135-M"
+        }
+    ]
 }

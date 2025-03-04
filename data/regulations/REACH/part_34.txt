@@ -1,0 +1,225 @@
+ubstance or mixture such as: 
+(a) the wearing of suitable protective equipment (including personal 
+protective equipment referred to under section 8 of the safety data 
+sheet) to prevent any contamination of skin, eyes and personal 
+clothing; 
+(b) removal of ignition sources, provision of sufficient ventilation, 
+control of dust; and 
+(c) emergency procedures such as the need to evacuate the danger 
+area or to consult an expert. 
+6.1.2. 
+For emergency responders 
+Advice shall be provided related to suitable fabric for personal 
+protective clothing (such as ‘appropriate: butylene’; ‘not appropriate: 
+PVC’). 
+6.2. 
+Environmental precautions 
+Advice shall be provided on any environmental precautions to be 
+taken related to accidental spills and release of the substance or 
+mixture, such as keeping away from drains, surface and ground water. 
+6.3. 
+Methods and material for containment and cleaning up 
+6.3.1. 
+Appropriate advice shall be provided on how to contain a spill. 
+Appropriate containment techniques may include any of the 
+following: 
+(a) bunding, covering of drains; 
+(b) capping procedures. 
+▼M58
+
+ 
+02006R1907 — EN — 17.12.2022 — 056.001 — 129 
+6.3.2. 
+Appropriate advice shall be provided on how to clean-up a spill. 
+Appropriate clean-up procedures may include any of the following: 
+(a) neutralisation techniques; 
+(b) decontamination techniques; 
+(c) adsorbent materials; 
+(d) cleaning techniques; 
+(e) vacuuming techniques; 
+(f) equipment required for containment/clean-up (include the use of 
+non-sparking tools and equipment where applicable). 
+6.3.3. 
+Any other information shall be provided relating to spills and 
+releases, including advice on inappropriate containment or clean-up 
+techniques, such as by indications like ‘never use …’. 
+6.4. 
+Reference to other sections 
+If appropriate sections 8 and 13 shall be referred to. 
+7. 
+SECTION 7: Handling and storage 
+This section of the safety data sheet shall provide advice on safe 
+handling practices. It shall emphasise precautions that are appropriate 
+to the identified uses referred to under subsection 1.2 and to the 
+unique properties of the substance or mixture. 
+Information in this section of the safety data sheet shall relate to the 
+protection of human health, safety and the environment. It shall assist 
+the employer in devising suitable working procedures and organisa­
+tional measures according to Article 5 of Directive 98/24/EC and 
+Article 5 of Directive 2004/37/EC. 
+Where a chemical safety report is required, the information in this 
+section of the safety data sheet shall be consistent with the 
+information given for the identified uses in the chemical safety 
+report and the exposure scenarios showing control of risk from the 
+chemical safety report set out in the annex to the safety data sheet. 
+In addition to information given in this section, relevant information 
+may also be found in section 8. 
+7.1. 
+Precautions for safe handling 
+7.1.1. 
+Recommendations shall be specified to: 
+(a) allow safe handling of the substance or mixture, such as 
+containment and measures to prevent fire as well as aerosol 
+and dust generation; 
+(b) prevent handling of incompatible substances or mixtures; 
+(c) draw attention to operations and conditions which create new 
+risks by altering the properties of the substance or mixture, and 
+to appropriate countermeasures; and 
+(d) reduce the release of the substance or mixture to the environment, 
+such as avoiding spills or keeping away from drains. 
+7.1.2. 
+Advice on general occupational hygiene shall be provided, such as: 
+(a) not to eat, drink and smoke in work areas; 
+(b) to wash hands after use; and 
+(c) to remove contaminated clothing and protective equipment before 
+entering eating areas. 
+▼M58
+
+ 
+02006R1907 — EN — 17.12.2022 — 056.001 — 130 
+7.2. 
+Conditions for safe storage, including any incompatibilities 
+The advice provided shall be consistent with the physical and 
+chemical properties described in section 9 of the safety data sheet. 
+If relevant, advice shall be provided on specific storage requirements 
+including: 
+(a) how to manage risks associated with: 
+(i) explosive atmospheres; 
+(ii) corrosive conditions; 
+(iii) flammability hazards; 
+(iv) incompatible substances or mixtures; 
+(v) evaporative conditions; and 
+(vi) potential ignition sources (including electrical equipment); 
+(b) how to control the effects of: 
+(i) weather conditions; 
+(ii) ambient pressure; 
+(iii) temperature; 
+(iv) sunlight; 
+(v) humidity; and 
+(vi) vibration; 
+(c) how to maintain the integrity of the substance or mixture by the 
+use of: 
+(i) stabilisers; and 
+(ii) antioxidants; 
+(d) other advice including: 
+(i) ventilation requirements; 
+(ii) specific designs for storage rooms or vessels (including 
+retention walls and ventilation); 
+(iii) quantity limits under storage conditions (if relevant); and 
+(iv) packaging compatibilities. 
+7.3. 
+Specific end use(s) 
+For substances and mixtures designed for specific end use(s), recom­
+mendations shall relate to the identified use(s) referred to in 
+subsection 1.2 and be detailed and operational. If an exposure 
+scenario is attached, reference to it may be made or the information 
+as required in subsections 7.1 and 7.2 shall be provided. If an actor in 
+the supply chain has carried out a chemical safety assessment for the 
+mixture, it is sufficient that the safety data sheet and the exposure 
+scenarios are consistent with the chemical safety report for the 
+mixture, rather than with the chemical safety reports for each 
+substance in the mixture. If industry or sector specific guidance is 
+available, detailed reference to it (including source and issuing date) 
+may be made. 
+▼M58
+
+ 
+02006R1907 — EN — 17.12.2022 — 056.001 — 131 
+8. 
+SECTION 8: Exposure controls/personal protection 
+This section of the safety data sheet shall describe the applicable 
+occupational exposure limits and necessary risk management 
+measures. 
+Where a chemical safety report is required, the information in this 
+section of the safety data sheet shall be consistent with the 
+information given for the identified uses in the chemical safety 
+report and the exposure scenarios showing control of risk from the 
+chemical safety report set out in the annex to the safety data sheet. 
+8.1. 
+Control parameters 
+8.1.1. 
+Where available, the following national limit values, including the 
+legal basis of each of them, which are currently applicable in the 
+Member State in which the safety data sheet is being provided 
+shall be listed for the substance or for each of the substances in 
+the mixture. When listing occupational exposure limit values, the 
+chemical identity as specified in section 3 shall be used. 
+8.1.1.1. 
+the national occupational exposure limit values that correspond to 
+Union occupational exposure limit values in accordance with 
+Directive 98/24/EC, including any notations as referred to in 
+Article 2(3) of Commission Decision 2014/113/EU ( 1 ); 
+8.1.1.2. 
+the national occupational exposure limit values that correspond to 
+Union limit values in accordance with Directive 2004/37/EC, 
+including any notations as referred to in Article 2(3) of Decision 
+2014/113/EU; 
+8.1.1.3. 
+any other national occupational exposure limit values; 
+8.1.1.4. 
+the national biological limit values that correspond to Union 
+biological limit values in accordance with Directive 98/24/EC, 
+including any notations as referred to in Article 2(3) of Decision 
+2014/113/EU; 
+8.1.1.5. 
+any other national biological limit values. 
+8.1.2. 
+Information on currently recommended monitoring procedures shall 
+be provided at least for the most relevant substances. 
+8.1.3. 
+If air contaminants are formed when using the substance or mixture 
+as intended, applicable occupational exposure limit values and/or 
+biological limit values for these shall also be listed. 
+8.1.4. 
+Where a chemical safety report is required or where a DNEL as 
+referred to in Section 1.4 of Annex I or a PNEC as referred to in 
+Section 3.3 of Annex I is available, the relevant DNELs and PNECs 
+for the substance shall be given for the exposure scenarios from the 
+chemical safety report set out in the annex to the safety data sheet. 
+8.1.5. 
+Where a control banding approach is used to decide on risk 
+management measures in relation to specific uses, sufficient detail 
+shall be given to enable effective management of the risk. The 
+context and limitations of the specific control banding recommen­
+dation shall be made clear. 
+▼M58 
+( 1 ) Commission Decision 2014/113/EU of 3 March 2014 on setting up a Scientific 
+Committee on Occupational Exposure Limits for Chemical Agents and repealing 
+Decision 95/320/EC (OJ L 62, 4.3.2014, p. 18).
+
+ 
+02006R1907 — EN — 17.12.2022 — 056.001 — 132 
+8.2. 
+Exposure controls 
+The information required in this subsection shall be provided, unless 
+an exposure scenario containing that information is attached to the 
+safety data sheet. 
+Where the supplier has waived a test under Section 3 of Annex XI, 
+he shall indicate the specific conditions of use relied on to justify the 
+waiving. 
+Where a substance has been registered as an isolated intermediate 
+(on-site or transported), the supplier shall indicate that this safety 
+data sheet is consistent with the specific conditions relied on to 
+justify the registration in accordance with Article 17 or 18. 
+8.2.1. 
+Appropriate engineering controls 
+The description of appropriate exposure control measures shall relate 
+to the identified use(s) of the substance or mixture as referred to in 
+subsection 1.2. This information shall be sufficient to enable the 
+employer to carry out an assessment of risk to the safety and 
+health of workers arising from the presence of the substance or 
+mixture in accordance with Articles 4 to 6 of Directive 98/24/EC 
+and Articles 3 to 5 of Directive 2004/37/EC, where appropriate. 
+This information shall complement that already given under section 7. 
+8.2.2. 
+Individual protection measures, such as

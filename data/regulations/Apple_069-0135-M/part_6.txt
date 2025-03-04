@@ -1,0 +1,175 @@
+ters 
+and refiners participating in a verification of their sourcing practices by an 
+independent third-party organization or program recognized by Apple. 
+Apple expects each supplier to provide complete and accurate reporting of its due 
+diligence efforts for all tin, tantalum, tungsten, gold, or cobalt used in Apple Component 
+Goods. Apple will audit suppliers’ Conflict Minerals data submissions to ensure 
+conformity with Apple requirements. If any supplier becomes aware that it has 
+sourced tin, tantalum, tungsten, gold, or cobalt that is from the DRC or any adjoining 
+country and that directly or indirectly financed or benefited armed groups, in any 
+Component Goods incorporated into Apple products, the supplier must immediately 
+notify Apple in writing at mineralsreporting@apple.com.
+8.4 Apple Volatile Organic Compound (VOC) Specification, 
+099-22549
+This specification sets forth Apple’s requirements for compliance with all 
+restrictions, regulations, and reporting requirements for VOC (Volatile Organic 
+Compound)-containing materials applicable to Apple products and packaging, and 
+related manufacturing processes. Compliance is applicable to the following 
+stakeholders: all contract manufacturing partners, suppliers, and vendors, including 
+all component, module, or system-level assembly facilities applying VOC-containing 
+materials. Apple expects these stakeholders to ensure that materials under the 
+scope of this specification used by their suppliers also comply with restrictions, 
+regulations, and reporting requirements defined in this specification. 
+8.5 Engineering Requirements Specification: PFAS and PFHxA 
+Definitions and Substances Lists, 099-39076
+This document is the material specification defining chemicals that may be 
+considered “Poly- or perfluoro alkyls substances” or PFAS and “Perfluorohexanoic 
+acid and its related compounds”, the most comprehensive (though non-exhaustive) 
+list of PFAS and PFHxA chemicals, and information that helps material vendors 
+provide information to Apple in order to satisfy Apple RSS reporting requirements for 
+PFAS. 
+	
+	
+14
+This document contains proprietary information of Apple Inc.
+Apple Regulated Substances Specification—069-0135-M |  March 2023
+Scope  |  Definitions  |  Restricted Substances in Products  |  Reportable Substances and Future Restrictions in Products  |  Notifying Apple of Chemical Phase Out and Reformulation from Suppliers  |  Restrictions in Manufacturing Processes  |  Reportable Substances and 
+Future Restrictions in Manufacturing Processes  |  Supplementary Specifications  |  Demonstrating Compliance  |  Waiver Process  |  Full Material Disclosure (FMD)  |  Chemical Safety Disclosure (CSD)  |  Revision History  |  Referenced Documents  |  Appendices
+
+9.  Demonstrating Compliance
+In addition to requiring test reports for the substances below, Apple may request analytical test reports demonstrating compliance for any of the substances listed in this 
+specification, at the supplier’s expense. Besides the prescribed test methods below, other test methods may be acceptable by Apple if preapproved. 
+Apple requires test reports from certified labs as proof of compliance for the following substances in homogeneous materials:
+Apple requires test reports from certified labs as proof of non-use for the following manufacturing process chemicals:
+Chemical or Chemical Group
+Test Results Required for:
+Test Method
+Arsenic (As)
+Glass
+Total acid digestion followed by ICP-MS, ICP-OES, ICP-AES
+Beryllium
+Metal alloys that contain copper and beryllia ceramics
+For metals and alloys that contain copper and solder, it is acceptable to submit a 
+Certified Mill Test Report (also known as a Mill Test Certificate) in lieu of a test 
+report as defined later in this section, if it provides full composition information
+US EPA 3050B
+US EPA 3052
+ICP-AES in addition to ICP-MS 
+ICP-OES in addition to ICP-MS 
+Bis(2-ethylhexyl) phthalate (DEHP)
+Butyl benzyl phthalate (BBP)
+Cadmium (Cd)
+Dibutyl phthalate (DBP)
+Diisobutyl phthalate (DIBP)
+Hexavalent Chromium (Cr6+)
+Lead (Pb)
+Mercury (Hg)
+Polybrominated biphenyl (PBB)
+Polybrominated diphenyl ether (PBDE)
+All materials. 
+Test reports are not required for PBB, PBDE, DEHP, BBP, DBP, and DiBP in metals, 
+glass, or ceramic
+Methods described or referenced in IEC 62321
+ISO17075-2 for Hexavalent Chromium (Cr6+) in leather
+EN 14372 followed by GC-MS for Phthalates
+Bromine (Br)
+Chlorine (Cl)
+Fluorine (F)
+All materials except metals and ceramics
+EN 14582
+US EPA SW-846 5050/9056
+ASTM D 7359-14a, DIN 53474:2017-12, or IEC62321-3-2, followed by IC testing
+PFOA
+PFOS
+Inks, leather, coated textiles, lubricants, coatings (e.g., primers, varnishes, paints, 
+CVDs, photoresist, solder resist; see Definitions section), fluoropolymer materials
+DIN CEN/TS 15968
+LC-MS-MS methods that can achieve an MDL of 25 ppb
+Any other substance listed in this specification
+Any material if requested by Apple
+As required
+Chemical or Chemical Group
+Test Results Required for:
+Test Method
+Benzene
+Cleaning agents, degreasers, demolder solutions
+Solvent extraction, analyzed by GC-MS or HPLC-MS
+5 ppm Minimum Detection Limit 
+Brominated Organic Solvents
+Cleaning agents, degreasers, demolder solutions
+EN 14582 for total bromine or US EPA SW-846 5050/9056
+50 ppm Minimum Detection Limit
+Others preapproved by Apple
+Chlorinated Organic Solvents
+Cleaning agents, degreasers, demolder solutions
+EN 14582 for total chlorine or US EPA SW-846 5050/9056
+50 ppm Minimum Detection Limit
+Others preapproved by Apple
+n-Hexane
+Cleaning agents, degreasers, demolder solutions
+Solvent extraction, analyzed by GC-MS or HPLC-MS
+5 ppm Minimum Detection Limit 
+N-Methylpyrrolidone (NMP)
+Cleaning agents, degreasers, demolder solutions
+Solvent extraction, analyzed by GC-MS or HPLC-MS
+5 ppm Minimum Detection Limit 
+Toluene
+Cleaning agents, degreasers, demolder solutions
+Solvent extraction, analyzed by GC-MS or HPLC-MS
+5 ppm Minimum Detection Limit 
+	
+	
+15
+This document contains proprietary information of Apple Inc.
+Apple Regulated Substances Specification—069-0135-M |  March 2023
+Scope  |  Definitions  |  Restricted Substances in Products  |  Reportable Substances and Future Restrictions in Products  |  Notifying Apple of Chemical Phase Out and Reformulation from Suppliers  |  Restrictions in Manufacturing Processes  |  Reportable Substances and 
+Future Restrictions in Manufacturing Processes  |  Supplementary Specifications  |  Demonstrating Compliance  |  Waiver Process  |  Full Material Disclosure (FMD)  |  Chemical Safety Disclosure (CSD)  |  Revision History  |  Referenced Documents  |  Appendices
+
+All test reports must meet the following requirements: 
+• Test reports must be no more than two years old from the date submitted to Apple 
+or Apple’s manufacturing partners. Material test reports are required for each use of 
+that material in a new product design. Suppliers are obligated to maintain 
+appropriate  processes and systems to manage test reports so that the valid reports 
+can be submitted to Apple in a timely manner. Materials tested must be 
+homogeneous. 
+Test reports that are not at a homogeneous material level are not acceptable 
+(e.g., modules made up of several homogeneous materials tested after grinding
+the entire subassembly).
+• Apple requires unaltered test reports of homogeneous materials from certified labs 
+as proof of compliance for the substances listed in Section 9. Digital test reports 
+must be in the form of original, unaltered PDF files containing text and images as 
+provided by the certified lab(s). Scanned, photographed, modified, and/or image-
+only PDF files are prohibited without Apple’s prior approval, and will be rejected at 
+Apple’s discretion.
+• A nationally or internationally certified laboratory must issue the test report. 
+Supplier-owned laboratories are acceptable if they are independently certified
+and evidence of certification is submitted to environment@apple.com for approval. 
+One example of international certification is ISO 17025.
+• Test reports based on X-ray Fluorescence Spectroscopy (XRF) are not acceptable 
+forms of compliance documentation.
+• Testing must be conducted on the material in the form present in the final Apple 
+product, accessory, or retail packaging item (i.e., “dry” or “cured”).
+• When conducting test method (EN14582) for halogens (Br, Cl, F), supplier must 
+ensure with test laboratory that the method is validated for different halogens using 
+certified reference materials.
+• Test reports submitted to Apple must be issued in English or include English if a 
+multilingual report.
+• It is the supplier’s responsibility to provide test reports at the supplier’s expense. 
+• Redacted test reports will not be accepted by Apple. They may, however, satisfy 
+contract manufacturer requirements. Contact the Apple Environmental Quality Team 
+for guidance as required. (Source: Current version of Apple Environmental Quality 
+Specification [069-8496] on Section 4.1 General Requirement).
+Apple or Apple’s manufacturing partners may request test reports on a case-by-
+case basis, at the supplier’s expense, if there are concerns regarding the validity of 
+the test data or compliance of the parts. 
+All compliance documentation (e.g., test reports and declarations) must be retained
+by the supplier for a minimum of 10 years as part of the supplier’s record-keeping 
+process. Digital formats are acceptable unless otherwise noted. Suppliers are also 
+expected to have compliance assurance processes and systems to control and 
+maintain compliance. Refer to the Apple Environmental Quality Specification 
+(069-8496) for additional information on supplier’s internal environmental quality 
+assurance requirements. Questions relating to test requirements may be directed to 
+Apple Global Supply Managers (GSM), or emailed to Apple at 
+environment@apple.com. 
+For substances that are restricted or regulated and have been replaced with an 
+alternative substance, the supplier is requ

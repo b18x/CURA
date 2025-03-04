@@ -1,0 +1,268 @@
+istration dossier. 
+▼M51 
+Without prejudice to the information submitted for other forms, any relevant 
+physicochemical, toxicological and ecotoxicological information shall include 
+characterisation of the nanoform tested and test conditions. A justification shall 
+be provided where QSARs are used or evidence is obtained by means other than 
+testing, as well as a description of the range of the characteristics/properties of 
+the nanoforms to which the evidence can be applied. 
+▼C1 
+In addition to these specific rules, a registrant may propose to adapt the required 
+standard information set out in column 1 of this Annex according to the general 
+rules contained in Annex XI. In this case as well, he shall clearly state the 
+reasons for any decision to propose adaptations to the standard information 
+under the appropriate headings in the registration dossier referring to the appro­
+priate specific rule(s) in column 2 or in Annex XI ( 2 ). 
+Before new tests are carried out to determine the properties listed in this Annex, 
+all available in vitro data, in vivo data, historical human data, data from valid 
+(Q)SARs and data from structurally related substances (read-across approach) 
+shall be assessed first. In vivo testing with corrosive substances at concen­
+tration/dose levels causing corrosivity shall be avoided. Prior to testing, further 
+guidance on testing strategies should be consulted in addition to this Annex. 
+▼M64 
+Where a test method offers flexibility in the study design, for example in relation 
+to the choice of dose levels, the chosen study design shall ensure that the data 
+generated are adequate for hazard identification and risk assessment. To this end, 
+testing shall be performed at appropriately high dose levels. If dose (concen­
+tration) selection is limited by the physicochemical properties or biological 
+effects of the test substance, justification shall be provided. 
+▼C1 
+( 1 ) This Annex shall apply to producers of articles that are required to register in accordance 
+with Article 7 and to other downstream users that are required to carry out tests under 
+this Regulation adapted as necessary. 
+( 2 ) Note: conditions for not requiring a specific test that are set out in the appropriate test 
+methods in the Commission Regulation on test methods as specified in Article 13(3) that 
+are not repeated in column 2, also apply.
+
+ 
+02006R1907 — EN — 17.12.2022 — 056.001 — 187 
+When, for certain endpoints, it is proposed not to provide information for other 
+reasons than those mentioned in column 2 of this Annex or in Annex XI, this 
+fact and the reasons shall also be clearly stated. 
+7. INFORMATION ON THE PHYSICOCHEMICAL PROPERTIES OF THE 
+SUBSTANCE 
+COLUMN 1 
+STANDARD INFORMATION 
+REQUIRED 
+COLUMN 2 
+SPECIFIC RULES FOR ADAPTATION FROM COLUMN 1 
+7.15. Stability 
+in 
+organic 
+solvents and identity of 
+relevant 
+degradation 
+products 
+Only required if stability 
+of 
+the 
+substance 
+is 
+considered to be critical. 
+7.15. The study does not need to be conducted if the substance 
+is inorganic. 
+7.16. Dissociation constant 
+7.16. The study does not need to be conducted if: 
+— the substance is hydrolytically unstable (half-life less 
+than 12 hours) or is readily oxidisable in water, or 
+►M70 __________ ◄ 
+►M64 — or based on the structure, the substance does 
+not have any chemical group that can 
+dissociate. ◄ 
+7.17. Viscosity 
+►M64 For hydrocarbon substances the kinematic viscosity 
+shall be determined at 40 °C. ◄ 
+8. TOXICOLOGICAL INFORMATION 
+COLUMN 1 
+STANDARD INFORMATION REQUIRED 
+COLUMN 2 
+SPECIFIC RULES FOR ADAPTATION FROM COLUMN 1 
+▼M70 
+8.4. 
+Mutagenicity 
+8.4. 
+The studies referred to in points 8.4.4 and 8.4.5 do not 
+need to be conducted in any of the following cases: 
+— the substance is known to cause germ cell muta­
+genicity, meeting the criteria for classification in 
+the hazard class germ cell mutagenicity category 
+1A or 1B, and appropriate risk management 
+measures are implemented, 
+— the substance is known to be a genotoxic carci­
+nogen, meeting the criteria for classification both 
+in the hazard class germ cell mutagenicity 
+category 1A, 1B or 2 and in the hazard class 
+carcinogenicity category 1A or 1B, and appro­
+priate risk management measures are implemented. 
+▼C1
+
+ 
+02006R1907 — EN — 17.12.2022 — 056.001 — 188 
+COLUMN 1 
+STANDARD INFORMATION REQUIRED 
+COLUMN 2 
+SPECIFIC RULES FOR ADAPTATION FROM COLUMN 1 
+8.4.4. An appropriate in vivo mammalian somatic cell 
+genotoxicity study, if there is a positive result in 
+any of the in vitro genotoxicity studies referred 
+to in Annex VII or Annex VIII, which gives rise 
+to concern. The in vivo mammalian somatic cell 
+genotoxicity study shall address the chro­
+mosomal 
+aberration 
+concern 
+or 
+the 
+gene 
+mutation concern or both, as appropriate. 
+8.4.4. The in vivo mammalian somatic cell genotoxicity 
+study does not need to be conducted if there are 
+adequate results available from an appropriate in 
+vivo mammalian somatic cell genotoxicity study. 
+8.4.5. An appropriate in vivo mammalian germ cell 
+genotoxicity study, if there is a positive result 
+in an available in vivo mammalian somatic cell 
+genotoxicity study, which gives rise to concern. 
+The in vivo mammalian germ cell genotoxicity 
+study shall address the chromosomal aberration 
+concern or the gene mutation concern or both, as 
+appropriate. 
+8.4.5. The study does not need to be conducted if there is 
+clear evidence that neither the substance nor its meta­
+bolites reach the germ cells. 
+▼C1 
+8.6. 
+Repeated dose toxicity 
+▼M64 
+__________ 
+▼M51 
+8.6.2. Sub-chronic toxicity study (90-day), one species, 
+rodent, male and female, most appropriate route 
+of administration, having regard to the likely 
+route of human exposure. 
+►M64 8.6.2. The sub-chronic toxicity study (90 days) 
+does not need to be conducted if: 
+— a reliable short-term toxicity study (28 
+days) 
+is 
+available 
+showing 
+severe 
+toxicity effects meeting the criteria for 
+classifying the substance as STOT RE 
+(category 1 or 2), for which the 
+observed NOAEL-28 days, with the 
+application of an appropriate uncertainty 
+factor, allows the extrapolation towards 
+the NOAEL-90 days for the same route 
+of exposure, or 
+— a reliable chronic toxicity study is 
+available or proposed by the registrant, 
+provided that an appropriate species and 
+route of administration are used, or; ◄ 
+— a substance undergoes immediate disinte­
+gration and there are sufficient data on 
+the cleavage products (both for systemic 
+effects and effects at the site of uptake), 
+or 
+▼M70
+
+ 
+02006R1907 — EN — 17.12.2022 — 056.001 — 189 
+COLUMN 1 
+STANDARD INFORMATION REQUIRED 
+COLUMN 2 
+SPECIFIC RULES FOR ADAPTATION FROM COLUMN 1 
+— the substance is unreactive, insoluble and 
+not inhalable and there is no evidence of 
+absorption and no evidence of toxicity in 
+a 28-day ‘limit test’, particularly if such a 
+pattern is coupled with limited human 
+exposure. 
+The appropriate route shall be chosen on the 
+following basis: 
+Testing by the dermal route is appropriate if: 
+(1) skin contact in production and/or use is 
+likely; and 
+(2) the physicochemical properties suggest a 
+significant rate of absorption through the 
+skin; and 
+(3) one of the following conditions is met: 
+— toxicity is observed in the acute 
+dermal toxicity test at lower doses 
+than in the oral toxicity test, or 
+— systemic effects or other evidence of 
+absorption is observed in skin and/or 
+eye irritation studies, or 
+— in vitro tests indicate significant 
+dermal absorption, or 
+— significant dermal toxicity or dermal 
+penetration is recognised for structu- 
+rally-related substances. 
+Testing by the inhalation route is appropriate 
+if: 
+— exposure of humans via inhalation is 
+likely taking into account the vapour 
+pressure of the substance and/or the 
+possibility of exposure to aerosols, parti- 
+cles or droplets of an inhalable size. 
+►M64 For nanoforms without high dissolu- 
+tion rate in biological media, the study shall 
+include toxicokinetic investigations on, 
+among others, the recovery period and, where 
+relevant, lung clearance. Toxicokinetic inves- 
+tigations do not need to be performed if 
+equivalent toxicokinetic information on the 
+nanoform is already available. ◄ 
+▼M51
+
+ 
+02006R1907 — EN — 17.12.2022 — 056.001 — 190 
+COLUMN 1 
+STANDARD INFORMATION REQUIRED 
+COLUMN 2 
+SPECIFIC RULES FOR ADAPTATION FROM COLUMN 1 
+Further studies shall be proposed by the 
+registrant or may be required by the Agency 
+in accordance with Articles 40 or 41 in case 
+of: 
+— failure to identify a NOAEL in the 90 
+days study unless the reason for the 
+failure to identify a NOAEL is absence 
+of adverse toxic effects, or 
+— toxicity of particular concern (e.g. ser- 
+ious/severe effects), or 
+— indications of an effect for which the 
+available evidence is inadequate for 
+toxicological and/or risk characterisation. 
+In such cases it may also be more 
+appropriate to perform specific toxicolo- 
+gical studies that are designed to investi- 
+gate these effects (e.g. immunotoxicity, 
+neurotoxicity, and in particular for nano- 
+forms indirect genotoxicity), or 
+— particular concern regarding exposure 
+(e.g. use in consumer products leading 
+to exposure levels which are close to the 
+dose levels at which toxicity to humans 
+may be expected). 
+▼C1 
+8.7. 
+Reproductive toxicity 
+►M64 8.7. The studies do not need to be conducted if: 
+— the substance is known to be a genotoxic 
+carcinogen, meeting the criteria for classifi­
+cation both in the hazard class germ cell 
+mutagenicity (category 1A or 1B or 2) and 
+carcinogenicity (category 1A or 1B), and 
+appropriate risk management measures are 
+implemented, or 
+— the substance is known to be a germ cell 
+mutagen, meeting the criteria for classifi­
+cation in the hazard class germ cell mutage­
+nicity (category 1A or 1B) and appropriate 
+risk management measures are implemented, 
+or 
+— the substance is of low toxicological activity 
+(a comprehensive and informative dataset 
+showing no toxicity

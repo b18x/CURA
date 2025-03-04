@@ -1,0 +1,211 @@
+ personal protective 
+equipment 
+8.2.2.1. 
+The information on use of personal protective equipment shall be 
+consistent with good occupational hygiene practices and in 
+conjunction with other control measures, including engineering 
+controls, ventilation and isolation. Where appropriate, section 5 
+shall be referred to for specific fire/chemical personal protective 
+equipment advice. 
+8.2.2.2. 
+Taking into account Regulation (EU) 2016/425 of the European 
+Parliament and of the Council ( 1 ) and referring to the appropriate 
+CEN standards, detailed specifications shall be given on which 
+equipment will provide adequate and suitable protection, including: 
+(a) E y e / f a c e p r o t e c t i o n 
+The type of eye/face protection equipment required shall be 
+specified based on the hazard of the substance or mixture and 
+potential for contact, such as safety glasses, safety goggles, face- 
+shield. 
+(b) S k i n p r o t e c t i o n 
+(i) H a n d p r o t e c t i o n 
+The type of gloves to be worn when handling the substance 
+or mixture shall be clearly specified based on the hazard of 
+the substance or mixture and potential for contact and with 
+regard to the amount and duration of dermal exposure, 
+including: 
+— the type of material and its thickness, 
+— the typical or minimum breakthrough times of the glove 
+material, 
+If necessary, any additional hand protection measures shall be 
+indicated. 
+▼M58 
+( 1 ) Regulation (EU) 2016/425 of the European Parliament and of the Council of 9 March 
+2016 on personal protective equipment and repealing Council Directive 89/686/EEC 
+(OJ L 81, 31.3.2016, p. 51).
+
+ 
+02006R1907 — EN — 17.12.2022 — 056.001 — 133 
+(ii) O t h e r 
+If it is necessary to protect a part of the body other than the 
+hands, the type and quality of protection equipment required 
+shall be specified, such as gauntlets, boots, bodysuit based on 
+the hazards associated with the substance or mixture and the 
+potential for contact. 
+If necessary, any additional skin protection measures and 
+specific hygiene measures shall be indicated. 
+(c) R e s p i r a t o r y p r o t e c t i o n 
+For gases, vapours, mist or dust, the type of protective equipment 
+to be used shall be specified based on the hazard and potential for 
+exposure, including air-purifying respirators, specifying the 
+proper purifying element (cartridge or canister), the adequate 
+particulate filters and the adequate masks, or self-contained 
+breathing apparatus. 
+(d) T h e r m a l h a z a r d s 
+When specifying protective equipment to be worn for materials 
+that represent a thermal hazard, special consideration shall be 
+given to the construction of the personal protective equipment. 
+8.2.3. 
+Environmental exposure controls 
+The information required by the employer to fulfil his commitments 
+under Union environmental protection legislation shall be specified. 
+Where a chemical safety report is required, a summary of the risk 
+management measures that adequately control exposure of the envi­
+ronment to the substance shall be given for the exposure scenarios set 
+out in the annex to the safety data sheet. 
+9. 
+SECTION 9: Physical and chemical properties 
+This section of the safety data sheet shall describe the empirical data 
+relating to the substance or mixture, if relevant. Article 8(2) of Regu­
+lation (EC) No 1272/2008 shall apply. 
+To enable proper control measures to be taken, all relevant 
+information on the substance or mixture shall be provided. The 
+information in this section shall be consistent with the information 
+provided in the registration or in the chemical safety report, where 
+required, and with the classification of the substance or mixture. 
+In the case of a mixture, where information does not apply to the 
+mixture as a whole, the entries shall clearly indicate to which 
+substance in the mixture the data apply. 
+Reported properties shall be clearly identified and reported in the 
+appropriate measurement units. The method of determination shall 
+be provided, including measurement and reference conditions, if 
+relevant for the interpretation of the numerical value. Unless 
+specified otherwise, standard conditions of temperature and pressure 
+are 20 °C and 101,3 kPa, respectively. 
+The properties listed in subsections 9.1 and 9.2 may be presented in a 
+form of a list. Within the subsections, the order of listing the prop­
+erties may be different if deemed appropriate. 
+9.1. 
+Information on basic physical and chemical properties 
+Each safety data sheet shall include the properties mentioned below. 
+If it is stated that a particular property does not apply or if 
+information on a particular property is not available, this shall be 
+clearly indicated, giving the reasons where possible. 
+▼M58
+
+ 
+02006R1907 — EN — 17.12.2022 — 056.001 — 134 
+(a) Physical state 
+The physical state (gas, liquid or solid) shall generally be 
+indicated at standard conditions of temperature and pressure. 
+The definitions of the terms gas, liquid and solid, as provided in 
+Section 1.0 of Annex I to Regulation (EC) No 1272/2008, shall 
+apply. 
+(b) Colour 
+The colour of the substance or mixture as supplied shall be 
+indicated. 
+In cases where one safety data sheet is used to cover variants of 
+a mixture which may have different colours, the term ‘various’ 
+can be used to describe the colour. 
+(c) Odour 
+A qualitative description of the odour shall be given if it is well- 
+known or described in the literature. 
+If available, the odour threshold shall be indicated (qualitatively 
+or quantitatively). 
+(d) Melting point/freezing point 
+Does not apply to gases. 
+Melting point and freezing point shall be indicated at standard 
+pressure. 
+In case the melting point is above the measuring range of the 
+method, it shall be indicated up to which temperature no melting 
+point was observed. 
+If decomposition or sublimation occur prior to or during melting, 
+it shall be indicated. 
+As regards waxes and pastes, the softening point/range may be 
+indicated instead of the melting point and freezing point. 
+As regards mixtures, if it is technically not possible to determine 
+the melting point/freezing point, this shall be indicated. 
+(e) Boiling point or initial boiling point and boiling range 
+These properties shall be indicated at standard pressure. A 
+boiling point at lower pressure might however be indicated, in 
+case the boiling point is very high or in case decomposition 
+occurs before boiling at standard pressure. 
+If the boiling point is above the measuring range of the method, 
+the temperature up to which no boiling point was observed shall 
+be indicated. 
+If decomposition occurs prior to or during boiling, this shall be 
+indicated. 
+As regards mixtures, if it is technically not possible to determine 
+their boiling point or range, this shall be indicated; in that case, 
+the boiling point of the lowest boiling ingredient shall also be 
+indicated. 
+(f) Flammability 
+Applies to gases, liquids and solids. 
+It shall be indicated whether the substance or mixture is 
+ignitable, i.e. capable of catching fire or being set on fire, 
+even if not classified for flammability. 
+If available and appropriate, further information may be indi­
+cated, such as whether the effect of ignition is other than a 
+normal combustion (e.g. an explosion) and the ignitability 
+under non-standard conditions. 
+▼M58
+
+ 
+02006R1907 — EN — 17.12.2022 — 056.001 — 135 
+More specific information on the flammability may be indicated 
+based on the respective hazard classification. The information 
+provided in subsection 9.2.1 shall not be provided in this point. 
+(g) Lower and upper explosion limit ( 1 ) 
+Do not apply to solids. 
+As regards flammable liquids, at least the lower explosion limit 
+shall be indicated. If the flash point is approximately – 25 °C or 
+higher, it may not be possible to determine the upper explosion 
+limit at standard temperature; in that case, it is recommended to 
+indicate the upper explosion limit at a higher temperature. If the 
+flash point is higher than 20 °C, it may not be possible to 
+determine the lower or the upper explosion limit at standard 
+temperature; in that case, it is recommended to indicate both 
+the lower and the upper explosion limits at a higher temperature. 
+(h) Flash point 
+Does not apply to gases, aerosols and solids. 
+For mixtures, a value for the mixture shall be indicated, if 
+available. Otherwise, the flash point(s) of the substance(s) with 
+the lowest flash point(s) shall be indicated. 
+(i) 
+Auto-ignition temperature 
+Only applies to gases and liquids. 
+As regards mixtures the auto-ignition temperature for the mixture 
+shall be indicated, if available. If the value for the mixture is not 
+available, the auto-ignition temperature(s) of the ingredients with 
+the lowest auto-ignition temperature(s) shall be indicated. 
+(j) 
+Decomposition temperature 
+Only applies to self-reactive substances and mixtures, organic 
+peroxides, and other substances and mixtures that may 
+decompose. 
+The self-accelerating decomposition temperature (SADT) and the 
+volume to which it applies, or the decomposition onset 
+temperature shall be indicated. 
+It shall be indicated whether the temperature given is the SADT 
+or the decomposition onset temperature. 
+If no decomposition was observed, it shall be indicated up to 
+which temperature no decomposition was observed, e.g. ‘no 
+decomposition observed up to x °C’. 
+(k) pH 
+Does not apply to gases. 
+The pH of the substance or mixture as supplied, or where the 
+product is a solid, the pH of an aqueous liquid or solution at a 
+given concentration, shall be indicated. 
+The concentration of the test substance or mixture in water shall 
+be indicated. 
+(l) 
+Kinematic viscosity 
+Only applies to liquids. 
+The measurement unit shall be mm 2 /s. 
+▼M58 
+( 1 ) Note: The term ‘explosion limit’ is synonymous to ‘flammability limit’, used outside the 
+Union.
+
+ 
+02006R1907 — EN — 17.12.2022 — 056.001 — 136 
+For non-Newtonian liquids, the thixotropic or rheopexic

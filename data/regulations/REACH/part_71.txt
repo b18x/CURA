@@ -1,0 +1,484 @@
+d in the column entitled ‘EC No’. 
+▼C1
+
+ 
+02006R1907 — EN — 17.12.2022 — 056.001 — 291 
+CAS number: 
+Chemical Abstracts Service (CAS) numbers have been defined for substances to 
+help in their identification. 
+N o t e s : 
+The full text of the notes can be found in Part 1 of Annex VI to Regulation (EC) 
+No 1272/2008. 
+The notes to be taken into account for the purposes of this Regulation are the 
+following: 
+Note A: 
+Without prejudice to Article 17(2) of Regulation (EC) No 1272/2008, the name 
+of the substance must appear on the label in the form of one of the designations 
+given in Part 3 of Annex VI to that Regulation. 
+In that Part, use is sometimes made of a general description such as ‘… 
+compounds’ or ‘… salts’. In this case, the supplier who places such a 
+substance on the market is required to state on the label the correct name, due 
+account being taken of Section 1.1.1.4 of Annex VI to Regulation (EC) No 
+1272/2008. 
+▼M14 
+Note B: 
+Some substances (acids, bases, etc.) are placed on the market in aqueous 
+solutions at various concentrations and, therefore, these solutions require 
+different classification and labelling since the hazards vary at different concen­
+trations. 
+▼M5 
+Note C: 
+Some organic substances may be marketed either in a specific isomeric form or 
+as a mixture of several isomers. 
+Note D: 
+Certain substances which are susceptible to spontaneous polymerisation or 
+decomposition are generally placed on the market in a stabilised form. It is in 
+this form that they are listed in Part 3 of Annex VI to Regulation (EC) No 
+1272/2008. 
+However, such substances are sometimes placed on the market in a non-stabilised 
+form. In this case, supplier who places such a substance on the market must state 
+on the label the name of the substance followed by the words ‘non-stabilised’. 
+Note J: 
+The classification as a carcinogen or mutagen need not apply if it can be shown 
+that the substance contains less than 0,1 % w/w benzene (EC No 200-753-7). 
+Note K: 
+The classification as a carcinogen or mutagen need not apply if it can be shown that 
+the substance contains less than 0,1 % w/w 1,3-butadiene (EC No 203-450-8). 
+Note L: 
+The classification as a carcinogen need not apply if it can be shown that the 
+substance contains less than 3 % DMSO extract as measured by IP 346. 
+Note M: 
+The classification as a carcinogen need not apply if it can be shown that the 
+substance contains less than 0,005 % w/w benzo[a]-pyrene (EC No 200-028-5). 
+Note N: 
+The classification as a carcinogen need not apply if the full refining history is 
+known and it can be shown that the substance from which it is produced is not a 
+carcinogen. 
+▼M5
+
+ 
+02006R1907 — EN — 17.12.2022 — 056.001 — 292 
+Note P: 
+The classification as a carcinogen or mutagen need not apply if it can be shown 
+that the substance contains less than 0,1 % w/w benzene (EC No 200-753-7). 
+Note R: 
+The classification as a carcinogen need not apply to fibres with a length weighted 
+geometric mean diameter, less two standard errors, greater than 6μm. 
+▼M5
+
+ 
+02006R1907 — EN — 17.12.2022 — 056.001 — 293 
+Appendix 1 
+▼M61 
+Entry 28 – Carcinogens: Category 1A 
+▼C1 
+Substances 
+Index No 
+EC No 
+CAS No 
+Notes 
+Chromium (VI) trioxide 
+024-001-00-0 
+215-607-8 
+1333-82-0 
+►M5 _______ ◄ 
+Zinc chromates including zinc 
+potassium chromate 
+024-007-00-3 
+▼M14 
+Nickel monoxide; [1] 
+028-003-00-2 
+215-215-7 [1] 
+1313-99-1 [1] 
+Nickel oxide; [2] 
+234-323-5 [2] 
+11099-02-8 [2] 
+Bunsenite; [3] 
+- [3] 
+34492-97-2 [3] 
+Nickel dioxide 
+028-004-00-8 
+234-823-3 
+12035-36-8 
+Dinickel trioxide 
+028-005-00-3 
+215-217-8 
+1314-06-3 
+Nickel (II) sulfide; [1] 
+028-006-00-9 
+240-841-2 [1] 
+16812-54-7 [1] 
+Nickel sulfide; [2] 
+234-349-7 [2] 
+11113-75-0 [2] 
+Millerite; [3] 
+- [3] 
+1314-04-1 [3] 
+Trinickel disulfide; 
+028-007-00-4 
+Nickel subsulfide; [1] 
+234-829-6 [1] 
+12035-72-2 [1] 
+Heazlewoodite; [2] 
+- [2] 
+12035-71-1 [2] 
+Nickel dihydroxide; [1] 
+028-008-00-X 
+235-008-5 [1] 
+12054-48-7 [1] 
+Nickel hydroxide; [2] 
+234-348-1 [2] 
+11113-74-9 [2] 
+Nickel sulfate 
+028-009-00-5 
+232-104-9 
+7786-81-4 
+Nickel carbonate; 
+028-010-00-0 
+Basic nickel carbonate; 
+Carbonic acid, nickel (2+) salt; [1] 
+222-068-2 [1] 
+3333-67-3 [1] 
+Carbonic acid, nickel salt; [2] 
+240-408-8 [2] 
+16337-84-1 [2] 
+[μ-[carbonato(2-)-O:O′]] dihydroxy 
+trinickel; [3] 
+265-748-4 [3] 
+65405-96-1 [3] 
+[carbonato(2-)] 
+tetrahydroxytrinickel; [4] 
+235-715-9 [4] 
+12607-70-4 [4] 
+Nickel dichloride 
+028-011-00-6 
+231-743-0 
+7718-54-9 
+▼C1
+
+ 
+02006R1907 — EN — 17.12.2022 — 056.001 — 294 
+Substances 
+Index No 
+EC No 
+CAS No 
+Notes 
+Nickel dinitrate; [1] 
+028-012-00-1 
+236-068-5 [1] 
+13138-45-9 [1] 
+Nitric acid, nickel salt; [2] 
+238-076-4 [2] 
+14216-75-2 [2] 
+Nickel matte 
+028-013-00-7 
+273-749-6 
+69012-50-6 
+Slimes and sludges, copper elec­
+trolytic 
+refining, 
+decopperised, 
+nickel sulphate 
+028-014-00-2 
+295-859-3 
+92129-57-2 
+Slimes and sludges, copper elec­
+trolyte refining, decopperised 
+028-015-00-8 
+305-433-1 
+94551-87-8 
+Nickel diperchlorate; 
+Perchloric acid, nickel (II) salt 
+028-016-00-3 
+237-124-1 
+13637-71-3 
+Nickel dipotassium bis(sulfate); [1] 
+028-017-00-9 
+237-563-9 [1] 
+13842-46-1 [1] 
+Diammonium nickel bis(sulfate); 
+[2] 
+239-793-2 [2] 
+15699-18-0 [2] 
+Nickel bis(sulfamidate); 
+Nickel sulfamate 
+028-018-00-4 
+237-396-1 
+13770-89-3 
+Nickel bis(tetrafluoroborate) 
+028-019-00-X 
+238-753-4 
+14708-14-6 
+Nickel diformate; [1] 
+028-021-00-0 
+222-101-0 [1] 
+3349-06-2 [1] 
+Formic acid, nickel salt; [2] 
+239-946-6 [2] 
+15843-02-4 [2] 
+Formic acid, copper nickel salt; [3] 
+268-755-0 [3] 
+68134-59-8 [3] 
+Nickel di(acetate); [1] 
+028-022-00-6 
+206-761-7 [1] 
+373-02-4 [1] 
+Nickel acetate; [2] 
+239-086-1 [2] 
+14998-37-9 [2] 
+Nickel dibenzoate 
+028-024-00-7 
+209-046-8 
+553-71-9 
+Nickel bis(4-cyclohexylbutyrate) 
+028-025-00-2 
+223-463-2 
+3906-55-6 
+Nickel (II) stearate; 
+Nickel (II) octadecanoate 
+028-026-00-8 
+218-744-1 
+2223-95-2 
+Nickel dilactate 
+028-027-00-3 
+— 
+16039-61-5 
+Nickel (II) octanoate 
+028-028-00-9 
+225-656-7 
+4995-91-9 
+Nickel difluoride; [1] 
+028-029-00-4 
+233-071-3 [1] 
+10028-18-9 [1] 
+Nickel dibromide; [2] 
+236-665-0 [2] 
+13462-88-9 [2] 
+Nickel diiodide; [3] 
+236-666-6 [3] 
+13462-90-3 [3] 
+Nickel potassium fluoride; [4] 
+- [4] 
+11132-10-8 [4] 
+Nickel hexafluorosilicate 
+028-030-00-X 
+247-430-7 
+26043-11-8 
+▼M14
+
+ 
+02006R1907 — EN — 17.12.2022 — 056.001 — 295 
+Substances 
+Index No 
+EC No 
+CAS No 
+Notes 
+Nickel selenate 
+028-031-00-5 
+239-125-2 
+15060-62-5 
+Nickel hydrogen phosphate; [1] 
+028-032-00-0 
+238-278-2 [1] 
+14332-34-4 [1] 
+Nickel bis(dihydrogen phosphate); 
+[2] 
+242-522-3 [2] 
+18718-11-1 [2] 
+Trinickel bis(orthophosphate); [3] 
+233-844-5 [3] 
+10381-36-9 [3] 
+Dinickel diphosphate; [4] 
+238-426-6 [4] 
+14448-18-1 [4] 
+Nickel bis(phosphinate); [5] 
+238-511-8 [5] 
+14507-36-9 [5] 
+Nickel phosphinate; [6] 
+252-840-4 [6] 
+36026-88-7 [6] 
+Phosphoric acid, calcium nickel 
+salt; [7] 
+- [7] 
+17169-61-8 [7] 
+Diphosphoric acid, nickel (II) salt; 
+[8] 
+- [8] 
+19372-20-4 [8] 
+Diammonium nickel hexacyano­
+ferrate 
+028-033-00-6 
+— 
+74195-78-1 
+Nickel dicyanide 
+028-034-00-1 
+209-160-8 
+557-19-7 
+Nickel chromate 
+028-035-00-7 
+238-766-5 
+14721-18-7 
+Nickel (II) silicate; [1] 
+028-036-00-2 
+244-578-4 [1] 
+21784-78-1 [1] 
+Dinickel orthosilicate; [2] 
+237-411-1 [2] 
+13775-54-7 [2] 
+Nickel silicate (3:4); [3] 
+250-788-7 [3] 
+31748-25-1 [3] 
+Silicic acid, nickel salt; [4] 
+253-461-7 [4] 
+37321-15-6 [4] 
+Trihydrogen hydroxybis[orthosili­
+cato(4-)]trinickelate(3-); [5] 
+235-688-3 [5] 
+12519-85-6 [5] 
+Dinickel hexacyanoferrate 
+028-037-00-8 
+238-946-3 
+14874-78-3 
+Trinickel bis(arsenate); 
+Nickel (II) arsenate 
+028-038-00-3 
+236-771-7 
+13477-70-8 
+Nickel oxalate; [1] 
+028-039-00-9 
+208-933-7 [1] 
+547-67-1 [1] 
+Oxalic acid, nickel salt; [2] 
+243-867-2 [2] 
+20543-06-0 [2] 
+Nickel telluride 
+028-040-00-4 
+235-260-6 
+12142-88-0 
+Trinickel tetrasulfide 
+028-041-00-X 
+— 
+12137-12-1 
+Trinickel bis(arsenite) 
+028-042-00-5 
+— 
+74646-29-0 
+Cobalt nickel gray periclase; 
+028-043-00-0 
+C.I. Pigment Black 25; 
+C.I. 77332; [1] 
+269-051-6 [1] 
+68186-89-0 [1] 
+Cobalt nickel dioxide; [2] 
+261-346-8 [2] 
+58591-45-0 [2] 
+Cobalt nickel oxide; [3] 
+- [3] 
+12737-30-3 [3] 
+▼M14
+
+ 
+02006R1907 — EN — 17.12.2022 — 056.001 — 296 
+Substances 
+Index No 
+EC No 
+CAS No 
+Notes 
+Nickel tin trioxide; 
+Nickel stannate 
+028-044-00-6 
+234-824-9 
+12035-38-0 
+Nickel triuranium decaoxide 
+028-045-00-1 
+239-876-6 
+15780-33-3 
+Nickel dithiocyanate 
+028-046-00-7 
+237-205-1 
+13689-92-4 
+Nickel dichromate 
+028-047-00-2 
+239-646-5 
+15586-38-6 
+Nickel (II) selenite 
+028-048-00-8 
+233-263-7 
+10101-96-9 
+Nickel selenide 
+028-049-00-3 
+215-216-2 
+1314-05-2 
+Silicic acid, lead nickel salt 
+028-050-00-9 
+— 
+68130-19-8 
+Nickel diarsenide; [1] 
+028-051-00-4 
+235-103-1 [1] 
+12068-61-0 [1] 
+Nickel arsenide; [2] 
+248-169-1 [2] 
+27016-75-7 [2] 
+Nickel barium titanium primrose 
+priderite; 
+028-052-00-X 
+271-853-6 
+68610-24-2 
+C.I. Pigment Yellow 157; 
+C.I. 77900 
+Nickel dichlorate; [1] 
+028-053-00-5 
+267-897-0 [1] 
+67952-43-6 [1] 
+Nickel dibromate; [2] 
+238-596-1 [2] 
+14550-87-9 [2] 
+Ethyl hydrogen sulfate, nickel (II) 
+salt; [3] 
+275-897-7 [3] 
+71720-48-4 [3] 
+Nickel (II) trifluoroacetate; [1] 
+028-054-00-0 
+240-235-8 [1] 
+16083-14-0 [1] 
+Nickel (II) propionate; [2] 
+222-102-6 [2] 
+3349-08-4 [2] 
+Nickel bis(benzenesulfonate); [3] 
+254-642-3 [3] 
+39819-65-3 [3] 
+Nickel (II) hydrogen citrate; [4] 
+242-533-3 [4] 
+18721-51-2 [4] 
+Citric acid, ammonium nickel salt; 
+[5] 
+242-161-1 [5] 
+18283-82-4 [5] 
+Citric acid, nickel salt; [6] 
+245-119-0 [6] 
+22605-92-1 [6] 
+Nickel bis(2-ethylhexanoate); [7] 
+224-699-9 [7] 
+4454-16-4 [7] 
+2-Ethylhexanoic acid, nickel salt; 
+[8] 
+231-480-1 [8] 
+7580-31-6 [8] 
+Dimethylhexanoic acid nickel salt; 
+[9] 
+301-323-2 [9] 
+93983-68-7 [9] 
+Nickel (II) isooctanoate; [10] 
+249-555-2 [10] 
+29317-63-3 [10] 
+Nickel isooctanoate; [11] 
+248-585-3 [11] 
+27637-46-3 [11] 
+Nickel bis(isononanoate); [12] 
+284-349-6 [12] 
+84852-37-9 [12] 
+▼M14
+
+ 
+02006R1907 — EN — 17.12.2022 — 0

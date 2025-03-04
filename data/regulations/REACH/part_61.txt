@@ -1,0 +1,269 @@
+ [3903 11] 
+— acrylonitrile methylmethacrylate (AMMA) 
+— cross-linked polyethylene (VPE) 
+— high-impact polystyrene 
+— polypropylene (PP) [3902 10] 
+Mixtures and articles produced from plastic material as 
+listed above shall not be placed on the market if the 
+concentration of cadmium (expressed as Cd metal) is 
+equal to or greater than 0,01 % by weight of the plastic 
+material. ◄ 
+►C5 By way of derogation, the second subparagraph 
+shall not apply to articles placed on the market before 
+10 December 2011. ◄ 
+The first and second subparagraphs apply without 
+prejudice to Council Directive 94/62/EC (**) and acts 
+adopted on its basis. 
+►M17 By 19 November 2012, in accordance with 
+Article 69, the Commission shall ask the European 
+Chemicals Agency to prepare a dossier conforming to the 
+requirements of Annex XV in order to assess whether the 
+use of cadmium and its compounds in plastic material, 
+other than that listed in subparagraph 1, should be 
+restricted. ◄ 
+►M35 2.   Shall not be used or placed on the market 
+in paints with codes [3208] [3209] in a concentration 
+(expressed as Cd metal) equal to or greater than 0,01 % 
+by weight. 
+For paints with codes [3208] [3209] with a zinc content 
+exceeding 10 % by weight of the paint, the concentration 
+of cadmium (expressed as Cd metal) shall not be equal to 
+or greater than 0,1 % by weight. 
+Painted articles shall not be placed on the market if the 
+concentration of cadmium (expressed as Cd metal) is 
+equal to or greater than 0,1 % by weight of the paint on 
+the painted article. ◄ 
+3.   By way of derogation, paragraphs 1 and 2 shall not 
+apply to articles coloured with mixtures containing 
+cadmium for safety reasons. 
+4.   By way of derogation, paragraph 1, second 
+subparagraph shall not apply to: 
+— mixtures produced from PVC waste, hereinafter 
+referred to as ‘recovered PVC’, 
+— mixtures and articles containing recovered PVC if 
+their concentration of cadmium (expressed as Cd 
+metal) does not exceed 0,1 % by weight of the plastic 
+material in the following rigid PVC applications: 
+▼M5
+
+ 
+02006R1907 — EN — 17.12.2022 — 056.001 — 249 
+Column 1 
+Designation of the substance, of the group of substances or of the 
+mixture 
+Column 2 
+Conditions of restriction 
+(a) profiles and rigid sheets for building applications; 
+(b) doors, windows, shutters, walls, blinds, fences, 
+and roof gutters; 
+(c) decks and terraces; 
+(d) cable ducts; 
+(e) pipes for non-drinking water if the recovered 
+PVC is used in the middle layer of a multilayer 
+pipe and is entirely covered with a layer of newly 
+produced PVC in compliance with paragraph 1 
+above. 
+Suppliers shall ensure, before the placing on the market 
+of mixtures and articles containing recovered PVC for the 
+first time, that these are visibly, legibly and indelibly 
+marked as follows: ‘Contains recovered PVC’ or with the 
+following pictogram: 
+In accordance with Article 69 of this Regulation, the 
+derogation granted in paragraph 4 will be reviewed, in 
+particular with a view to reducing the limit value for 
+cadmium and to reassess the derogation for the applica- 
+tions listed in points (a) to (e), by 31 December 2017. ◄ 
+5.   For the purpose of this entry, ‘cadmium plating’ 
+means any deposit or coating of metallic cadmium on a 
+metallic surface. 
+Shall not be used for cadmium plating metallic articles or 
+components of the articles used in the following sectors/ 
+applications: 
+(a) equipment and machinery for: 
+— food production [8210] [8417 20] [8419 81] 
+[8421 11] [8421 22] [8422] [8435] [8437] [8438] 
+[8476 11] 
+— agriculture [8419 31] [8424 81] [8432] [8433] 
+[8434] [8436] 
+— cooling and freezing [8418] 
+— printing and book-binding [8440] [8442] [8443] 
+(b) equipment and machinery for the production of: 
+▼M5
+
+ 
+02006R1907 — EN — 17.12.2022 — 056.001 — 250 
+Column 1 
+Designation of the substance, of the group of substances or of the 
+mixture 
+Column 2 
+Conditions of restriction 
+— household goods [7321] [8421 12] [8450] [8509] 
+[8516] 
+— furniture [8465] [8466] [9401] [9402] [9403] 
+[9404] 
+— sanitary ware [7324] 
+— central heating and air conditioning plant [7322] 
+[8403] [8404] [8415] 
+In any case, whatever their use or intended final purpose, 
+the placing on the market of cadmium-plated articles or 
+components of such articles used in the sectors/applica- 
+tions listed in points (a) and (b) above and of articles 
+manufactured in the sectors listed in point (b) above is 
+prohibited. 
+6.   The provisions referred to in paragraph 5 shall also 
+be applicable to cadmium-plated articles or components 
+of such articles when used in the sectors/applications 
+listed in points (a) and (b) below and to articles 
+manufactured in the sectors listed in (b) below: 
+(a) equipment and machinery for the production of: 
+— paper and board [8419 32] [8439] [8441] textiles 
+and clothing [8444] [8445] [8447] [8448] [8449] 
+[8451] [8452] 
+(b) equipment and machinery for the production of: 
+— industrial handling equipment and machinery 
+[8425] [8426] [8427] [8428] [8429] [8430] 
+[8431] 
+— road and agricultural vehicles [chapter 87] 
+— rolling stock [chapter 86] 
+— vessels [chapter 89] 
+7.   However, the restrictions in paragraphs 5 and 6 
+shall not apply to: 
+— articles and components of the articles used in the 
+aeronautical, aerospace, mining, offshore and nuclear 
+sectors whose applications require high safety 
+standards and in safety devices in road and 
+agricultural vehicles, rolling stock and vessels, 
+— electrical contacts in any sector of use, where that is 
+necessary to ensure the reliability required of the 
+apparatus on which they are installed. 
+▼M5
+
+ 
+02006R1907 — EN — 17.12.2022 — 056.001 — 251 
+Column 1 
+Designation of the substance, of the group of substances or of the 
+mixture 
+Column 2 
+Conditions of restriction 
+►M13 8.   Shall not be used in brazing fillers in 
+concentration equal to or greater than 0,01 % by weight. 
+Brazing fillers shall not be placed on the market if the 
+concentration of cadmium (expressed as Cd metal) is 
+equal to or greater than 0,01 % by weight. 
+For the purpose of this paragraph brazing shall mean a 
+joining technique using alloys and undertaken at 
+temperatures above 450 °C. 
+9.   By way of derogation, paragraph 8 shall not apply 
+to brazing fillers used in defence and aerospace 
+applications and to brazing fillers used for safety reasons. 
+10.   Shall not be used or placed on the market if the 
+concentration is equal to or greater than 0,01 % by 
+weight of the metal in: 
+(i) metal beads and other metal components for 
+jewellery making; 
+(ii) metal parts of jewellery and imitation jewellery 
+articles and hair accessories, including: 
+— bracelets, necklaces and rings, 
+— piercing jewellery, 
+— wrist-watches and wrist-wear, 
+— brooches and cufflinks. 
+►C5 11. 
+By way of derogation, paragraph 10 shall 
+not apply to articles placed on the market before 
+10 December 2011 and jewellery more than 50 years 
+old on 10 December 2011. ◄ ◄ 
+(*) OJ L 256, 7.9.1987, p. 42. 
+(**) OJ L 365, 31.12.1994, p. 10. 
+24. Monomethyl — tetrachlorodiphenyl methane 
+Trade name: Ugilec 141 
+CAS No 76253-60-6 
+1.   Shall not be placed on the market, or used, as a 
+substance or in mixtures. 
+Articles containing the substance shall not be placed on 
+the market. 
+2.   By way of derogation, paragraph 1 shall not 
+apply: 
+(a) in the case of plant and machinery already in 
+service on 18 June 1994, until such plant and 
+machinery is disposed of; 
+(b) in the case of the maintenance of plant and 
+machinery already in service within a Member 
+State on 18 June 1994. 
+▼M5
+
+ 
+02006R1907 — EN — 17.12.2022 — 056.001 — 252 
+Column 1 
+Designation of the substance, of the group of substances or of the 
+mixture 
+Column 2 
+Conditions of restriction 
+For the purposes of point (a) Member States may, on 
+grounds of human health protection and environmental 
+protection, prohibit within their territory the use of such 
+plant or machinery before it is disposed of. 
+25. Monomethyl-dichloro-diphenyl methane 
+Trade name: Ugilec 121 
+Ugilec 21 
+Shall not be placed on the market, or used, as a 
+substance or in mixtures. 
+Articles containing the substance shall not be placed on 
+the market. 
+26. Monomethyl-dibromo-diphenyl methane bromobenzyl­
+bromotoluene, mixture of isomers 
+Trade name: DBBT 
+CAS No 99688-47-8 
+Shall not be placed on the market, or used, as a 
+substance or in mixtures. 
+Articles containing the substance shall not be placed on 
+the market. 
+27. Nickel 
+CAS No 7440-02-0 
+EC No 231-111-4 and its compounds 
+1.   Shall not be used: 
+(a) in any post assemblies which are inserted into 
+pierced ears and other pierced parts of the human 
+body unless the rate of nickel release from such post 
+assemblies is less than 0,2 μg/cm 2 /week (migration 
+limit); 
+(b) in articles intended to come into direct and 
+prolonged contact with the skin such as: 
+— 
+earrings, 
+— 
+necklaces, bracelets and chains, anklets, finger 
+rings, 
+— 
+wrist-watch cases, watch straps and tighteners, 
+— 
+rivet buttons, tighteners, rivets, zippers and 
+metal marks, when these are used in garments, 
+if the rate of nickel release from the parts of these 
+articles coming into direct and prolonged contact 
+with the skin is greater than 0,5 μg/cm 2 /week. 
+(c) in articles referred to in point (b) where these have a 
+non-nickel coating unless such coating is sufficient 
+to ensure that the rate of nickel release from those 
+parts of such articles coming into direct and 
+prolonged contact with the skin will not exceed 
+0,5 μg/cm 2 /week for a period of at least two years 
+of normal use of the article. 
+2.   Articles which are the subject of paragraph 1 shall 
+not be placed on the market unless they conform to the 
+requirements set out in that paragraph. 
+▼M5
+
+ 
+02006R1907 — EN — 17.12.2022 — 056.001 — 253 
+Column 1 
+Designation of the substance, of the group of substances or of the 
+mixture 
+Column 2 
+Conditions of restriction 
+3.   The 
+standards 
+adopted 
+by 
+the 
+European 
+Committee for Sta

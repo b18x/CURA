@@ -1,0 +1,98 @@
+t PFOA and PFOS into separate listings and updated PFOA restriction. Added restriction on REACH Candidate List of SVHCs, HBCDD. Moved 
+listing for Radioactive Substances from reportable to restricted. Updated restrictions for Cadmium, Chlorine, Bromine, Hexavalent Chromium, Lead, and Mercury to include “compounds.” Created separate restriction listing for 
+Heavy Metals in packaging. Updated scope for restriction on PAHs to External Materials. Updated threshold for reportable listings Benzene, Chlorinated Organic Solvents, and Toluene to reference wet formulation. Changed 
+Parts/Components utilizing RoHS exemptions from priority phase-out 3 to 2. Added reportable listings, priority 2 phase-out listings Bisphenol F/Bisphenol S and VOCs. Added reportable listings for EDCs, Additive Phosphorous 
+Flame Retardants, IEC 62474 substances, Indium Phosphide, PFAS, and Biocides. Changed the priority phase out for several listings to “Reportable.” Added Section “Notifying Apple of Chemical Phase Out and Reformulation 
+from Suppliers.” Added restriction on nPB in manufacturing process. Created new section “Reportable Substances and Future Restrictions in Manufacturing Processes.” Changed Beryllium test results required for Metals and 
+Ceramics. Added requirement for test results for DEHP, BBP, DBP, and DIBP. Added test report requirement for PFOA/PFOS for leather, textiles, and coatings. Added manufacturing chemical test report requirements for nPB. 
+Removed test reports being valid for the life of the component. Added additional requirements for test reports. Updated Appendices D, E, F, and I with additional substances. Created Appendices K, L, and M. 
+J
+March 21, 2016
+Folded the following specifications into 069-0135-J: Apple RoHS Compliance Specification (069-1111), Apple Specification on Restriction of Beryllium (099-3471), and Apple Specification on the Restriction of Bromine and 
+Chlorine (069-1857). Added additional asbestos compounds. Updated Azo dyes, Arylamines, and Anilines into Appendix A. Updated formaldehyde content restrictions. Updated restrictions for lead. Additional CAS numbers 
+added for Perchlorates. Added Appendix B for Chlorinated Paraffins. Added Appendix C for Organotin compounds, Appendix D for Perfluorinated compounds, Appendix E for Phthalates. Lowered the thresholds for PAHs. 
+Lowered the threshold for PCBs. Added reporting requirements for benzene, toluene, and chlorinated solvents, proposition 65 list, Washington State’s List of Chemicals of High Concern, and substances allowed due to RoHS 
+exemptions in Section 4. Phase out priorities added to all the items in reportable Section 4. Added Manufacturing Process restrictions for NMP and Toluene in Section 5. Updated content restriction values for Benzene, 
+Chlorinated Organic Solvents, n-Hexane, and Toluene in Section 5. Updated Supplementary Specifications. Updated Section 7, Demonstrating Compliance. Added testing requirements for manufacturing process chemicals. 
+Added Section 9 relating to Full Material Disclosure (FMD).
+H
+June 20, 2014
+Updated definition of Homogeneous Material, Separated Reportable Substances into new section; updated requirements for azo dyes, beryllium, BPA, cadmium, halogenated biphenyl methanes, Lacey Act, lead, organic tin, 
+PFOS, PFOA, phthalates, PVC, REACH SVHCs, TBBPA, benzene, n-Hexane, chlorinated solvents, nPB in ODC, conflict minerals; removed Halogens; addition of Soft Goods Regulated Substances and Beryllium Restriction 
+Specifications in Section 6 for Supplementary Specifications; addition of alternative assessment verbiage and testing requirements for cleaning agents and degreasers in Section 7 for Demonstrating Compliance.
+G
+April 11, 2013
+Updated REACH SVHCs, arsenic, asbestos, beryllium requirements, new nickel standard. Added REACH 1907/2006 and amendments, reference to RoHS Recast (RoHS 2), CEPA substances, perchlorate, new phthalates, lead 
+in surface coating, PFOA, BPA reporting, benzotriazole, new PAHs, Lacey Act, and EU Timber Regulation, additional ODCs, benzene and n-Hexane restrictions in manufacturing. Removed polystyrene, gallium. Added reference 
+to 069-8496 for supplier QA. Updated Conflict Minerals reference. Added PFOA/PFOS testing requirement for ink and paints.
+F
+January 6, 2010
+Added restrictions on DMF, PAH, PFOS, organic tin compounds, formaldehyde in textiles, and certain phthalates. Added notification requirements and restrictions for substances regulated by REACH. Adjusted arsenic limit and 
+added test report requirement for arsenic in glass. Added reference to Conflict Minerals Restriction specification.
+E
+October 9, 2007
+Updated format; introduced restrictions on Br, Cl, TBBA, red phosphorus, gallium; updated limits on As, Pb, Cd, Hg, Cr(VI), asbestos, chlorinated paraffins, formaldehyde, diphenyl methanes, nickel, organic Sn, PCB, PCN, PCT, 
+PVC, radioactive substances; added Be to watch list; limited scope restrictions on Chlorinated Organic Solvents.
+D
+October 26, 2004
+Updated plastics Pb limit; merged plastics and cables section; added appendix for guidance on Pb restrictions; added appendix with summary table of permissible limits.
+C
+August 18, 2004
+Changed format, new substances added, included permissible limits.
+B
+February 12, 2003
+Initial release
+A
+December 10, 2002
+Initial release
+
+14.  Referenced Documents
+069-5202: Conflict Minerals Restriction, Apple Inc.
+069-8496: Apple Environmental Quality Specification, Apple Inc. 
+080-00316: Apple FMD Data Requirements for Part Suppliers, Apple Inc. 
+080-00967: Apple FMD Data Use Policy, Apple Inc.
+080-01462: Apple FMD Data Requirements for Material Suppliers, Apple Inc.
+099-3470: Apple Regulated Substances Specification; Prolonged Skin Contact Materials
+099-39076: Engineering Requirements Specification: PFAS and PFHxA Definitions and Substances
+94/62/EC: Directive of the European Parliament and of the Council on Packaging
+and Packaging waste, 94/62/EC, December 1994.
+2019/1021/EU: European Parliament and the Council of the European Union recasted a Regulation on persistent organic pollutants (2019/1021/EC)  amended the regulation 
+(2004/850/EC) in July 2019
+2009/425/EC: Commission Decision 2009/425/EC of 28 May 2009 amending Council Directive 76/769/EEC: As regards restrictions on the marketing and use of organostannic 
+compounds for the purpose of adapting its Annex I to technical progress.
+2010/153/EU: Prolonging the validity of Decision 2009/251/EC requiring Member States to ensure that products containing the biocide dimethylfumarate are not
+placed or made available on the market.
+2011/65/EU: The restriction of the use of certain hazardous substances in electrical and electronic equipment (“RoHS Recast”). This directive replaces the directive 2002/95/EC of 
+the European Parliament and of the Council of 27 January 2003 on 
+the restriction of the use of certain hazardous substances in electrical and electronic equipment.
+2011/696/EU: Commission recommendation of 18 October 2011 on the definition
+of nanomaterial.
+2013/56/EU: 2013/56/EU Directive amended 2006/66/EC Directive of the European Parliament and of the Council of 6 September 2006 on batteries and accumulators and waste 
+batteries and accumulators, and repealing Directive 91/157/EEC.
+ACGIH: American Conference of Governmental Industrial Hygienist (ACGIH), Guide to Occupational Exposure Values, 2013.
+	
+	
+19
+Scope  |  Definitions  |  Restricted Substances in Products  |  Reportable Substances and Future Restrictions in Products  |  Notifying Apple of Chemical Phase Out and Reformulation from Suppliers  |  Restrictions in Manufacturing Processes  |  Reportable Substances and 
+Future Restrictions in Manufacturing Processes  |  Supplementary Specifications  |  Demonstrating Compliance  |  Waiver Process  |  Full Material Disclosure (FMD)  |  Chemical Safety Disclosure (CSD)  |  Revision History  |  Referenced Documents  |  Appendices
+This document contains proprietary information of Apple Inc.
+Apple Regulated Substances Specification—069-0135-M  |  March 2023
+
+AIHA TWA: The AIHA Guideline Foundation Workplace Environmental Exposure Levels® (WEELs®) provide guidance for protecting most workers from adverse health effects related to 
+occupational chemical exposures expressed as time-weighted average (TWA).
+Apple Supplier Code of Conduct and Supplier Responsibility Standards: See supplier requirements at www.apple.com/supplier-responsibility. 
+ASTM D6499: Standard Test Method for Immunological Measurement of Antigenic Protein in Hevea Natural Rubber (HNR) and its Products.
+ASTM D7359 - 14a: Standard Test Method for Total Fluorine, Chlorine and Sulfur in Aromatic Hydrocarbons and Their Mixtures by Oxidative Pyrohydrolytic Combustion followed 
+by Ion Chromatography Detection (Combustion Ion Chromatography-CIC).
+Bedarfsgegenstande Verordnung: German National Law (consumer article regulation).
+CA DTSC: California Department of Toxic Substances Control; Perchlorate Contamination Prevention Act of 2003, AB 826.
+Cal OSHA: California Department of Public Health, Occupational Health Branch, 
+PELs, Title 8, section 5155/AC-1.
+California Prop 65: The Safe Drinking Water and Toxic Enforcement Act of 1986, California Health and Safety Code, Division 20, Chapter 6.5, sections 25249.5 through 25249.13.
+Canadian Environmental Protection Act, 1999 (CEPA 1999): Chemicals Management Plan, Section 71.
+ChemVerbotsV: Chemical Prohibition Ordinance, Germany.
+Children’s Safe Products Act (CSPA): Washington State’s Children’s Safe Products Act reporting List of Chemicals of High Concern to Children (CHCC), US.
+China RoHS: Administration methods for use of hazardous substance in electrical 
+and electronic products, Ministry of Industry and Information Technology of People’s Republic of China, Order#32, January 21, 2016.
+CLP Regulation (EC) No. 1272/2008: Classification, Labeling and Packaging complements Dangerous Substances Directive (67/548/EEC) and the Dangerous Preparations 
+Directive (1999/45/E

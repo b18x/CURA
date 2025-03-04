@@ -1,0 +1,200 @@
+ owner of the study shall provide 
+proof of its cost to the participant(s) requesting it. The participant(s) and 
+the owner shall make every effort to ensure that the costs of sharing the 
+information are determined in a fair, transparent and non discriminatory 
+way. This may be facilitated by following any cost sharing guidance 
+which is based on those principles and is adopted by the Agency in 
+accordance with Article 77(2)(g). If they cannot reach such an 
+agreement, the cost shall be shared equally. The owner shall give 
+permission to refer to the full study report for the purpose of registration 
+within two weeks of receipt of payment. Registrants are only required to 
+share in the costs of information that they are required to submit to 
+satisfy their registration requirements. 
+▼C1
+
+ 
+02006R1907 — EN — 17.12.2022 — 056.001 — 39 
+2. 
+If a relevant study involving tests is not available within the SIEF, 
+only one study shall be conducted per information requirement within 
+each SIEF by one of its participants acting on behalf of the others. They 
+shall take all reasonable steps to reach an agreement within a deadline 
+set by the Agency as to who is to carry out the test on behalf of the 
+other participants and to submit a summary or robust study summary to 
+the Agency. If no agreement is reached, the Agency shall specify which 
+registrant or downstream user shall perform the test. All participants of 
+the SIEF who require a study shall contribute to the costs for the 
+elaboration of the study with a share corresponding to the number of 
+participating potential registrants. Those participants that do not carry 
+out the study themselves shall have the right to receive the full study 
+report within two weeks following payment to the participant that 
+carried out the study. 
+3. 
+If the owner of a study as referred to in paragraph 1 which 
+involves testing on vertebrate animals refuses to provide either proof 
+of the cost of that study or the study itself to (an) other participant(s), he 
+shall not be able to proceed with registration until he provides the 
+information to the other participants(s). The other participant(s) shall 
+proceed with registration without fulfilling the relevant information 
+requirement, explaining the reason for this in the registration dossier. 
+The study shall not be repeated unless within 12 months of the date of 
+registration of the other participant(s), the owner of this information has 
+not provided it to them and the Agency decides that the test should be 
+repeated by them. However, if a registration containing this information 
+has already been submitted by another registrant, the Agency shall give 
+the other participant(s) permission to refer to the information in his 
+registration dossier(s). The other registrant shall have a claim on the 
+other participant(s) for an equal share of the cost, provided he makes the 
+full study report available to the other participant(s), which shall be 
+enforceable in the national courts. 
+4. 
+If the owner of a study as referred to in paragraph 1 which does 
+not involve testing on vertebrate animals refuses to provide either proof 
+of the cost of that study or the study itself to (an)other participant(s), the 
+other SIEF participants shall proceed with registration as if no relevant 
+study was available in the SIEF. 
+5. 
+An appeal may be brought, in accordance with Articles 91, 92 and 
+93, against Agency decisions under paragraphs 2 or 3 of this Article. 
+6. 
+The owner of the study who has refused to provide either proof of 
+the cost or the study itself, as referred to in paragraph 3 or 4 of this 
+Article, shall be penalised in accordance with Article 126. 
+TITLE IV 
+INFORMATION IN THE SUPPLY CHAIN 
+Article 31 
+Requirements for safety data sheets 
+1. 
+The supplier of a substance or a ►M3 mixture ◄ shall provide 
+the recipient of the substance or ►M3 mixture ◄ with a safety data 
+sheet compiled in accordance with Annex II: 
+▼C1
+
+ 
+02006R1907 — EN — 17.12.2022 — 056.001 — 40 
+(a) where a substance or mixture meets the criteria for classification as 
+hazardous in accordance with Regulation (EC) No 1272/2008; or 
+▼C1 
+(b) where a substance is persistent, bioaccumulative and toxic or very 
+persistent and very bioaccumulative in accordance with the criteria 
+set out in Annex XIII; or 
+(c) where a substance is included in the list established in accordance 
+with Article 59(1) for reasons other than those referred to in points 
+(a) and (b). 
+2. 
+Any actor in the supply chain who is required, under Articles 14 
+or 37, to carry out a chemical safety assessment for a substance shall 
+ensure that the information in the safety data sheet is consistent with the 
+information in this assessment. If the safety data sheet is developed for a 
+►M3 mixture ◄ and the actor in the supply chain has prepared a 
+chemical safety assessment for that ►M3 mixture ◄, it is sufficient 
+if the information in the safety data sheet is consistent with the chemical 
+safety report for the ►M3 mixture ◄ instead of with the chemical 
+safety report for each substance in the ►M3 mixture ◄. 
+▼M3 
+3. 
+The supplier shall provide the recipient at his request with a safety 
+data sheet compiled in accordance with Annex II, where a mixture does 
+not meet the criteria for classification as hazardous in accordance with 
+Titles I and II of Regulation (EC) No 1272/2008, but contains: 
+(a) in an individual concentration of ≥ 1 % by weight for non-gaseous 
+mixtures and ≥ 0,2 % by volume for gaseous mixtures at least one 
+substance posing human health or environmental hazards; or 
+(b) in an individual concentration of ≥ 0,1 % by weight for non-gaseous 
+mixtures at least one substance that is carcinogenic category 2 or 
+toxic to reproduction category 1A, 1B and 2, skin sensitiser 
+category 1, respiratory sensitiser category 1, or has effects on or 
+via lactation or is persistent, bioaccumulative and toxic (PBT) in 
+accordance with the criteria set out in Annex XIII or very persistent 
+and very bioaccumulative (vPvB) in accordance with the criteria set 
+out in Annex XIII or has been included for reasons other than those 
+referred to in point (a) in the list established in accordance with 
+Article 59(1); or 
+(c) a substance for which there are Community workplace exposure 
+limits. 
+4. 
+The safety data sheet need not be supplied where hazardous 
+substances or mixtures offered or sold to the general public are 
+provided with sufficient information to enable users to take the 
+necessary measures as regards the protection of human health, safety 
+and the environment, unless requested by a downstream user or 
+distributor. 
+▼C1 
+5. 
+The safety data sheet shall be supplied in an official language of 
+the Member State(s) where the substance or ►M3 mixture ◄ is placed 
+on the market, unless the Member State(s) concerned provide otherwise. 
+▼M3
+
+ 
+02006R1907 — EN — 17.12.2022 — 056.001 — 41 
+6. 
+The safety data sheet shall be dated and shall contain the 
+following headings: 
+1. identification of the substance/►M3 mixture ◄ and of the 
+company/undertaking; 
+2. hazards identification; 
+3. composition/information on ingredients; 
+4. first-aid measures; 
+5. fire-fighting measures; 
+6. accidental release measures; 
+7. handling and storage; 
+8. exposure controls/personal protection; 
+9. physical and chemical properties; 
+10. stability and reactivity; 
+11. toxicological information; 
+12. ecological information; 
+13. disposal considerations; 
+14. transport information; 
+15. regulatory information; 
+16. other information. 
+7. 
+Any actor in the supply chain who is required to prepare a 
+chemical safety report according to Articles 14 or 37 shall place the 
+relevant exposure scenarios (including use and exposure categories 
+where appropriate) in an annex to the safety data sheet covering 
+identified uses and including specific conditions resulting from the 
+application of Section 3 of Annex XI. 
+Any downstream user shall include relevant exposure scenarios, and use 
+other relevant information, from the safety data sheet supplied to him 
+when compiling his own safety data sheet for identified uses. 
+Any distributor shall pass on relevant exposure scenarios, and use other 
+relevant information, from the safety data sheet supplied to him when 
+compiling his own safety data sheet for uses for which he has passed on 
+information according to Article 37(2). 
+▼M3 
+8. 
+A safety data sheet shall be provided free of charge on paper or 
+electronically no later than the date on which the substance or mixture is 
+first supplied. 
+▼C1 
+9. 
+Suppliers shall update the safety data sheet without delay on the 
+following occasions: 
+(a) as soon as new information which may affect the risk management 
+measures, or new information on hazards becomes available; 
+(b) once an authorisation has been granted or refused; 
+▼C1
+
+ 
+02006R1907 — EN — 17.12.2022 — 056.001 — 42 
+(c) once a restriction has been imposed. 
+The new, dated version of the information, identified as ‘Revision: 
+(date)’, shall be provided free of charge on paper or electronically to 
+all former recipients to whom they have supplied the substance or 
+►M3 mixture ◄ within the preceding 12 months. Any updates 
+following registration shall include the registration number. 
+▼M3 
+10. 
+Where substances are classified in accordance with Regulation 
+(EC) No 1272/2008 during the period from its entry into force until 
+1 December 2010, that classification may be added in the safety data 
+sheet together with the classification in accordance with Directive 
+67/548/EEC. 
+From 1 December 2010 until 1 June 2015, the safety data sheets for 
+substances shall contain the classification according to both Directive 
+67/548/EEC and Regulation (EC) No 1272/2008. 
+Where mixtures are classified in accordance with Regulation (EC) No 
+1272/2008 during the period from its entry into force until 1 June 2015, 
+that classification may be added in the safety data sheet, together with 
+the classification in ac

@@ -1,0 +1,546 @@
+oleum), straight-run 
+naphtha 
+hydrodesulphuriser; 
+Refinery gas 
+(A complex combination obtained 
+from the hydrodesulphurisation of 
+straight-run naphtha. It consists of 
+hydrogen and hydrocarbons having 
+carbon numbers predominantly in 
+the range of C 1 through C 5 .) 
+649-166-00-1 
+273-174-0 
+68952-80-7 
+►M21 _______ ◄ K 
+Gases (petroleum), sponge absorber 
+off, fluidised catalytic cracker and 
+gas oil desulphuriser overhead frac­
+tionation; Refinery gas 
+(A complex combination obtained 
+by the fractionation of products 
+from the fluidised catalytic cracker 
+and 
+gas 
+oil 
+desulphuriser. 
+It 
+consists of hydrogen and hydro­
+carbons having carbon numbers 
+predominantly in the range of C 1 
+through C 4 .) 
+649-167-00-7 
+273-269-7 
+68955-33-9 
+►M21 _______ ◄ K 
+Gases (petroleum), crude distil­
+lation 
+and 
+catalytic 
+cracking; 
+Refinery gas 
+(A complex combination produced 
+by crude distillation and catalytic 
+cracking processes. It consists of 
+hydrogen, 
+hydrogen 
+sulphide, 
+nitrogen, carbon monoxide and 
+paraffinic 
+and 
+olefinic 
+hydro­
+carbons having carbon numbers 
+predominantly in the range of C 1 
+through C 6 .) 
+649-168-00-2 
+273-563-5 
+68989-88-8 
+►M21 _______ ◄ K 
+▼C1
+
+ 
+02006R1907 — EN — 17.12.2022 — 056.001 — 496 
+Substances 
+Index No 
+EC No 
+CAS No 
+Notes 
+Gases (petroleum), gas oil dietha­
+nolamine scrubber off; Refinery gas 
+(A complex combination produced 
+by desulphurisation of gas oils with 
+diethanolamine. 
+It 
+consists 
+predominantly 
+of 
+hydrogen 
+sulphide, hydrogen and aliphatic 
+hydrocarbons 
+having 
+carbon 
+numbers in the range of C 1 
+through C 5 .) 
+649-169-00-8 
+295-397-2 
+92045-15-3 
+►M21 _______ ◄ K 
+Gases (petroleum), gas oil hydrode­
+sulphurisation 
+effluent; Refinery 
+gas 
+(A complex combination obtained 
+by separation of the liquid phase 
+from the effluent from the hydroge­
+nation reaction. It consists predomi­
+nantly 
+of 
+hydrogen, 
+hydrogen 
+sulphide and aliphatic hydrocarbons 
+having carbon numbers predomi­
+nantly in the range of C 1 through 
+C 3 .) 
+649-170-00-3 
+295-398-8 
+92045-16-4 
+►M21 _______ ◄ K 
+Gases (petroleum), gas oil hydrode­
+sulphurisation purge; Refinery gas 
+(A complex combination of gases 
+obtained from the reformer and 
+from the purges from the hydroge­
+nation reactor. It consists predomi­
+nantly of hydrogen and aliphatic 
+hydrocarbons 
+having 
+carbon 
+numbers 
+predominantly 
+in 
+the 
+range of C 1 through C 4 .) 
+649-171-00-9 
+295-399-3 
+92045-17-5 
+►M21 _______ ◄ K 
+Gases (petroleum), hydrogenator 
+effluent flash drum off; Refinery 
+gas 
+(A complex combination of gases 
+obtained 
+from 
+flash 
+of 
+the 
+effluents after the hydrogenation 
+reaction. It consists predominantly 
+of hydrogen and aliphatic hydro­
+carbons having carbon numbers 
+predominantly in the range of C 1 
+through C 6 .) 
+649-172-00-4 
+295-400-7 
+92045-18-6 
+►M21 _______ ◄ K 
+▼C1
+
+ 
+02006R1907 — EN — 17.12.2022 — 056.001 — 497 
+Substances 
+Index No 
+EC No 
+CAS No 
+Notes 
+Gases (petroleum), naphtha steam 
+cracking 
+high-pressure 
+residual; 
+Refinery gas 
+(A complex combination obtained 
+as 
+a 
+mixture 
+of 
+the 
+non- 
+condensable 
+portions 
+from 
+the 
+product 
+of 
+a 
+naphtha 
+steam 
+cracking 
+process 
+as 
+well 
+as 
+residual gases obtained during the 
+preparation 
+of 
+subsequent 
+products. It consists predominantly 
+of hydrogen and paraffinic and 
+olefinic 
+hydrocarbons 
+having 
+carbon numbers predominantly in 
+the range of C 1 through C 5 with 
+which natural gas may also be 
+mixed.) 
+649-173-00-X 
+295-401-2 
+92045-19-7 
+►M21 _______ ◄ K 
+Gases 
+(petroleum), 
+residue 
+visbaking off; Refinery gas 
+(A complex combination obtained 
+from 
+viscosity 
+reduction 
+of 
+residues in a furnace. It consists 
+predominantly 
+of 
+hydrogen 
+sulphide 
+and 
+paraffinic 
+and 
+olefinic 
+hydrocarbons 
+having 
+carbon numbers predominantly in 
+the range of C 1 through C 5 .) 
+649-174-00-5 
+295-402-8 
+92045-20-0 
+►M21 _______ ◄ K 
+Gases (petroleum), C 3-4 ; Petroleum 
+gas 
+(A complex combination of hydro­
+carbons produced by distillation of 
+products from the cracking of crude 
+oil. It consists of hydrocarbons 
+having carbon numbers in the 
+range of C 3 through C 4 , predomi­
+nantly of propane and propylene, 
+and boiling in the range of approxi­
+mately - 51 °C to - 1 °C.) 
+649-177-00-1 
+268-629-5 
+68131-75-9 
+►M21 _______ ◄ K 
+Tail 
+gas 
+(petroleum), 
+catalytic 
+cracked 
+distillate 
+and 
+catalytic 
+cracked 
+naphtha 
+fractionation 
+absorber; Petroleum gas 
+(The 
+complex 
+combination 
+of 
+hydrocarbons from the distillation 
+of the products from catalytic 
+cracked distillates and catalytic 
+cracked 
+naphtha. 
+It 
+consists 
+predominantly 
+of 
+hydrocarbons 
+having carbon numbers in the 
+range of C 1 through C 4 .) 
+649-178-00-7 
+269-617-2 
+68307-98-2 
+►M21 _______ ◄ K 
+▼C1
+
+ 
+02006R1907 — EN — 17.12.2022 — 056.001 — 498 
+Substances 
+Index No 
+EC No 
+CAS No 
+Notes 
+Tail gas (petroleum), catalytic poly­
+merisation 
+naphtha 
+fractionation 
+stabiliser; Petroleum gas 
+(A complex combination of hydro­
+carbons 
+from 
+the 
+fractionation 
+stabilisation products from poly­
+merisation of naphtha. It consists 
+predominantly 
+of 
+hydrocarbons 
+having carbon numbers in the 
+range of C 1 through C 4 .) 
+649-179-00-2 
+269-618-8 
+68307-99-3 
+►M21 _______ ◄ K 
+Tail 
+gas 
+(petroleum), 
+catalytic 
+reformed 
+naphtha 
+fractionation 
+stabiliser, hydrogen sulphide-free; 
+Petroleum gas 
+(A complex combination of hydro­
+carbons obtained from fractionation 
+stabilisation of catalytic reformed 
+naphtha and from which hydrogen 
+sulphide has been removed by 
+amine 
+treatment. 
+It 
+consists 
+predominantly 
+of 
+hydrocarbons 
+having carbon numbers predomi­
+nantly in the range of C 1 through 
+C 4 .) 
+649-180-00-8 
+269-619-3 
+68308-00-9 
+►M21 _______ ◄ K 
+Tail 
+gas 
+(petroleum), 
+cracked 
+distillate 
+hydrotreater 
+stripper; 
+Petroleum gas 
+(A complex combination of hydro­
+carbons 
+obtained 
+by 
+treating 
+thermal cracked distillates with 
+hydrogen in the presence of a 
+catalyst. It consists predominantly 
+of saturated hydrocarbons having 
+carbon numbers predominantly in 
+the range of C 1 through C 6 .) 
+649-181-00-3 
+269-620-9 
+68308-01-0 
+►M21 _______ ◄ K 
+Tail gas (petroleum), straight-run 
+distillate 
+hydrodesulphuriser, 
+hydrogen sulphide-free; Petroleum 
+gas 
+(A complex combination of hydro­
+carbons obtained from catalytic 
+hydrodesulphurisation of straight 
+run distillates and from which 
+hydrogen 
+sulphide 
+has 
+been 
+removed by amine treatment. It 
+consists predominantly of hydro­
+carbons having carbon numbers 
+predominantly in the range of C 1 
+through C 4 .) 
+649-182-00-9 
+269-630-3 
+68308-10-1 
+►M21 _______ ◄ K 
+▼C1
+
+ 
+02006R1907 — EN — 17.12.2022 — 056.001 — 499 
+Substances 
+Index No 
+EC No 
+CAS No 
+Notes 
+Tail 
+gas 
+(petroleum), 
+gas 
+oil 
+catalytic 
+cracking 
+absorber; 
+Petroleum gas 
+(A complex combination of hydro­
+carbons obtained from the distil­
+lation 
+of 
+products 
+from 
+the 
+catalytic cracking of gas oil. It 
+consists predominantly of hydro­
+carbons having carbon numbers 
+predominantly in the range of C 1 
+through C 5 .) 
+649-183-00-4 
+269-623-5 
+68308-03-2 
+►M21 _______ ◄ K 
+Tail gas (petroleum), gas recovery 
+plant; Petroleum gas 
+(A complex combination of hydro­
+carbons from the distillation of 
+products from miscellaneous hydro­
+carbon 
+streams. 
+It 
+consists 
+predominantly 
+of 
+hydrocarbons 
+having carbon numbers predomi­
+nantly in the range of C 1 through 
+C 5 .) 
+649-184-00-X 
+269-624-0 
+68308-04-3 
+►M21 _______ ◄ K 
+Tail gas (petroleum), gas recovery 
+plant deethaniser; Petroleum gas 
+(A complex combination of hydro­
+carbons from the distillation of 
+products from miscellaneous hydro­
+carbon streams. It consists of 
+hydrocarbon 
+having 
+carbon 
+numbers 
+predominantly 
+in 
+the 
+range of C 1 through C 4 .) 
+649-185-00-5 
+269-625-6 
+68308-05-4 
+►M21 _______ ◄ K 
+Tail gas (petroleum), hydrodesul­
+phurised distillate and hydrodesul­
+phurised 
+naphtha 
+fractionator, 
+acid-free; Petroleum gas 
+(A complex combination of hydro­
+carbons obtained from fractionation 
+of hydrodesulphurised naphtha and 
+distillate hydrocarbon streams and 
+treated to remove acidic impurities. 
+It consists predominantly of hydro­
+carbons having carbon numbers 
+predominantly in the range of C 1 
+through C 5 .) 
+649-186-00-0 
+269-626-1 
+68308-06-5 
+►M21 _______ ◄ K 
+Tail gas (petroleum), hydrodesul­
+phurised vacuum gas oil stripper, 
+hydrogen sulphide-free; Petroleum 
+gas 
+(A complex combination of hydro­
+carbons obtained from stripping 
+stabilisation of catalytic hydrode­
+sulphurised vacuum gas oil and 
+from which hydrogen sulphide has 
+been removed by amine treatment. 
+It consists predominantly of hydro­
+carbons having carbon numbers 
+predominantly in the range of C 1 
+through C 6 .) 
+649-187-00-6 
+269-627-7 
+68308-07-6 
+►M21 _______ ◄ K 
+▼C1
+
+ 
+02006R1907 — EN — 17.12.2022 — 056.001 — 500 
+Substances 
+Index No 
+EC No 
+CAS No 
+Notes 
+Tail gas (petroleum), light straight- 
+run naphtha stabiliser, hydrogen 
+sulphide-free; Petroleum gas 
+(A complex combination of hydro­
+carbons obtained from fractionation 
+stabilisation of light straight-run 
+naphtha and from which hydrogen 
+sulphide has been removed by 
+amine 
+treatment. 
+It 
+consists 
+predominantly 
+of 
+hydrocarbons 
+having carbon numbers predomi­
+nantly in the range of C 1 through 
+C 5 .) 
+649-188-00-1 
+269-629-8 
+68308-09-8 
+►M21 _______ ◄ K 
+Tail 
+gas 
+(petroleum), 
+propane- 
+propylene 
+alkylation feed prep 
+deethaniser; Petroleum gas 
+(A complex combination of hydro­
+carbons obtained from the distil­
+lation of the reaction products of 
+propane with propylene. It consists 
+of hydrocarbons having carbon 
+numbers 
+predominantly 
+in 
+the 
+range of C 1 through C 4 .) 
+649-189-00-7 
+269-631-9 
+68308-11-2 
+►M21 _______ ◄ K 
+Tail gas (petroleum), vacuum gas 
+oil hydrodesulphuriser, hydrogen 
+sulphide-free; Petroleum gas 
+(A complex combination of hydro­
+carbons obtained from catalytic 
+hydrodesulphurisation of vacuum 
+gas oil and from which hydrogen 
+sulphide has been removed by 
+amine 
+treatment. 
+It 
+consists 
+pred

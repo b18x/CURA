@@ -1,0 +1,122 @@
+C) replaced by EU REACH Directive.
+CPSIA, 2008: Consumer Product Safety Improvement Act of 2008–Public Law 110-314; US.
+CRS 001/1983: Executive Directive CRS 001/1983 Regulates Procedures for the Handling, Storage, and Transport of PCB-Contaminated Equipment in Brazil.
+DIN 53474:2017-12: Testing of plastics, rubber and elastomers - Determination of the chlorine content.
+DIN CEN/TS 15968: Determination of extractable perfluorooctane sulfonates (PFOS) in coated and impregnated solid articles, liquids, and fire fighting foams.
+DIN EN ISO 17075: Leather–Chemical Tests–Determination of chromium(VI) content
+EC No. 2037/2000: Regulation (EC) No. 2037/2000 of the European Parliament and of the Council of 29 June 2000 on substances that deplete the ozone layer.
+EC/757/2010: Commission Regulation (EU) No. 757/2010 amending Regulation (EC) No. 850/2004 of the European Parliament and of the Council on persistent organic pollutants 
+(perfluorooctane sulfonates) as regards Annexes IV and V. 
+ECHA/NA/15/29: SEAC (Committee for Socio Economic Analysis) concludes on Bisphenol A, DecaBDE, and PFOA restrictions and finalizes two opinions for authorization, 
+September 2015.
+EN 14372:2004: Child use and care articles. Cutlery and feeding utensils. Safety requirements and tests.
+	
+	
+20
+This document contains proprietary information of Apple Inc.
+Apple Regulated Substances Specification—069-0135-M |  March 2023
+Scope  |  Definitions  |  Restricted Substances in Products  |  Reportable Substances and Future Restrictions in Products  |  Notifying Apple of Chemical Phase Out and Reformulation from Suppliers  |  Restrictions in Manufacturing Processes  |  Reportable Substances and 
+Future Restrictions in Manufacturing Processes  |  Supplementary Specifications  |  Demonstrating Compliance  |  Waiver Process  |  Full Material Disclosure (FMD)  |  Chemical Safety Disclosure (CSD)  |  Revision History  |  Referenced Documents  |  Appendices
+
+EN 1811:2011+A1:2015: Reference test method for release of nickel from all post assemblies that are articles intended to come into direct and prolonged contact with the skin. 
+Replaces BS EN 1811:2011
+EN 14582:2016: Characterization of waste. Halogen and sulfur content. Oxygen combustion in closed systems and determination methods. British Standards Institute, 2016. 
+EPA SW-846 5050/9056: Bomb preparation method for solid waste; Method 9056: Determination of inorganic anions by ion chromatography. EPA,1994. 
+EU/1272/2013: Commission Regulation (EU) No. 1272/2013 to amend Entry 50 of Annex XVII to REACH Regulation (EC) No. 1907/2006 on the restrictions of polycyclic aromatic 
+hydrocarbons (PAH).
+EU 2017/1000: Commission Regulation (EU) 2017/1000 of 13 June 2017 amending Annex XVII to Regulation (EC) No 1907/2006 of the European Parliament and of the Council 
+concerning the Registration, Evaluation, Authorisation and Restriction of Chemicals (REACH) as regards perfluorooctanoic acid (PFOA), its salts and PFOA-related substances.
+	
+	
+21
+This document contains proprietary information of Apple Inc.
+Apple Regulated Substances Specification—069-0135-M |  March 2023
+Scope  |  Definitions  |  Restricted Substances in Products  |  Reportable Substances and Future Restrictions in Products  |  Notifying Apple of Chemical Phase Out and Reformulation from Suppliers  |  Restrictions in Manufacturing Processes  |  Reportable Substances and 
+Future Restrictions in Manufacturing Processes  |  Supplementary Specifications  |  Demonstrating Compliance  |  Waiver Process  |  Full Material Disclosure (FMD)  |  Chemical Safety Disclosure (CSD)  |  Revision History  |  Referenced Documents  |  Appendices
+
+EU No. 528/2012 (BPR): Regulation (EU) No 528/2012 of the European Parliament and of the Council of 22 May 2012 concerning the making available on the market 
+and use of biocidal products.
+EU Timber Regulation: Regulation laying down the obligations of operators who place timber and timber products on the market: (EU) No. 995/2010.
+France Decree No. 2012-232, Environmental Code Article L. 523-4: Annual declaration of nanoparticles in substances.
+GB 18401: Chinese National General Safety Technical Code for Textile Products: 
+GB 18401–2010.
+GB 20400: Limit of Harmful Matters in Leather and Fur, 2006 (Chinese mandatory standard).
+GB/T 26572: Chinese Standards on the Requirements of Concentration Limits for Certain Restricted Substances in Electrical and Electronic Products, 2011.
+GBZ 2.1-2007: Occupational exposure limits for hazardous agents in the workplace 
+in China, 1 November 2007.
+IEC 62321: Determination of certain substances in electrotechnical products. IEC, 2008. Updates in 2013 and 2015.
+IEC 62474: Material Declaration for Products of and for the Electrotechnical Industry.
+IEEE 1680.1-2018: IEEE Standard for Environmental and Social Responsibility Assessment of Computers and Displays, IEEE, 2018.  
+ISO17075-2:2017: Leather — Chemical determination of chromium(VI) content in leather — Part 2: Chromatographic method, 2017. 
+Japan Chemical Substances Control Law (CSCL): Japanese Chemical Substances Control Law (CSCL) and amendments, 2011.
+Japanese Laws: Japanese Laws for the Regulation of Nuclear Source Material, Nuclear Fuel Material, and Reactors, 1986.
+Lacey Act (16 U.S.C. §§ 3371–3378): Amended in the Food, Conservation, and Energy Act of 2008 (Pub. L. 110-234, H.R. 2419, 122 Stat. 923, enacted May 22, 2008), 
+expanded its protection to a broader range of plants and plant products (Section 8204. Prevention of Illegal Logging Practices).
+	
+	
+22
+This document contains proprietary information of Apple Inc.
+Apple Regulated Substances Specification—069-0135-M |  March 2023
+Scope  |  Definitions  |  Restricted Substances in Products  |  Reportable Substances and Future Restrictions in Products  |  Notifying Apple of Chemical Phase Out and Reformulation from Suppliers  |  Restrictions in Manufacturing Processes  |  Reportable Substances and 
+Future Restrictions in Manufacturing Processes  |  Supplementary Specifications  |  Demonstrating Compliance  |  Waiver Process  |  Full Material Disclosure (FMD)  |  Chemical Safety Disclosure (CSD)  |  Revision History  |  Referenced Documents  |  Appendices
+
+Montreal Protocol: Montreal Protocol on Substances that Deplete the Ozone Layer, September 1987.
+NIOSH: National Institute for Occupational Safety and Health (NIOSH) Pocket Guide 
+to Chemical Hazards, Center for Disease Control and Prevention (CDC), 2014.
+Norway FOR-2004-06-01-922: Regulations relating to restrictions on the use of health-hazardous chemicals and other products (Product Regulations).
+REACH: Regulation (EC) No. 1907/2006 of the European Parliament and of the Council of 18 December 2006 concerning the Registration, Evaluation, Authorisation and Restriction 
+of Chemicals (REACH).
+REACH 1907/2006 and amendments: Annex XVII of Regulation (EC) No. 1907/2006 of the European Parliament and of the Council of 18 December 2006 concerning the 
+Registration, Evaluation, Authorisation and Restriction of Chemicals (REACH). This Annex replaces the following directives:
+• 76/769/EEC (Azocolorants, Arsenic)
+• 85/467/EEC (PCB/PCT)
+• 91/659/EEC (Asbestos)
+• 94/27/EC (Nickel)
+• 2002/45/EEC (Short-Chained Chlorinated Paraffins)
+• 2002/61/EC (Azocolorants)
+• 2003/3/EC (Blue Azocolorants)
+• 2009/425/EC (Organotin Compounds)
+	
+	
+23
+This document contains proprietary information of Apple Inc.
+Apple Regulated Substances Specification—069-0135-M |  March 2023
+Scope  |  Definitions  |  Restricted Substances in Products  |  Reportable Substances and Future Restrictions in Products  |  Notifying Apple of Chemical Phase Out and Reformulation from Suppliers  |  Restrictions in Manufacturing Processes  |  Reportable Substances and 
+Future Restrictions in Manufacturing Processes  |  Supplementary Specifications  |  Demonstrating Compliance  |  Waiver Process  |  Full Material Disclosure (FMD)  |  Chemical Safety Disclosure (CSD)  |  Revision History  |  Referenced Documents  |  Appendices
+
+REACH, Article 59 (10): Candidate List of substances of very high concern for Authorisation under REACH regulation.
+Sweden Chemical Tax (2016:1067): Tax enacted on July 1, 2017, levied on chemicals in certain electronics.
+SZJG 54-2017: Technical Specification for Low Volatile Organic Compound Content Paint.
+Taiwan BSMI RoHS: CNS 15663 is the technique standards of Taiwan BSMI RoHS.
+UL 110: UL Standard 110, Edition 2, UL 110 Standard for Sustainability for Mobile Phones, UL, 2017.
+US EPA 3050B: EPA method describing acid digestion of sediments, sludges, 
+and soils.
+US EPA 3052: EPA method describing microwave assisted acid digestion of siliceous and organically based matrices.
+US EPA 5021A: Method to determine volatile organic compounds in soils and other solid matrices using equilibrium headspace analysis.
+US EPA, SNUR 2070-AJ73: EPA’s significant new use rule for short-chain chlorinated paraffins, under TSCA Section 5(a)(2), December 2014.
+	
+	
+24
+This document contains proprietary information of Apple Inc.
+Apple Regulated Substances Specification—069-0135-M |  March 2023
+Scope  |  Definitions  |  Restricted Substances in Products  |  Reportable Substances and Future Restrictions in Products  |  Notifying Apple of Chemical Phase Out and Reformulation from Suppliers  |  Restrictions in Manufacturing Processes  |  Reportable Substances and 
+Future Restrictions in Manufacturing Processes  |  Supplementary Specifications  |  Demonstrating Compliance  |  Waiver Process  |  Full Material Disclosure (FMD)  |  Chemical Safety Disclosure (CSD)  |  Revision History  |  Referenced Documents  |  Appendices
+
+15.  Appendices
+Appendix A: Azo Dyes, Arylamines, and Anilines
+Appendix B: Chlorinated Paraffins (SCCP and MCCP)
+Appendix C: Organotin Compounds
+Azo Dyes, Arylamines, and Anilines [24 items]
+CAS No.
+4-Aminoazobenzene
+60-09-3
+o-Aminoazotoluene
+97-56-3
+2-Amino-4-nitrotoluene
+99-55-8
+o-Anisidine
+90-04-0
+Benzidine
+92-87-5
+2,2'-dichloro-4,4'-methylenedianiline (MOCA)
+101-14-

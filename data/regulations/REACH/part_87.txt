@@ -1,0 +1,586 @@
+ gas oil and vacuum 
+gas oil. It predominantly consists 
+of hydrocarbons having carbon 
+numbers 
+predominantly 
+greater 
+than 
+C 13 
+and 
+boiling 
+above 
+approximately 230 °C.) 
+649-026-00-X 
+270-796-4 
+68478-17-1 
+Residues (petroleum), heavy coker 
+and light vacuum; Heavy fuel oil 
+(A complex combination of hydro­
+carbons produced as the residual 
+fraction from the distillation of 
+heavy coker gas oil and light 
+vacuum 
+gas 
+oil. 
+It 
+consists 
+predominantly 
+of 
+hydrocarbons 
+having carbon numbers predomi­
+nantly 
+greater 
+than 
+C 13 
+and 
+boiling 
+above 
+approximately 
+230 °C.) 
+649-027-00-5 
+270-983-0 
+68512-61-8 
+Residues 
+(petroleum), 
+light 
+vacuum; Heavy fuel oil 
+(A complex residuum from the 
+vacuum 
+distillation 
+of 
+the 
+residuum from the atmospheric 
+distillation 
+of 
+crude 
+oil. 
+It 
+consists of hydrocarbons having 
+carbon 
+numbers 
+predominantly 
+greater than 
+C 13 
+and 
+boiling 
+above approximately 230 °C.) 
+649-028-00-0 
+270-984-6 
+68512-62-9 
+Residues 
+(petroleum), 
+steam- 
+cracked light; Heavy fuel oil 
+(A complex residuum from the 
+distillation of the products from a 
+steam-cracking process. It consists 
+predominantly of aromatic and 
+unsaturated hydrocarbons having 
+carbon numbers greater than C 7 
+and boiling in the range of 
+approximately 101 to 555 °C.) 
+649-029-00-6 
+271-013-9 
+68513-69-9 
+Fuel oil, No 6; Heavy fuel oil 
+(A distillate oil having a minimum 
+viscosity of 197 10 -6 m 2 s -1 at 
+37,7 °C to a maximum of 197 10 -5 
+m 2 s -1 at 37,7 °C.) 
+649-030-00-1 
+271-384-7 
+68553-00-4 
+▼C1
+
+ 
+02006R1907 — EN — 17.12.2022 — 056.001 — 378 
+Substances 
+Index No 
+EC No 
+CAS No 
+Notes 
+Residues 
+(petroleum), 
+topping 
+plant, low-sulfur; Heavy fuel oil 
+(A 
+low-sulfur 
+complex 
+combination 
+of 
+hydrocarbons 
+produced as the residual fraction 
+from the topping plant distillation 
+of crude oil. It is the residuum 
+after the straight-run gasoline cut, 
+kerosene cut and gas oil cut have 
+been removed.) 
+649-031-00-7 
+271-763-7 
+68607-30-7 
+Gas oils (petroleum), heavy atmos­
+pheric; Heavy fuel oil 
+(A complex combination of hydro­
+carbons obtained by the distillation 
+of crude oil. It consists of hydro­
+carbons having carbon numbers 
+predominantly in the range of C 7 
+through C 35 and boiling in the 
+range of approximately 121 to 
+510 °C.) 
+649-032-00-2 
+272-184-2 
+68783-08-4 
+Residues 
+(petroleum), 
+coker 
+scrubber, 
+Condensed-ring-arom.- 
+contg.; Heavy fuel oil 
+(A very complex combination of 
+hydrocarbons 
+produced 
+as the 
+residual fraction from the distil­
+lation of vacuum residuum and 
+the 
+products 
+from 
+a 
+thermal 
+cracking 
+process. 
+It 
+consists 
+predominantly 
+of 
+hydrocarbons 
+having carbon numbers predomi­
+nantly 
+greater 
+than 
+C 20 
+and 
+boiling 
+above 
+approximately 
+350 °C. This stream is likely to 
+contain 5 wt % or more of four- 
+to six-membered condensed ring 
+aromatic hydrocarbons.) 
+649-033-00-8 
+272-187-9 
+68783-13-1 
+Distillates (petroleum), petroleum 
+residues vacuum; Heavy fuel oil 
+(A complex combination of hydro­
+carbons produced by the vacuum 
+distillation of the residuum from 
+the 
+atmospheric 
+distillation 
+of 
+crude oil.) 
+649-034-00-3 
+273-263-4 
+68955-27-1 
+Residues 
+(petroleum), 
+steam- 
+cracked, resinous; Heavy fuel oil 
+(A complex residuum from the 
+distillation 
+of 
+steam-cracked 
+petroleum residues.) 
+649-035-00-9 
+273-272-3 
+68955-36-2 
+▼C1
+
+ 
+02006R1907 — EN — 17.12.2022 — 056.001 — 379 
+Substances 
+Index No 
+EC No 
+CAS No 
+Notes 
+Distillates 
+(petroleum), 
+inter­
+mediate vacuum; Heavy fuel oil 
+(A complex combination of hydro­
+carbons produced by the vacuum 
+distillation of the residuum from 
+atmospheric distillation of crude 
+oil. It consists of hydrocarbons 
+having carbon numbers predomi­
+nantly 
+in 
+the 
+range 
+of 
+C 14 
+through C 42 and boiling in the 
+range of approximately 250 to 
+545 °C. This stream is likely to 
+contain 5 wt % or more of four- 
+to six-membered condensed ring 
+aromatic hydrocarbons.) 
+649-036-00-4 
+274-683-0 
+70592-76-6 
+Distillates 
+(petroleum), 
+light 
+vacuum; Heavy fuel oil 
+(A complex combination of hydro­
+carbons produced by the vacuum 
+distillation of the residuum from 
+atmospheric distillation of crude 
+oil. It consists of hydrocarbons 
+having carbon numbers predomi­
+nantly 
+in 
+the 
+range 
+of 
+C 11 
+through C 35 and boiling in the 
+range of approximately 250 to 
+545 °C.) 
+649-037-00-X 
+247-684-6 
+70592-77-7 
+Distillates (petroleum), vacuum; 
+Heavy fuel oil 
+(A complex combination of hydro­
+carbons produced by the vacuum 
+distillation of the residuum from 
+atmospheric distillation of crude 
+oil. It consists of hydrocarbons 
+having numbers predominantly in 
+the range of C 15 through C 50 and 
+boiling in the range of approxi­
+mately 
+270 
+to 
+600 °C. 
+This 
+stream is likely to contain 5 wt 
+% or more of four- to six- 
+membered 
+condensed 
+ring 
+aromatic hydrocarbons.) 
+649-038-00-5 
+274-685-1 
+70592-78-8 
+Gas oils (petroleum), hydrodesul­
+phurised coker heavy vacuum; 
+Heavy fuel oil 
+(A complex combination of hydro­
+carbons obtained by hydrodesul­
+phurisation 
+of 
+heavy 
+coker 
+distillate 
+stocks. 
+It 
+consists 
+predominantly 
+of 
+hydrocarbons 
+having carbon numbers predomi­
+nantly in the range C 18 to C 44 
+and boiling in the range of 
+approximately 
+304 
+to 
+548 °C. 
+Likely to contain 5 wt % or more 
+of 
+four- 
+to 
+six-membered 
+condensed ring aromatic hydrocar­
+bons.) 
+649-039-00-0 
+285-555-9 
+85117-03-9 
+▼C1
+
+ 
+02006R1907 — EN — 17.12.2022 — 056.001 — 380 
+Substances 
+Index No 
+EC No 
+CAS No 
+Notes 
+Residues 
+(petroleum), 
+steam- 
+cracked, distillates; Heavy fuel oil 
+(A complex combination of hydro­
+carbons 
+obtained 
+during 
+the 
+production of refined petroleum 
+tar by the distillation of steam 
+cracked tar. It consists predomi­
+nantly of aromatic and other 
+hydrocarbons and organic sulfur 
+compounds.) 
+649-040-00-6 
+292-657-7 
+90669-75-3 
+Residues 
+(petroleum), 
+vacuum, 
+light; Heavy fuel oil 
+(A complex residuum from the 
+vacuum 
+distillation 
+of 
+the 
+residuum from atmospheric distil­
+lation of crude oil. It consists 
+predominantly 
+of 
+hydrocarbons 
+having carbon numbers predomi­
+nantly 
+greater 
+than 
+C 24 
+and 
+boiling 
+above 
+approximately 
+390 °C.) 
+649-041-00-1 
+292-658-2 
+90669-76-4 
+Fuel 
+oil, 
+heavy, 
+high-sulphur; 
+Heavy fuel oil 
+(A complex combination of hydro­
+carbons obtained by the distillation 
+of crude petroleum. It consists 
+predominantly 
+of 
+aliphatic, 
+aromatic and cycloaliphatic hydro­
+carbons having carbon numbers 
+predominantly higher than C 25 
+and boiling above approximately 
+400 °C.) 
+649-042-00-7 
+295-396-7 
+92045-14-2 
+Residues 
+(petroleum), 
+catalytic 
+cracking; Heavy fuel oil 
+(A complex combination of hydro­
+carbons produced as the residual 
+fraction from the distillation of 
+the products from a catalytic 
+cracking 
+process. 
+It 
+consists 
+predominantly 
+of 
+hydrocarbons 
+having carbon numbers predomi­
+nantly 
+greater 
+than 
+C 11 
+and 
+boiling 
+above 
+approximately 
+200 °C.) 
+649-043-00-2 
+295-511-0 
+92061-97-7 
+Distillates 
+(petroleum), 
+inter­
+mediate 
+catalytic 
+cracked, 
+thermally degraded; Heavy fuel oil 
+(A complex combination of hydro­
+carbons produced by the distil­
+lation of products from a catalytic 
+cracking process which has been 
+used as a heat transfer fluid. It 
+consists predominantly of hydro­
+carbons boiling in the range of 
+approximately 
+220 
+to 
+450 °C. 
+This stream is likely to contain 
+organic sulfur compounds.) 
+649-044-00-8 
+295-990-6 
+92201-59-7 
+▼C1
+
+ 
+02006R1907 — EN — 17.12.2022 — 056.001 — 381 
+Substances 
+Index No 
+EC No 
+CAS No 
+Notes 
+Residual oils (petroleum); Heavy 
+fuel oil 
+(A complex combination of hydro­
+carbons, sulfur compounds and 
+metal-containing 
+organic 
+compounds 
+obtained 
+as 
+the 
+residue from refinery fractionation 
+cracking processes. It produces a 
+finished 
+oil 
+with 
+a 
+viscosity 
+above 2 10 -6 m 2 .s -1 at 100 °C.) 
+649-045-00-3 
+298-754-0 
+93821-66-0 
+Residues, steam cracked, thermally 
+treated; Heavy fuel oil 
+(A complex combination of hydro­
+carbons obtained by the treatment 
+and distillation of raw steam- 
+cracked 
+naphtha. 
+It 
+consists 
+predominantly 
+of 
+unsaturated 
+hydrocarbons boiling in the range 
+above approximately 180 °C.) 
+649-046-00-9 
+308-733-0 
+98219-64-8 
+Distillates (petroleum), hydrodesul­
+phurised full-range middle; Heavy 
+fuel oil 
+(A complex combination of hydro­
+carbons obtained by treating a 
+petroleum stock with hydrogen. It 
+consists predominantly of hydro­
+carbons having carbon numbers 
+predominantly in the range of C 9 
+through C 25 and boiling in the 
+range of approximately 150 to 
+400 °C.) 
+649-047-00-4 
+309-863-0 
+101316-57-8 
+Residues 
+(petroleum), 
+catalytic 
+reformer fractionator; Heavy fuel 
+oil 
+(A complex combination of hydro­
+carbons produced as the residual 
+fraction from distillation of the 
+product 
+from 
+a 
+catalytic 
+reforming process. It consists of 
+predominantly 
+aromatic 
+hydro­
+carbons having carbon numbers 
+predominantly in the range of C 10 
+through C 25 and boiling in the 
+range of approximately 160 to 
+400 °C. This stream is likely to 
+contain 5 wt % or more of four- 
+or six-membered condensed ring 
+aromatic hydrocarbons.) 
+649-048-00-X 
+265-069-3 
+64741-67-9 
+▼C1
+
+ 
+02006R1907 — EN — 17.12.2022 — 056.001 — 382 
+Substances 
+Index No 
+EC No 
+CAS No 
+Notes 
+Petroleum; Crude oil 
+(A complex combination of hydro­
+carbons. It consists predominantly 
+of aliphatic, alicyclic and aromatic 
+hydrocarbons. It may also contain 
+small amounts of nitrogen, oxygen 
+and 
+sulfur 
+compounds. 
+This 
+category 
+encompasses 
+light, 
+medium, and heavy petroleums, 
+as well as the oils extended from 
+tar 
+sands. 
+Hydrocarbonaceous 
+materials 
+requiring 
+major 
+chemical 
+changes 
+for 
+their 
+recovery 
+or 
+conversion 
+to 
+petroleum 
+refinery 
+feedstocks 
+such 
+as 
+crude 
+shale 
+oils; 
+upgraded shale oils and liquid 
+coal fuels are not included in this 
+definition.) 
+649-049-00-5 
+232-298-5 
+8002-05-9 
+▼M5 
+_______ 
+▼M14 
+_______ 
+▼M5 
+_______ 
+▼C1 
+Foots oil (petroleum), acid-treated; 
+Foots oil 
+(A complex

@@ -1,0 +1,195 @@
+ons 8.6 and 8.7, Annex IX and Annex X may be omitted where 
+justified by information on exposure and implemented risk management 
+measures as specified in Annex XI, section 3. 
+2. 
+These methods shall be regularly reviewed and improved with a 
+view to reducing testing on vertebrate animals and the number of 
+animals involved. The Commission, following consultation with 
+relevant stakeholders, shall, as soon as possible, make a proposal, if 
+appropriate, to amend the Commission Regulation on test methods 
+adopted in accordance with the procedure referred to in Article 133(4), 
+and the Annexes of this Regulation, if relevant, so as to replace, reduce 
+or refine animal testing. Amendments to that Commission Regulation 
+shall be adopted in accordance with the procedure specified in 
+paragraph 3 and amendments to the Annexes of this Regulation shall 
+be adopted in accordance with the procedure referred to in Article 131. 
+3. 
+Where tests on substances are required to generate information on 
+intrinsic properties of substances, they shall be conducted in accordance 
+with the test methods laid down in a Commission Regulation or in 
+accordance with other international test methods recognised by the 
+Commission or the Agency as being appropriate. The Commission 
+shall adopt that Regulation, designed to amend the non-essential 
+elements of this Regulation by supplementing it, in accordance with 
+the procedure referred to in Article 133(4). 
+Information on intrinsic properties of substances may be generated in 
+accordance with other test methods provided that the conditions set out 
+in Annex XI are met. 
+▼C1
+
+ 
+02006R1907 — EN — 17.12.2022 — 056.001 — 23 
+4. 
+Ecotoxicological and toxicological tests and analyses shall be 
+carried out in compliance with the principles of good laboratory 
+practice provided for in Directive 2004/10/EC or other international 
+standards recognised as being equivalent by the Commission or the 
+Agency and with the provisions of Directive 86/609/EEC, if applicable. 
+5. 
+If a substance has already been registered, a new registrant shall 
+be entitled to refer to the study summaries or robust study summaries, 
+for the same substance submitted earlier, provided that he can show that 
+the substance that he is now registering is the same as the one 
+previously registered, including the degree of purity and the nature of 
+impurities, and that the previous registrant(s) have given permission to 
+refer to the full study reports for the purpose of registration. 
+A new registrant shall not refer to such studies in order to provide the 
+information required in Section 2 of Annex VI. 
+Article 14 
+Chemical safety report and duty to apply and recommend risk 
+reduction measures 
+1. 
+Without prejudice to Article 4 of Directive 98/24/EC, a chemical 
+safety assessment shall be performed and a chemical safety report 
+completed for all substances subject to registration in accordance with 
+this Chapter in quantities of 10 tonnes or more per year per registrant. 
+The chemical safety report shall document the chemical safety 
+assessment which shall be conducted in accordance with paragraphs 2 
+to 7 and with Annex I for either each substance on its own or in a 
+►M3 mixture ◄ or in an article or a group of substances. 
+▼M3 
+2. 
+A chemical safety assessment in accordance with paragraph 1 need 
+not be performed for a substance which is present in a mixture if the 
+concentration of the substance in the mixture is less than: 
+(a) the cut-off value referred to in Article 11, paragraph 3 of Regulation 
+(EC) No 1272/2008; 
+(b) 0,1 % weight by weight (w/w), if the substance meets the criteria in 
+Annex XIII to this Regulation. 
+▼C1 
+3. 
+A chemical safety assessment of a substance shall include the 
+following steps: 
+(a) human health hazard assessment; 
+(b) physicochemical hazard assessment; 
+(c) environmental hazard assessment; 
+(d) persistent, bioaccumulative and toxic (PBT) and very persistent and 
+very bioaccumulative (vPvB) assessment. 
+▼C1
+
+ 
+02006R1907 — EN — 17.12.2022 — 056.001 — 24 
+4. 
+If, as a result of carrying out steps (a) to (d) of paragraph 3, the 
+registrant concludes that the substance fulfils the criteria for any of the 
+following hazard classes or categories set out in Annex I to Regulation 
+(EC) No 1272/2008: 
+(a) hazard classes 2.1 to 2.4, 2.6 and 2.7, 2.8 types A and B, 2.9, 2.10, 2.12, 
+2.13 categories 1 and 2, 2.14 categories 1 and 2, 2.15 types A to F; 
+(b) hazard classes 3.1 to 3.6, 3.7 adverse effects on sexual function and 
+fertility or on development, 3.8 effects other than narcotic effects, 
+3.9 and 3.10; 
+(c) hazard class 4.1; 
+(d) hazard class 5.1, 
+or is assessed to be a PBT or vPvB, the chemical safety assessment 
+shall include the following additional steps: 
+▼C1 
+(a) exposure assessment including the generation of exposure scen­
+ario(s) (or the identification of relevant use and exposure categories 
+if appropriate) and exposure estimation; 
+(b) risk characterisation. 
+The exposure scenarios (where appropriate the use and exposure 
+categories), exposure assessment and risk characterisation shall 
+address all identified uses of the registrant. 
+5. 
+The chemical safety report need not include consideration of the 
+risks to human health from the following end uses: 
+(a) in food contact materials within the scope of Regulation (EC) No 
+1935/2004 of the European Parliament and of the Council of 
+27 October 2004 on materials and articles intended to come into 
+contact with food ( 1 ); 
+(b) in cosmetic products within the scope of Directive 76/768/EEC. 
+6. 
+Any registrant shall identify and apply the appropriate measures to 
+adequately control the risks identified in the chemical safety assessment, 
+and where suitable, recommend them in the safety data sheets which he 
+supplies in accordance with Article 31. 
+▼M3 
+( 1 ) OJ L 338, 13.11.2004, p. 4.
+
+ 
+02006R1907 — EN — 17.12.2022 — 056.001 — 25 
+7. 
+Any registrant required to conduct a chemical safety assessment 
+shall keep his chemical safety report available and up to date. 
+CHAPTER 2 
+Substances regarded as being registered 
+Article 15 
+Substances in plant protection and biocidal products 
+1. 
+Active substances and co-formulants manufactured or imported for 
+use in plant protection products only and included either in Annex I to 
+Council Directive 91/414/EEC ( 1 ) or in Commission Regulation (EEC) 
+No 3600/92 ( 2 ), Commission Regulation (EC) No 703/2001 ( 3 ), 
+Commission Regulation (EC) No 1490/2002 ( 4 ), or Commission 
+Decision 2003/565/EC ( 5 ) and for any substance for which a 
+Commission Decision on the completeness of the dossier has been 
+taken pursuant to Article 6 of Directive 91/414/EEC shall be regarded 
+as being registered and the registration as completed for manufacture or 
+import for the use as a plant protection product and therefore as 
+fulfilling the requirements of Chapters 1 and 5 of this Title. 
+2. 
+Active substances manufactured or imported for use in biocidal 
+products only and included either in Annexes I, IA or IB to Directive 
+98/8/EC of the European Parliament and of the Council of 16 February 
+1998 concerning the placing of biocidal products on the market ( 6 ) or in 
+Commission Regulation (EC) No 2032/2003 ( 7 ) on the second phase of 
+the 10-year work programme referred to in Article 16(2) of Directive 
+98/8/EC, until the date of the decision referred to in the second sub­
+paragraph of Article 16(2) of Directive 98/8/EC, shall be regarded 
+▼C1 
+( 1 ) Council Directive 91/414/EEC of 15 July 1991 concerning the placing of 
+plant protection products on the market (OJ L 230, 19.8.1991, p. 1). Directive 
+as last amended by Commission Directive 2006/136/EC (OJ L 349, 
+12.12.2006, p. 42). 
+( 2 ) Commission Regulation (EEC) No 3600/92 of 11 December 1992 laying 
+down the detailed rules for the implementation of the first stage of the 
+programme of work referred to in Article 8(2) of Council Directive 
+91/414/EEC concerning the placing of plant protection products on the 
+market (OJ L 366, 15.12.1992, p. 10). Regulation as last amended by Regu­
+lation (EC) No 2266/2000 (OJ L 259, 13.10.2000, p. 27). 
+( 3 ) Commission Regulation (EC) No 703/2001 of 6 April 2001 laying down the 
+active substances of plant protection products to be assessed in the second 
+stage of the work programme referred to in Article 8(2) of Council Directive 
+91/414/EEC and revising the list of Member States designated as rapporteurs 
+for those substances (OJ L 98, 7.4.2001, p. 6). 
+( 4 ) Commission Regulation (EC) No 1490/2002 of 14 August 2002 laying down 
+further detailed rules for the implementation of the third stage of the 
+programme of work referred to in Article 8(2) of Council Directive 
+91/414/EEC (OJ L 224, 21.8.2002, p. 23). Regulation as last amended by 
+Regulation (EC) No 1744/2004 (OJ L 311, 8.10.2004, p. 23). 
+( 5 ) Commission Decision 2003/565/EC of 25 July 2003 extending the time 
+period provided for in Article 8(2) of Council Directive 91/414/EEC 
+(OJ L 192, 31.7.2003, p. 40). 
+( 6 ) OJ L 123, 24.4.1998, p. 1. Directive as last amended by Commission 
+Directive 2006/140/EC (OJ L 414, 30.12.2006, p. 78). 
+( 7 ) OJ L 307, 24.11.2003, p. 1. Regulation as last amended by Regulation (EC) 
+No 1849/2006 (OJ L 355, 15.12.2006, p. 63).
+
+ 
+02006R1907 — EN — 17.12.2022 — 056.001 — 26 
+as being registered and the registration as completed for manufacture or 
+import for the use in a biocidal product and therefore as fulfilling the 
+requirements of Chapters 1 and 5 of this Title. 
+Article 16 
+Duties of the Commission, the Agency and registrants of substances 
+regarded as being registered 
+1. 
+The Commission or the relevant Community body shall make 
+information equivalent to that required by Article 10 available to the 
+Agency for substances regarded as registered according to Article 15. 
+The Agency shall include this information or a reference thereto in its 
+databases and notify the competent authorities thereof by 1 December 
+2008. 
+2. 
+Articles 
