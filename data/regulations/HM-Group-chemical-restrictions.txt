@@ -1,0 +1,1025 @@
+ 
+ 
+General Information 
+General Information 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+H&M GROUP CHEMICAL RESTRICTIONS 2024 
+MRSL and RSL 
+ 
+Valid for all brands in H&M Group. 
+Product Compliance and Global Sustainability Department
+Textile Products, Accessories, Footwear, Bags and Belts 
+
+ 
+ 
+General Information 
+Table of Contents 
+General .............................................................................................................................................................................................................................................. 3 
+1. 
+Chemical Restrictions – Production........................................................................................................................................................................................... 5 
+2. 
+Chemical Restrictions – Products .............................................................................................................................................................................................. 5 
+3. 
+H&M Group – Additional Requirements ................................................................................................................................................................................... 6 
+4. 
+More Information and Guidelines ........................................................................................................................................................................................... 14 
+ 
+ 
+ 
+
+H&M Group Chemical Restrictions – Textile products | Accessories | Footwear, Bags and Belts  
+Valid for all brands in H&M Group 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Product Compliance 
+ 
+ 
+ 
+3 (14) 
+February 2024 
+ 
+ 
+ 
+ 
+ 
+ 
+General Information 
+General Information 
+General 
+H&M Group Chemical Restrictions consist of several parts regarding different product types; this document concerns Chemical Restrictions for Textile 
+products, Accessories, Footwear, Bags and Belts. 
+An introduction to and general information about the H&M Group Chemical Restrictions are available in a separate document: H&M Group Restricted 
+Substance List (RSL) Introduction and Commitment - All Product Types, document ID 00432. Please read that document and refer to the examples provided 
+there, before proceeding with the product specific restrictions.  
+Each limit specified in this document is valid for homogeneous parts of the concerned product if not otherwise stated. Test methods are specified when 
+relevant in this document. In case of undated test method, the latest version is valid.  
+ 
+Please note: If other requirements than those listed in H&M Group Chemical Restrictions exist for the same substances and product groups in ZDHC 
+MRSL or AFIRM RSL, the requirements specified in H&M Group Chemical Restrictions take precedence.   
+ 
+Please find more about H&M Group Chemical Management here.  
+ 
+ 
+ 
+ 
+ 
+ 
+
+H&M Group Chemical Restrictions – Textile products | Accessories | Footwear, Bags and Belts  
+Valid for all brands in H&M Group 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Product Compliance 
+ 
+ 
+ 
+4 (14) 
+February 2024 
+ 
+ 
+ 
+ 
+ 
+ 
+General Information 
+General Information 
+Definitions 
+Ban 
+The substance must not be used in production and it must not be added to the product1.  
+Concentration limit 
+The substance must not be present in the product at concentrations above this limit. 
+Homogeneous 
+Uniform composition throughout, i.e. a material that cannot be mechanically disjointed into different materials. 
+Not detected 
+The substance must not be present in the finished product at concentrations above the analytical reporting limit. 
+Reporting limit  
+Describes the level of detection times a safety factor selected by the laboratory that ensures repeatability and 
+reproducibility.  
+Safety Data Sheet (SDS) 
+All chemicals used for H&M Group products shall have Safety Data Sheets (SDS) that meet current GHS requirements, please 
+see AFIRM Toolkit Appendix H for guidance.  
+ 
+Abbreviations 
+ 
+CAS no 
+Chemical Abstracts Service number, identification number for chemicals. 
+cl 
+Centilong 
+Percentage 
+Part weight by weight, % w/w. 
+ppm 
+Parts per million, which is the same as mg/kg. 
+REACH 
+Registration, Evaluation, Authorization and Restriction of Chemicals 
+SVHC 
+Substances of Very High Concern 
+ 
+ 
+ 
+1 Impurities at low concentrations of these substances may be accepted only if technically unavoidable due to e.g. raw materials, formation in the manufacturing process, storage or packaging. 
+
+H&M Group Chemical Restrictions – Textile products | Accessories | Footwear, Bags and Belts  
+Valid for all brands in H&M Group 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Product Compliance 
+ 
+ 
+ 
+5 (14) 
+February 2024 
+ 
+ 
+ 
+ 
+ 
+ 
+General Information 
+General Information 
+1. Chemical Restrictions – Production 
+For Textile and Leather supply chains, manufacturing shall comply with the Zero Discharge of Hazardous Chemicals Manufacturing Restricted Substance List 3.1 (ZDHC MRSL 
+3.1).  ZDHC MRSL 3.1 is retrieved here: //mrsl.roadmaptozero.com/.  
+Compliance to ZDHC MRSL is a Minimum Requirement (MR). Therefore, if the production unit is found to intentionally use chemicals listed on ZDHC MRSL in production 
+process, it will result in MR Violation. 
+2. Chemical Restrictions – Products 
+Products within the scope of H&M Group Chemical Restrictions Textile products, Accessories, Footwear, Bags and Belts shall comply with AFIRM’s Restricted Substances List 
+(RSL), found at www.afirm-group.com/afirm-rsl/   
+ 
+ 
+
+H&M Group Chemical Restrictions – Textile products | Accessories | Footwear, Bags and Belts  
+Valid for all brands in H&M Group 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Product Compliance 
+ 
+ 
+ 
+6 (14) 
+February 2024 
+ 
+ 
+ 
+ 
+ 
+ 
+General Information 
+General Information 
+3. H&M Group – Additional Requirements 
+Table 1. H&M Group additional requirements. 
+Substances and/or materials 
+CAS  
+Limit/Requirement 
+Test/Compliance method 
+Reporting limit  
+Azo dyes and pigments 
+Various 
+20 ppm each 
+Product testing according to methods specified 
+in AFIRM RSL 
+5 ppm each 
+Biocidal compounds and biocidal claims 
+Various 
+For products: Biocide-treated articles according 
+to definition in European Biocidal Products 
+Regulation (BPR, Regulation (EU) 528/2012), 
+including biocidal claims “antimicrobial”, 
+“antibacterial”, “anti-odour”, etc. 
+General ban for class of chemicals/treatments 
+used for this function and their claims. 
+1. Input control.  
+2. Certain biocidal substances are restricted in 
+ZDHC MRSL and AFIRM RSL; test methods for 
+those are specified there. 
+- 
+Bisphenols 
+Bisphenol A (BPA) 
+80-05-7 
+All materials: 1 ppm total content. 
+Polycarbonate (PC) plastics: 1ppm extractable 
+content 
+Total content, all materials: 
+Extraction: 1 g sample/20 ml THF, 
+sonication for 60 minutes at 60 
+degrees C, analysis with LC/MS (same as AFIRM 
+RSL). 
+ 
+BPA, extractable content (only PC): Extraction 
+with artificial sweat solution ISO 105 E04 and 
+LC/MS analysis. 
+ 
+Leather: ISO 11936 (same as AFIRM RSL) 
+1 ppm  
+Bisphenol B (BPB) 
+77-40-7 
+All materials: 
+200 ppm (sum) 
+200 ppm (individual) 
+Leather 
+1000 ppm (sum) 
+500 ppm (individual) 
+ 
+Bisphenol S (BPS) 
+80-09-1 
+Bisphenol F (BPF) 
+620-92-8 
+Bisphenol AF (BPAF) 
+1478-61-1 
+Chlorinated bleaching agents 
+- 
+In production process: General usage ban. 
+Finishing treatments with chlorinated bleaching 
+agents can only be used in denim production. 
+Input control. 
+Dimethylformamide (DMFa)  
+68-12-2 
+For products and in production process: General 
+usage ban. 
+DMFa is also included in ZDHC MRSL 3.1 
+According to AFIRM RSL and input control. 
+For polyurethane (PU) materials, follow 
+Verification routine for Better PU. 
+5 ppm 
+ 
+ 
+
+H&M Group Chemical Restrictions – Textile products | Accessories | Footwear, Bags and Belts  
+Valid for all brands in H&M Group 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Product Compliance 
+ 
+ 
+ 
+7 (14) 
+February 2024 
+ 
+ 
+ 
+ 
+ 
+ 
+General Information 
+General Information 
+Substances and/or materials 
+CAS  
+Limit/Requirement 
+Test/Compliance method 
+Reporting limit  
+ 
+Flame retardants 
+All flame retardants 
+Various 
+General ban for chemicals used for this 
+function. 
+Input control. 
+5 ppm 
+Flame retardants in AFIRM RSL 
+Various 
+Not detected 
+Product testing according to methods specified 
+in AFIRM RSL. 
+Tri-o-cresyl phosphate 
+78-30-8 
+In addition to the flame retardants listed in 
+AFIRM RSL, these substances are also included 
+in H&M Group testing protocol. 
+Not detected 
+Triphenyl phosphate (TPhP) 
+115-86-6 
+Tris(1-chloro-2-propyl)phosphate (TCPP) 
+13674-84-5 
+Leather tanned products 
+Chromium-free tanned leather 
+7440-47-3, 
+18540-29-9 
+• 100 ppm2 total chromium  
+• For products for children aged 0-3 years: 
+chromium-free from S3 2020 
+• 100% of linings/skin contact are chromium-
+free from S3 2020 
+According to AFIRM RSL.  
+Total content according to EN ISO 17072-22 
+ 
+Metal-free tanned leather 
+ 
+500 ppm3 total metal content 
+For metal-free and vegetable-tanned leather: Total content 
+according to EN ISO 17072-23 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2 EN 15987 defines chromium-free tanned leather. At H&M Group a leather containing <100 ppm is considered as chromium-free tanned leather. The standard EN ISO 17072-2 is applicable to determine chromium in 
+chromium-free tanned leathers.  
+3 EN 15987 defines metal-free leather (Cr, Al, Ti, Zr, Fe). At H&M Group metal-free leather containing <500 ppm is considered as metal-free leather. The standard EN ISO 17072-2 is applicable to determine the 
+content of tanning metals. EN 15987 defines vegetable-tanned leather. At H&M Group using vegetable tanning agents containing <500 ppm metals (Cr, Al, Ti, Zr, Fe) is considered as vegetable-tanned leather.  The 
+standard EN ISO 17072-2 is applicable to determine the content of tanning metals.   
+
+H&M Group Chemical Restrictions – Textile products | Accessories | Footwear, Bags and Belts  
+Valid for all brands in H&M Group 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Product Compliance 
+ 
+ 
+ 
+8 (14) 
+February 2024 
+ 
+ 
+ 
+ 
+ 
+ 
+General Information 
+General Information 
+Substances and/or materials 
+CAS  
+Limit/Requirement 
+Test/Compliance method 
+Reporting limit  
+Nanomaterials 
+Nanomaterial” means a natural, incidental or 
+manufactured material consisting of solid particles 
+that are present, either on their own or as 
+identifiable constituent particles in aggregates or 
+agglomerates, and where 50 % or more of these 
+particles in the number-based size distribution fulfil 
+at least one of the following conditions: 
+(a) one or more external dimensions of the particle 
+are in the size range 1 nm to 100 nm; 
+(b) the particle has an elongated shape, such as a 
+rod, fibre or tube, where two external dimensions 
+are smaller than 1 nm and the other dimension is 
+larger than 100 nm; 
+(c) the particle has a plate-like shape, where one 
+external dimension is smaller than 1 nm and the 
+other dimensions are larger than 100 nm4 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Various 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+For products: General usage ban. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Input control.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+4: European commission recommendation on the definition of nanomaterial (2022/C 229/01), Official Journal of the European Union, 14.06.2022.  
+
+H&M Group Chemical Restrictions – Textile products | Accessories | Footwear, Bags and Belts  
+Valid for all brands in H&M Group 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Product Compliance 
+ 
+ 
+ 
+9 (14) 
+February 2024 
+ 
+ 
+ 
+ 
+ 
+ 
+General Information 
+General Information 
+Substances and/or materials 
+CAS  
+Limit/Requirement 
+Test/Compliance method 
+Reporting limit  
+Per- and Polyfluoroalkyl Substances (PFAS) 
+All Per- and Polyfluoroalkyl Substances  
+Various 
+Not detected. 
+ 
+ 
+ 
+Usage ban. 
+Certain PFAS are included in the ZDHC MRSL. 
+1. Total fluorine test method:  
+EN 14582:2016 or ASTM D7359:2018 
+2. If test 1 shows detections proceed with 
+testing below. 
+ 
+Input control. 
+50 ppm 
+Per- and Polyfluoroalkyl Substances in AFIRM RSL 
+Appendix A. 
+ 
+Not detected 
+Product testing according to methods specified in AFIRM RSL. 
+Perfluorobutane Sulfonate (PFBS) 
+29420-49-3 
+In addition to the PFAS listed in AFIRM RSL 
+Appendix A, these substances are also included 
+in H&M Group testing protocol. 
+For products: not detected. 
+For FTOH: 
+Extraction: ISO 23702-1; 
+Analysis: GC/MS/MS, GC/MS or LC/MS. 
+ 
+All others: ISO 23702-1 
+1 ppm 
+Perfluorohexane Sulfonate (PFHxS) 
+3871-99-6 
+Perfluoroheptane Sulfonate (PFHpS) 
+375-92-8 
+Perfluorodecane Sulfonate (PFDS) 
+335-77-3 or 
+2806-15-7 or 
+2806-16-8 
+Perfluorobutane Acid (PFBA) 
+375-22-4 
+Perfluoropentane Acid (PFPA) 
+2706-90-3 
+Perfluorohexane Acid (PFHxA) 
+307-24-4 
+Perfluoroheptane Acid (PFHpA) 
+375-85-9 
+7H-dodecanefluoroheptane Acid (HPFHpA) 
+1546-95-8 
+2H,2H,3H,3H-Perfluoroundecanoic Acid (H4PFUnA) 
+34598-33-9 
+1H,1H,2H,2H-Perfluorooctylacrylate (6:2 FTA) 
+17527-29-6 
+1H,1H,2H,2H-Perfluoro-1-hexanol (4:2 FTOH) 
+2043-47-2 
+1H,1H,2H,2H-Perfluoro-1-oktanol (6:2 FTOH) 
+647-42-7 
+Polycarbonate (PC) 
+80-05-7 
+Upcoming restriction for Accessories by the end 
+of 2023. The restriction will be extended to FBB, 
+trims, intimates during 2024 and to all product 
+categories by the end of 2025.  
+This restriction applies to both virgin and 
+recycled PC. 
+Input control. 
+ 
+
+H&M Group Chemical Restrictions – Textile products | Accessories | Footwear, Bags and Belts  
+Valid for all brands in H&M Group 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Product Compliance 
+ 
+ 
+ 
+10 (14) 
+February 2024 
+ 
+ 
+ 
+ 
+ 
+ 
+General Information 
+General Information 
+Substances and/or materials 
+CAS  
+Limit/Requirement 
+Test/Compliance method 
+Reporting limit  
+Polyvinyl chloride (PVC), polychloroprene (e.g. 
+Neoprene) and other similar chlorinated polymers 
+Various 
+For products and in production process: General 
+material ban. 
+Input control. 
+Potassium permanganate  
+7722-64-7 
+Usage ban 
+REACH SVHC  
+and Substances defined as hazardous due to 
+intrinsic properties Criteria for hazardous as 
+defined in REACH Article 57. 
+Various 
+For products: General restriction of 0.1% (w/w) 
+for all SVHC substances. 
+Certain substances may be subjected to 
+additional, stricter limits according to H&M 
+Group Chemical Restrictions.  
+Make sure such limits are met.  
+Confirmation is required. 
+Input control. 
+Styrene-based polymers 
+Various 
+Upcoming restriction for Accessories by the end 
+of 2023. The restriction will be extended to FBB, 
+trims, intimates during 2024 and to all product 
+categories by the end of 2025. 
+This restriction applies to both virgin and 
+recycled styrene-based polymers. 
+Input control. 
+Styrene-based Thermoplastic Rubber (TPR) 
+Various 
+Upcoming restriction for Accessories by the end 
+of 2023. The restriction will be extended to FBB, 
+trims, intimates during 2024 and to all product 
+categories by the end of 2025. 
+This restriction applies to both virgin and 
+recycled styrene-based TPR. 
+Input control. 
+ 
+Recycled natural and synthetic textile materials    
+RSL exceptions for products made of 100% mechanically recycled fibers. Provided that no additional restricted substances, as listed below, have been used after the collection of the waste, 
+the restriction of the chemicals are as follows:   
+Nonylphenol Ethoxylates (NPE) 
+Octylphenol Ethoxylates (OPE) 
+Various 
+Total 1000 ppm 
+According to AFIRM RSL. 
+ 
+UV absorbers/stabilisers/filters  
+Various 
+For textile products:  
+General ban for chemicals used for this 
+function. 
+Input control  
+Certain substances are included in ZDHC 
+MRSL. 
+Certain substances are included in AFIRM 
+RSL and can thus be product tested. 
+- 
+ 
+
+H&M Group Chemical Restrictions – Textile products | Accessories | Footwear, Bags and Belts  
+Valid for all brands in H&M Group 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Product Compliance 
+ 
+ 
+ 
+11 (14) 
+February 2024 
+ 
+ 
+ 
+ 
+ 
+ 
+General Information 
+General Information 
+Additional Requirements – GOTS-certified products 
+In addition to H&M Group Chemical Restrictions for Textile Products and for Production (H&M Group Requirements, AFIRM RSL and ZDHC MRSL 3.1), GOTS-certified 
+products shall also comply with requirements in the latest version of Global Organic Textile Standard, in particular the requirements specified in Table 5.2.7.2 (Limit values 
+for residues in GOTS Goods) and 5.2.8.1 (Limit values for residues in additional fibres materials and accessories).  
+ 
+Products: Where H&M Group Chemical Restrictions, AFIRM RSL and GOTS-tables list requirements for the same substances, the strictest requirement shall always take 
+precedence. 
+ 
+Production: Where H&M Group Chemical Restrictions, ZDHC MRSL and GOTS-tables list requirements for the same substances, the strictest requirement shall always take 
+precedence. 
+Direct link to version 7 (current latest version) of the standard: GOTS_7.0__SIGNED_.pdf (global-standard.org) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+H&M Group Chemical Restrictions – Textile products | Accessories | Footwear, Bags and Belts  
+Valid for all brands in H&M Group 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Product Compliance 
+ 
+ 
+ 
+12 (14) 
+February 2024 
+ 
+ 
+ 
+ 
+ 
+ 
+General Information 
+General Information 
+Additional Requirements – Self-adhesive products for skin contact 
+Table 2. Additional requirements Self-adhesive products for skin contact. 
+Restricted substance/property 
+CAS  
+Limit/Requirement 
+Test method 
+Reporting limit  
+Self-adhesive products for skin contact including, but not limited to: body tape, self-adhesive bra, nipple covers. 
+Adhesives 
+Various 
+All compliance documents must be globally 
+approved at the product development stage, 
+minimum once per season. 
+In addition to regular chemical compliance 
+assurance (risk assessment and related 
+testing), the following documents are 
+required. 
+ 
+1. Full Material Declaration (FMD) for 
+chemical products for the adhesive. 
+ 
+2. Third-party Toxicological Risk Assessment 
+(TRA) for the adhesive, of the following 
+endpoints according to Regulation (EC) No 
+1272/2008 (CLP):   
+-Corrosivity 
+-Skin irritation 
+-Eye irritation 
+-Skin sensitization 
+-Oral toxicity 
+-Inhalation toxicity 
+ 
+Considering:  
+-Ingredient toxicology profile 
+-Potential ingredient interaction 
+-Consumer exposure scenario 
+ 
+ 
+
+H&M Group Chemical Restrictions – Textile products | Accessories | Footwear, Bags and Belts  
+Valid for all brands in H&M Group 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Product Compliance 
+ 
+ 
+ 
+13 (14) 
+February 2024 
+ 
+ 
+ 
+ 
+ 
+ 
+General Information 
+General Information 
+ 
+Additional Requirements – Cosmetic accessories 
+Table 3. Additional requirements Cosmetic accessories 
+ 
+Restricted substance/property 
+CAS  
+Limit/Requirement 
+Test method 
+Reporting limit  
+Cotton swabs and pads  
+Plastic materials 
+- 
+Usage Ban 
+Fluorescent brightening agent 
+- 
+Usage Ban 
+UV-lamp 
+- 
+Total viable count of yeast and mold 
+- 
+< 300 CFU/g 
+EN ISO 16212 / European Pharmacopeia (Ph. 
+Eur.), 2.6.12. “Microbiological examination of 
+non-sterile products.” 
+ 
+Total viable count of aerobic mesophilic bacteria 
+- 
+< 300 CFU/g 
+EN ISO 21149 / European Pharmacopeia (Ph. 
+Eur.), 2.6.12. “Microbiological examination of 
+non-sterile products.” 
+ 
+Other cosmetics accessories 
+Metals extractable amount 
+Antimony (Sb) 
+7440-36-0 
+30 ppm 
+EN ISO 16711-2 
+3 ppm 
+ 
+Arsenic (As) 
+7440-38-2 
+0.2 ppm  
+0.1 ppm 
+Barium (Ba) 
+7440-39-3 
+1000 ppm  
+100 ppm 
+Cadmium (Cd) 
+7440-43-9 
+0.1 ppm  
+0.02 ppm 
+Chromium (Cr) 
+7440-47-3 
+1 ppm   
+0.3 ppm 
+Lead (Pb) 
+7439-92-1 
+0.2 ppm 
+0.1 ppm 
+Mercury (Hg) 
+7439-97-6 
+0.02 ppm  
+0.02 ppm 
+Selenium (Se) 
+7782-49-2 
+460 ppm 
+50 ppm 
+ 
+ 
+ 
+
+H&M Group Chemical Restrictions – Textile products | Accessories | Footwear, Bags and Belts  
+Valid for all brands in H&M Group 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Product Compliance 
+ 
+ 
+ 
+14 (14) 
+February 2024 
+ 
+ 
+ 
+ 
+ 
+ 
+General Information 
+General Information 
+ 
+Additional Requirements – Carpets and Mats (all materials) 
+Table 4. Additional requirements Carpets and Mats 
+Restricted substances 
+CAS  
+Limit/Requirement 
+Test method 
+Reporting limit  
+4-Phenylcyclohexene 
+4994-16-5 
+≤ 0.050 mg/m2/h 
+GB 18587-2001 
+Grade B (products qualified in respect of limitations of emitted harmful 
+substances) 
+As specified in test 
+standard 
+Formaldehyde 
+50-00-0 
+≤ 0.050 mg/m2/h 
+Styrene 
+100-42-5 
+≤ 0.500 mg/m2/h 
+Volatile Organic Compounds, Total (TVOC) 
+- 
+≤ 0.600 mg/m2/h 
+4. More Information and Guidelines 
+The AFIRM Group Chemistry Toolkit shares valuable information about RSL compliance, RSL failure resolution, chemicals management, SDS and other online educational 
+resources. More information about substances in AFIRM RSL can be found in AFIRM Chemical Information Sheets: www.afirm-group.com/publications/.  
+ 

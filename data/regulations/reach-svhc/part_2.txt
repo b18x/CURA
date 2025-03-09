@@ -1,0 +1,137 @@
+1	2	3	3a	4	8b-hexahydrocyclopent[b]indol-7-yl]ethenyl]-	 1	1	2	2	3	3	4	4	5	5	6	6	6-tridecafluoro-1-hexanesulfonate (1:1);1462414-59-0
+Iodonium	 diphenyl-	 1	1	2	2	3	3	4	4	5	5	6	6	6-tridecafluoro-1-hexanesulfonate (1:1);153443-35-7
+Methanaminium	 N	N	N-trimethyl-	 salt with 1	1	2	2	3	3	4	4	5	5	6	6	6-tridecafluoro-1-hexanesulfonic acid (1:1);189274-31-5
+1-Hexanesulfonic acid	 1	1	2	2	3	3	4	4	5	5	6	6	6-tridecafluoro-	 compd.with 2-methyl-2-propanamine (1:1);202189-84-2
+Iodonium	 bis[4-(1	1-dimethylethyl)phenyl]-	 1	1	2	2	3	3	4	4	5	5	6	6	6-tridecafluoro-1-hexanesulfonate (1:1);213740-81-9
+1-Hexanesulfonic acid	 1	1	2	2	3	3	4	4	5	5	6	6	6-tridecafluoro-	 sodium salt;82382-12-5
+Iodonium	 bis[(1	1-dimethylethyl)phenyl]-	 salt with 1	1	2	2	3	3	4	4	5	5	6	6	6-tridecafluoro-1-hexanesulfonic acid (1:1) (9CI);866621-50-3
+Phosphonium	 triphenyl(phenylmethyl)-	 1	1	2	2	3	3	4	4	5	5	6	6	6-tridecafluoro-1-hexanesulfonate (1:1);1000597-52-3
+Sulfonium	 (4-methylphenyl)diphenyl-	 1	1	2	2	3	3	4	4	5	5	6	6	6-tridecafluoro-1-hexanesulfonate (1:1);910606-39-2
+Sulfonium	 [4-[(2-methyl-1-oxo-2-propen-1-yl)oxy]phenyl]diphenyl-	 1	1	2	2	3	3	4	4	5	5	6	6	6-tridecafluoro-1-hexanesulfonate (1:1);911027-68-4
+Sulfonium	 [4-[(2-methyl-1-oxo-2-propenyl)oxy]phenyl]diphenyl-	 salt with 1	1	2	2	3	3	4	4	5	5	6	6	6-tridecafluoro-1-hexanesulfonic acid (1:1)	 polymer with 2-ethyltricyclo[3.3.1.13	7]dec-2-yl 2-methyl-2-propenoate	 3-hydroxytricyclo[3.3.1.13	7]dec-1-yl 2-methyl-2-propenoate and tetrahydro-2-oxo-3-furanyl 2-methyl-2-propenoate;911027-69-5
+1-Hexanesulfonic acid	 1	1	2	2	3	3	4	4	5	5	6	6	6-tridecafluoro-	 cesium salt (1:1);92011-17-1
+Dibenzo[k	n][1	4	7	10	13]tetraoxathiacyclopentadecinium	 19-[4-(1	1-dimethylethyl)phenyl]-6	7	9	10	12	13-hexahydro-	 1	1	2	2	3	3	4	4	5	5	6	6	6-tridecafluoro-1-hexanesulfonate (1:1);928049-42-7
+1-Hexanesulfonic acid	 1	1	2	2	3	3	4	4	5	5	6	6	6-tridecafluoro-	 gallium salt (9CI);341035-71-0
+Sulfonium	 bis(4-methylphenyl)phenyl-	 1	1	2	2	3	3	4	4	5	5	6	6	6-tridecafluoro-1-hexanesulfonate (1:1);341548-85-4
+1-Hexanesulfonic acid	 1	1	2	2	3	3	4	4	5	5	6	6	6-tridecafluoro-	 scandium(3+) salt (3:1);350836-93-0
+1-Hexanesulfonic acid	 1	1	2	2	3	3	4	4	5	5	6	6	6-tridecafluoro-	 neodymium(3+) salt (3:1);41184-65-0
+1-Hexanesulfonic acid	 1	1	2	2	3	3	4	4	5	5	6	6	6-tridecafluoro-	 yttrium(3+) salt (3:1);41242-12-0
+Sulfonium	 (thiodi-4	1-phenylene)bis[diphenyl-	 salt with 1	1	2	2	3	3	4	4	5	5	6	6	6-tridecafluoro-1-hexanesulfonic acid (1:2);421555-73-9
+Iodonium	 bis[4-(1	1-dimethylpropyl)phenyl]-	 salt with 1	1	2	2	3	3	4	4	5	5	6	6	6-tridecafluoro-1-hexanesulfonic;421555-74-0
+Sulfonium	 tris[4-(1	1-dimethylethyl)phenyl]-	 1	1	2	2	3	3	4	4	5	5	6	6	6-tridecafluoro-1-hexanesulfonate (1:1);425670-70-8
+N	N	N-triethylethanaminium tridecafluorohexane-1-sulfonate;108427-55-0
+N	N	N-tributylbutan-1-aminium tridecafluorohexane-1-sulfonate;108427-54-9
+1-Hexanesulfonic acid	 1	1	2	2	3	3	4	4	5	5	6	6	6-tridecafluoro-	 lithium salt (1:1);55120-77-9
+1-Hexanesulfonic acid	 1	1	2	2	3	3	4	4	5	5	6	6	6-tridecafluoro-	 zinc salt;70136-72-0
+1-Hexanesulfonic acid	 1	1	2	2	3	3	4	4	5	5	6	6	6-tridecafluoro-	 compd. with N	N-diethylethanamine (1:1);72033-41-1
+p-(1	1-dimethylpropyl)phenol;80-46-6
+Nonadecafluorodecanoic acid (PFDA) and its sodium and ammonium salts;-
+Nonadecafluorodecanoic acid;335-76-2
+sodium nonadecafluorodecanoate;3830-45-3
+Ammonium nonadecafluorodecanoate;3108-42-7
+4-heptylphenol	 branched and linear;-
+Phenol	 heptyl derivs.;72624-02-3
+4-heptylphenol;1987-50-4
+4-(2	3	3-trimethylbutan-2-yl)phenol;72861-06-4
+4-(2	4-dimethylpentan-2-yl)phenol;33104-11-9
+4-(3-ethylpentan-3-yl)phenol;37872-24-5
+4-(2-methylhexan-2-yl)phenol;30784-31-7
+4-(3	3-dimethylpentan-2-yl)phenol;911371-06-7
+4-(3-methylhexan-2-yl)phenol;854904-93-1
+4-(4	4-dimethylpentan-2-yl)phenol;911371-07-8
+4-(4-methylhexan-2-yl)phenol;71945-81-8
+4-(5-methylhexan-2-yl)phenol;857629-71-1
+4-(2	2-dimethylpentan-3-yl)phenol;861010-65-3
+4-(5-methylhexan-3-yl)phenol;854904-92-0
+4-(heptan-3-yl)phenol;6465-74-3
+4-(heptan-2-yl)phenol;6863-24-7
+4-(heptan-4-yl)phenol;6465-71-0
+4-(3-ethylpentyl)phenol;911370-98-4
+4-(3-methylhexyl)phenol;102570-52-5
+4-(4-methylhexyl)phenol;1139800-98-8
+4-(5-methylhexyl)phenol;100532-36-3
+4-(2	4-dimethylpentan-3-yl)phenol;1824346-00-0
+4-(2	3-dimethylpentan-2-yl)phenol;861011-60-1
+Phenol	 4-(1-ethyl-1	2-dimethylpropyl)-;30784-27-1
+4-(3-methylhexan-3-yl)phenol;30784-32-8
+Phenol	 4-tert-heptyl-;288864-02-8
+4	4'-isopropylidenediphenol;80-05-7
+Benzo[def]chrysene (Benzo[a]pyrene);50-32-8
+Perfluorononan-1-oic-acid and its sodium and ammonium salts;-
+Perfluorononan-1-oic-acid;375-95-1
+Sodium salts of perfluorononan-1-oic-acid;21049-39-8
+Ammonium salts of perfluorononan-1-oic-acid;4149-60-4
+Nitrobenzene;98-95-3
+2-(2H-benzotriazol-2-yl)-4-(tert-butyl)-6-(sec-butyl)phenol (UV-350);36437-37-3
+2	4-di-tert-butyl-6-(5-chlorobenzotriazol-2-yl)phenol (UV-327);3864-99-1
+1	3-propanesultone;1120-71-4
+5-sec-butyl-2-(2	4-dimethylcyclohex-3-en-1-yl)-5-methyl-1	3-dioxane [1]	 5-sec-butyl-2-(4	6-dimethylcyclohex-3-en-1-yl)-5-methyl-1	3-dioxane [2];-
+5-sec-butyl-2-(2	4-dimethylcyclohex-3-en-1-yl)-5-methyl-1	3-dioxane;-
+1	3-Dioxane	 2-[(1S	2S)-2	4-dimethyl-3-cyclohexen-1-yl]-5-methyl-5-(1-methylpropyl)-	 trans-;676367-06-9
+Reaction mass of 5-sec-butyl-2-(2	4-dimethylcyclohex-3-en-1-yl)-5-methyl-1	3-dioxane and 5-sec-butyl-2-(4	6-dimethylcyclohex-3-en-1-yl)-5-methyl-1	3-dioxane;-
+1	3-Dioxane	 2-(2	4-dimethyl-3-cyclohexen-1-yl)-5-methyl-5-(1-methylpropyl)-;117933-89-8
+Reaction mass of 5-[(2R)-butan-2-yl]-2-[(1R	2R)-2	4-dimethylcyclohex-3-en-1-yl]-5-methyl-1	3-dioxane and 5-[(2R)-butan-2-yl]-2-[(1R	6R)-4	6-dimethylcyclohex-3-en-1-yl]-5-methyl-1	3-dioxane and 5-[(2S)-butan-2-yl]-2-[(1R	2R)-2	4-dimethylcyclohex-3-en-1-yl]-5-methyl-1	3-dioxane and 5-[(2S)-butan-2-yl]-2-[(1S	2R)-2	4-dimethylcyclohex-3-en-1-yl]-5-methyl-1	3-dioxane and 5-[(2S)-butan-2-yl]-2-[(1S	6R)-4	6-dimethylcyclohex-3-en-1-yl]-5-methyl-1	3-dioxane;-
+1	3-Dioxane	 2-[(1R	2R)-2	4-dimethyl-3-cyclohexen-1-yl]-5-methyl-5-(1-methylpropyl)-	 cis-;676367-05-8
+1	3-Dioxane	 2-[(1R	2R)-2	4-dimethyl-3-cyclohexen-1-yl]-5-methyl-5-(1-methylpropyl)-	 cis-rel-;343934-04-3
+1	3-Dioxane	 2-[(1R	2R)-2	4-dimethyl-3-cyclohexen-1-yl]-5-methyl-5-(1-methylpropyl)-	 trans-;676367-09-2
+1	3-Dioxane	 2-[(1R	2R)-2	4-dimethyl-3-cyclohexen-1-yl]-5-methyl-5-(1-methylpropyl)-	 trans-rel-;343934-05-4
+1	3-Dioxane	 2-[(1R	2S)-2	4-dimethyl-3-cyclohexen-1-yl]-5-methyl-5-(1-methylpropyl)-	 cis-;676367-04-7
+1	3-Dioxane	 2-[(1R	2S)-2	4-dimethyl-3-cyclohexen-1-yl]-5-methyl-5-(1-methylpropyl)-	 trans-;676367-08-1
+1	3-Dioxane	 2-[(1S	2R)-2	4-dimethyl-3-cyclohexen-1-yl]-5-methyl-5-(1-methylpropyl)-	 cis-;676367-03-6
+1	3-Dioxane	 2-[(1S	2R)-2	4-dimethyl-3-cyclohexen-1-yl]-5-methyl-5-(1-methylpropyl)-	 trans-;676367-07-0
+1	3-Dioxane	 2-[(1S	2S)-2	4-dimethyl-3-cyclohexen-1-yl]-5-methyl-5-(1-methylpropyl)-	 cis-;676367-02-5
+5-sec-butyl-2-(4	6-dimethylcyclohex-3-en-1-yl)-5-methyl-1	3-dioxane;-
+1	2-benzenedicarboxylic acid	 di-C6-10-alkyl esters or mixed decyl and hexyl and octyl diesters;-
+1	2-Benzenedicarboxylic acid	 di-C6-10-alkyl esters;68515-51-5
+1	2-Benzenedicarboxylic acid	 mixed decyl and hexyl and octyl diesters;68648-93-1
+Reaction mass of 2-ethylhexyl 10-ethyl-4	4-dioctyl-7-oxo-8-oxa-3	5-dithia-4-stannatetradecanoate and 2-ethylhexyl 10-ethyl-4-[[2-[(2-ethylhexyl)oxy]-2-oxoethyl]thio]-4-octyl-7-oxo-8-oxa-3	5-dithia-4-stannatetradecanoate (reaction mass of DOTE and MOTE);-
+Cadmium sulphate;10124-36-4	 31119-53-6
+Sulfuric acid	 cadmium salt (1:1)	 hydrate;15244-35-6
+Sulfuric acid	 cadmium salt	 hydrate (3:3:8);7790-84-3
+Cadmium fluoride;7790-79-6
+2-ethylhexyl 10-ethyl-4	4-dioctyl-7-oxo-8-oxa-3	5-dithia-4-stannatetradecanoate (DOTE);15571-58-1
+2-benzotriazol-2-yl-4	6-di-tert-butylphenol (UV-320);3846-71-7
+2-(2H-benzotriazol-2-yl)-4	6-ditertpentylphenol (UV-328);25973-55-1
+Sodium peroxometaborate;7632-04-4
+Sodium perborate	 perboric acid	 sodium salt;-
+Perboric acid	 sodium salt	 tetrahydrate ();37244-98-7
+Perboric acid (HBO(O2))	 sodium salt	 tetrahydrate;10486-00-7
+Sodium perborate monohydrate;10332-33-9
+Sodium perborate;15120-21-5
+Borate(2-)	 tetrahydroxybis[μ-(peroxy-κO1:κO2)]di-	 sodium (1:2);90568-23-3
+Perboric acid	 sodium salt;11138-47-9
+Borate(2-)	 tetrahydroxybis[μ-(peroxy-κO1:κO2)]di-	 sodium	 hydrate (1:2:6);125022-34-6
+Perboric acid (H3BO2(O2))	 monosodium salt	 trihydrate;13517-20-9
+Cadmium chloride;10108-64-2
+cadmium chloride (CdCl2)	 hydrate (2:5);7790-78-5
+1	2-Benzenedicarboxylic acid	 dihexyl ester	 branched and linear;68515-50-4
+Trixylyl phosphate;25155-23-1
+Lead di(acetate);301-04-2
+Imidazolidine-2-thione (2-imidazoline-2-thiol);96-45-7
+Disodium 4-amino-3-[[4'-[(2	4-diaminophenyl)azo][1	1'-biphenyl]-4-yl]azo] -5-hydroxy-6-(phenylazo)naphthalene-2	7-disulphonate (C.I. Direct Black 38);1937-37-7
+Disodium 3	3'-[[1	1'-biphenyl]-4	4'-diylbis(azo)]bis(4-aminonaphthalene-1-sulphonate) (C.I. Direct Red 28);573-58-0
+Dihexyl phthalate;84-75-3
+Cadmium sulphide;1306-23-6
+Pentadecafluorooctanoic acid (PFOA);335-67-1
+Dipentyl phthalate (DPP);131-18-0
+Cadmium oxide;1306-19-0
+Monteponite (CdO);12139-21-8
+Cadmium;7440-43-9
+Ammonium pentadecafluorooctanoate (APFO);3825-26-1
+4-Nonylphenol	 branched and linear	 ethoxylated;-
+Nonylphenol	 branched	 ethoxylated;68412-54-4
+4-Nonylphenol	 branched	 ethoxylated;127087-87-0
+Nonylphenol	 ethoxylated;9016-45-9
+2-[2-[2-[2-(4-nonylphenoxy)ethoxy]ethoxy]ethoxy]ethanol;7311-27-5
+Nonylphenol	 ethoxylated (15-EO);9016-45-9
+2-(nonylphenoxy)ethanol;27986-36-3
+20-(4-nonylphenoxy)-3	6	9	12	15	18-hexaoxaicosan-1-ol;27942-27-4
+Nonylphenol	 ethoxylated (10-EO);9016-45-9
+23-(nonylphenoxy)-3	6	9	12	15	18	21-heptaoxatricosan-1-ol;27177-05-5
+2-{2-[4-(3	6-dimethylheptan-3-yl)phenoxy]ethoxy}ethanol;1119449-38-5
+2-[2-(nonylphenoxy)ethoxy]ethanol;27176-93-8
+Nonylphenol	 ethoxylated (8-EO);9016-45-9
+14-(nonylphenoxy)-3	6	9	12-tetraoxatetradecan-1-ol;26264-02-8
+2-[2-(4-nonylphenoxy)ethoxy]ethanol;20427-84-3
+Nonylphenol	 ethoxylated (6	5-EO);9016-45-9
+Poly(oxy-1	2-et

@@ -1,0 +1,114 @@
+{
+    "chemicals": [
+        {
+            "chemical_name": "Chlorine",
+            "CAS": "7782-50-5",
+            "regulation": "Stockholm Convention"
+        },
+        {
+            "chemical_name": "Mercury",
+            "CAS": "7439-97-6",
+            "regulation": "Stockholm Convention"
+        },
+        {
+            "chemical_name": "Benzene",
+            "CAS": "71-43-2",
+            "regulation": "Stockholm Convention"
+        },
+        {
+            "chemical_name": "Hexachlorobenzene",
+            "CAS": "118-74-1",
+            "regulation": "Stockholm Convention"
+        },
+        {
+            "chemical_name": "Aldrin",
+            "CAS": "309-00-2",
+            "regulation": "Stockholm Convention"
+        },
+        {
+            "chemical_name": "Chlordane",
+            "CAS": "57-74-9",
+            "regulation": "Stockholm Convention"
+        },
+        {
+            "chemical_name": "Dieldrin",
+            "CAS": "60-57-1",
+            "regulation": "Stockholm Convention"
+        },
+        {
+            "chemical_name": "Endrin",
+            "CAS": "72-20-8",
+            "regulation": "Stockholm Convention"
+        },
+        {
+            "chemical_name": "Heptachlor",
+            "CAS": "76-44-8",
+            "regulation": "Stockholm Convention"
+        },
+        {
+            "chemical_name": "Hexachlorobenzene",
+            "CAS": "118-74-1",
+            "regulation": "Stockholm Convention"
+        },
+        {
+            "chemical_name": "Mirex",
+            "CAS": "2385-85-5",
+            "regulation": "Stockholm Convention"
+        },
+        {
+            "chemical_name": "Toxaphene",
+            "CAS": "8001-35-2",
+            "regulation": "Stockholm Convention"
+        },
+        {
+            "chemical_name": "DDT",
+            "CAS": "50-29-3",
+            "regulation": "Stockholm Convention"
+        },
+        {
+            "chemical_name": "Benzene",
+            "CAS": "71-43-2",
+            "regulation": "Stockholm Convention"
+        },
+        {
+            "chemical_name": "Mercury",
+            "CAS": "7439-97-6",
+            "regulation": "Stockholm Convention"
+        },
+        {
+            "chemical_name": "Lead chromate",
+            "CAS": "7758-97-6",
+            "regulation": "Stockholm Convention"
+        },
+        {
+            "chemical_name": "Benzene",
+            "CAS": "71-43-2",
+            "regulation": "Stockholm Convention"
+        },
+        {
+            "chemical_name": "Mercury",
+            "CAS": "7439-97-6",
+            "regulation": "Stockholm Convention"
+        },
+        {
+            "chemical_name": "Lead chromate",
+            "CAS": "7758-97-6",
+            "regulation": "Stockholm Convention"
+        },
+        {
+            "chemical_name": "Mercury",
+            "CAS": "7439-97-6",
+            "regulation": "Stockholm Convention"
+        },
+        {
+            "chemical_name": "Lead chromate",
+            "CAS": "7758-97-6",
+            "regulation": "Stockholm Convention"
+        },
+        {
+            "chemical_name": "Benzene",
+            "CAS": "71-43-2",
+            "regulation": "Stockholm Convention"
+        }
+    ]
+}

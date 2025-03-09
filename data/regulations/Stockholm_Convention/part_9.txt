@@ -1,0 +1,315 @@
+deration of approaches to prevent the formation and 
+release of the chemicals listed in Part I.  Useful measures could include: 
+ 
+ 
+(a) 
+The use of low-waste technology; 
+ 
+ 
+(b) 
+The use of less hazardous substances; 
+ 
+ 
+(c) 
+The promotion of the recovery and recycling of waste and of substances 
+generated and used in a process; 
+ 
+ 
+(d) 
+Replacement of feed materials which are persistent organic pollutants or where 
+there is a direct link between the materials and releases of persistent organic pollutants from 
+the source; 
+ 
+ 
+(e) 
+Good housekeeping and preventive maintenance programmes; 
+ 
+ 
+(f) 
+Improvements in waste management with the aim of the cessation of open and 
+other uncontrolled burning of wastes, including the burning of landfill sites.  When 
+considering proposals to construct new waste disposal facilities, consideration should be 
+given to alternatives such as activities to minimize the generation of municipal and medical 
+waste, including resource recovery, reuse, recycling, waste separation and promoting products 
+that generate less waste.   Under this approach, public health concerns should be carefully 
+considered; 
+ 
+ 
+(g) 
+Minimization of these chemicals as contaminants in products; 
+ 
+ 
+(h) 
+Avoiding elemental chlorine or chemicals generating elemental chlorine for 
+bleaching. 
+ 
+B.  Best available techniques  
+ 
+ 
+The concept of best available techniques is not aimed at the prescription of any specific 
+technique or technology, but at taking into account the technical characteristics of the 
+installation concerned, its geographical location and the local environmental conditions.  
+Appropriate control techniques to reduce releases of the chemicals listed in Part I are in 
+general the same.  In determining best available techniques, special consideration should be 
+given, generally or in specific cases, to the following factors, bearing in mind the likely costs 
+and benefits of a measure and consideration of precaution and prevention:   
+  
+ 
+(a) 
+General considerations: 
+ 
+(i) 
+The nature, effects and mass of the releases concerned:  techniques may 
+vary depending on source size; 
+ 
+
+ 
+34
+(ii) 
+The commissioning dates for new or existing installations; 
+ 
+(iii) The time needed to introduce the best available technique; 
+ 
+(iv) 
+The consumption and nature of raw materials used in the process and its 
+energy efficiency; 
+ 
+(v) 
+The need to prevent or reduce to a minimum the overall impact of the 
+releases to the environment and the risks to it; 
+ 
+(vi) 
+The need to prevent accidents and to minimize their consequences for the 
+environment; 
+ 
+(vii) The need to ensure occupational health and safety at workplaces; 
+ 
+(viii) Comparable processes, facilities or methods of operation which have been 
+tried with success on an industrial scale; 
+ 
+(ix) 
+Technological advances and changes in scientific knowledge and 
+understanding.  
+ 
+  
+(b) 
+General release reduction measures:  When considering proposals to construct 
+new facilities or significantly modify existing facilities using processes that release chemicals 
+listed in this Annex, priority consideration should be given to alternative processes, 
+techniques or practices that have similar usefulness but which avoid the formation and release 
+of such chemicals.  In cases where such facilities will be constructed or significantly 
+modified, in addition to the prevention measures outlined in section A of Part V the following 
+reduction measures could also be considered in determining best available techniques: 
+ 
+(i) 
+Use of improved methods for flue-gas cleaning such as thermal or catalytic 
+oxidation, dust precipitation, or adsorption; 
+ 
+(ii) 
+Treatment of residuals, wastewater, wastes and sewage sludge by, for 
+example, thermal treatment or rendering them inert or chemical processes 
+that detoxify them; 
+ 
+(iii) Process changes that lead to the reduction or elimination of releases, such as 
+moving to closed systems; 
+ 
+(iv) Modification of process designs to improve combustion and prevent 
+formation of the chemicals listed in this Annex, through the control of 
+parameters such as incineration temperature or residence time. 
+ 
+ 
+C.  Best environmental practices  
+ 
+ 
+The Conference of the Parties may develop guidance with regard to best environmental 
+practices. 
+
+ 
+35
+ 
+Annex D 
+ 
+INFORMATION REQUIREMENTS AND SCREENING CRITERIA  
+ 
+1. 
+A Party submitting a proposal to list a chemical in Annexes A, B and/or C shall identify 
+the chemical in the manner described in subparagraph (a) and provide the information on the 
+chemical, and its transformation products where relevant, relating to the screening criteria set 
+out in subparagraphs (b) to (e):  
+ 
+ 
+(a) 
+Chemical identity: 
+ 
+ (i) 
+Names, including trade name or names, commercial name or names and 
+synonyms, 
+Chemical 
+Abstracts 
+Service 
+(CAS) 
+Registry 
+number, 
+International Union of Pure and Applied Chemistry (IUPAC) name; and  
+ 
+ (ii) 
+Structure, including specification of isomers, where applicable, and the 
+structure of the chemical class; 
+ 
+ 
+(b) 
+Persistence: 
+ 
+ (i) 
+Evidence that the half-life of the chemical in water is greater than two 
+months, or that its half-life in soil is greater than six months, or that its half-
+life in sediment is greater than six months; or 
+ 
+ (ii) 
+Evidence that the chemical is otherwise sufficiently persistent to justify its 
+consideration within the scope of this Convention; 
+ 
+ 
+(c) 
+Bio-accumulation: 
+ 
+ (i) 
+Evidence that the bio-concentration factor or bio-accumulation factor in 
+aquatic species for the chemical is greater than 5,000 or, in the absence of 
+such data, that the log Kow is greater than 5;  
+ 
+ (ii) 
+Evidence that a chemical presents other reasons for concern, such as high 
+bio-accumulation in other species, high toxicity or ecotoxicity; or 
+ 
+ (iii) Monitoring data in biota indicating that the bio-accumulation potential of 
+the chemical is sufficient to justify its consideration within the scope of this 
+Convention; 
+ 
+ 
+(d) 
+Potential for long-range environmental transport: 
+ 
+ (i) 
+Measured levels of the chemical in locations distant from the sources of its 
+release that are of potential concern;  
+ 
+ (ii) 
+Monitoring data showing that long-range environmental transport of the 
+chemical, with the potential for transfer to a receiving environment, may 
+have occurred via air, water or migratory species; or 
+ 
+ (iii) Environmental fate properties and/or model results that demonstrate that the 
+chemical has a potential for long-range environmental transport through air, 
+
+ 
+36
+water or migratory species, with the potential for transfer to a receiving 
+environment in locations distant from the sources of its release.  For a 
+chemical that migrates significantly through the air, its half-life in air should 
+be greater than two days; and 
+ 
+ 
+(e) 
+Adverse effects: 
+ 
+ (i) 
+Evidence of adverse effects to human health or to the environment that 
+justifies consideration of the chemical within the scope of this Convention; 
+or  
+ 
+ (ii) 
+Toxicity or ecotoxicity data that indicate the potential for damage to human 
+health or to the environment. 
+  
+  
+2. 
+The proposing Party shall provide a statement of the reasons for concern including, 
+where possible, a comparison of toxicity or ecotoxicity data with detected or predicted levels 
+of a chemical resulting or anticipated from its long-range environmental transport, and a short 
+statement indicating the need for global control. 
+ 
+3. 
+The proposing Party shall, to the extent possible and taking into account its capabilities, 
+provide additional information to support the review of the proposal referred to in paragraph 6 
+of Article 8.  In developing such a proposal, a Party may draw on technical expertise from any 
+source. 
+ 
+ 
+
+ 
+37
+ 
+Annex E 
+ 
+INFORMATION REQUIREMENTS FOR THE RISK PROFILE 
+ 
+ 
+The purpose of the review is to evaluate whether the chemical is likely, as a result of its 
+long-range environmental transport, to lead to significant adverse human health and/or 
+environmental effects, such that global action is warranted.  For this purpose, a risk profile 
+shall be developed that further elaborates on, and evaluates, the information referred to in 
+Annex D and includes, as far as possible, the following types of information:  
+ 
+ 
+(a) 
+Sources, including as appropriate: 
+ 
+ 
+ 
+(i) 
+Production data, including quantity and location;  
+ 
+ 
+ 
+(ii) 
+Uses; and  
+ 
+ 
+ 
+(iii) Releases, such as discharges, losses and emissions;  
+ 
+ 
+(b) 
+Hazard assessment for the endpoint or endpoints of concern, including a 
+consideration of toxicological interactions involving multiple chemicals; 
+ 
+ 
+(c) 
+Environmental fate, including data and information on the chemical and physical 
+properties of a chemical as well as its persistence and how they are linked to its environmental 
+transport, transfer within and between environmental compartments, degradation and 
+transformation to other chemicals.  A determination of the bio-concentration factor or bio-
+accumulation factor, based on measured values, shall be available, except when monitoring 
+data are judged to meet this need; 
+ 
+ 
+(d) 
+Monitoring data; 
+ 
+ 
+(e) 
+Exposure in local areas and, in particular, as a result of long-range environmental 
+transport, and including information regarding bio-availability;  
+ 
+ 
+(f) 
+National and international risk evaluations, assessments or profiles and labelling 
+information and hazard classifications, as available; and  
+ 
+ 
+(g) 
+Status of the chemical under international conventions. 
+
+ 
+38
+ 
+Annex F 
+ 
+INFORMATION ON SOCIO-ECONOMIC CONSIDERATIONS 
+ 
+ 
+An evaluation should be undertaken regarding possible control measures for chemicals 
+under consideration for inclusion in this Convention, encompassing the full range of options, 
+including management and elimination.  For this purpose, relevant information should be 
+provided relating to socio-economic considerations associated with possible control meas

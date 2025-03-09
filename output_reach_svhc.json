@@ -1,0 +1,129 @@
+{
+    "chemicals": [
+        {
+            "chemical_name": "Lead chromate",
+            "CAS": "7758-97-6",
+            "regulation": "REACH SVHC Candidate List"
+        },
+        {
+            "chemical_name": "2,4-dinitrotoluene",
+            "CAS": "121-14-2",
+            "regulation": "REACH SVHC Candidate List"
+        },
+        {
+            "chemical_name": "Lead chromate molybdate sulphate red (C.I. Pigment Red 104)",
+            "CAS": "12656-85-8",
+            "regulation": "REACH SVHC Candidate List"
+        },
+        {
+            "chemical_name": "Lead sulfochromate yellow (C.I. Pigment Yellow 34)",
+            "CAS": "1344-37-2",
+            "regulation": "REACH SVHC Candidate List"
+        },
+        {
+            "chemical_name": "Lead chromate",
+            "CAS": "7758-97-6",
+            "regulation": "REACH SVHC Candidate List"
+        },
+        {
+            "chemical_name": "1,3-propanesultone",
+            "CAS": "1120-71-4",
+            "regulation": "REACH SVHC Candidate List"
+        },
+        {
+            "chemical_name": "N,N,N-triethylethanaminium tridecafluorohexane-1-sulfonate",
+            "CAS": "108427-55-0",
+            "regulation": "REACH SVHC Candidate List"
+        },
+        {
+            "chemical_name": "N,N,N-tributylbutan-1-aminium tridecafluorohexane-1-sulfonate",
+            "CAS": "108427-54-9",
+            "regulation": "REACH SVHC Candidate List"
+        },
+        {
+            "chemical_name": "1,2-benzenedicarboxylic acid di-C6-10-alkyl esters",
+            "CAS": "68515-51-5",
+            "regulation": "REACH SVHC Candidate List"
+        },
+        {
+            "chemical_name": "1,2-benzenedicarboxylic acid mixed decyl and hexyl and octyl diesters",
+            "CAS": "68648-93-1",
+            "regulation": "REACH SVHC Candidate List"
+        },
+        {
+            "chemical_name": "2-ethylhexyl 10-ethyl-4,4-dioctyl-7-oxo-8-oxa-3,5-dithia-4-stannatetradecanoate (DOTE)",
+            "CAS": "15571-58-1",
+            "regulation": "REACH SVHC Candidate List"
+        },
+        {
+            "chemical_name": "2-benzotriazol-2-yl-4,6-di-tert-butylphenol (UV-320)",
+            "CAS": "3846-71-7",
+            "regulation": "REACH SVHC Candidate List"
+        },
+        {
+            "chemical_name": "2-(2H-benzotriazol-2-yl)-4,6-ditertpentylphenol (UV-328)",
+            "CAS": "25973-55-1",
+            "regulation": "REACH SVHC Candidate List"
+        },
+        {
+            "chemical_name": "Lead di(acetate)",
+            "CAS": "301-04-2",
+            "regulation": "REACH SVHC Candidate List"
+        },
+        {
+            "chemical_name": "Imidazolidine-2-thione (2-imidazoline-2-thiol)",
+            "CAS": "96-45-7",
+            "regulation": "REACH SVHC Candidate List"
+        },
+        {
+            "chemical_name": "Disodium 4-amino-3-[[4'-[(2,4-diaminophenyl)azo][1,1'-biphenyl]-4-yl]azo]-5-hydroxy-6-(phenylazo)naphthalene-2,7-disulphonate (C.I. Direct Black 38)",
+            "CAS": "1937-37-7",
+            "regulation": "REACH SVHC Candidate List"
+        },
+        {
+            "chemical_name": "Disodium 3,3'-[[1,1'-biphenyl]-4,4'-diylbis(azo)]bis(4-aminonaphthalene-1-sulphonate) (C.I. Direct Red 28)",
+            "CAS": "573-58-0",
+            "regulation": "REACH SVHC Candidate List"
+        },
+        {
+            "chemical_name": "Dihexyl phthalate",
+            "CAS": "84-75-3",
+            "regulation": "REACH SVHC Candidate List"
+        },
+        {
+            "chemical_name": "Cadmium sulphide",
+            "CAS": "1306-23-6",
+            "regulation": "REACH SVHC Candidate List"
+        },
+        {
+            "chemical_name": "Pentadecafluorooctanoic acid (PFOA)",
+            "CAS": "335-67-1",
+            "regulation": "REACH SVHC Candidate List"
+        },
+        {
+            "chemical_name": "Dipentyl phthalate (DPP)",
+            "CAS": "131-18-0",
+            "regulation": "REACH SVHC Candidate List"
+        },
+        {
+            "chemical_name": "Cadmium oxide",
+            "CAS": "1306-19-0",
+            "regulation": "REACH SVHC Candidate List"
+        },
+        {
+            "chemical_name": "Cadmium",
+            "CAS": "7440-43-9",
+            "regulation": "REACH SVHC Candidate List"
+        },
+        {
+            "chemical_name": "Nonylphenol branched ethoxylated",
+            "CAS": "68412-54-4",
+            "regulation": "REACH SVHC Candidate List"
+        },
+        {
+            "chemical_name": "Nonylphenol ethoxylated",
+            "CAS": "9016-45-9",
+            "regulation": "REACH SVHC Candidate List"
+        }
+    ]
+}
