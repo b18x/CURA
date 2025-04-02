@@ -86,7 +86,7 @@ class ChemicalDatabase:
             logger.warning(f"Skipping chemical due to missing regulation: {chemical}")
             return
 
-        if chemical_name and cas:
+        if chemical_name and cas and cas!="N/A":
             query = """
             MERGE (c:Chemical {cas: $cas})
             MERGE (cn:ChemicalName {name: $name})
