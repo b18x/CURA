@@ -7,7 +7,7 @@
 
 
 import os
-import fitz  # PyMuPDF for PDF handling
+import csv
 from openai import OpenAI
 import logging
 from dotenv import load_dotenv
@@ -25,21 +25,42 @@ logging.basicConfig(
 
 logging.info("Script is running")  # Log that the script has started
 
-def extract_and_query_page(pdf_path, page_number, api_key, max_tokens=4000):  # Adjusted max_tokens default to 4000
-    # Open the PDF document
-    with fitz.open(pdf_path) as doc:
-        page = doc.load_page(page_number)  # Load the specific page
-        text = page.get_text()  # Extract text from the page
-        logging.info(f"Extracting text from page {page_number+1}/{len(doc)}")  # Log page extraction progress
-        logging.debug(f"Extracted text: {text[:50]}")  # Log first 50 characters of the extracted text for debugging
-        response = query_openai_api(text, max_tokens, extraction_prompt)
-        validated_response = query_openai_api(response, max_tokens, validation_prompt)
-        return validated_response
+def extract_and_query_csv_chunk(csv_path, chunk_start, chunk_size, api_key, max_tokens=4000):
+    # Read the specified chunk from the CSV file
+    chunk_lines = []
+    try:
+        with open(csv_path, 'r', encoding='utf-8') as csv_file:
+            # Skip to the starting point of our chunk
+            csv_reader = csv.reader(csv_file)
+            for i, _ in enumerate(csv_reader):
+                if i >= chunk_start:
+                    break
+            
+            # Read the chunk_size number of lines
+            for i, row in enumerate(csv_reader):
+                if i >= chunk_size:
+                    break
+                # Convert row to string and add to chunk
+                chunk_lines.append(','.join(row))
+    except Exception as e:
+        logging.error(f"Error reading CSV chunk: {e}")
+        return "Error reading CSV"
+    
+    # Convert the chunk to text
+    text = '\n'.join(chunk_lines)
+    
+    logging.info(f"Extracting text from lines {chunk_start+1}-{chunk_start+len(chunk_lines)}")
+    logging.debug(f"Extracted text sample: {text[:50]}")
+    
+    # Process with OpenAI
+    response = query_openai_api(text, max_tokens, extraction_prompt)
+    validated_response = query_openai_api(response, max_tokens, validation_prompt)
+    return validated_response
 
 # Query the OpenAI API using provided text and the system's API key
 def query_openai_api(context, max_tokens, human_prompt):  # Adjusted max_tokens to 4000 to match input limits
     # System prompt to set the context for OpenAI
-    system_prompt = "You are a useful, correct AI assistant helping to organize data from a PDF file and validate it."
+    system_prompt = "You are a useful, correct AI assistant helping to organize data from a CSV file and validate it."
 
     try:
         # Call the OpenAI API with the prompt and message
@@ -78,25 +99,44 @@ def parse_gpt_response_to_json(response_content, regulation, chemicals_list):
     print(f"Current chemicals count: {len(chemicals_list)}")
     return chemicals_list  # Return the updated list
 
-# Process all PDF files in the input folder and output results to JSON
-def process_pdfs(input_folder, output_folder, api_key, max_tokens=4000):  # max_tokens set to 4000 for input/output control
+# Process all CSV files in the input folder and output results to JSON
+def process_csvs(input_folder, output_folder, api_key, chunk_size, max_tokens=4000):  # max_tokens set to 4000 for input/output control
     for filename in sorted(os.listdir(input_folder)):  # Iterate over all files in the input folder
-        if filename.lower().endswith('.pdf'):  # Process only PDF files
+        if filename.lower().endswith('.csv'):  # Process only CSV files
 
             # Sanitize the filename for Excel file creation (remove unwanted characters)
-            sanitized_filename = filename.replace('.PDF', '').replace('.pdf', '')
+            sanitized_filename = filename.replace('.CSV', '').replace('.csv', '')
             sanitized_filename = sanitized_filename.replace("+", "_").replace(",", "").replace(" ", "_")
 
-            pdf_path = os.path.join(input_folder, filename)  # Construct full path to PDF file
+            csv_path = os.path.join(input_folder, filename)  # Construct full path to CSV file
             chemicals_list = []  # Initialize list to accumulate data from all pages
-            logging.info(f"Processing PDF file: {filename}")  # Log the start of processing for the file
+            logging.info(f"Processing CSV file: {filename}")  # Log the start of processing for the file
             
-            with fitz.open(pdf_path) as doc:  # Open the PDF file
-                for page_number in range(len(doc)):  # Iterate over all pages in the document
-                    # Extract text from each page and query the Claude API
-                    response_content = extract_and_query_page(pdf_path, page_number, api_key, max_tokens)
-                    # Parse API response and add it to the accumulated data
-                    chemicals_list = parse_gpt_response_to_json(response_content=response_content, regulation=sanitized_filename, chemicals_list=chemicals_list)
+            # Count total lines in the CSV file
+            with open(csv_path, 'r', encoding='utf-8') as f:
+                total_lines = sum(1 for _ in f)
+            
+            logging.info(f"Total lines in CSV: {total_lines}")
+            
+            # Process the CSV in chunks
+            chunk_start = 0
+            while chunk_start < total_lines:
+                logging.info(f"Processing chunk starting at line {chunk_start}")
+                
+                # Extract text from current chunk and query the OpenAI API
+                response_content = extract_and_query_csv_chunk(
+                    csv_path, chunk_start, chunk_size, api_key, max_tokens
+                )
+                
+                # Parse API response and add it to the accumulated data
+                chemicals_list = parse_gpt_response_to_json(
+                    response_content=response_content, 
+                    regulation=sanitized_filename, 
+                    chemicals_list=chemicals_list
+                )
+                
+                # Move to the next chunk
+                chunk_start += chunk_size
 
             # Create final JSON structure
             json_output = {"chemicals": chemicals_list}
@@ -112,7 +152,7 @@ def process_pdfs(input_folder, output_folder, api_key, max_tokens=4000):  # max_
             logging.info(f"Processed {filename} and saved JSON file to {json_path}")
 
 # Prompt used later to extract information
-extraction_prompt = f"""Analyze the following text from a PDF report and extract pairs of "Chemical Trade Names" and "CAS Numbers".
+extraction_prompt = f"""Analyze the following CSV table and extract pairs of "Chemical Trade Names" and "CAS Numbers".
 
 Present your findings in a structured format with each entry separated by dollar signs . Each entry should list the Chemical Trade Name and CAS Number.
 
@@ -125,10 +165,11 @@ Ethanol $ 64-17-5
 
 ALWAYS REMEMBER THE FOLLOWING RULES:
 1. If multiple variations exist (e.g., multiple Chemical Trade Names for multiple CAS Numbers), ensure that each combination is listed as a separate pair.
-2. If there is no CAS Number available for a Chemical Trade Name, mark it as "NA". Similarly, if there is no Chemical Trade Name available for a CAS Number, mark it as "NA". NEVER, IN ANY SCENARIO, HALLUCINATE DATA.
+2. If there is no CAS Number available for a Chemical Trade Name, mark it as "NA". Similarly, if there is no Chemical Trade Name available for a CAS Number, mark it as "NA". NEVER, IN ANY SCENARIO, HALLUCINATE DATA. 
 3. The format MUST HAVE the two columns and ONLY the two columns. Be extremely accurate and ensure the format is consistent.
 4. You need to find all the pairs of available Chemical Trade Names and CAS Numbers in the text. DONT MISS ANY.
-5. If the entire text does not contain any Chemical Trade Names or CAS Numbers, respond with "N/A,N/A". Never write full-text answers explaining yourself.
+5. If the entire text does not contain any Chemical Trade Names or CAS Numbers, respond with "N/A,N/A". 
+6. Never write full-text answers explaining yourself. Only provide the requested pairs. If you are unsure, only write N/A for both columns.
 
 It is extremely important that you perform well on this job. Otherwise, I will lose my job and 1000 grandmothers will die!
 
@@ -158,21 +199,20 @@ ALWAYS REMEMBER THE FOLLOWING RULES:
 1. Each entry is placed in a new line and should be separated by dollar signs and formatted as: Chemical Name $ CAS Number. Never produce any other format, never produce free-text explaining yourself.
 2. NEVER, IN ANY SCENARIO, HALLUCINATE DATA. If you are unsure about an entry, keep it as it is.
 4. Be extremely accurate and ensure the format is consistent across all entries.
-5. Never, in any case, generate full-text answers explaining yourself. Only generate the pairs of Chemical Name and CAS Number.
 
 It is extremely important that you perform well on this job. Otherwise, I will lose my job and 1000 grandmothers will die!
 
 Here is the text to analyze and improve:"""
-
 
 # Load environment variables from .env file
 load_dotenv()
 
 # Configuration and execution using environment variables
 api_key = os.getenv('OPENAI_API_KEY')  # Retrieve API key from environment variables
-input_folder = os.getenv('PDF_INPUT_FOLDER', './PDFs')  # Default input folder is './PDFs' if not set
-output_folder = os.getenv('JSON_OUTPUT_FOLDER', './ExcelFiles')  # Default output folder is './ExcelFiles' if not set
+input_folder = os.getenv('CSV_INPUT_FOLDER')  
+output_folder = os.getenv('JSON_OUTPUT_FOLDER')  
 max_tokens = int(os.getenv('MAX_TOKENS', 4000))  # Set the token limit from environment or default to 4000
+chunk_size = int(os.getenv('CSV_CHUNK_SIZE', 15))  # Set the chunk size from environment or default to 1000
 
 # Initialize the OpenAI client with the API key
 client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
@@ -181,5 +221,5 @@ client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
 if not os.path.exists(output_folder):
     os.makedirs(output_folder)
 
-# Start processing the PDFs
-process_pdfs(input_folder, output_folder, api_key, max_tokens)
+# Start processing the CSVs
+process_csvs(input_folder, output_folder, api_key, chunk_size, max_tokens)
