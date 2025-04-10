@@ -1,0 +1,1424 @@
+{
+    "chemicals": [
+        {
+            "chemical_name": "(1\u03b1,2\u03b1,3\u03b2,4\u03b1,5\u03b2,6\u03b2)-1,2,3,4,5,6-hexachlorocyclohexane",
+            "CAS": "319-84-6",
+            "regulation": "eu_649_2012_1"
+        },
+        {
+            "chemical_name": "(1\u03b1,2\u03b2,3\u03b1,4\u03b2,5\u03b1,6\u03b2)-1,2,3,4,5,6-hexachlorocyclohexane",
+            "CAS": "319-85-7",
+            "regulation": "eu_649_2012_1"
+        },
+        {
+            "chemical_name": "1,1,1,2-Tetrachloroethane",
+            "CAS": "630-20-6",
+            "regulation": "eu_649_2012_1"
+        },
+        {
+            "chemical_name": "1,1,1-Trichloroethane",
+            "CAS": "71-55-6",
+            "regulation": "eu_649_2012_1"
+        },
+        {
+            "chemical_name": "1,1,2,2-Tetrachloroethane",
+            "CAS": "79-34-5",
+            "regulation": "eu_649_2012_1"
+        },
+        {
+            "chemical_name": "1,1,2-Trichloroethane",
+            "CAS": "79-00-5",
+            "regulation": "eu_649_2012_1"
+        },
+        {
+            "chemical_name": "1,1-Dichloroethene",
+            "CAS": "75-35-4",
+            "regulation": "eu_649_2012_1"
+        },
+        {
+            "chemical_name": "1,2-benzenedicarboxylic acid, di-C6-10-alkyl esters or mixed decyl and hexyl and octyl diesters",
+            "CAS": "NA",
+            "regulation": "eu_649_2012_1"
+        },
+        {
+            "chemical_name": "1,2-Benzenedicarboxylic acid, di-C6-8-branched alkyl esters, C7-rich",
+            "CAS": "71888-89-6",
+            "regulation": "eu_649_2012_1"
+        },
+        {
+            "chemical_name": "1,2-Benzenedicarboxylic acid, di-C7-11-branched and linear alkyl esters",
+            "CAS": "68515-42-4",
+            "regulation": "eu_649_2012_1"
+        },
+        {
+            "chemical_name": "1,2-Benzenedicarboxylic acid, dihexyl ester, branched and linear",
+            "CAS": "68515-50-4",
+            "regulation": "eu_649_2012_1"
+        },
+        {
+            "chemical_name": "1,2-Benzenedicarboxylic acid, dipentyl ester, branched and linear",
+            "CAS": "84777-06-0",
+            "regulation": "eu_649_2012_1"
+        },
+        {
+            "chemical_name": "1,2-dibromoethane (EDB)",
+            "CAS": "106-93-4",
+            "regulation": "eu_649_2012_1"
+        },
+        {
+            "chemical_name": "1,3-dichloropropene",
+            "CAS": "542-75-6",
+            "regulation": "eu_649_2012_1"
+        },
+        {
+            "chemical_name": "1,3-dichloropropene (CIS) (1Z)-1,3-dichloroprop-1-ene",
+            "CAS": "10061-01-5",
+            "regulation": "eu_649_2012_1"
+        },
+        {
+            "chemical_name": "1-bromopropane (n-propyl bromide)",
+            "CAS": "106-94-5",
+            "regulation": "eu_649_2012_1"
+        },
+        {
+            "chemical_name": "2,4,5-T",
+            "CAS": "93-76-5",
+            "regulation": "eu_649_2012_1"
+        },
+        {
+            "chemical_name": "Sodium trichlorophenoxyacetate",
+            "CAS": "88-85-7",
+            "regulation": "eu_649_2012_1"
+        },
+        {
+            "chemical_name": "Dimethylammonium trichlorophenoxyacetate",
+            "CAS": "2008-39-1",
+            "regulation": "eu_649_2012_1"
+        },
+        {
+            "chemical_name": "Isooctyl 2,4,5-trichlorophenoxyacetate",
+            "CAS": "25168-26-7",
+            "regulation": "eu_649_2012_1"
+        },
+        {
+            "chemical_name": "2,4-Dinitrotoluene (2,4-DNT)",
+            "CAS": "121-14-2",
+            "regulation": "eu_649_2012_1"
+        },
+        {
+            "chemical_name": "2-aminobutane",
+            "CAS": "13952-84-6",
+            "regulation": "eu_649_2012_1"
+        },
+        {
+            "chemical_name": "2-naphthylamine",
+            "CAS": "91-59-8",
+            "regulation": "eu_649_2012_1"
+        },
+        {
+            "chemical_name": "2-naphthylamine hydrochloride",
+            "CAS": "553-00-4",
+            "regulation": "eu_649_2012_1"
+        },
+        {
+            "chemical_name": "2-Naphthyloxyacetic acid",
+            "CAS": "120-23-0",
+            "regulation": "eu_649_2012_1"
+        },
+        {
+            "chemical_name": "3-decen-2-one",
+            "CAS": "10519-33-2",
+            "regulation": "eu_649_2012_1"
+        },
+        {
+            "chemical_name": "4,4'-Diaminodiphenylmethane (MDA)",
+            "CAS": "101-77-9",
+            "regulation": "eu_649_2012_1"
+        },
+        {
+            "chemical_name": "4-aminobiphenyl",
+            "CAS": "92-67-1",
+            "regulation": "eu_649_2012_1"
+        },
+        {
+            "chemical_name": "4-aminobiphenyl hydrochloride",
+            "CAS": "2113-61-3",
+            "regulation": "eu_649_2012_1"
+        },
+        {
+            "chemical_name": "4-nitrobiphenyl",
+            "CAS": "92-93-3",
+            "regulation": "eu_649_2012_1"
+        },
+        {
+            "chemical_name": "5-tert-butyl-2,4,6-trinitro-m-xylene",
+            "CAS": "81-15-2",
+            "regulation": "eu_649_2012_1"
+        },
+        {
+            "chemical_name": "Abamectin; Avermectin B1a (purity \u226580 %)",
+            "CAS": "71751-41-2",
+            "regulation": "eu_649_2012_1"
+        },
+        {
+            "chemical_name": "Acephate",
+            "CAS": "30560-19-1",
+            "regulation": "eu_649_2012_1"
+        },
+        {
+            "chemical_name": "Acetochlor",
+            "CAS": "34256-82-1",
+            "regulation": "eu_649_2012_1"
+        },
+        {
+            "chemical_name": "Acifluorfen",
+            "CAS": "50594-66-6",
+            "regulation": "eu_649_2012_1"
+        },
+        {
+            "chemical_name": "Acrolein",
+            "CAS": "107-02-8",
+            "regulation": "eu_649_2012_1"
+        },
+        {
+            "chemical_name": "Alachlor",
+            "CAS": "15972-60-8",
+            "regulation": "eu_649_2012_1"
+        },
+        {
+            "chemical_name": "Aldicarb",
+            "CAS": "116-06-3",
+            "regulation": "eu_649_2012_1"
+        },
+        {
+            "chemical_name": "Aldrin",
+            "CAS": "309-00-2",
+            "regulation": "eu_649_2012_1"
+        },
+        {
+            "chemical_name": "Alpha-cypermethrin",
+            "CAS": "67375-30-8",
+            "regulation": "eu_649_2012_1"
+        },
+        {
+            "chemical_name": "Ametryn",
+            "CAS": "834-12-8",
+            "regulation": "eu_649_2012_1"
+        },
+        {
+            "chemical_name": "Amitraz",
+            "CAS": "33089-61-1",
+            "regulation": "eu_649_2012_1"
+        },
+        {
+            "chemical_name": "Amitrole",
+            "CAS": "61-82-5",
+            "regulation": "eu_649_2012_1"
+        },
+        {
+            "chemical_name": "Anthraquinone",
+            "CAS": "84-65-1",
+            "regulation": "eu_649_2012_1"
+        },
+        {
+            "chemical_name": "Arsenic compounds",
+            "CAS": "NA",
+            "regulation": "eu_649_2012_1"
+        },
+        {
+            "chemical_name": "Articles containing concentrations at or above 0,1 % of tetra-, penta-, hexa- or heptabromodiphenyl ether by weight when produced partially or fully from recycled materials or materials from waste prepared for re-use",
+            "CAS": "NA",
+            "regulation": "eu_649_2012_1"
+        },
+        {
+            "chemical_name": "Articles where the sum of the concentration of tetra-, penta-, hexa-, hepta- and decabromodiphenyl ether is at or above 500 mg/kg, except where the concentration is 500 mg/kg or more due to a higher concentration of decabromodiphenyl ether and the presence of decaBDE is in compliance with Regulation (EU) 2019/1021",
+            "CAS": "NA",
+            "regulation": "eu_649_2012_1"
+        },
+        {
+            "chemical_name": "Asbestos fibres",
+            "CAS": "NA",
+            "regulation": "eu_649_2012_1"
+        },
+        {
+            "chemical_name": "Asbestos fibres: Chrysotile",
+            "CAS": "12001-29-5",
+            "regulation": "eu_649_2012_1"
+        },
+        {
+            "chemical_name": "Asulam",
+            "CAS": "3337-71-1",
+            "regulation": "eu_649_2012_1"
+        },
+        {
+            "chemical_name": "Atrazine",
+            "CAS": "1912-24-9",
+            "regulation": "eu_649_2012_1"
+        },
+        {
+            "chemical_name": "Azimsulfuron",
+            "CAS": "120162-55-2",
+            "regulation": "eu_649_2012_1"
+        },
+        {
+            "chemical_name": "Azinphos-ethyl",
+            "CAS": "2642-71-9",
+            "regulation": "eu_649_2012_1"
+        },
+        {
+            "chemical_name": "Azinphos-methyl",
+            "CAS": "86-50-0",
+            "regulation": "eu_649_2012_1"
+        },
+        {
+            "chemical_name": "Azocyclotin",
+            "CAS": "41083-11-8",
+            "regulation": "eu_649_2012_1"
+        },
+        {
+            "chemical_name": "Benalaxyl",
+            "CAS": "71626-11-4",
+            "regulation": "eu_649_2012_1"
+        },
+        {
+            "chemical_name": "Bendiocarb",
+            "CAS": "22781-23-3",
+            "regulation": "eu_649_2012_1"
+        },
+        {
+            "chemical_name": "Benfluralin",
+            "CAS": "1861-40-1",
+            "regulation": "eu_649_2012_1"
+        },
+        {
+            "chemical_name": "Benfuracarb",
+            "CAS": "82560-54-1",
+            "regulation": "eu_649_2012_1"
+        },
+        {
+            "chemical_name": "Bensultap",
+            "CAS": "17606-31-4",
+            "regulation": "eu_649_2012_1"
+        },
+        {
+            "chemical_name": "benthiavalicarb-isopropyl",
+            "CAS": "177406-68-7",
+            "regulation": "eu_649_2012_1"
+        },
+        {
+            "chemical_name": "Benzene",
+            "CAS": "71-43-2",
+            "regulation": "eu_649_2012_1"
+        },
+        {
+            "chemical_name": "Benzene as a constituent of other substances in concentrations equal to, or greater than 0,1 % by weight",
+            "CAS": "NA",
+            "regulation": "eu_649_2012_1"
+        },
+        {
+            "chemical_name": "Benzidine",
+            "CAS": "92-87-5",
+            "regulation": "eu_649_2012_1"
+        },
+        {
+            "chemical_name": "Benzidine sulfate",
+            "CAS": "21136-70-9",
+            "regulation": "eu_649_2012_1"
+        },
+        {
+            "chemical_name": "Benzidine dihydrochloride",
+            "CAS": "531-85-1",
+            "regulation": "eu_649_2012_1"
+        },
+        {
+            "chemical_name": "Benzidine derivatives",
+            "CAS": "NA",
+            "regulation": "eu_649_2012_1"
+        },
+        {
+            "chemical_name": "Benzyl butyl phthalate",
+            "CAS": "85-68-7",
+            "regulation": "eu_649_2012_1"
+        },
+        {
+            "chemical_name": "Beta-cyfluthrin",
+            "CAS": "1820573-27-0",
+            "regulation": "eu_649_2012_1"
+        },
+        {
+            "chemical_name": "Beta-cypermethrin",
+            "CAS": "65731-84-2",
+            "regulation": "eu_649_2012_1"
+        },
+        {
+            "chemical_name": "Bifenthrin",
+            "CAS": "82657-04-3",
+            "regulation": "eu_649_2012_1"
+        },
+        {
+            "chemical_name": "Binapacryl",
+            "CAS": "485-31-4",
+            "regulation": "eu_649_2012_1"
+        },
+        {
+            "chemical_name": "Bis(2-methoxyethyl) phthalate",
+            "CAS": "117-82-8",
+            "regulation": "eu_649_2012_1"
+        },
+        {
+            "chemical_name": "Bis(pentabromophenyl) ether (decabromodiphenyl ether)",
+            "CAS": "1163-19-5",
+            "regulation": "eu_649_2012_1"
+        },
+        {
+            "chemical_name": "Bitertanol",
+            "CAS": "55179-31-2",
+            "regulation": "eu_649_2012_1"
+        },
+        {
+            "chemical_name": "Bromadiolone",
+            "CAS": "28772-56-7",
+            "regulation": "eu_649_2012_1"
+        },
+        {
+            "chemical_name": "Bromoxynil",
+            "CAS": "1689-84-5",
+            "regulation": "eu_649_2012_1"
+        },
+        {
+            "chemical_name": "Bromoxynil butyrate",
+            "CAS": "3861-41-4",
+            "regulation": "eu_649_2012_1"
+        },
+        {
+            "chemical_name": "Bromoxynil heptanoate",
+            "CAS": "56634-95-8",
+            "regulation": "eu_649_2012_1"
+        },
+        {
+            "chemical_name": "Bromoxynil octanoate",
+            "CAS": "1689-99-2",
+            "regulation": "eu_649_2012_1"
+        },
+        {
+            "chemical_name": "Butralin",
+            "CAS": "33629-47-9",
+            "regulation": "eu_649_2012_1"
+        },
+        {
+            "chemical_name": "Cadmium",
+            "CAS": "7440-43-9",
+            "regulation": "eu_649_2012_1"
+        },
+        {
+            "chemical_name": "Cadmium oxide",
+            "CAS": "1306-19-0",
+            "regulation": "eu_649_2012_1"
+        },
+        {
+            "chemical_name": "Cadmium chloride",
+            "CAS": "10108-64-2",
+            "regulation": "eu_649_2012_1"
+        },
+        {
+            "chemical_name": "Cadmium sulfate",
+            "CAS": "10124-36-4",
+            "regulation": "eu_649_2012_1"
+        },
+        {
+            "chemical_name": "Cadmium sulfide",
+            "CAS": "1306-23-6",
+            "regulation": "eu_649_2012_1"
+        },
+        {
+            "chemical_name": "Cadusafos",
+            "CAS": "95465-99-9",
+            "regulation": "eu_649_2012_1"
+        },
+        {
+            "chemical_name": "Calciferol",
+            "CAS": "50-14-6",
+            "regulation": "eu_649_2012_1"
+        },
+        {
+            "chemical_name": "Calcium phosphide",
+            "CAS": "1305-99-3",
+            "regulation": "eu_649_2012_1"
+        },
+        {
+            "chemical_name": "Captafol",
+            "CAS": "2425-06-1",
+            "regulation": "eu_649_2012_1"
+        },
+        {
+            "chemical_name": "Carbaryl",
+            "CAS": "63-25-2",
+            "regulation": "eu_649_2012_1"
+        },
+        {
+            "chemical_name": "Carbendazim",
+            "CAS": "10605-21-7",
+            "regulation": "eu_649_2012_1"
+        },
+        {
+            "chemical_name": "Carbetamide",
+            "CAS": "16118-49-3",
+            "regulation": "eu_649_2012_1"
+        },
+        {
+            "chemical_name": "Carbofuran",
+            "CAS": "1563-66-2",
+            "regulation": "eu_649_2012_1"
+        },
+        {
+            "chemical_name": "Carbon tetrachloride",
+            "CAS": "56-23-5",
+            "regulation": "eu_649_2012_1"
+        },
+        {
+            "chemical_name": "Carbosulfan",
+            "CAS": "55285-14-8",
+            "regulation": "eu_649_2012_1"
+        },
+        {
+            "chemical_name": "Carboxin",
+            "CAS": "5234-68-4",
+            "regulation": "eu_649_2012_1"
+        },
+        {
+            "chemical_name": "Cartap",
+            "CAS": "15263-53-3",
+            "regulation": "eu_649_2012_1"
+        },
+        {
+            "chemical_name": "Chinomethionat",
+            "CAS": "2439-01-2",
+            "regulation": "eu_649_2012_1"
+        },
+        {
+            "chemical_name": "Chlorate",
+            "CAS": "14866-68-3",
+            "regulation": "eu_649_2012_1"
+        },
+        {
+            "chemical_name": "Chlordane",
+            "CAS": "57-74-9",
+            "regulation": "eu_649_2012_1"
+        },
+        {
+            "chemical_name": "Chlordecone",
+            "CAS": "143-50-0",
+            "regulation": "eu_649_2012_1"
+        },
+        {
+            "chemical_name": "Chlordimeform",
+            "CAS": "6164-98-3",
+            "regulation": "eu_649_2012_1"
+        },
+        {
+            "chemical_name": "Chlorfenapyr",
+            "CAS": "122453-73-0",
+            "regulation": "eu_649_2012_1"
+        },
+        {
+            "chemical_name": "Chlorfenvinphos",
+            "CAS": "470-90-6",
+            "regulation": "eu_649_2012_1"
+        },
+        {
+            "chemical_name": "Chloridazon",
+            "CAS": "1698-60-8",
+            "regulation": "eu_649_2012_1"
+        },
+        {
+            "chemical_name": "Chlormephos",
+            "CAS": "24934-91-6",
+            "regulation": "eu_649_2012_1"
+        },
+        {
+            "chemical_name": "Chlorobenzilate",
+            "CAS": "510-15-6",
+            "regulation": "eu_649_2012_1"
+        },
+        {
+            "chemical_name": "Chloroform",
+            "CAS": "67-66-3",
+            "regulation": "eu_649_2012_1"
+        },
+        {
+            "chemical_name": "Chlorophene",
+            "CAS": "120-32-1",
+            "regulation": "eu_649_2012_1"
+        },
+        {
+            "chemical_name": "Chloropicrin",
+            "CAS": "76-06-2",
+            "regulation": "eu_649_2012_1"
+        },
+        {
+            "chemical_name": "Chlorothalonil",
+            "CAS": "1897-45-6",
+            "regulation": "eu_649_2012_1"
+        },
+        {
+            "chemical_name": "Chlorpropham",
+            "CAS": "101-21-3",
+            "regulation": "eu_649_2012_1"
+        },
+        {
+            "chemical_name": "Chlorpyrifos",
+            "CAS": "2921-88-2",
+            "regulation": "eu_649_2012_1"
+        },
+        {
+            "chemical_name": "Chlorpyrifos-methyl",
+            "CAS": "5598-13-0",
+            "regulation": "eu_649_2012_1"
+        },
+        {
+            "chemical_name": "Chlorsulfuron",
+            "CAS": "64902-72-3",
+            "regulation": "eu_649_2012_1"
+        },
+        {
+            "chemical_name": "Chlorthal-dimethyl",
+            "CAS": "1861-32-1",
+            "regulation": "eu_649_2012_1"
+        },
+        {
+            "chemical_name": "Chlozolinate",
+            "CAS": "84332-86-5",
+            "regulation": "eu_649_2012_1"
+        },
+        {
+            "chemical_name": "Cholecalciferol",
+            "CAS": "67-97-0",
+            "regulation": "eu_649_2012_1"
+        },
+        {
+            "chemical_name": "Cinidon-ethyl",
+            "CAS": "142891-20-1",
+            "regulation": "eu_649_2012_1"
+        },
+        {
+            "chemical_name": "Clofentezine",
+            "CAS": "74115-24-5",
+            "regulation": "eu_649_2012_1"
+        },
+        {
+            "chemical_name": "Clothianidin",
+            "CAS": "210880-92-5",
+            "regulation": "eu_649_2012_1"
+        },
+        {
+            "chemical_name": "Commercial octabromodiphenyl ether",
+            "CAS": "32536-52-0",
+            "regulation": "eu_649_2012_1"
+        },
+        {
+            "chemical_name": "Hexabromodiphenyl ether",
+            "CAS": "36483-60-0",
+            "regulation": "eu_649_2012_1"
+        },
+        {
+            "chemical_name": "Heptabromodiphenyl ether",
+            "CAS": "68928-80-3",
+            "regulation": "eu_649_2012_1"
+        },
+        {
+            "chemical_name": "Commercial pentabromodiphenyl ether",
+            "CAS": "32534-81-9",
+            "regulation": "eu_649_2012_1"
+        },
+        {
+            "chemical_name": "Tetrabromodiphenyl ether",
+            "CAS": "40088-47-9",
+            "regulation": "eu_649_2012_1"
+        },
+        {
+            "chemical_name": "Pentabromodiphenyl ether",
+            "CAS": "32534-81-9",
+            "regulation": "eu_649_2012_1"
+        },
+        {
+            "chemical_name": "Coumafuryl",
+            "CAS": "117-52-2",
+            "regulation": "eu_649_2012_1"
+        },
+        {
+            "chemical_name": "Creosote",
+            "CAS": "8001-58-9",
+            "regulation": "eu_649_2012_1"
+        },
+        {
+            "chemical_name": "Creosote oil",
+            "CAS": "61789-28-4",
+            "regulation": "eu_649_2012_1"
+        },
+        {
+            "chemical_name": "Creosote oil, coal tar",
+            "CAS": "8007-45-2",
+            "regulation": "eu_649_2012_1"
+        },
+        {
+            "chemical_name": "Creosote, wood",
+            "CAS": "8021-39-4",
+            "regulation": "eu_649_2012_1"
+        },
+        {
+            "chemical_name": "Crimidine",
+            "CAS": "535-89-7",
+            "regulation": "eu_649_2012_1"
+        },
+        {
+            "chemical_name": "Cyanamide",
+            "CAS": "420-04-2",
+            "regulation": "eu_649_2012_1"
+        },
+        {
+            "chemical_name": "Cyanazine",
+            "CAS": "21725-46-2",
+            "regulation": "eu_649_2012_1"
+        },
+        {
+            "chemical_name": "Cybutryne",
+            "CAS": "28159-98-0",
+            "regulation": "eu_649_2012_1"
+        },
+        {
+            "chemical_name": "Cyclanilide",
+            "CAS": "113136-77-9",
+            "regulation": "eu_649_2012_1"
+        },
+        {
+            "chemical_name": "Cyfluthrin",
+            "CAS": "68359-37-5",
+            "regulation": "eu_649_2012_1"
+        },
+        {
+            "chemical_name": "Cyhalothrine",
+            "CAS": "68085-85-8",
+            "regulation": "eu_649_2012_1"
+        },
+        {
+            "chemical_name": "Cyhexatin",
+            "CAS": "13121-70-5",
+            "regulation": "eu_649_2012_1"
+        },
+        {
+            "chemical_name": "Cyproconazole",
+            "CAS": "94361-06-5",
+            "regulation": "eu_649_2012_1"
+        },
+        {
+            "chemical_name": "d-Allethrin",
+            "CAS": "231937-89-6",
+            "regulation": "eu_649_2012_1"
+        },
+        {
+            "chemical_name": "DBB (Di-\u00b5-oxo-di-n-butylstannio-hydroxyborane)",
+            "CAS": "75113-37-0",
+            "regulation": "eu_649_2012_1"
+        },
+        {
+            "chemical_name": "DDT",
+            "CAS": "50-29-3",
+            "regulation": "eu_649_2012_1"
+        },
+        {
+            "chemical_name": "Desmedipham",
+            "CAS": "13684-56-5",
+            "regulation": "eu_649_2012_1"
+        },
+        {
+            "chemical_name": "Diarsenic pentaoxide",
+            "CAS": "1303-28-2",
+            "regulation": "eu_649_2012_1"
+        },
+        {
+            "chemical_name": "Diazinon",
+            "CAS": "333-41-5",
+            "regulation": "eu_649_2012_1"
+        },
+        {
+            "chemical_name": "Dibutyltin oxide",
+            "CAS": "818-08-6",
+            "regulation": "eu_649_2012_1"
+        },
+        {
+            "chemical_name": "Dibutyltin dichloride",
+            "CAS": "683-18-1",
+            "regulation": "eu_649_2012_1"
+        },
+        {
+            "chemical_name": "Dibutyltin dilaurate",
+            "CAS": "77-58-7",
+            "regulation": "eu_649_2012_1"
+        },
+        {
+            "chemical_name": "Dichlobenil",
+            "CAS": "1194-65-6",
+            "regulation": "eu_649_2012_1"
+        },
+        {
+            "chemical_name": "Dichlorvos",
+            "CAS": "62-73-7",
+            "regulation": "eu_649_2012_1"
+        },
+        {
+            "chemical_name": "Dicloran",
+            "CAS": "99-30-9",
+            "regulation": "eu_649_2012_1"
+        },
+        {
+            "chemical_name": "Dicofol",
+            "CAS": "115-32-2",
+            "regulation": "eu_649_2012_1"
+        },
+        {
+            "chemical_name": "Dicofol containing <78% p,p`-dicofol or >1g/kg of DDT and DDT related compounds",
+            "CAS": "115-32-2",
+            "regulation": "eu_649_2012_1"
+        },
+        {
+            "chemical_name": "Didecyldimethylammonium chloride",
+            "CAS": "7173-51-5",
+            "regulation": "eu_649_2012_1"
+        },
+        {
+            "chemical_name": "Dieldrin",
+            "CAS": "60-57-1",
+            "regulation": "eu_649_2012_1"
+        },
+        {
+            "chemical_name": "Difenacoum",
+            "CAS": "56073-07-5",
+            "regulation": "eu_649_2012_1"
+        },
+        {
+            "chemical_name": "Dihexyl phthalate",
+            "CAS": "84-75-3",
+            "regulation": "eu_649_2012_1"
+        },
+        {
+            "chemical_name": "Diisobutyl phthalate",
+            "CAS": "84-69-5",
+            "regulation": "eu_649_2012_1"
+        },
+        {
+            "chemical_name": "Diisopentyl phthalate",
+            "CAS": "605-50-5",
+            "regulation": "eu_649_2012_1"
+        },
+        {
+            "chemical_name": "Dimethenamid",
+            "CAS": "87674-68-8",
+            "regulation": "eu_649_2012_1"
+        },
+        {
+            "chemical_name": "Dimethoate",
+            "CAS": "60-51-5",
+            "regulation": "eu_649_2012_1"
+        },
+        {
+            "chemical_name": "Dimethomorph",
+            "CAS": "110488-70-5",
+            "regulation": "eu_649_2012_1"
+        },
+        {
+            "chemical_name": "Dimoxystrobin",
+            "CAS": "149961-52-4",
+            "regulation": "eu_649_2012_1"
+        },
+        {
+            "chemical_name": "Diniconazole-M",
+            "CAS": "83657-18-5",
+            "regulation": "eu_649_2012_1"
+        },
+        {
+            "chemical_name": "Dinitro-ortho-cresol (DNOC)",
+            "CAS": "534-52-1",
+            "regulation": "eu_649_2012_1"
+        },
+        {
+            "chemical_name": "Ammonium dinitro-ortho-cresolate",
+            "CAS": "2980-64-5",
+            "regulation": "eu_649_2012_1"
+        },
+        {
+            "chemical_name": "Potassium dinitro-ortho-cresolate",
+            "CAS": "5787-96-2",
+            "regulation": "eu_649_2012_1"
+        },
+        {
+            "chemical_name": "Sodium dinitro-ortho-cresolate",
+            "CAS": "2312-76-7",
+            "regulation": "eu_649_2012_1"
+        },
+        {
+            "chemical_name": "Dinobuton",
+            "CAS": "973-21-7",
+            "regulation": "eu_649_2012_1"
+        },
+        {
+            "chemical_name": "Dinoseb",
+            "CAS": "88-85-7",
+            "regulation": "eu_649_2012_1"
+        },
+        {
+            "chemical_name": "Dinoseb salts and esters",
+            "CAS": "NA",
+            "regulation": "eu_649_2012_1"
+        },
+        {
+            "chemical_name": "Dinoterb",
+            "CAS": "1420-07-1",
+            "regulation": "eu_649_2012_1"
+        },
+        {
+            "chemical_name": "Dioctyltin compounds",
+            "CAS": "NA",
+            "regulation": "eu_649_2012_1"
+        },
+        {
+            "chemical_name": "Dipentyl phthalate",
+            "CAS": "131-18-0",
+            "regulation": "eu_649_2012_1"
+        },
+        {
+            "chemical_name": "Diphenylamine",
+            "CAS": "122-39-4",
+            "regulation": "eu_649_2012_1"
+        },
+        {
+            "chemical_name": "Diquat",
+            "CAS": "2764-72-9",
+            "regulation": "eu_649_2012_1"
+        },
+        {
+            "chemical_name": "Diquat dibromide",
+            "CAS": "85-00-7",
+            "regulation": "eu_649_2012_1"
+        },
+        {
+            "chemical_name": "Diuron",
+            "CAS": "330-54-1",
+            "regulation": "eu_649_2012_1"
+        },
+        {
+            "chemical_name": "DPX KE 459 (flupyrsulfuron-methyl)",
+            "CAS": "144740-54-5",
+            "regulation": "eu_649_2012_1"
+        },
+        {
+            "chemical_name": "Dustable powder formulations containing a combination of: Benomyl at or above 7 %, Carbofuran at or above 10 % and Thiram at or above 15 %",
+            "CAS": "NA",
+            "regulation": "eu_649_2012_1"
+        },
+        {
+            "chemical_name": "Empenthrin",
+            "CAS": "54406-48-3",
+            "regulation": "eu_649_2012_1"
+        },
+        {
+            "chemical_name": "Endosulfan",
+            "CAS": "115-29-7",
+            "regulation": "eu_649_2012_1"
+        },
+        {
+            "chemical_name": "Endosulfan",
+            "CAS": "115-29-7",
+            "regulation": "eu_649_2012_1"
+        },
+        {
+            "chemical_name": "alpha-Endosulfan",
+            "CAS": "959-98-8",
+            "regulation": "eu_649_2012_1"
+        },
+        {
+            "chemical_name": "beta-Endosulfan",
+            "CAS": "33213-65-9",
+            "regulation": "eu_649_2012_1"
+        },
+        {
+            "chemical_name": "Endrin",
+            "CAS": "72-20-8",
+            "regulation": "eu_649_2012_1"
+        },
+        {
+            "chemical_name": "Epoxiconazole",
+            "CAS": "135319-73-2",
+            "regulation": "eu_649_2012_1"
+        },
+        {
+            "chemical_name": "Epoxiconazole*",
+            "CAS": "135319-73-2",
+            "regulation": "eu_649_2012_1"
+        },
+        {
+            "chemical_name": "Esbiothrin",
+            "CAS": "260359-57-7",
+            "regulation": "eu_649_2012_1"
+        },
+        {
+            "chemical_name": "Ethalfluralin",
+            "CAS": "55283-68-6",
+            "regulation": "eu_649_2012_1"
+        },
+        {
+            "chemical_name": "Ethametsulfuron-methyl",
+            "CAS": "97780-06-8",
+            "regulation": "eu_649_2012_1"
+        },
+        {
+            "chemical_name": "Ethion",
+            "CAS": "563-12-2",
+            "regulation": "eu_649_2012_1"
+        },
+        {
+            "chemical_name": "Ethoprophos",
+            "CAS": "13194-48-4",
+            "regulation": "eu_649_2012_1"
+        },
+        {
+            "chemical_name": "Ethoxyquin",
+            "CAS": "91-53-2",
+            "regulation": "eu_649_2012_1"
+        },
+        {
+            "chemical_name": "Ethoxysulfuron",
+            "CAS": "126801-58-9",
+            "regulation": "eu_649_2012_1"
+        },
+        {
+            "chemical_name": "Ethylene dichloride (1,2-dichloroethane)",
+            "CAS": "107-06-2",
+            "regulation": "eu_649_2012_1"
+        },
+        {
+            "chemical_name": "Ethylene oxide",
+            "CAS": "75-21-8",
+            "regulation": "eu_649_2012_1"
+        },
+        {
+            "chemical_name": "Etridiazole",
+            "CAS": "2593-15-9",
+            "regulation": "eu_649_2012_1"
+        },
+        {
+            "chemical_name": "Famoxadone",
+            "CAS": "131807-57-3",
+            "regulation": "eu_649_2012_1"
+        },
+        {
+            "chemical_name": "Fenamidone",
+            "CAS": "161326-34-7",
+            "regulation": "eu_649_2012_1"
+        },
+        {
+            "chemical_name": "Fenamiphos",
+            "CAS": "22224-92-6",
+            "regulation": "eu_649_2012_1"
+        },
+        {
+            "chemical_name": "Fenarimol",
+            "CAS": "60168-88-9",
+            "regulation": "eu_649_2012_1"
+        },
+        {
+            "chemical_name": "Fenbuconazole",
+            "CAS": "114369-43-6",
+            "regulation": "eu_649_2012_1"
+        },
+        {
+            "chemical_name": "Fenbutatin oxide",
+            "CAS": "13356-08-6",
+            "regulation": "eu_649_2012_1"
+        },
+        {
+            "chemical_name": "Fenitrothion",
+            "CAS": "122-14-5",
+            "regulation": "eu_649_2012_1"
+        },
+        {
+            "chemical_name": "Fenoxycarb",
+            "CAS": "72490-01-8",
+            "regulation": "eu_649_2012_1"
+        },
+        {
+            "chemical_name": "Fenpropathrin",
+            "CAS": "39515-41-8",
+            "regulation": "eu_649_2012_1"
+        },
+        {
+            "chemical_name": "Fenthion",
+            "CAS": "55-38-9",
+            "regulation": "eu_649_2012_1"
+        },
+        {
+            "chemical_name": "Fentin acetate",
+            "CAS": "900-95-8",
+            "regulation": "eu_649_2012_1"
+        },
+        {
+            "chemical_name": "Fentin hydroxide",
+            "CAS": "76-87-9",
+            "regulation": "eu_649_2012_1"
+        },
+        {
+            "chemical_name": "Fenvalerate",
+            "CAS": "51630-58-1",
+            "regulation": "eu_649_2012_1"
+        },
+        {
+            "chemical_name": "Ferbam",
+            "CAS": "14484-64-1",
+            "regulation": "eu_649_2012_1"
+        },
+        {
+            "chemical_name": "Fipronil",
+            "CAS": "120068-37-3",
+            "regulation": "eu_649_2012_1"
+        },
+        {
+            "chemical_name": "Flufenoxuron",
+            "CAS": "101463-69-8",
+            "regulation": "eu_649_2012_1"
+        },
+        {
+            "chemical_name": "Fluoroacetamide",
+            "CAS": "640-19-7",
+            "regulation": "eu_649_2012_1"
+        },
+        {
+            "chemical_name": "Fluquinconazole",
+            "CAS": "136426-54-5",
+            "regulation": "eu_649_2012_1"
+        },
+        {
+            "chemical_name": "Flurenol",
+            "CAS": "467-69-6",
+            "regulation": "eu_649_2012_1"
+        },
+        {
+            "chemical_name": "Flurprimidol",
+            "CAS": "56425-91-3",
+            "regulation": "eu_649_2012_1"
+        },
+        {
+            "chemical_name": "Flurtamone",
+            "CAS": "96525-23-4",
+            "regulation": "eu_649_2012_1"
+        },
+        {
+            "chemical_name": "Flusilazole",
+            "CAS": "85509-19-9",
+            "regulation": "eu_649_2012_1"
+        },
+        {
+            "chemical_name": "Fuberidazole",
+            "CAS": "3878-19-1",
+            "regulation": "eu_649_2012_1"
+        },
+        {
+            "chemical_name": "Furathiocarb",
+            "CAS": "65907-30-4",
+            "regulation": "eu_649_2012_1"
+        },
+        {
+            "chemical_name": "Glufosinate",
+            "CAS": "51276-47-2",
+            "regulation": "eu_649_2012_1"
+        },
+        {
+            "chemical_name": "Glufosinate-ammonium",
+            "CAS": "77182-82-2",
+            "regulation": "eu_649_2012_1"
+        },
+        {
+            "chemical_name": "Guazatine",
+            "CAS": "13516-27-3",
+            "regulation": "eu_649_2012_1"
+        },
+        {
+            "chemical_name": "Guazatine acetate",
+            "CAS": "108173-90-6",
+            "regulation": "eu_649_2012_1"
+        },
+        {
+            "chemical_name": "Haloxyfop-P-methyl ester (Haloxyfop-R CAS:95977-29-0)",
+            "CAS": "72619-32-0",
+            "regulation": "eu_649_2012_1"
+        },
+        {
+            "chemical_name": "Haloxyfop-R",
+            "CAS": "95977-29-0",
+            "regulation": "eu_649_2012_1"
+        },
+        {
+            "chemical_name": "HCH (mixed isomers)",
+            "CAS": "608-73-1",
+            "regulation": "eu_649_2012_1"
+        },
+        {
+            "chemical_name": "Heptabromodiphenyl ether",
+            "CAS": "68928-80-3",
+            "regulation": "eu_649_2012_1"
+        },
+        {
+            "chemical_name": "Heptachlor",
+            "CAS": "76-44-8",
+            "regulation": "eu_649_2012_1"
+        },
+        {
+            "chemical_name": "Hexabromobiphenyl",
+            "CAS": "36355-01-8",
+            "regulation": "eu_649_2012_1"
+        },
+        {
+            "chemical_name": "Hexabromocyclododecane",
+            "CAS": "25637-99-4",
+            "regulation": "eu_649_2012_1"
+        },
+        {
+            "chemical_name": "Hexabromodiphenyl ether",
+            "CAS": "36483-60-0",
+            "regulation": "eu_649_2012_1"
+        },
+        {
+            "chemical_name": "Hexachlorobenzene",
+            "CAS": "118-74-1",
+            "regulation": "eu_649_2012_1"
+        },
+        {
+            "chemical_name": "Hexachlorobutadiene",
+            "CAS": "87-68-3",
+            "regulation": "eu_649_2012_1"
+        },
+        {
+            "chemical_name": "Hexachloroethane",
+            "CAS": "67-72-1",
+            "regulation": "eu_649_2012_1"
+        },
+        {
+            "chemical_name": "Hexazinone",
+            "CAS": "51235-04-2",
+            "regulation": "eu_649_2012_1"
+        },
+        {
+            "chemical_name": "Imidacloprid",
+            "CAS": "138261-41-3",
+            "regulation": "eu_649_2012_1"
+        },
+        {
+            "chemical_name": "Iminoctadine",
+            "CAS": "13516-27-3",
+            "regulation": "eu_649_2012_1"
+        },
+        {
+            "chemical_name": "Indolylacetic Acid",
+            "CAS": "87-51-4",
+            "regulation": "eu_649_2012_1"
+        },
+        {
+            "chemical_name": "Indoxacarb",
+            "CAS": "173584-44-6",
+            "regulation": "eu_649_2012_1"
+        },
+        {
+            "chemical_name": "Ioxynil",
+            "CAS": "1689-83-4",
+            "regulation": "eu_649_2012_1"
+        },
+        {
+            "chemical_name": "Ioxynil octanoate (4-cyano-2,6-diiodophenyl octanoate)",
+            "CAS": "3861-47-0",
+            "regulation": "eu_649_2012_1"
+        },
+        {
+            "chemical_name": "Ipconazole",
+            "CAS": "125225-28-7",
+            "regulation": "eu_649_2012_1"
+        },
+        {
+            "chemical_name": "Iprodione",
+            "CAS": "36734-19-7",
+            "regulation": "eu_649_2012_1"
+        },
+        {
+            "chemical_name": "Isoproturon",
+            "CAS": "34123-59-6",
+            "regulation": "eu_649_2012_1"
+        },
+        {
+            "chemical_name": "Isopyrazam",
+            "CAS": "881685-58-1",
+            "regulation": "eu_649_2012_1"
+        },
+        {
+            "chemical_name": "Isoxathion",
+            "CAS": "18854-01-8",
+            "regulation": "eu_649_2012_1"
+        },
+        {
+            "chemical_name": "Lead",
+            "CAS": "7439-92-1",
+            "regulation": "eu_649_2012_1"
+        },
+        {
+            "chemical_name": "Lead acetate",
+            "CAS": "301-04-2",
+            "regulation": "eu_649_2012_1"
+        },
+        {
+            "chemical_name": "Lead phosphate",
+            "CAS": "7446-27-7",
+            "regulation": "eu_649_2012_1"
+        },
+        {
+            "chemical_name": "Lead oxide",
+            "CAS": "1317-36-8",
+            "regulation": "eu_649_2012_1"
+        },
+        {
+            "chemical_name": "Lindane",
+            "CAS": "58-89-9",
+            "regulation": "eu_649_2012_1"
+        },
+        {
+            "chemical_name": "Linuron",
+            "CAS": "330-55-2",
+            "regulation": "eu_649_2012_1"
+        },
+        {
+            "chemical_name": "Lufenuron",
+            "CAS": "103055-07-8",
+            "regulation": "eu_649_2012_1"
+        },
+        {
+            "chemical_name": "Malathion",
+            "CAS": "121-75-5",
+            "regulation": "eu_649_2012_1"
+        },
+        {
+            "chemical_name": "Maleic hydrazide salts other than choline, potassium and sodium salts",
+            "CAS": "NA",
+            "regulation": "eu_649_2012_1"
+        },
+        {
+            "chemical_name": "Maleic hydrazide",
+            "CAS": "123-33-1",
+            "regulation": "eu_649_2012_1"
+        },
+        {
+            "chemical_name": "Mancozeb",
+            "CAS": "8018-01-7",
+            "regulation": "eu_649_2012_1"
+        },
+        {
+            "chemical_name": "Maneb",
+            "CAS": "12427-38-2",
+            "regulation": "eu_649_2012_1"
+        },
+        {
+            "chemical_name": "Mecoprop",
+            "CAS": "93-65-2",
+            "regulation": "eu_649_2012_1"
+        },
+        {
+            "chemical_name": "Mepanipyrim",
+            "CAS": "110235-47-7",
+            "regulation": "eu_649_2012_1"
+        },
+        {
+            "chemical_name": "Mercury",
+            "CAS": "7439-97-6",
+            "regulation": "eu_649_2012_1"
+        },
+        {
+            "chemical_name": "Mercury compounds, inorganic mercury compounds",
+            "CAS": "N/A",
+            "regulation": "eu_649_2012_1"
+        },
+        {
+            "chemical_name": "Alkyl mercury compounds",
+            "CAS": "N/A",
+            "regulation": "eu_649_2012_1"
+        },
+        {
+            "chemical_name": "Alkyloxyalkyl mercury compounds",
+            "CAS": "N/A",
+            "regulation": "eu_649_2012_1"
+        },
+        {
+            "chemical_name": "Aryl mercury compounds",
+            "CAS": "N/A",
+            "regulation": "eu_649_2012_1"
+        },
+        {
+            "chemical_name": "Metam",
+            "CAS": "144-54-7",
+            "regulation": "eu_649_2012_1"
+        },
+        {
+            "chemical_name": "Metam-sodium",
+            "CAS": "137-42-8",
+            "regulation": "eu_649_2012_1"
+        },
+        {
+            "chemical_name": "Methamidophos",
+            "CAS": "10265-92-6",
+            "regulation": "eu_649_2012_1"
+        },
+        {
+            "chemical_name": "Methamidophos (Soluble liquid formulations of the substance that exceed 600 g active ingredient / l)",
+            "CAS": "10265-92-6",
+            "regulation": "eu_649_2012_1"
+        },
+        {
+            "chemical_name": "Methidathion",
+            "CAS": "950-37-8",
+            "regulation": "eu_649_2012_1"
+        },
+        {
+            "chemical_name": "Methiocarb",
+            "CAS": "2032-65-7",
+            "regulation": "eu_649_2012_1"
+        },
+        {
+            "chemical_name": "Methomyl",
+            "CAS": "16752-77-5",
+            "regulation": "eu_649_2012_1"
+        },
+        {
+            "chemical_name": "Methyl bromide",
+            "CAS": "74-83-9",
+            "regulation": "eu_649_2012_1"
+        },
+        {
+            "chemical_name": "Methyl-parathion",
+            "CAS": "298-00-0",
+            "regulation": "eu_649_2012_1"
+        },
+        {
+            "chemical_name": "Methyl-parathion (emulsifiable concentrates (EC) at or above 19,5 % active ingredient and dusts at or above 1,5 % active ingredient)",
+            "CAS": "298-00-0",
+            "regulation": "eu_649_2012_1"
+        },
+        {
+            "chemical_name": "Methylene dithiocyanate",
+            "CAS": "6317-18-6",
+            "regulation": "eu_649_2012_1"
+        },
+        {
+            "chemical_name": "Metiram",
+            "CAS": "9006-42-2",
+            "regulation": "eu_649_2012_1"
+        },
+        {
+            "chemical_name": "Metosulam",
+            "CAS": "139528-85-1",
+            "regulation": "eu_649_2012_1"
+        }
+    ]
+}

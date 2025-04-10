@@ -1,0 +1,9 @@
+{
+    "chemicals": [
+        {
+            "chemical_name": "Mercury",
+            "CAS": "7439-97-6",
+            "regulation": "minamata_2024"
+        }
+    ]
+}

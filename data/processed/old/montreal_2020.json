@@ -1,0 +1,189 @@
+{
+    "chemicals": [
+        {
+            "chemical_name": "CHFCl2 (HCFC-21)",
+            "CAS": "75-43-4",
+            "regulation": "montreal_2020"
+        },
+        {
+            "chemical_name": "CHF2Cl (HCFC-22)",
+            "CAS": "75-45-6",
+            "regulation": "montreal_2020"
+        },
+        {
+            "chemical_name": "CH2FCl (HCFC-31)",
+            "CAS": "593-70-4",
+            "regulation": "montreal_2020"
+        },
+        {
+            "chemical_name": "C2HFCl4 (HCFC-121)",
+            "CAS": "354-11-0",
+            "regulation": "montreal_2020"
+        },
+        {
+            "chemical_name": "C2HF2Cl3 (HCFC-122)",
+            "CAS": "354-21-2",
+            "regulation": "montreal_2020"
+        },
+        {
+            "chemical_name": "C2HF3Cl2 (HCFC-123)",
+            "CAS": "306-83-2",
+            "regulation": "montreal_2020"
+        },
+        {
+            "chemical_name": "CHCl2CF3 (HCFC-123)",
+            "CAS": "306-83-2",
+            "regulation": "montreal_2020"
+        },
+        {
+            "chemical_name": "C2HF4Cl (HCFC-124)",
+            "CAS": "2837-89-0",
+            "regulation": "montreal_2020"
+        },
+        {
+            "chemical_name": "CHFClCF3 (HCFC-124)",
+            "CAS": "2837-89-0",
+            "regulation": "montreal_2020"
+        },
+        {
+            "chemical_name": "C2H2FCl3 (HCFC-131)",
+            "CAS": "359-28-4",
+            "regulation": "montreal_2020"
+        },
+        {
+            "chemical_name": "C2H2F2Cl2 (HCFC-132)",
+            "CAS": "338-29-2",
+            "regulation": "montreal_2020"
+        },
+        {
+            "chemical_name": "C2H2F3Cl (HCFC-133)",
+            "CAS": "75-88-7",
+            "regulation": "montreal_2020"
+        },
+        {
+            "chemical_name": "C2H3FCl2 (HCFC-141)",
+            "CAS": "25167-88-8",
+            "regulation": "montreal_2020"
+        },
+        {
+            "chemical_name": "CH3CFCl2 (HCFC-141b)",
+            "CAS": "1717-00-6",
+            "regulation": "montreal_2020"
+        },
+        {
+            "chemical_name": "C2H3F2Cl (HCFC-142)",
+            "CAS": "25167-89-9",
+            "regulation": "montreal_2020"
+        },
+        {
+            "chemical_name": "CH3CF2Cl (HCFC-142b)",
+            "CAS": "75-68-3",
+            "regulation": "montreal_2020"
+        },
+        {
+            "chemical_name": "C2H4FCl (HCFC-151)",
+            "CAS": "1615-75-4",
+            "regulation": "montreal_2020"
+        },
+        {
+            "chemical_name": "C3HFCl6 (HCFC-221)",
+            "CAS": "422-52-6",
+            "regulation": "montreal_2020"
+        },
+        {
+            "chemical_name": "C3HF2Cl5 (HCFC-222)",
+            "CAS": "422-54-8",
+            "regulation": "montreal_2020"
+        },
+        {
+            "chemical_name": "C3HF3Cl4 (HCFC-223)",
+            "CAS": "422-56-0",
+            "regulation": "montreal_2020"
+        },
+        {
+            "chemical_name": "C3HF4Cl3 (HCFC-224)",
+            "CAS": "422-57-1",
+            "regulation": "montreal_2020"
+        },
+        {
+            "chemical_name": "C3HF5Cl2 (HCFC-225)",
+            "CAS": "N/A",
+            "regulation": "montreal_2020"
+        },
+        {
+            "chemical_name": "CF3CF2CHCl2 (HCFC-225ca)",
+            "CAS": "422-56-0",
+            "regulation": "montreal_2020"
+        },
+        {
+            "chemical_name": "CF2ClCF2CHClF (HCFC-225cb)",
+            "CAS": "507-55-1",
+            "regulation": "montreal_2020"
+        },
+        {
+            "chemical_name": "C3HF6Cl (HCFC-226)",
+            "CAS": "N/A",
+            "regulation": "montreal_2020"
+        },
+        {
+            "chemical_name": "C3H2FCl5 (HCFC-231)",
+            "CAS": "N/A",
+            "regulation": "montreal_2020"
+        },
+        {
+            "chemical_name": "C3H2F2Cl4 (HCFC-232)",
+            "CAS": "N/A",
+            "regulation": "montreal_2020"
+        },
+        {
+            "chemical_name": "C3H2F3Cl3 (HCFC-233)",
+            "CAS": "N/A",
+            "regulation": "montreal_2020"
+        },
+        {
+            "chemical_name": "C3H2F4Cl2 (HCFC-234)",
+            "CAS": "N/A",
+            "regulation": "montreal_2020"
+        },
+        {
+            "chemical_name": "C3H2F5Cl (HCFC-235)",
+            "CAS": "N/A",
+            "regulation": "montreal_2020"
+        },
+        {
+            "chemical_name": "C3H3FCl4 (HCFC-241)",
+            "CAS": "N/A",
+            "regulation": "montreal_2020"
+        },
+        {
+            "chemical_name": "C3H3F2Cl3 (HCFC-242)",
+            "CAS": "N/A",
+            "regulation": "montreal_2020"
+        },
+        {
+            "chemical_name": "C3H3F3Cl2 (HCFC-243)",
+            "CAS": "N/A",
+            "regulation": "montreal_2020"
+        },
+        {
+            "chemical_name": "C3H3F4Cl (HCFC-244)",
+            "CAS": "N/A",
+            "regulation": "montreal_2020"
+        },
+        {
+            "chemical_name": "C3H4FCl3 (HCFC-251)",
+            "CAS": "N/A",
+            "regulation": "montreal_2020"
+        },
+        {
+            "chemical_name": "bromochloromethane",
+            "CAS": "74-97-5",
+            "regulation": "montreal_2020"
+        },
+        {
+            "chemical_name": "methyl bromide",
+            "CAS": "74-83-9",
+            "regulation": "montreal_2020"
+        }
+    ]
+}

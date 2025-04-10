@@ -1,0 +1,554 @@
+{
+    "chemicals": [
+        {
+            "chemical_name": "2,4,5-T",
+            "CAS": "93-76-5",
+            "regulation": "rotterdam"
+        },
+        {
+            "chemical_name": "Sodium trichlorophenoxyacetate",
+            "CAS": "88-85-7",
+            "regulation": "rotterdam"
+        },
+        {
+            "chemical_name": "Dimethylammonium trichlorophenoxyacetate",
+            "CAS": "2008-39-1",
+            "regulation": "rotterdam"
+        },
+        {
+            "chemical_name": "Isooctyl 2,4,5-trichlorophenoxyacetate",
+            "CAS": "25168-26-7",
+            "regulation": "rotterdam"
+        },
+        {
+            "chemical_name": "Alachlor",
+            "CAS": "15972-60-8",
+            "regulation": "rotterdam"
+        },
+        {
+            "chemical_name": "Aldicarb",
+            "CAS": "116-06-3",
+            "regulation": "rotterdam"
+        },
+        {
+            "chemical_name": "Aldrin",
+            "CAS": "309-00-2",
+            "regulation": "rotterdam"
+        },
+        {
+            "chemical_name": "Azinphos-methyl",
+            "CAS": "86-50-0",
+            "regulation": "rotterdam"
+        },
+        {
+            "chemical_name": "Binapacryl",
+            "CAS": "485-31-4",
+            "regulation": "rotterdam"
+        },
+        {
+            "chemical_name": "Captafol",
+            "CAS": "2425-06-1",
+            "regulation": "rotterdam"
+        },
+        {
+            "chemical_name": "Carbofuran",
+            "CAS": "1563-66-2",
+            "regulation": "rotterdam"
+        },
+        {
+            "chemical_name": "Chlordane",
+            "CAS": "57-74-9",
+            "regulation": "rotterdam"
+        },
+        {
+            "chemical_name": "Chlordimeform",
+            "CAS": "6164-98-3",
+            "regulation": "rotterdam"
+        },
+        {
+            "chemical_name": "Chlorobenzilate",
+            "CAS": "510-15-6",
+            "regulation": "rotterdam"
+        },
+        {
+            "chemical_name": "DDT",
+            "CAS": "50-29-3",
+            "regulation": "rotterdam"
+        },
+        {
+            "chemical_name": "Dieldrin",
+            "CAS": "60-57-1",
+            "regulation": "rotterdam"
+        },
+        {
+            "chemical_name": "Dinitro-ortho-cresol (DNOC)",
+            "CAS": "534-52-1",
+            "regulation": "rotterdam"
+        },
+        {
+            "chemical_name": "Dinitro-ortho-cresol ammonium salt",
+            "CAS": "2980-64-5",
+            "regulation": "rotterdam"
+        },
+        {
+            "chemical_name": "Dinitro-ortho-cresol potassium salt",
+            "CAS": "5787-96-2",
+            "regulation": "rotterdam"
+        },
+        {
+            "chemical_name": "Dinitro-ortho-cresol sodium salt",
+            "CAS": "2312-76-7",
+            "regulation": "rotterdam"
+        },
+        {
+            "chemical_name": "Dinoseb",
+            "CAS": "88-85-7",
+            "regulation": "rotterdam"
+        },
+        {
+            "chemical_name": "1,2-dibromoethane (EDB)",
+            "CAS": "106-93-4",
+            "regulation": "rotterdam"
+        },
+        {
+            "chemical_name": "Endosulfan",
+            "CAS": "115-29-7",
+            "regulation": "rotterdam"
+        },
+        {
+            "chemical_name": "Ethylene dichloride",
+            "CAS": "107-06-2",
+            "regulation": "rotterdam"
+        },
+        {
+            "chemical_name": "Ethylene oxide",
+            "CAS": "75-21-8",
+            "regulation": "rotterdam"
+        },
+        {
+            "chemical_name": "Fluoroacetamide",
+            "CAS": "640-19-7",
+            "regulation": "rotterdam"
+        },
+        {
+            "chemical_name": "HCH (mixed isomers)",
+            "CAS": "608-73-1",
+            "regulation": "rotterdam"
+        },
+        {
+            "chemical_name": "- Maintained strict consistency in formatting as instructed: `Chemical Name",
+            "CAS": "CAS Number`.",
+            "regulation": "rotterdam"
+        },
+        {
+            "chemical_name": "Heptachlor",
+            "CAS": "76-44-8",
+            "regulation": "rotterdam"
+        },
+        {
+            "chemical_name": "Hexachlorobenzene",
+            "CAS": "118-74-1",
+            "regulation": "rotterdam"
+        },
+        {
+            "chemical_name": "Lindane",
+            "CAS": "58-89-9",
+            "regulation": "rotterdam"
+        },
+        {
+            "chemical_name": "Mercury (elemental)",
+            "CAS": "7439-97-6",
+            "regulation": "rotterdam"
+        },
+        {
+            "chemical_name": "Mercuric chloride (inorganic mercury compound)",
+            "CAS": "7487-94-7",
+            "regulation": "rotterdam"
+        },
+        {
+            "chemical_name": "Mercurous chloride (inorganic mercury compound; calomel)",
+            "CAS": "10112-91-1",
+            "regulation": "rotterdam"
+        },
+        {
+            "chemical_name": "Methylmercury chloride (alkyl mercury compound)",
+            "CAS": "115-09-3",
+            "regulation": "rotterdam"
+        },
+        {
+            "chemical_name": "Ethylmercury chloride (alkyl mercury compound)",
+            "CAS": "107-27-7",
+            "regulation": "rotterdam"
+        },
+        {
+            "chemical_name": "Phenylmercury acetate (aryl mercury compound)",
+            "CAS": "62-38-4",
+            "regulation": "rotterdam"
+        },
+        {
+            "chemical_name": "Methamidophos",
+            "CAS": "10265-92-6",
+            "regulation": "rotterdam"
+        },
+        {
+            "chemical_name": "Monocrotophos",
+            "CAS": "6923-22-4",
+            "regulation": "rotterdam"
+        },
+        {
+            "chemical_name": "Parathion",
+            "CAS": "56-38-2",
+            "regulation": "rotterdam"
+        },
+        {
+            "chemical_name": "Pentachlorophenol",
+            "CAS": "87-86-5",
+            "regulation": "rotterdam"
+        },
+        {
+            "chemical_name": "Sodium pentachlorophenate (Pentachlorophenol sodium salt)",
+            "CAS": "131-52-2",
+            "regulation": "rotterdam"
+        },
+        {
+            "chemical_name": "Pentachlorophenyl laurate (ester of pentachlorophenol)",
+            "CAS": "3772-94-9",
+            "regulation": "rotterdam"
+        },
+        {
+            "chemical_name": "Phorate",
+            "CAS": "298-02-2",
+            "regulation": "rotterdam"
+        },
+        {
+            "chemical_name": "Terbufos",
+            "CAS": "13071-79-9",
+            "regulation": "rotterdam"
+        },
+        {
+            "chemical_name": "Toxaphene",
+            "CAS": "8001-35-2",
+            "regulation": "rotterdam"
+        },
+        {
+            "chemical_name": "Trichlorfon",
+            "CAS": "52-68-6",
+            "regulation": "rotterdam"
+        },
+        {
+            "chemical_name": "Benomyl (dustable powder formulations at or above 7 per cent)",
+            "CAS": "17804-35-2",
+            "regulation": "rotterdam"
+        },
+        {
+            "chemical_name": "Carbofuran (dustable powder formulations at or above 10 per cent)",
+            "CAS": "1563-66-2",
+            "regulation": "rotterdam"
+        },
+        {
+            "chemical_name": "Thiram (dustable powder formulations at or above 15 per cent)",
+            "CAS": "137-26-8",
+            "regulation": "rotterdam"
+        },
+        {
+            "chemical_name": "Phosphamidon (soluble liquid formulations exceeding 1,000 g active ingredient/l), mixture ((E) & (Z) isomers)",
+            "CAS": "13171-21-6",
+            "regulation": "rotterdam"
+        },
+        {
+            "chemical_name": "Phosphamidon (soluble liquid formulations exceeding 1,000 g active ingredient/l), (Z)-isomer",
+            "CAS": "23783-98-4",
+            "regulation": "rotterdam"
+        },
+        {
+            "chemical_name": "Phosphamidon (soluble liquid formulations exceeding 1,000 g active ingredient/l), (E)-isomer",
+            "CAS": "297-99-4",
+            "regulation": "rotterdam"
+        },
+        {
+            "chemical_name": "Methyl-parathion (emulsifiable concentrates (EC) at or above 19.5% active ingredient and dusts at or above 1.5% active ingredient)",
+            "CAS": "298-00-0",
+            "regulation": "rotterdam"
+        },
+        {
+            "chemical_name": "Actinolite",
+            "CAS": "77536-66-4",
+            "regulation": "rotterdam"
+        },
+        {
+            "chemical_name": "Anthophyllite",
+            "CAS": "77536-67-5",
+            "regulation": "rotterdam"
+        },
+        {
+            "chemical_name": "Amosite",
+            "CAS": "12172-73-5",
+            "regulation": "rotterdam"
+        },
+        {
+            "chemical_name": "Crocidolite",
+            "CAS": "12001-28-4",
+            "regulation": "rotterdam"
+        },
+        {
+            "chemical_name": "Tremolite",
+            "CAS": "77536-68-6",
+            "regulation": "rotterdam"
+        },
+        {
+            "chemical_name": "- Entries separated by dollar signs (",
+            "CAS": ").",
+            "regulation": "rotterdam"
+        },
+        {
+            "chemical_name": "Commercial octabromodiphenyl ether",
+            "CAS": "N/A",
+            "regulation": "rotterdam"
+        },
+        {
+            "chemical_name": "Hexabromodiphenyl ether",
+            "CAS": "36483-60-0",
+            "regulation": "rotterdam"
+        },
+        {
+            "chemical_name": "Heptabromodiphenyl ether",
+            "CAS": "68928-80-3",
+            "regulation": "rotterdam"
+        },
+        {
+            "chemical_name": "Commercial pentabromodiphenyl ether",
+            "CAS": "N/A",
+            "regulation": "rotterdam"
+        },
+        {
+            "chemical_name": "Tetrabromodiphenyl ether",
+            "CAS": "40088-47-9",
+            "regulation": "rotterdam"
+        },
+        {
+            "chemical_name": "Pentabromodiphenyl ether",
+            "CAS": "32534-81-9",
+            "regulation": "rotterdam"
+        },
+        {
+            "chemical_name": "Decabromodiphenyl ether",
+            "CAS": "1163-19-5",
+            "regulation": "rotterdam"
+        },
+        {
+            "chemical_name": "Hexabromocyclododecane",
+            "CAS": "25637-99-4",
+            "regulation": "rotterdam"
+        },
+        {
+            "chemical_name": "Hexabromocyclododecane",
+            "CAS": "3194-55-6",
+            "regulation": "rotterdam"
+        },
+        {
+            "chemical_name": "Hexabromocyclododecane",
+            "CAS": "134237-50-6",
+            "regulation": "rotterdam"
+        },
+        {
+            "chemical_name": "Hexabromocyclododecane",
+            "CAS": "134237-51-7",
+            "regulation": "rotterdam"
+        },
+        {
+            "chemical_name": "Hexabromocyclododecane",
+            "CAS": "134237-52-8",
+            "regulation": "rotterdam"
+        },
+        {
+            "chemical_name": "Perfluorooctane sulfonic acid",
+            "CAS": "1763-23-1",
+            "regulation": "rotterdam"
+        },
+        {
+            "chemical_name": "Potassium perfluorooctane sulfonate",
+            "CAS": "2795-39-3",
+            "regulation": "rotterdam"
+        },
+        {
+            "chemical_name": "Lithium perfluorooctane sulfonate",
+            "CAS": "29457-72-5",
+            "regulation": "rotterdam"
+        },
+        {
+            "chemical_name": "Ammonium perfluorooctane sulfonate",
+            "CAS": "29081-56-9",
+            "regulation": "rotterdam"
+        },
+        {
+            "chemical_name": "Diethanolammonium perfluorooctane sulfonate",
+            "CAS": "70225-14-8",
+            "regulation": "rotterdam"
+        },
+        {
+            "chemical_name": "Tetraethylammonium perfluorooctane sulfonate",
+            "CAS": "56773-42-3",
+            "regulation": "rotterdam"
+        },
+        {
+            "chemical_name": "Didecyldimethylammonium perfluorooctane sulfonate",
+            "CAS": "251099-16-8",
+            "regulation": "rotterdam"
+        },
+        {
+            "chemical_name": "N-Ethylperfluorooctane sulfonamide",
+            "CAS": "4151-50-2",
+            "regulation": "rotterdam"
+        },
+        {
+            "chemical_name": "N-Methylperfluorooctane sulfonamide",
+            "CAS": "31506-32-8",
+            "regulation": "rotterdam"
+        },
+        {
+            "chemical_name": "N-Ethyl-N-(2-hydroxyethyl) perfluorooctane sulfonamide",
+            "CAS": "1691-99-2",
+            "regulation": "rotterdam"
+        },
+        {
+            "chemical_name": "N-(2-hydroxyethyl)-N-methylperfluorooctane sulfonamide",
+            "CAS": "24448-09-7",
+            "regulation": "rotterdam"
+        },
+        {
+            "chemical_name": "Perfluorooctane sulfonyl fluoride",
+            "CAS": "307-35-7",
+            "regulation": "rotterdam"
+        },
+        {
+            "chemical_name": "Regarding the expanded entry for \"Perfluorooctane sulfonic acid, perfluorooctane sulfonates, perfluorooctane sulfonamides and perfluorooctane sulfonyls",
+            "CAS": "NA\":",
+            "regulation": "rotterdam"
+        },
+        {
+            "chemical_name": "These already appear listed separately with known CAS numbers provided above (from \"Perfluorooctane sulfonic acid",
+            "CAS": "1763-23-1\" down to \"Perfluorooctane sulfonyl fluoride",
+            "regulation": "rotterdam"
+        },
+        {
+            "chemical_name": "- Format strictly maintained: each entry as \"Chemical Name",
+            "CAS": "CAS Number\".",
+            "regulation": "rotterdam"
+        },
+        {
+            "chemical_name": "Perfluorooctanoic acid (PFOA)",
+            "CAS": "335-67-1",
+            "regulation": "rotterdam"
+        },
+        {
+            "chemical_name": "Perfluorooctanoic acid, ammonium salt (APFO)",
+            "CAS": "3825-26-1",
+            "regulation": "rotterdam"
+        },
+        {
+            "chemical_name": "Sodium perfluorooctanoate",
+            "CAS": "335-95-5",
+            "regulation": "rotterdam"
+        },
+        {
+            "chemical_name": "Potassium perfluorooctanoate",
+            "CAS": "2395-00-8",
+            "regulation": "rotterdam"
+        },
+        {
+            "chemical_name": "Silver perfluorooctanoate",
+            "CAS": "335-93-3",
+            "regulation": "rotterdam"
+        },
+        {
+            "chemical_name": "Methyl perfluorooctanoate",
+            "CAS": "376-27-2",
+            "regulation": "rotterdam"
+        },
+        {
+            "chemical_name": "Ethyl perfluorooctanoate",
+            "CAS": "3108-24-5",
+            "regulation": "rotterdam"
+        },
+        {
+            "chemical_name": "Polybrominated biphenyls (PBB) hexa-",
+            "CAS": "36355-01-8",
+            "regulation": "rotterdam"
+        },
+        {
+            "chemical_name": "Polybrominated biphenyls (PBB) octa-",
+            "CAS": "27858-07-7",
+            "regulation": "rotterdam"
+        },
+        {
+            "chemical_name": "Polybrominated biphenyls (PBB) deca-",
+            "CAS": "13654-09-6",
+            "regulation": "rotterdam"
+        },
+        {
+            "chemical_name": "Polychlorinated biphenyls (PCB)",
+            "CAS": "1336-36-3",
+            "regulation": "rotterdam"
+        },
+        {
+            "chemical_name": "Polychlorinated terphenyls (PCT)",
+            "CAS": "61788-33-8",
+            "regulation": "rotterdam"
+        },
+        {
+            "chemical_name": "Short-chain chlorinated paraffins",
+            "CAS": "85535-84-8",
+            "regulation": "rotterdam"
+        },
+        {
+            "chemical_name": "Tetraethyl lead",
+            "CAS": "78-00-2",
+            "regulation": "rotterdam"
+        },
+        {
+            "chemical_name": "Tetramethyl lead",
+            "CAS": "75-74-1",
+            "regulation": "rotterdam"
+        },
+        {
+            "chemical_name": "Tris (2,3-dibromopropyl) phosphate",
+            "CAS": "126-72-7",
+            "regulation": "rotterdam"
+        },
+        {
+            "chemical_name": "Tributyltin oxide",
+            "CAS": "56-35-9",
+            "regulation": "rotterdam"
+        },
+        {
+            "chemical_name": "Tributyltin fluoride",
+            "CAS": "1983-10-4",
+            "regulation": "rotterdam"
+        },
+        {
+            "chemical_name": "Tributyltin methacrylate",
+            "CAS": "2155-70-6",
+            "regulation": "rotterdam"
+        },
+        {
+            "chemical_name": "Tributyltin benzoate",
+            "CAS": "4342-36-3",
+            "regulation": "rotterdam"
+        },
+        {
+            "chemical_name": "Tributyltin chloride",
+            "CAS": "1461-22-9",
+            "regulation": "rotterdam"
+        },
+        {
+            "chemical_name": "Tributyltin linoleate",
+            "CAS": "24124-25-2",
+            "regulation": "rotterdam"
+        },
+        {
+            "chemical_name": "Tributyltin naphthenate",
+            "CAS": "85409-17-2",
+            "regulation": "rotterdam"
+        }
+    ]
+}

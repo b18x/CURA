@@ -1,0 +1,404 @@
+{
+    "chemicals": [
+        {
+            "chemical_name": "CHFBr2 (Dibromofluoromethane)",
+            "CAS": "353-54-8",
+            "regulation": "eu_2024_590"
+        },
+        {
+            "chemical_name": "CHF2Br (Bromodifluoromethane)",
+            "CAS": "1511-62-2",
+            "regulation": "eu_2024_590"
+        },
+        {
+            "chemical_name": "CH2FBr (Bromofluoromethane)",
+            "CAS": "373-52-4",
+            "regulation": "eu_2024_590"
+        },
+        {
+            "chemical_name": "C2HFBr4 (Tetrabromofluoroethane)",
+            "CAS": "NA",
+            "regulation": "eu_2024_590"
+        },
+        {
+            "chemical_name": "C2HF2Br3 (Tribromodifluoroethane)",
+            "CAS": "NA",
+            "regulation": "eu_2024_590"
+        },
+        {
+            "chemical_name": "C2HF3Br2 (Dibromotrifluoroethane)",
+            "CAS": "NA",
+            "regulation": "eu_2024_590"
+        },
+        {
+            "chemical_name": "C2HF4Br (Bromotetrafluoroethane)",
+            "CAS": "NA",
+            "regulation": "eu_2024_590"
+        },
+        {
+            "chemical_name": "C2H2FBr3 (Tribromofluoroethane)",
+            "CAS": "NA",
+            "regulation": "eu_2024_590"
+        },
+        {
+            "chemical_name": "C2H2F2Br2 (Dibromodifluoroethane)",
+            "CAS": "NA",
+            "regulation": "eu_2024_590"
+        },
+        {
+            "chemical_name": "C2H2F3Br (Bromotrifluoroethane)",
+            "CAS": "NA",
+            "regulation": "eu_2024_590"
+        },
+        {
+            "chemical_name": "C2H3FBr2 (Dibromofluoroethane)",
+            "CAS": "NA",
+            "regulation": "eu_2024_590"
+        },
+        {
+            "chemical_name": "C2H3F2Br (Bromodifluoroethane)",
+            "CAS": "NA",
+            "regulation": "eu_2024_590"
+        },
+        {
+            "chemical_name": "C2H4FBr (Bromofluoroethane)",
+            "CAS": "NA",
+            "regulation": "eu_2024_590"
+        },
+        {
+            "chemical_name": "C3HFBr6 (Hexabromofluoropropane)",
+            "CAS": "NA",
+            "regulation": "eu_2024_590"
+        },
+        {
+            "chemical_name": "C3HF2Br5 (Pentabromodifluoropropane)",
+            "CAS": "NA",
+            "regulation": "eu_2024_590"
+        },
+        {
+            "chemical_name": "C3HF3Br4 (Tetrabromotrifluoropropane)",
+            "CAS": "NA",
+            "regulation": "eu_2024_590"
+        },
+        {
+            "chemical_name": "C3HF4Br3 (Tribromotetrafluoropropane)",
+            "CAS": "NA",
+            "regulation": "eu_2024_590"
+        },
+        {
+            "chemical_name": "C3HF5Br2 (Dibromopentafluoropropane)",
+            "CAS": "NA",
+            "regulation": "eu_2024_590"
+        },
+        {
+            "chemical_name": "C3HF6Br (Bromohexafluoropropane)",
+            "CAS": "NA",
+            "regulation": "eu_2024_590"
+        },
+        {
+            "chemical_name": "C3H2FBr5 (Pentabromofluoropropane)",
+            "CAS": "NA",
+            "regulation": "eu_2024_590"
+        },
+        {
+            "chemical_name": "C3H2F2Br4 (Tetrabromodifluoropropane)",
+            "CAS": "NA",
+            "regulation": "eu_2024_590"
+        },
+        {
+            "chemical_name": "Tribromotrifluoropropane",
+            "CAS": "NA",
+            "regulation": "eu_2024_590"
+        },
+        {
+            "chemical_name": "Dibromotetrafluoropropane",
+            "CAS": "NA",
+            "regulation": "eu_2024_590"
+        },
+        {
+            "chemical_name": "Bromopentafluoropropane",
+            "CAS": "NA",
+            "regulation": "eu_2024_590"
+        },
+        {
+            "chemical_name": "Tetrabromofluoropropane",
+            "CAS": "NA",
+            "regulation": "eu_2024_590"
+        },
+        {
+            "chemical_name": "Tribromodifluoropropane",
+            "CAS": "NA",
+            "regulation": "eu_2024_590"
+        },
+        {
+            "chemical_name": "Dibromotrifluoropropane",
+            "CAS": "NA",
+            "regulation": "eu_2024_590"
+        },
+        {
+            "chemical_name": "Bromotetrafluoropropane",
+            "CAS": "NA",
+            "regulation": "eu_2024_590"
+        },
+        {
+            "chemical_name": "Tribromofluoropropane",
+            "CAS": "NA",
+            "regulation": "eu_2024_590"
+        },
+        {
+            "chemical_name": "Dibromodifluoropropane",
+            "CAS": "NA",
+            "regulation": "eu_2024_590"
+        },
+        {
+            "chemical_name": "Bromotrifluoropropane",
+            "CAS": "NA",
+            "regulation": "eu_2024_590"
+        },
+        {
+            "chemical_name": "Dibromofluoropropane",
+            "CAS": "NA",
+            "regulation": "eu_2024_590"
+        },
+        {
+            "chemical_name": "Bromodifluoropropane",
+            "CAS": "NA",
+            "regulation": "eu_2024_590"
+        },
+        {
+            "chemical_name": "Bromofluoropropane",
+            "CAS": "NA",
+            "regulation": "eu_2024_590"
+        },
+        {
+            "chemical_name": "Dichlorofluoromethane",
+            "CAS": "75-43-4",
+            "regulation": "eu_2024_590"
+        },
+        {
+            "chemical_name": "Chlorodifluoromethane",
+            "CAS": "75-45-6",
+            "regulation": "eu_2024_590"
+        },
+        {
+            "chemical_name": "Chlorofluoromethane",
+            "CAS": "593-70-4",
+            "regulation": "eu_2024_590"
+        },
+        {
+            "chemical_name": "Tetrachlorofluoroethane",
+            "CAS": "NA",
+            "regulation": "eu_2024_590"
+        },
+        {
+            "chemical_name": "Trichlorodifluoroethane",
+            "CAS": "NA",
+            "regulation": "eu_2024_590"
+        },
+        {
+            "chemical_name": "Dichlorotrifluoroethane",
+            "CAS": "NA",
+            "regulation": "eu_2024_590"
+        },
+        {
+            "chemical_name": "Chlorotetrafluoroethane",
+            "CAS": "NA",
+            "regulation": "eu_2024_590"
+        },
+        {
+            "chemical_name": "Trichlorofluoroethane",
+            "CAS": "NA",
+            "regulation": "eu_2024_590"
+        },
+        {
+            "chemical_name": "Dichlorodifluoroethane",
+            "CAS": "1320-37-2",
+            "regulation": "eu_2024_590"
+        },
+        {
+            "chemical_name": "Chlorotrifluoroethane",
+            "CAS": "N/A",
+            "regulation": "eu_2024_590"
+        },
+        {
+            "chemical_name": "Dichlorofluoroethane",
+            "CAS": "N/A",
+            "regulation": "eu_2024_590"
+        },
+        {
+            "chemical_name": "1,1-Dichloro-1-fluoroethane",
+            "CAS": "1717-00-6",
+            "regulation": "eu_2024_590"
+        },
+        {
+            "chemical_name": "Chlorodifluoroethane",
+            "CAS": "N/A",
+            "regulation": "eu_2024_590"
+        },
+        {
+            "chemical_name": "1-Chloro-1,1-difluoroethane",
+            "CAS": "75-68-3",
+            "regulation": "eu_2024_590"
+        },
+        {
+            "chemical_name": "Chlorofluoroethane",
+            "CAS": "N/A",
+            "regulation": "eu_2024_590"
+        },
+        {
+            "chemical_name": "Hexachlorofluoropropane",
+            "CAS": "N/A",
+            "regulation": "eu_2024_590"
+        },
+        {
+            "chemical_name": "Pentachlorodifluoropropane",
+            "CAS": "N/A",
+            "regulation": "eu_2024_590"
+        },
+        {
+            "chemical_name": "Tetrachlorotrifluoropropane",
+            "CAS": "N/A",
+            "regulation": "eu_2024_590"
+        },
+        {
+            "chemical_name": "Trichlorotetrafluoropropane",
+            "CAS": "N/A",
+            "regulation": "eu_2024_590"
+        },
+        {
+            "chemical_name": "Dichloropentafluoropropane",
+            "CAS": "N/A",
+            "regulation": "eu_2024_590"
+        },
+        {
+            "chemical_name": "3,3-Dichloro-1,1,1,2,2-pentafluoropropane",
+            "CAS": "422-56-0",
+            "regulation": "eu_2024_590"
+        },
+        {
+            "chemical_name": "1,3-Dichloro-1,1,2,2,3-pentafluoropropane",
+            "CAS": "N/A",
+            "regulation": "eu_2024_590"
+        },
+        {
+            "chemical_name": "Chlorohexafluoropropane",
+            "CAS": "N/A",
+            "regulation": "eu_2024_590"
+        },
+        {
+            "chemical_name": "Pentachlorofluoropropane",
+            "CAS": "N/A",
+            "regulation": "eu_2024_590"
+        },
+        {
+            "chemical_name": "Tetrachlorodifluoropropane",
+            "CAS": "N/A",
+            "regulation": "eu_2024_590"
+        },
+        {
+            "chemical_name": "Trichlorotrifluoropropane",
+            "CAS": "N/A",
+            "regulation": "eu_2024_590"
+        },
+        {
+            "chemical_name": "Dichlorotetrafluoropropane",
+            "CAS": "N/A",
+            "regulation": "eu_2024_590"
+        },
+        {
+            "chemical_name": "Chloropentafluoropropane",
+            "CAS": "N/A",
+            "regulation": "eu_2024_590"
+        },
+        {
+            "chemical_name": "Tetrachlorofluoropropane",
+            "CAS": "NA",
+            "regulation": "eu_2024_590"
+        },
+        {
+            "chemical_name": "Trichlorodifluoropropane",
+            "CAS": "NA",
+            "regulation": "eu_2024_590"
+        },
+        {
+            "chemical_name": "Dichlorotrifluoropropane",
+            "CAS": "NA",
+            "regulation": "eu_2024_590"
+        },
+        {
+            "chemical_name": "Chlorotetrafluoropropane",
+            "CAS": "NA",
+            "regulation": "eu_2024_590"
+        },
+        {
+            "chemical_name": "Trichlorofluoropropane",
+            "CAS": "NA",
+            "regulation": "eu_2024_590"
+        },
+        {
+            "chemical_name": "Dichlorodifluoropropane",
+            "CAS": "NA",
+            "regulation": "eu_2024_590"
+        },
+        {
+            "chemical_name": "Chlorotrifluoropropane",
+            "CAS": "NA",
+            "regulation": "eu_2024_590"
+        },
+        {
+            "chemical_name": "Dichlorofluoropropane",
+            "CAS": "NA",
+            "regulation": "eu_2024_590"
+        },
+        {
+            "chemical_name": "Chlorodifluoropropane",
+            "CAS": "NA",
+            "regulation": "eu_2024_590"
+        },
+        {
+            "chemical_name": "Chlorofluoropropane",
+            "CAS": "NA",
+            "regulation": "eu_2024_590"
+        },
+        {
+            "chemical_name": "Bromochloromethane",
+            "CAS": "74-97-5",
+            "regulation": "eu_2024_590"
+        },
+        {
+            "chemical_name": "1-Bromopropane (n-propyl bromide)",
+            "CAS": "106-94-5",
+            "regulation": "eu_2024_590"
+        },
+        {
+            "chemical_name": "Bromoethane (ethyl bromide)",
+            "CAS": "74-96-4",
+            "regulation": "eu_2024_590"
+        },
+        {
+            "chemical_name": "Trifluoroiodomethane (trifluoromethyl iodide)",
+            "CAS": "2314-97-8",
+            "regulation": "eu_2024_590"
+        },
+        {
+            "chemical_name": "Chloromethane (methyl chloride)",
+            "CAS": "74-87-3",
+            "regulation": "eu_2024_590"
+        },
+        {
+            "chemical_name": "2-bromo-3,3,3-trifluoroprop-1-en (2-BTP)",
+            "CAS": "1514-82-5",
+            "regulation": "eu_2024_590"
+        },
+        {
+            "chemical_name": "Dichloromethane (DCM)",
+            "CAS": "75-09-2",
+            "regulation": "eu_2024_590"
+        },
+        {
+            "chemical_name": "Tetrachloroethene (Perchloroethylene (PCE))",
+            "CAS": "127-18-4",
+            "regulation": "eu_2024_590"
+        }
+    ]
+}

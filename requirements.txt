@@ -3,3 +3,4 @@ openai
 pandas
 python-dotenv
 openpyxl
+neo4j==5.28.1

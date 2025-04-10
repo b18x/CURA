@@ -1,0 +1,54 @@
+{
+    "chemicals": [
+        {
+            "chemical_name": "(1\u03b1,2\u03b1,3\u03b2,4\u03b1,5\u03b2,6\u03b2)-1,2,3,4,5,6-hexachlorocyclohexane",
+            "CAS": "319-84-6",
+            "regulation": "649_2012_1"
+        },
+        {
+            "chemical_name": "(1\u03b1,2\u03b2,3\u03b1,4\u03b2,5\u03b1,6\u03b2)-1,2,3,4,5,6-hexachlorocyclohexane",
+            "CAS": "319-85-7",
+            "regulation": "649_2012_1"
+        },
+        {
+            "chemical_name": "1,1,1,2-Tetrachloroethane",
+            "CAS": "630-20-6",
+            "regulation": "649_2012_1"
+        },
+        {
+            "chemical_name": "1,1,1-Trichloroethane",
+            "CAS": "71-55-6",
+            "regulation": "649_2012_1"
+        },
+        {
+            "chemical_name": "1,1,2,2-Tetrachloroethane",
+            "CAS": "79-34-5",
+            "regulation": "649_2012_1"
+        },
+        {
+            "chemical_name": "1,1,2-Trichloroethane",
+            "CAS": "79-00-5",
+            "regulation": "649_2012_1"
+        },
+        {
+            "chemical_name": "1,1-Dichloroethene",
+            "CAS": "75-35-4",
+            "regulation": "649_2012_1"
+        },
+        {
+            "chemical_name": "1,2-Benzenedicarboxylic acid, di-C6-10-alkyl esters or mixed decyl and hexyl and octyl diesters",
+            "CAS": "68515-51-5",
+            "regulation": "649_2012_1"
+        },
+        {
+            "chemical_name": "1,2-Benzenedicarboxylic acid, di-C6-8-branched alkyl esters, C7-rich",
+            "CAS": "71888-89-6",
+            "regulation": "649_2012_1"
+        },
+        {
+            "chemical_name": "1,2-Benzenedicarboxylic acid, di-C7-11-branched and linear alkyl esters",
+            "CAS": "68515-42-4",
+            "regulation": "649_2012_1"
+        }
+    ]
+}
