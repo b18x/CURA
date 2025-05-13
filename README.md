@@ -26,8 +26,6 @@ This project focuses on developing a system to extract chemical information (nam
     * `src/load_neo4j_data.py`: Script for loading processed JSON data into the Neo4j database.
 * `requirements.txt`: Lists Python package dependencies.
 * `.env`: Environment variable configuration file (stores API keys, database credentials). **Note: This file is not committed to the repository and should be created locally.**
-* `README.md`: This file.
-* `Information_Systems_Master_Thesis - 2025-05-13T205811.238.pdf`: The master thesis document providing detailed context, methodology, and findings.
 
 ## Setup and Installation
 1.  **Clone the repository:**
