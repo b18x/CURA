@@ -1,0 +1,749 @@
+{
+    "chemicals": [
+        {
+            "chemical_name": "Tetrabromodiphenyl ether",
+            "CAS": "40088-47-9",
+            "regulation": "CELEX_32019R1021_EN_TXT"
+        },
+        {
+            "chemical_name": "Pentabromodiphenyl ether",
+            "CAS": "32534-81-9",
+            "regulation": "CELEX_32019R1021_EN_TXT"
+        },
+        {
+            "chemical_name": "Hexabromodiphenyl ether",
+            "CAS": "36483-60-0",
+            "regulation": "CELEX_32019R1021_EN_TXT"
+        },
+        {
+            "chemical_name": "Heptabromodiphenyl ether",
+            "CAS": "68928-80-3",
+            "regulation": "CELEX_32019R1021_EN_TXT"
+        },
+        {
+            "chemical_name": "Bis(pentabromophenyl) ether (decabromodiphenyl ether; decaBDE)",
+            "CAS": "1163-19-5",
+            "regulation": "CELEX_32019R1021_EN_TXT"
+        },
+        {
+            "chemical_name": "decaBDE",
+            "CAS": "1163-19-5",
+            "regulation": "CELEX_32019R1021_EN_TXT"
+        },
+        {
+            "chemical_name": "Perfluorooctane sulfonic acid (PFOS)",
+            "CAS": "1763-23-1",
+            "regulation": "CELEX_32019R1021_EN_TXT"
+        },
+        {
+            "chemical_name": "Potassium perfluorooctane sulfonate",
+            "CAS": "2795-39-3",
+            "regulation": "CELEX_32019R1021_EN_TXT"
+        },
+        {
+            "chemical_name": "Lithium perfluorooctane sulfonate",
+            "CAS": "29457-72-5",
+            "regulation": "CELEX_32019R1021_EN_TXT"
+        },
+        {
+            "chemical_name": "Ammonium perfluorooctane sulfonate",
+            "CAS": "29081-56-9",
+            "regulation": "CELEX_32019R1021_EN_TXT"
+        },
+        {
+            "chemical_name": "Diethanolammonium perfluorooctane sulfonate",
+            "CAS": "70225-14-8",
+            "regulation": "CELEX_32019R1021_EN_TXT"
+        },
+        {
+            "chemical_name": "Tetraethylammonium perfluorooctane sulfonate",
+            "CAS": "56773-42-3",
+            "regulation": "CELEX_32019R1021_EN_TXT"
+        },
+        {
+            "chemical_name": "Didecyldimethylammonium perfluorooctane sulfonate",
+            "CAS": "251099-16-8",
+            "regulation": "CELEX_32019R1021_EN_TXT"
+        },
+        {
+            "chemical_name": "N-Ethylperfluorooctane sulfonamide (EtFOSA)",
+            "CAS": "4151-50-2",
+            "regulation": "CELEX_32019R1021_EN_TXT"
+        },
+        {
+            "chemical_name": "2-(N-Ethylperfluorooctane sulfonamido)ethanol (EtFOSE)",
+            "CAS": "1691-99-2",
+            "regulation": "CELEX_32019R1021_EN_TXT"
+        },
+        {
+            "chemical_name": "N-Methylperfluorooctane sulfonamide (MeFOSA)",
+            "CAS": "31506-32-8",
+            "regulation": "CELEX_32019R1021_EN_TXT"
+        },
+        {
+            "chemical_name": "2-(N-Methylperfluorooctane sulfonamido)ethanol (MeFOSE)",
+            "CAS": "24448-09-7",
+            "regulation": "CELEX_32019R1021_EN_TXT"
+        },
+        {
+            "chemical_name": "Perfluorooctane sulfonyl fluoride (PFOSF)",
+            "CAS": "307-35-7",
+            "regulation": "CELEX_32019R1021_EN_TXT"
+        },
+        {
+            "chemical_name": "DDT (1,1,1-trichloro-2,2-bis(4-chlorophenyl)ethane)",
+            "CAS": "50-29-3",
+            "regulation": "CELEX_32019R1021_EN_TXT"
+        },
+        {
+            "chemical_name": "Chlordane",
+            "CAS": "57-74-9",
+            "regulation": "CELEX_32019R1021_EN_TXT"
+        },
+        {
+            "chemical_name": "Hexachlorocyclohexane (HCH)",
+            "CAS": "58-89-9",
+            "regulation": "CELEX_32019R1021_EN_TXT"
+        },
+        {
+            "chemical_name": "Lindane",
+            "CAS": "58-89-9",
+            "regulation": "CELEX_32019R1021_EN_TXT"
+        },
+        {
+            "chemical_name": "Dieldrin",
+            "CAS": "60-57-1",
+            "regulation": "CELEX_32019R1021_EN_TXT"
+        },
+        {
+            "chemical_name": "Endrin",
+            "CAS": "72-20-8",
+            "regulation": "CELEX_32019R1021_EN_TXT"
+        },
+        {
+            "chemical_name": "Heptachlor",
+            "CAS": "76-44-8",
+            "regulation": "CELEX_32019R1021_EN_TXT"
+        },
+        {
+            "chemical_name": "Endosulfan",
+            "CAS": "115-29-7",
+            "regulation": "CELEX_32019R1021_EN_TXT"
+        },
+        {
+            "chemical_name": "Endosulfan",
+            "CAS": "959-98-8",
+            "regulation": "CELEX_32019R1021_EN_TXT"
+        },
+        {
+            "chemical_name": "Endosulfan",
+            "CAS": "33213-65-9",
+            "regulation": "CELEX_32019R1021_EN_TXT"
+        },
+        {
+            "chemical_name": "Hexachlorobenzene",
+            "CAS": "118-74-1",
+            "regulation": "CELEX_32019R1021_EN_TXT"
+        },
+        {
+            "chemical_name": "Chlordecone",
+            "CAS": "143-50-0",
+            "regulation": "CELEX_32019R1021_EN_TXT"
+        },
+        {
+            "chemical_name": "Aldrin",
+            "CAS": "309-00-2",
+            "regulation": "CELEX_32019R1021_EN_TXT"
+        },
+        {
+            "chemical_name": "Pentachlorobenzene",
+            "CAS": "608-93-5",
+            "regulation": "CELEX_32019R1021_EN_TXT"
+        },
+        {
+            "chemical_name": "Polychlorinated Biphenyls (PCB)",
+            "CAS": "1336-36-3",
+            "regulation": "CELEX_32019R1021_EN_TXT"
+        },
+        {
+            "chemical_name": "Mirex",
+            "CAS": "2385-85-5",
+            "regulation": "CELEX_32019R1021_EN_TXT"
+        },
+        {
+            "chemical_name": "Toxaphene",
+            "CAS": "8001-35-2",
+            "regulation": "CELEX_32019R1021_EN_TXT"
+        },
+        {
+            "chemical_name": "Hexabromobiphenyl",
+            "CAS": "36355-01-8",
+            "regulation": "CELEX_32019R1021_EN_TXT"
+        },
+        {
+            "chemical_name": "Hexabromocyclododecane",
+            "CAS": "25637-99-4",
+            "regulation": "CELEX_32019R1021_EN_TXT"
+        },
+        {
+            "chemical_name": "Hexabromocyclododecane",
+            "CAS": "3194-55-6",
+            "regulation": "CELEX_32019R1021_EN_TXT"
+        },
+        {
+            "chemical_name": "Hexabromocyclododecane",
+            "CAS": "134237-50-6",
+            "regulation": "CELEX_32019R1021_EN_TXT"
+        },
+        {
+            "chemical_name": "Hexabromocyclododecane",
+            "CAS": "134237-51-7",
+            "regulation": "CELEX_32019R1021_EN_TXT"
+        },
+        {
+            "chemical_name": "Hexabromocyclododecane",
+            "CAS": "134237-52-8",
+            "regulation": "CELEX_32019R1021_EN_TXT"
+        },
+        {
+            "chemical_name": "alpha-Hexachlorocyclohexane",
+            "CAS": "319-84-6",
+            "regulation": "CELEX_32019R1021_EN_TXT"
+        },
+        {
+            "chemical_name": "beta-Hexachlorocyclohexane",
+            "CAS": "319-85-7",
+            "regulation": "CELEX_32019R1021_EN_TXT"
+        },
+        {
+            "chemical_name": "Hexachlorocyclohexane",
+            "CAS": "608-73-1",
+            "regulation": "CELEX_32019R1021_EN_TXT"
+        },
+        {
+            "chemical_name": "Hexachlorobutadiene",
+            "CAS": "87-68-3",
+            "regulation": "CELEX_32019R1021_EN_TXT"
+        },
+        {
+            "chemical_name": "Pentachlorophenol",
+            "CAS": "87-86-5",
+            "regulation": "CELEX_32019R1021_EN_TXT"
+        },
+        {
+            "chemical_name": "Sodium pentachlorophenate",
+            "CAS": "131-52-2",
+            "regulation": "CELEX_32019R1021_EN_TXT"
+        },
+        {
+            "chemical_name": "Pentachlorophenyl laurate",
+            "CAS": "3772-94-9",
+            "regulation": "CELEX_32019R1021_EN_TXT"
+        },
+        {
+            "chemical_name": "Polychlorinated naphthalenes",
+            "CAS": "70776-03-3",
+            "regulation": "CELEX_32019R1021_EN_TXT"
+        },
+        {
+            "chemical_name": "Alkanes C10-C13, chloro (short-chain chlorinated paraffins) (SCCPs)",
+            "CAS": "85535-84-8",
+            "regulation": "CELEX_32019R1021_EN_TXT"
+        },
+        {
+            "chemical_name": "Polychlorinated dibenzo-p-dioxins (PCDD)",
+            "CAS": "NA",
+            "regulation": "CELEX_32019R1021_EN_TXT"
+        },
+        {
+            "chemical_name": "Polychlorinated dibenzofurans (PCDF)",
+            "CAS": "NA",
+            "regulation": "CELEX_32019R1021_EN_TXT"
+        },
+        {
+            "chemical_name": "Polychlorinated biphenyls (PCB)",
+            "CAS": "NA",
+            "regulation": "CELEX_32019R1021_EN_TXT"
+        },
+        {
+            "chemical_name": "Hexachlorobenzene (HCB)",
+            "CAS": "118-74-1",
+            "regulation": "CELEX_32019R1021_EN_TXT"
+        },
+        {
+            "chemical_name": "Polycyclic aromatic hydrocarbons (PAHs)",
+            "CAS": "NA",
+            "regulation": "CELEX_32019R1021_EN_TXT"
+        },
+        {
+            "chemical_name": "Pentachlorobenzene",
+            "CAS": "608-93-5",
+            "regulation": "CELEX_32019R1021_EN_TXT"
+        },
+        {
+            "chemical_name": "Hexachlorobutadiene",
+            "CAS": "87-68-3",
+            "regulation": "CELEX_32019R1021_EN_TXT"
+        },
+        {
+            "chemical_name": "Polychlorinated naphthalenes",
+            "CAS": "70776-03-3",
+            "regulation": "CELEX_32019R1021_EN_TXT"
+        },
+        {
+            "chemical_name": "Endosulfan",
+            "CAS": "115-29-7",
+            "regulation": "CELEX_32019R1021_EN_TXT"
+        },
+        {
+            "chemical_name": "Endosulfan",
+            "CAS": "959-98-8",
+            "regulation": "CELEX_32019R1021_EN_TXT"
+        },
+        {
+            "chemical_name": "Endosulfan",
+            "CAS": "33213-65-9",
+            "regulation": "CELEX_32019R1021_EN_TXT"
+        },
+        {
+            "chemical_name": "Hexachlorobutadiene",
+            "CAS": "87-68-3",
+            "regulation": "CELEX_32019R1021_EN_TXT"
+        },
+        {
+            "chemical_name": "Polychlorinated naphthalenes",
+            "CAS": "N/A",
+            "regulation": "CELEX_32019R1021_EN_TXT"
+        },
+        {
+            "chemical_name": "Alkanes C10-C13, chloro (short-chain chlorinated paraffins) (SCCPs)",
+            "CAS": "85535-84-8",
+            "regulation": "CELEX_32019R1021_EN_TXT"
+        },
+        {
+            "chemical_name": "Tetrabromodiphenyl ether C12H6Br4O",
+            "CAS": "40088-47-9",
+            "regulation": "CELEX_32019R1021_EN_TXT"
+        },
+        {
+            "chemical_name": "Pentabromodiphenyl ether C12H5Br5O",
+            "CAS": "32534-81-9",
+            "regulation": "CELEX_32019R1021_EN_TXT"
+        },
+        {
+            "chemical_name": "Hexabromodiphenyl ether C12H4Br6O",
+            "CAS": "36483-60-0",
+            "regulation": "CELEX_32019R1021_EN_TXT"
+        },
+        {
+            "chemical_name": "Heptabromodiphenyl ether C12H3Br7O",
+            "CAS": "68928-80-3",
+            "regulation": "CELEX_32019R1021_EN_TXT"
+        },
+        {
+            "chemical_name": "Decabromodiphenyl ether C12Br10O",
+            "CAS": "1163-19-5",
+            "regulation": "CELEX_32019R1021_EN_TXT"
+        },
+        {
+            "chemical_name": "Perfluorooctane sulfonic acid (PFOS)",
+            "CAS": "1763-23-1",
+            "regulation": "CELEX_32019R1021_EN_TXT"
+        },
+        {
+            "chemical_name": "Potassium perfluorooctanesulfonate",
+            "CAS": "2795-39-3",
+            "regulation": "CELEX_32019R1021_EN_TXT"
+        },
+        {
+            "chemical_name": "Lithium perfluorooctanesulfonate",
+            "CAS": "29457-72-5",
+            "regulation": "CELEX_32019R1021_EN_TXT"
+        },
+        {
+            "chemical_name": "Ammonium perfluorooctanesulfonate",
+            "CAS": "29081-56-9",
+            "regulation": "CELEX_32019R1021_EN_TXT"
+        },
+        {
+            "chemical_name": "Diethanolammonium perfluorooctanesulfonate",
+            "CAS": "70225-14-8",
+            "regulation": "CELEX_32019R1021_EN_TXT"
+        },
+        {
+            "chemical_name": "Tetraethylammonium perfluorooctanesulfonate",
+            "CAS": "56773-42-3",
+            "regulation": "CELEX_32019R1021_EN_TXT"
+        },
+        {
+            "chemical_name": "Didecyldimethylammonium perfluorooctanesulfonate",
+            "CAS": "251099-16-8",
+            "regulation": "CELEX_32019R1021_EN_TXT"
+        },
+        {
+            "chemical_name": "Perfluorooctane sulfonamide (PFOSA)",
+            "CAS": "4151-50-2",
+            "regulation": "CELEX_32019R1021_EN_TXT"
+        },
+        {
+            "chemical_name": "N-Ethylperfluorooctane sulfonamide (EtFOSA)",
+            "CAS": "31506-32-8",
+            "regulation": "CELEX_32019R1021_EN_TXT"
+        },
+        {
+            "chemical_name": "N-Ethylperfluorooctane sulfonamidoethanol (EtFOSE)",
+            "CAS": "1691-99-2",
+            "regulation": "CELEX_32019R1021_EN_TXT"
+        },
+        {
+            "chemical_name": "N-Methylperfluorooctane sulfonamidoethanol (MeFOSE)",
+            "CAS": "24448-09-7",
+            "regulation": "CELEX_32019R1021_EN_TXT"
+        },
+        {
+            "chemical_name": "Perfluorooctane sulfonyl fluoride (POSF)",
+            "CAS": "307-35-7",
+            "regulation": "CELEX_32019R1021_EN_TXT"
+        },
+        {
+            "chemical_name": "Polychlorinated dibenzo-p-dioxins (PCDD)",
+            "CAS": "N/A",
+            "regulation": "CELEX_32019R1021_EN_TXT"
+        },
+        {
+            "chemical_name": "Polychlorinated dibenzofurans (PCDF)",
+            "CAS": "N/A",
+            "regulation": "CELEX_32019R1021_EN_TXT"
+        },
+        {
+            "chemical_name": "DDT (1,1,1-trichloro-2,2-bis (4-chlorophenyl)ethane)",
+            "CAS": "50-29-3",
+            "regulation": "CELEX_32019R1021_EN_TXT"
+        },
+        {
+            "chemical_name": "Chlordane",
+            "CAS": "57-74-9",
+            "regulation": "CELEX_32019R1021_EN_TXT"
+        },
+        {
+            "chemical_name": "Hexachlorocyclohexane (Lindane)",
+            "CAS": "58-89-9",
+            "regulation": "CELEX_32019R1021_EN_TXT"
+        },
+        {
+            "chemical_name": "alpha-Hexachlorocyclohexane",
+            "CAS": "319-84-6",
+            "regulation": "CELEX_32019R1021_EN_TXT"
+        },
+        {
+            "chemical_name": "beta-Hexachlorocyclohexane",
+            "CAS": "319-85-7",
+            "regulation": "CELEX_32019R1021_EN_TXT"
+        },
+        {
+            "chemical_name": "delta-Hexachlorocyclohexane",
+            "CAS": "608-73-1",
+            "regulation": "CELEX_32019R1021_EN_TXT"
+        },
+        {
+            "chemical_name": "Dieldrin",
+            "CAS": "60-57-1",
+            "regulation": "CELEX_32019R1021_EN_TXT"
+        },
+        {
+            "chemical_name": "Endrin",
+            "CAS": "72-20-8",
+            "regulation": "CELEX_32019R1021_EN_TXT"
+        },
+        {
+            "chemical_name": "Heptachlor",
+            "CAS": "76-44-8",
+            "regulation": "CELEX_32019R1021_EN_TXT"
+        },
+        {
+            "chemical_name": "Hexachlorobenzene",
+            "CAS": "118-74-1",
+            "regulation": "CELEX_32019R1021_EN_TXT"
+        },
+        {
+            "chemical_name": "Chlordecone",
+            "CAS": "143-50-0",
+            "regulation": "CELEX_32019R1021_EN_TXT"
+        },
+        {
+            "chemical_name": "Aldrin",
+            "CAS": "309-00-2",
+            "regulation": "CELEX_32019R1021_EN_TXT"
+        },
+        {
+            "chemical_name": "Pentachlorobenzene",
+            "CAS": "608-93-5",
+            "regulation": "CELEX_32019R1021_EN_TXT"
+        },
+        {
+            "chemical_name": "Polychlorinated Biphenyls (PCB)",
+            "CAS": "1336-36-3",
+            "regulation": "CELEX_32019R1021_EN_TXT"
+        },
+        {
+            "chemical_name": "Mirex",
+            "CAS": "2385-85-5",
+            "regulation": "CELEX_32019R1021_EN_TXT"
+        },
+        {
+            "chemical_name": "Toxaphene",
+            "CAS": "8001-35-2",
+            "regulation": "CELEX_32019R1021_EN_TXT"
+        },
+        {
+            "chemical_name": "Hexabromobiphenyl",
+            "CAS": "36355-01-8",
+            "regulation": "CELEX_32019R1021_EN_TXT"
+        },
+        {
+            "chemical_name": "Hexabromocyclododecane",
+            "CAS": "25637-99-4",
+            "regulation": "CELEX_32019R1021_EN_TXT"
+        },
+        {
+            "chemical_name": "1,2,5,6,9,10-Hexabromocyclododecane",
+            "CAS": "3194-55-6",
+            "regulation": "CELEX_32019R1021_EN_TXT"
+        },
+        {
+            "chemical_name": "alpha-Hexabromocyclododecane",
+            "CAS": "134237-50-6",
+            "regulation": "CELEX_32019R1021_EN_TXT"
+        },
+        {
+            "chemical_name": "beta-Hexabromocyclododecane",
+            "CAS": "134237-51-7",
+            "regulation": "CELEX_32019R1021_EN_TXT"
+        },
+        {
+            "chemical_name": "gamma-Hexabromocyclododecane",
+            "CAS": "134237-52-8",
+            "regulation": "CELEX_32019R1021_EN_TXT"
+        },
+        {
+            "chemical_name": "Alkanes C10-C13, chloro (short-chain chlorinated paraffins) (SCCPs)",
+            "CAS": "85535-84-8",
+            "regulation": "CELEX_32019R1021_EN_TXT"
+        },
+        {
+            "chemical_name": "Aldrin",
+            "CAS": "309-00-2",
+            "regulation": "CELEX_32019R1021_EN_TXT"
+        },
+        {
+            "chemical_name": "Chlordane",
+            "CAS": "57-74-9",
+            "regulation": "CELEX_32019R1021_EN_TXT"
+        },
+        {
+            "chemical_name": "Chlordecone",
+            "CAS": "143-50-0",
+            "regulation": "CELEX_32019R1021_EN_TXT"
+        },
+        {
+            "chemical_name": "DDT (1,1,1-trichloro-2,2-bis (4-chlorophenyl) ethane)",
+            "CAS": "50-29-3",
+            "regulation": "CELEX_32019R1021_EN_TXT"
+        },
+        {
+            "chemical_name": "Dieldrin",
+            "CAS": "60-57-1",
+            "regulation": "CELEX_32019R1021_EN_TXT"
+        },
+        {
+            "chemical_name": "Endosulfan",
+            "CAS": "115-29-7",
+            "regulation": "CELEX_32019R1021_EN_TXT"
+        },
+        {
+            "chemical_name": "Endrin",
+            "CAS": "72-20-8",
+            "regulation": "CELEX_32019R1021_EN_TXT"
+        },
+        {
+            "chemical_name": "Heptachlor",
+            "CAS": "76-44-8",
+            "regulation": "CELEX_32019R1021_EN_TXT"
+        },
+        {
+            "chemical_name": "Hexabromobiphenyl",
+            "CAS": "36355-01-8",
+            "regulation": "CELEX_32019R1021_EN_TXT"
+        },
+        {
+            "chemical_name": "Hexabromocyclododecane",
+            "CAS": "25637-99-4",
+            "regulation": "CELEX_32019R1021_EN_TXT"
+        },
+        {
+            "chemical_name": "Hexachlorobenzene",
+            "CAS": "118-74-1",
+            "regulation": "CELEX_32019R1021_EN_TXT"
+        },
+        {
+            "chemical_name": "Hexachlorobutadiene",
+            "CAS": "87-68-3",
+            "regulation": "CELEX_32019R1021_EN_TXT"
+        },
+        {
+            "chemical_name": "Hexachlorocyclohexane (HCH)",
+            "CAS": "608-73-1",
+            "regulation": "CELEX_32019R1021_EN_TXT"
+        },
+        {
+            "chemical_name": "Lindane (gamma-hexachlorocyclohexane)",
+            "CAS": "58-89-9",
+            "regulation": "CELEX_32019R1021_EN_TXT"
+        },
+        {
+            "chemical_name": "Mirex",
+            "CAS": "2385-85-5",
+            "regulation": "CELEX_32019R1021_EN_TXT"
+        },
+        {
+            "chemical_name": "Pentachlorobenzene",
+            "CAS": "608-93-5",
+            "regulation": "CELEX_32019R1021_EN_TXT"
+        },
+        {
+            "chemical_name": "Perfluorooctane sulfonic acid (PFOS)",
+            "CAS": "1763-23-1",
+            "regulation": "CELEX_32019R1021_EN_TXT"
+        },
+        {
+            "chemical_name": "Polychlorinated Biphenyls (PCB)",
+            "CAS": "1336-36-3",
+            "regulation": "CELEX_32019R1021_EN_TXT"
+        },
+        {
+            "chemical_name": "Polychlorinated dibenzo-p-dioxins",
+            "CAS": "1746-01-6",
+            "regulation": "CELEX_32019R1021_EN_TXT"
+        },
+        {
+            "chemical_name": "Polychlorinated dibenzofurans",
+            "CAS": "51207-31-9",
+            "regulation": "CELEX_32019R1021_EN_TXT"
+        },
+        {
+            "chemical_name": "Polychlorinated naphthalenes",
+            "CAS": "70776-03-3",
+            "regulation": "CELEX_32019R1021_EN_TXT"
+        },
+        {
+            "chemical_name": "Tetrabromodiphenyl ether (C12H6Br4O)",
+            "CAS": "40088-47-9",
+            "regulation": "CELEX_32019R1021_EN_TXT"
+        },
+        {
+            "chemical_name": "Pentabromodiphenyl ether (C12H5Br5O)",
+            "CAS": "32534-81-9",
+            "regulation": "CELEX_32019R1021_EN_TXT"
+        },
+        {
+            "chemical_name": "Hexabromodiphenyl ether (C12H4Br6O)",
+            "CAS": "36483-60-0",
+            "regulation": "CELEX_32019R1021_EN_TXT"
+        },
+        {
+            "chemical_name": "Heptabromodiphenyl ether (C12H3Br7O)",
+            "CAS": "68928-80-3",
+            "regulation": "CELEX_32019R1021_EN_TXT"
+        },
+        {
+            "chemical_name": "Toxaphene",
+            "CAS": "8001-35-2",
+            "regulation": "CELEX_32019R1021_EN_TXT"
+        },
+        {
+            "chemical_name": "2,3,7,8-TeCDD",
+            "CAS": "1746-01-6",
+            "regulation": "CELEX_32019R1021_EN_TXT"
+        },
+        {
+            "chemical_name": "1,2,3,7,8-PeCDD",
+            "CAS": "40321-76-4",
+            "regulation": "CELEX_32019R1021_EN_TXT"
+        },
+        {
+            "chemical_name": "1,2,3,4,7,8-HxCDD",
+            "CAS": "39227-28-6",
+            "regulation": "CELEX_32019R1021_EN_TXT"
+        },
+        {
+            "chemical_name": "1,2,3,6,7,8-HxCDD",
+            "CAS": "57653-85-7",
+            "regulation": "CELEX_32019R1021_EN_TXT"
+        },
+        {
+            "chemical_name": "1,2,3,7,8,9-HxCDD",
+            "CAS": "19408-74-3",
+            "regulation": "CELEX_32019R1021_EN_TXT"
+        },
+        {
+            "chemical_name": "1,2,3,4,6,7,8-HpCDD",
+            "CAS": "35822-46-9",
+            "regulation": "CELEX_32019R1021_EN_TXT"
+        },
+        {
+            "chemical_name": "OCDD",
+            "CAS": "3268-87-9",
+            "regulation": "CELEX_32019R1021_EN_TXT"
+        },
+        {
+            "chemical_name": "2,3,7,8-TeCDF",
+            "CAS": "51207-31-9",
+            "regulation": "CELEX_32019R1021_EN_TXT"
+        },
+        {
+            "chemical_name": "1,2,3,7,8-PeCDF",
+            "CAS": "57117-41-6",
+            "regulation": "CELEX_32019R1021_EN_TXT"
+        },
+        {
+            "chemical_name": "2,3,4,7,8-PeCDF",
+            "CAS": "57117-31-4",
+            "regulation": "CELEX_32019R1021_EN_TXT"
+        },
+        {
+            "chemical_name": "1,2,3,4,7,8-HxCDF",
+            "CAS": "70648-26-9",
+            "regulation": "CELEX_32019R1021_EN_TXT"
+        },
+        {
+            "chemical_name": "1,2,3,6,7,8-HxCDF",
+            "CAS": "57117-44-9",
+            "regulation": "CELEX_32019R1021_EN_TXT"
+        },
+        {
+            "chemical_name": "1,2,3,7,8,9-HxCDF",
+            "CAS": "72918-21-9",
+            "regulation": "CELEX_32019R1021_EN_TXT"
+        },
+        {
+            "chemical_name": "2,3,4,6,7,8-HxCDF",
+            "CAS": "60851-34-5",
+            "regulation": "CELEX_32019R1021_EN_TXT"
+        },
+        {
+            "chemical_name": "1,2,3,4,6,7,8-HpCDF",
+            "CAS": "67562-39-4",
+            "regulation": "CELEX_32019R1021_EN_TXT"
+        },
+        {
+            "chemical_name": "1,2,3,4,7,8,9-HpCDF",
+            "CAS": "55673-89-7",
+            "regulation": "CELEX_32019R1021_EN_TXT"
+        },
+        {
+            "chemical_name": "OCDF",
+            "CAS": "39001-02-0",
+            "regulation": "CELEX_32019R1021_EN_TXT"
+        }
+    ]
+}

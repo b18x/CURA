@@ -1,11 +1,3 @@
-# PDF Semi-Structured Data Extraction and Analysis with Anthropics Claude API
-# Created to search for three types of information for headers and create an Excel file with the results
-# Version: 1.0
-# Date: 2024-10-15
-# Creator: Juhani Merilehto - @juhanimerilehto
-# Sponsor: Jyväskylä University of Applied Sciences (JAMK), Likes institute
-
-
 import os
 import csv
 from openai import OpenAI

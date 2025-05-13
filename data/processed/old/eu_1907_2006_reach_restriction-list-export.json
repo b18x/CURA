@@ -1,0 +1,2099 @@
+{
+    "chemicals": [
+        {
+            "chemical_name": "Polychlorinated terphenyls (PCTs)",
+            "CAS": "61788-33-8",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "Terphenyl, chlorinated",
+            "CAS": "61788-33-8",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "Chloroethene",
+            "CAS": "75-01-4",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "Vinyl Chloride",
+            "CAS": "75-01-4",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "Liquid substances or mixtures which are regarded as dangerous in accordance with Directive 1999/45/EC or are fulfilling the criteria for any of the following hazard classes or categories set out in Annex I to Regulation (EC) No 1272/2008 (See group members)",
+            "CAS": "NA",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "Hazard class 4.1",
+            "CAS": "NA",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "Tris (2,3 dibromopropyl) phosphate",
+            "CAS": "126-72-7",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "Benzene",
+            "CAS": "71-43-2",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "Actinolite",
+            "CAS": "77536-66-4",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "Tremolite",
+            "CAS": "77536-68-6",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "Anthophyllite",
+            "CAS": "77536-67-5",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "Chrysotile asbestos",
+            "CAS": "132207-32-0",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "Asbestos, chrysotile",
+            "CAS": "12001-29-5",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "Crocidolite",
+            "CAS": "12001-28-4",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "Amosite",
+            "CAS": "12172-73-5",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "Tris(aziridinyl)phosphinoxide",
+            "CAS": "545-55-1",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "Polybrominated biphenyls (PBB)",
+            "CAS": "59536-65-1",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "Polybromobiphenyls",
+            "CAS": "59536-65-1",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "Decabromo-1,1'-biphenyl",
+            "CAS": "13654-09-6",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "Hexabromo-1,1'-biphenyl",
+            "CAS": "36355-01-8",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "4-bromobiphenyl",
+            "CAS": "92-66-0",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "4,4'-dibromobiphenyl",
+            "CAS": "92-86-4",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "Tetrabromo(tetrabromophenyl)benzene",
+            "CAS": "27858-07-7",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "Polybromobiphenyls",
+            "CAS": "59536-65-1",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "Polybrominatedbiphenyls (PBB)",
+            "CAS": "59536-65-1",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "Polybrominated biphenyls (PBB) except hexabromo-biphenyl",
+            "CAS": "NA",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "Nonabromo-1,1'-biphenyl",
+            "CAS": "27753-52-2",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "3-bromobiphenyl",
+            "CAS": "2113-57-7",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "o-Nitrobenzaldehyde",
+            "CAS": "552-89-6",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "Benzidine",
+            "CAS": "92-87-5",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "Soap bark powder (Quillaja saponaria) containing saponines",
+            "CAS": "68990-67-0",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "Powder of the roots of Veratrum album",
+            "CAS": "8051-02-3",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "Powder of the roots of Veratrum nigrum",
+            "CAS": "8051-02-3",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "Wood powder",
+            "CAS": "9004-34-6",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "Powder of the roots of Helleborus viridis",
+            "CAS": "NA",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "Powder of the roots of Helleborus niger",
+            "CAS": "NA",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "Ammonium polysulphide",
+            "CAS": "9080-17-5",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "Ammonium sulphide",
+            "CAS": "12135-76-1",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "Ammonium hydrogen sulphide",
+            "CAS": "12124-99-1",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "Volatile esters of bromoacetic acids",
+            "CAS": "NA",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "Methyl bromoacetate",
+            "CAS": "96-32-2",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "Propyl bromoacetate",
+            "CAS": "35223-80-4",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "Butyl bromoacetate",
+            "CAS": "18991-98-5",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "Ethyl bromoacetate",
+            "CAS": "105-36-2",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "2-naphthylamine",
+            "CAS": "91-59-8",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "2-naphthylammonium acetate",
+            "CAS": "553-00-4",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "2-naphthylammonium chloride",
+            "CAS": "612-52-2",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "Benzidine",
+            "CAS": "92-87-5",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "Salts of benzidine",
+            "CAS": "NA",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "4-Nitrobiphenyl",
+            "CAS": "92-93-3",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "4-Aminobiphenyl xenylamine",
+            "CAS": "92-67-1",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "Salts of 4-Aminobiphenyl xenylamine",
+            "CAS": "NA",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "Trilead-bis(carbonate)-dihydroxide 2PbCO3-Pb(OH)2",
+            "CAS": "1319-46-6",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "Neutral anhydrous carbonate (PbCO3)",
+            "CAS": "598-63-0",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "Sulphuric acid, lead salt Pbx SO4",
+            "CAS": "15739-80-7",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "Lead sulphate PbSO4",
+            "CAS": "7446-14-2",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "Mercury",
+            "CAS": "7439-97-6",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "Arsenic compounds",
+            "CAS": "NA",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "Trimanganese arsenide",
+            "CAS": "61219-26-9",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "N-(p-arsenosophenyl)-1,3,5-triazine-2,4,6-triamine",
+            "CAS": "21840-08-4",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "Triammonium arsenate",
+            "CAS": "24719-13-9",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "Tricobalt diarsenate",
+            "CAS": "24719-19-5",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "Cobalt arsenide",
+            "CAS": "27016-73-5",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "Nickel arsenide",
+            "CAS": "27016-75-7",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "Tricalcium diarsenite",
+            "CAS": "27152-57-4",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "3-methyl-4-(pyrrolidin-1-yl)benzenediazonium hexafluoroarsenate",
+            "CAS": "27569-09-1",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "Aluminium arsenide",
+            "CAS": "22831-42-1",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "Antimony arsenate",
+            "CAS": "28980-47-4",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "Arsenic acid, copper(2+) salt",
+            "CAS": "29871-13-4",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "Lithium hexafluoroarsenate",
+            "CAS": "29935-35-1",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "Ammonium copper arsenate",
+            "CAS": "32680-29-8",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "Europium arsenide",
+            "CAS": "32775-46-5",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "Disodium 3,6-bis[(o-arsonophenyl)azo]-4,5-dihydroxynaphthalene-2,7-disulphonate",
+            "CAS": "62337-00-2",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "Diphenyliodonium hexafluoroarsenate",
+            "CAS": "62613-15-4",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "4-(ethylamino)-2-methylbenzenediazonium hexafluoroarsenate",
+            "CAS": "63217-32-3",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "4-(diethylamino)-2-ethoxybenzenediazonium hexafluoroarsenate",
+            "CAS": "63217-33-4",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "Disilver arsenide",
+            "CAS": "70333-07-2",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "Thallium triarsenide",
+            "CAS": "84057-85-2",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "Antimony arsenic oxide",
+            "CAS": "64475-90-7",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "Triphenylarsine",
+            "CAS": "603-32-7",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "Sulfarsphenamine",
+            "CAS": "618-82-6",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "Phenylarsine oxide",
+            "CAS": "637-03-6",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "Gallium arsenide",
+            "CAS": "1303-00-0",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "Indium arsenide",
+            "CAS": "1303-11-3",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "Diarsenic pentaoxide",
+            "CAS": "1303-28-2",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "arsenic sulfide",
+            "CAS": "1303-33-9",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "Diarsenic triselenide",
+            "CAS": "1303-36-2",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "Diarsenic trioxide",
+            "CAS": "1327-53-3",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "Methyltriphenylarsonium iodide",
+            "CAS": "1499-33-8",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "Tritylium hexafluoroarsenate",
+            "CAS": "437-15-0",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "Neoarsphenamine",
+            "CAS": "457-60-3",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "Dimethylarsinic acid",
+            "CAS": "75-60-5",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "Phenylarsonic acid",
+            "CAS": "98-05-5",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "4-hydroxyphenylarsonic acid",
+            "CAS": "98-14-6",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "Arsanilic acid",
+            "CAS": "98-50-0",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "Nitarsone",
+            "CAS": "98-72-6",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "Roxarsone",
+            "CAS": "121-19-7",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "Sodium dimethylarsinate",
+            "CAS": "124-65-2",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "Sodium hydrogen 4-aminophenylarsonate",
+            "CAS": "127-85-5",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "6,6'-dihydroxy-3,3'-diarsene-1,2-diyldianilinium dichloride",
+            "CAS": "139-93-5",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "Oxophenarsine",
+            "CAS": "306-12-7",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "Oxophenarsine hydrochloride",
+            "CAS": "538-03-4",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "Tris[(8\u03b1,9R)-6'-methoxycinchonan-9-ol] bis(arsenate)",
+            "CAS": "549-59-7",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "2-aminophenylarsonic acid",
+            "CAS": "2045-00-3",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "Triethyl arsenite",
+            "CAS": "3141-12-6",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "Copper diarsenite",
+            "CAS": "16509-22-1",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "Potassium hexafluoroarsenate",
+            "CAS": "17029-22-0",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "Hydrogen hexafluoroarsenate",
+            "CAS": "17068-85-8",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "Dichromium arsenide",
+            "CAS": "12254-85-2",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "Erbium arsenide",
+            "CAS": "12254-88-5",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "Lanthanum arsenide",
+            "CAS": "12255-04-8",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "Niobium arsenide",
+            "CAS": "12255-08-2",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "Neodymium arsenide",
+            "CAS": "12255-09-3",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "Triantimony arsenide",
+            "CAS": "12255-36-6",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "Samarium arsenide",
+            "CAS": "12255-39-9",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "Yttrium arsenide",
+            "CAS": "12255-48-0",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "Tribarium diarsenide",
+            "CAS": "12255-50-4",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "Tricalcium diarsenide",
+            "CAS": "12255-53-7",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "Germanium arsenide",
+            "CAS": "12271-72-6",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "Trisilver arsenide",
+            "CAS": "12417-99-1",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "Arsenic sulfide",
+            "CAS": "12612-21-4",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "Ammonium dihydrogenarsenate",
+            "CAS": "13462-93-6",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "Tribarium diarsenate",
+            "CAS": "13477-04-8",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "Trinickel bis(arsenate)",
+            "CAS": "13477-70-8",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "Trilithium arsenate",
+            "CAS": "13478-14-3",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "Trisilver arsenate",
+            "CAS": "13510-44-6",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "Potassium arsenite",
+            "CAS": "13464-35-2",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "Trisodium arsenite",
+            "CAS": "13464-37-4",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "Trisodium arsenate",
+            "CAS": "13464-38-5",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "Zinc arsenate",
+            "CAS": "13464-44-3",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "Tristrontium diarsenate",
+            "CAS": "13464-68-1",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "Antimony oxide (Sb2O3)",
+            "CAS": "1309-64-4",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "Arsenic oxide (As2O3)",
+            "CAS": "1327-53-3",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "Lead alloy, base, dross",
+            "CAS": "69011-59-2",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "Lead, antimonial, dross",
+            "CAS": "69029-51-2",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "Flue dust, lead-refining",
+            "CAS": "69029-67-0",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "Tris[(8\u03b1)-6'-methoxycinchonan-9(R)-ol] arsenite",
+            "CAS": "94138-87-1",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "tris(trimethylsilyl)arsine",
+            "CAS": "17729-30-5",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "Arsenic acid (H3AsO4), copper(2+) salt (2:3), tetrahydrate",
+            "CAS": "13478-34-7",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "Arsenenic acid",
+            "CAS": "10102-53-1",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "Arsenic acid (H3AsO4), monosodium salt",
+            "CAS": "10103-60-3",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "Diarsenic acid, sodium salt",
+            "CAS": "13464-42-1",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "Arsenic acid (H3AsO4), zinc salt (1:1)",
+            "CAS": "13464-33-0",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "Arsenenous acid, zinc salt",
+            "CAS": "10326-24-6",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "potassium dimethylarsinate",
+            "CAS": "21416-85-3",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "thallium arsenic selenide",
+            "CAS": "16142-89-5",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "Arsonic acid, [4-[[4-(dimethylamino)phenyl]azo]phenyl]-, monohydrochloride",
+            "CAS": "73688-85-4",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "Tetraphenylarsonium Chloride Hydrochloride Hydrate",
+            "CAS": "123334-18-9",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "Sodium hexafluoroarsenate(V)",
+            "CAS": "12005-86-6",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "Silver hexafluoroarsenate",
+            "CAS": "12005-82-2",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "Arsenic(II) sulfide",
+            "CAS": "12044-79-0",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "ARSENIC(V) OXIDE HYDRATE",
+            "CAS": "12044-50-7",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "Arsenic acid (H3AsO4), monocesium salt",
+            "CAS": "16331-85-4",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "Sodium arsenate dibasic heptahydrate",
+            "CAS": "10048-95-0",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "Sodium cacodylate trihydrate",
+            "CAS": "6131-99-3",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "Gallium zinc triarsenide",
+            "CAS": "98106-56-0",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "Vanadium(4+) diarsenate (1:1)",
+            "CAS": "99035-51-5",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "Strychnidin-10-one, arsenite (1:1)",
+            "CAS": "100258-44-4",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "Slimes and Sludges, copper electrolytic refining, decopperized, arsenic-rich",
+            "CAS": "100995-81-1",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "Arsenic acid (H3AsO4), magnesium salt, manganese-doped",
+            "CAS": "102110-21-4",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "Slimes and Sludges, copper-lead ore roasting off gas scrubbing, arsenic-contg.",
+            "CAS": "102110-62-3",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "3-[(dimethylcarbamothioyl)thio]-N,N,6-trimethyl-1,5-bis(thioxo)-2,4-dithia-6-aza-3-arsaheptan-1-amine; asomate",
+            "CAS": "3586-60-5",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "2,4,6,8,9,10-Hexaoxa-1,3,5,7-tetraarsatricyclo[3.3.1.13,7]decane",
+            "CAS": "12505-67-8",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "Silicic acid (H4SiO4), zinc salt (1:2), arsenic and manganese-doped",
+            "CAS": "68611-46-1",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "Bis(pentane-2,4-dionato-O,O')boron(1+) hexafluoroarsenate(1-)",
+            "CAS": "68892-01-3",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "Sodium metaarsenate",
+            "CAS": "15120-17-9",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "Tristrontium diarsenide",
+            "CAS": "39297-24-0",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "Calcium arsenite",
+            "CAS": "52740-16-6",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "Triphenylsulphonium hexafluoroarsenate(1-)",
+            "CAS": "57900-42-2",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "Zirconium arsenide",
+            "CAS": "60909-47-9",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "2,6-dimethyl-4-(1-naphthyl)pyrylium hexafluoroarsenate",
+            "CAS": "84282-36-0",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "2,6-dimethyl-4-phenylpyrylium hexafluoroarsenate",
+            "CAS": "84304-15-4",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "4-cyclohexyl-2,6-dimethylpyrylium hexafluoroarsenate",
+            "CAS": "84304-16-5",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "Arsenic bromide",
+            "CAS": "64973-06-4",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "Cobalt arsenide",
+            "CAS": "65453-05-6",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "Tris(pentane-2,4-dionato-O,O')silicon hexafluoroarsenate",
+            "CAS": "67251-38-1",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "Slimes and Sludges, copper refining",
+            "CAS": "67712-00-9",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "Arsenic trichloride",
+            "CAS": "7784-34-1",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "Trifluoroarsine",
+            "CAS": "7784-35-2",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "Pentafluoroarsorane",
+            "CAS": "7784-36-3",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "Mercury hydrogenarsenate",
+            "CAS": "7784-37-4",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "Manganese hydrogenarsenate",
+            "CAS": "7784-38-5",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "Lead hydrogen arsenate",
+            "CAS": "7784-40-9",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "Potassium dihydrogenarsenate",
+            "CAS": "7784-41-0",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "Arsine",
+            "CAS": "7784-42-1",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "Diammonium hydrogenarsenate",
+            "CAS": "7784-44-3",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "Arsenic triiodide",
+            "CAS": "7784-45-4",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "Sodium dioxoarsenate",
+            "CAS": "7784-46-5",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "Pentahydroxyarsorane",
+            "CAS": "7786-36-9",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "Flue dust, arsenic-contg.",
+            "CAS": "8028-73-7",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "Lead arsenite",
+            "CAS": "10031-13-7",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "Iron arsenate",
+            "CAS": "10102-49-5",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "Iron bis(arsenate)",
+            "CAS": "10102-50-8",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "Arsenic acid, magnesium salt",
+            "CAS": "10103-50-1",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "Arsenic acid, copper salt",
+            "CAS": "10103-61-4",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "Arsenic acid, calcium salt",
+            "CAS": "10103-62-5",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "Potassium arsonate",
+            "CAS": "10124-50-2",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "2,7-(bis(2-arsonophenylazo))-1,8-dihydroxynaphthalene-3,6-disulphonic acid",
+            "CAS": "1668-00-4",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "Strychnine arsenate",
+            "CAS": "10476-82-1",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "Tricopper arsenide",
+            "CAS": "12005-75-3",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "Dysprosium arsenide",
+            "CAS": "12005-81-1",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "Diiron arsenide",
+            "CAS": "12005-88-8",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "Gadolinium arsenide",
+            "CAS": "12005-89-9",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "Holmium arsenide",
+            "CAS": "12005-92-4",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "Lutetium arsenide",
+            "CAS": "12005-94-6",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "Manganese arsenide",
+            "CAS": "12005-95-7",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "Terbium arsenide",
+            "CAS": "12006-08-5",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "Thallium arsenide",
+            "CAS": "12006-09-6",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "Thulium arsenide",
+            "CAS": "12006-10-9",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "Ytterbium arsenide",
+            "CAS": "12006-12-1",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "Tricadmium diarsenide",
+            "CAS": "12006-15-4",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "Iron diarsenide",
+            "CAS": "12006-21-2",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "Trizinc diarsenide",
+            "CAS": "12006-40-5",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "Disodium 3-[(o-arsonophenyl)azo]-4,5-dihydroxynaphthalene-2,7-disulphonate",
+            "CAS": "3547-38-4",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "Trilead diarsenate",
+            "CAS": "3687-31-8",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "Disodium 4-[(o-arsonophenyl)azo]-3-hydroxynaphthalene-2,7-disulphonate",
+            "CAS": "3688-92-4",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "Diphenyldiarsenic acid",
+            "CAS": "4519-32-8",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "2-nitrophenylarsonic acid",
+            "CAS": "5410-29-7",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "Arsenic acid",
+            "CAS": "7778-39-4",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "Disodium hydrogenarsenate",
+            "CAS": "7778-43-0",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "Calcium arsenate",
+            "CAS": "7778-44-1",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "Trisilver arsenite",
+            "CAS": "7784-08-9",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "Arsenic tribromide",
+            "CAS": "7784-33-0",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "Iron arsenide",
+            "CAS": "12044-16-5",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "Digallium arsenide phosphide",
+            "CAS": "12044-20-1",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "Tripotassium arsenide",
+            "CAS": "12044-21-2",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "Trilithium arsenide",
+            "CAS": "12044-22-3",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "Trisodium arsenide",
+            "CAS": "12044-25-6",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "Praseodymium arsenide",
+            "CAS": "12044-28-9",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "Trimagnesium diarsenide",
+            "CAS": "12044-49-4",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "Diarsenic tritelluride",
+            "CAS": "12044-54-1",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "Zinc diarsenide",
+            "CAS": "12044-55-2",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "Nickel diarsenide",
+            "CAS": "12068-61-0",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "Arsenic acid, sodium salt",
+            "CAS": "7631-89-2",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "Dibismuth tris(methylarsonate)",
+            "CAS": "85237-42-9",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "Trisodium 3-[(o-arsonatophenyl)azo]-4,5-dihydroxynaphthalene-2,7-disulphonate",
+            "CAS": "66019-20-3",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "Disodium 3,6-bis[[2-[(dihydroxyarsino)oxy]phenyl]azo]-4,5-dihydroxynaphthalene-2,7-disulphonate",
+            "CAS": "84215-47-4",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "Disodium 3-[[2-[(dihydroxyarsino)oxy]phenyl]azo]-4,5-dihydroxynaphthalene-2,7-disulphonate",
+            "CAS": "84215-48-5",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "Copper arsonate",
+            "CAS": "10290-12-7",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "Strychnine dimethylarsinate",
+            "CAS": "10476-87-6",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "Disodium [4-[(4,6-diamino-1,3,5-triazin-2-yl)amino]phenyl]arsonate",
+            "CAS": "3599-28-8",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "Difetarsone",
+            "CAS": "3639-19-8",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "2-[[7-[(2-arsonophenyl)azo]-1,8-dihydroxy-3,6-disulpho-2-naphthyl]azo]benzoic acid",
+            "CAS": "3772-44-9",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "p-tolylarsonic acid",
+            "CAS": "3969-54-8",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "Ethylenebis(diphenylarsine)",
+            "CAS": "4431-24-7",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "10-[(dimethylthiocarbamoyl)thio]-5,10-dihydrophenarsazine",
+            "CAS": "4808-24-6",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "4-(2-chloroacetamido)phenylarsonic acid",
+            "CAS": "5425-62-7",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "4-chlorophenylarsonic acid",
+            "CAS": "5440-04-0",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "Calcium bis(dimethylarsinate)",
+            "CAS": "5785-43-3",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "[4-[(4,6-diamino-1,3,5-triazin-2-yl)amino]phenyl]arsonic acid",
+            "CAS": "5806-89-3",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "Sodium hydrogen (3-acetamido-4-hydroxyphenyl)arsonate",
+            "CAS": "5892-48-8",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "Calcium bis(methylarsonate)",
+            "CAS": "5902-95-4",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "Iron tris(dimethylarsinate)",
+            "CAS": "5968-84-3",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "Diiodo(phenyl)arsine",
+            "CAS": "6380-34-3",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "Sodium p-arsonobenzenesulphonate",
+            "CAS": "6634-88-4",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "4-(4-aminophenylazo)phenylarsonic acid",
+            "CAS": "6966-64-9",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "Sodium 4-(glycolloylamino)phenylarsonate",
+            "CAS": "7681-83-6",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "o-phenylenebis(dimethylarsine)",
+            "CAS": "13246-32-7",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "Melarsonyl potassium",
+            "CAS": "13355-00-5",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "Thiobis[methylarsine], anhydrosulphide",
+            "CAS": "13367-92-5",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "(diphenylarsino)dimethylgallium",
+            "CAS": "94113-53-8",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "(4-aminophenyl)arsonic acid, compound with piperazine (1:1)",
+            "CAS": "94232-26-5",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "Arsenous acid, lead(2+) salt (1:1)",
+            "CAS": "100822-74-0",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "Copper acetoarsenite",
+            "CAS": "12002-03-8",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "Arsenenous acid, mercury(2+) salt",
+            "CAS": "82980-40-3",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "Arsenenous acid, antimony(3+) salt",
+            "CAS": "83877-96-7",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "Arsenenous acid, cadmium salt",
+            "CAS": "84953-43-5",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "Arsenenous acid, cobalt(2+) salt",
+            "CAS": "85561-28-0",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "Arsenenous acid, manganese(2+) salt",
+            "CAS": "85561-29-1",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "Arsenenous acid, rubidium salt",
+            "CAS": "85906-44-1",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "Arsenic acid (H3AsO4), calcium salt (7:10)",
+            "CAS": "85949-61-7",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "Arsenenous acid, praseodymium(3+) salt",
+            "CAS": "86859-92-9",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "Arsenenous acid, cerium(3+) salt",
+            "CAS": "86859-93-0",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "Arsenic acid (H3AsO4), copper(2+) salt (1:1), sesquihydrate",
+            "CAS": "88442-64-2",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "Arsenic acid (H3AsO4), copper(2+) salt (4:5)",
+            "CAS": "89054-01-3",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "Arsenic acid (H3AsO4), calcium salt (4:5)",
+            "CAS": "89067-81-2",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "Arsenous acid, titanium salt",
+            "CAS": "92278-94-9",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "Arsonic acid, tin salt",
+            "CAS": "93080-00-3",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "Arsenenous acid, ammonium copper salt",
+            "CAS": "94854-78-1",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "Arsenenous acid, ammonium zinc salt",
+            "CAS": "94854-80-5",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "Arsenic acid (H3AsO4), monopotassium salt, 1/5hydrate",
+            "CAS": "164170-84-7",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "Tripotassium arsenate 3/2hydrate",
+            "CAS": "62702-52-7",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "4-Aminophenylarsenoxide",
+            "CAS": "1122-90-3",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "Magnesium arsenate, decahydrate",
+            "CAS": "117746-50-6",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "Manganese arsenide (Mn2As)",
+            "CAS": "12005-96-8",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "Tin arsenide (SnAs)",
+            "CAS": "12044-32-5",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "Cobalt arsenide (CoAs2)",
+            "CAS": "12044-42-7",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "Platinum arsenide (PtAs2)",
+            "CAS": "12044-52-9",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "Cobalt arsenide (CoAs3)",
+            "CAS": "12256-04-1",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "Arsenic sulfide (As2S4)",
+            "CAS": "12344-68-2",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "Arsenopyrite, cobaltoan",
+            "CAS": "12414-94-7",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "Arsenous acid, antimony(3+) salt (1:1)",
+            "CAS": "12523-20-5",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "Arsenic oxide",
+            "CAS": "12777-38-7",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "Arsenic acid (H3AsO4), ammonium salt (2:1)",
+            "CAS": "127795-79-3",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "Nickel arsenide",
+            "CAS": "12795-30-1",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "Rammelsbergite (NiAs2)",
+            "CAS": "1303-22-6",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "Zinc arsenenate oxide (Zn5(AsO3)4O3), tetrahydrate",
+            "CAS": "1303-39-5",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "Diarsenic acid",
+            "CAS": "13453-15-1",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "Arsenic acid (H3AsO4), copper(2+) salt (1:1)",
+            "CAS": "13464-31-8",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "Arsenic acid, calcium salt (1:2)",
+            "CAS": "13464-39-6",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "Arsonic acid, disodium salt",
+            "CAS": "13466-06-3",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "Boron arsenate",
+            "CAS": "13510-31-1",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "Zinc arsenate, octahydrate",
+            "CAS": "13510-72-0",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "Arsenic chloride (AsCl)",
+            "CAS": "17522-78-0",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "Arsenous acid, gallium salt (1:1)",
+            "CAS": "24343-41-7",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "Manganese arsenate",
+            "CAS": "27526-45-0",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "Arsenic acid (H3AsO4), cobalt(2+) salt",
+            "CAS": "29871-10-1",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "arsenic acid (H3AsO4), calcium salt(2:3), dihydrate",
+            "CAS": "30621-31-9",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "Arsenous acid, tricopper(1+) salt",
+            "CAS": "33382-64-8",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "Arsonic acid, methyl-, iron salt (9CI)",
+            "CAS": "33972-75-7",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "Arsenenous acid, nickel(2+) salt",
+            "CAS": "33992-49-3",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "Arsenic chloride",
+            "CAS": "37226-49-6",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "Iron arsenide",
+            "CAS": "39310-41-3",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "Arsenic chloride (AsCl2)",
+            "CAS": "41996-37-6",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "(2-Chloroethenyl)arsonous dichloride",
+            "CAS": "541-25-3",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "Arsenous acid, iron(3+) salt (1:1)",
+            "CAS": "60168-33-4",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "Sodium oxidoarsonous acid",
+            "CAS": "60189-99-3",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "(4-((2-Amino-2-oxoethyl)amino)phenyl)arsonic acid",
+            "CAS": "618-25-7",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "Ferric arsenite, basic",
+            "CAS": "63989-69-5",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "Tin arsenide (Sn4As3)",
+            "CAS": "12397-66-9",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "Calcium arsenate (CaHAsO4) (6CI,7CI)",
+            "CAS": "15195-00-3",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "Aluminium gallium arsenide",
+            "CAS": "37382-15-3",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "Silicic acid (H4SiO4), magnesium manganese(2+) zinc salt, arsenic and lead-doped",
+            "CAS": "68784-76-9",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "Silicic acid (H4SiO4), tetraethyl ester, polymer with arsenic oxide (As2O3)",
+            "CAS": "68957-75-5",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "Arsenenous acid, silver(1+) salt",
+            "CAS": "69507-43-3",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "Benzenesulfonic acid, 4-arsenoso-",
+            "CAS": "71130-51-3",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "Arsenenous acid, lithium salt",
+            "CAS": "72845-34-2",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "Arsenenous acid, neodymium(3+) salt",
+            "CAS": "76871-63-1",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "Arsenenous acid, lutetium(3+) salt",
+            "CAS": "76871-65-3",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "Arsenenous acid, cadmium neodymium(3+) salt (5:1:1)",
+            "CAS": "76871-66-4",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "Arsenic acid (H3AsO4), copper(2+) salt (2:3)",
+            "CAS": "76407-89-1",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "Arsenenous acid, cesium salt",
+            "CAS": "82005-78-5",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "Sodium hydrogen allylarsonate",
+            "CAS": "94278-22-5",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "Disodium p-tolylarsonate",
+            "CAS": "94313-58-3",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "Leucomycin V, 9-O-[5-(dimethylamino)tetrahydro-6-methyl-2H-pyran-2-yl]-, [9(5S,6R)]-, [1,2-ethanediylbis(imino-4,1-phenylene)]bis[arsonate] (1:1) (salt)",
+            "CAS": "93841-79-3",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "Arsine, dichloromethyl-",
+            "CAS": "593-89-5",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "Disodium hydrogen 2-[[7-[(2-arsonophenyl)azo]-1,8-dihydroxy-3,6-disulphonato-2-naphthyl]azo]benzoate",
+            "CAS": "14674-83-0",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "2,2'-[ethylenebis(oxy)]bis[1,3,2-dioxarsolane]",
+            "CAS": "14849-23-1",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "Chlorotris(triphenylarsine)rhodium",
+            "CAS": "14973-92-3",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "Proustite (Ag3(AsS3))",
+            "CAS": "15122-58-4",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "Trisodium 4-[(o-arsonophenyl)azo]-3-oxidonaphthalene-2,7-disulphonate",
+            "CAS": "53669-45-7",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "Acetarsol sodium",
+            "CAS": "55588-51-7",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "3-formamido-4-hydroxyphenylarsonic acid",
+            "CAS": "60154-16-7",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "Tetraphenylarsonium (hydrogen dichloride)",
+            "CAS": "21006-73-5",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "Methylenebis(diphenylarsine)",
+            "CAS": "21892-63-7",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "Diphenylarsinecarbonitrile",
+            "CAS": "23525-22-6",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "Bis[(2-diphenylarsinoethyl)phenyl]phosphine",
+            "CAS": "23582-05-0",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "[2-(diphenylarsino)ethyl]diphenylphosphine",
+            "CAS": "23582-06-1",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "Bromo(hydroxytetraphenylarsoranato)magnesium",
+            "CAS": "63468-73-5",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "Tetraphenylarsonium chloride, compound with hydrochloric acid (1:1)",
+            "CAS": "73003-83-5",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "Strychnidin-10-one, compd. with methylarsonate (1:1)",
+            "CAS": "80879-64-7",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "Methyl 17\u03b1-hydroxyyohimban-16\u03b1-carboxylate, methylarsonate (1:1)",
+            "CAS": "80925-03-7",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "Methyloxoarsine",
+            "CAS": "593-58-8",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "Trimethylarsine",
+            "CAS": "593-88-4",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "Dichloro(ethyl)arsine",
+            "CAS": "598-14-1",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "Triethylarsine",
+            "CAS": "617-75-4",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "4-acetamidophenylarsonic acid",
+            "CAS": "618-22-4",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "4-(4-dimethylaminophenylazo)phenylarsonic acid",
+            "CAS": "622-68-4",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "Iododimethylarsine",
+            "CAS": "676-75-5",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "Dichloro(phenyl)arsine",
+            "CAS": "696-28-6",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "Chlorodiphenylarsine",
+            "CAS": "712-48-1",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "Diphenylarsine",
+            "CAS": "829-83-4",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "Methyl 1,2,5,6-tetrahydro-1-methylnicotinate, mono[(3-acetamido-4-hydroxyphenyl)arsonate]",
+            "CAS": "900-77-6",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "Methyldiphenylarsine",
+            "CAS": "945-48-2",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "Triphenylarsine oxide",
+            "CAS": "1153-05-5",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "Tetramethyldiarsine",
+            "CAS": "471-35-2",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "Melarsoprol",
+            "CAS": "494-79-1",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "Tetraphenylarsonium bromide",
+            "CAS": "507-27-7",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "Tetraphenylarsonium chloride",
+            "CAS": "507-28-8",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "Diphenoxarsin-10-yl oxide",
+            "CAS": "58-36-6",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "Acetarsol",
+            "CAS": "97-44-9",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "Propylarsonic acid",
+            "CAS": "107-34-6",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "Glycobiarsol",
+            "CAS": "116-49-4",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "Arsthinol",
+            "CAS": "119-96-0",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "Carbarsone",
+            "CAS": "121-59-5",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "Methylarsonic acid",
+            "CAS": "124-58-3",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "Disodium arsonoacetate",
+            "CAS": "126-82-9",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "4-[(2-arsonophenyl)azo]-3-hydroxynaphthalene-2,7-disulphonic acid",
+            "CAS": "132-33-2",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "Sodium hydrogen [4-[(hydroxyacetyl)amino]phenyl]arsonate",
+            "CAS": "140-45-4",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "Disodium methylarsonate",
+            "CAS": "144-21-8",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "4-(glycolloylamino)phenylarsonic acid",
+            "CAS": "144-87-6",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "Difetarsone disodium",
+            "CAS": "515-76-4",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "Trisodium 2-(-hydrogen arsonatophenylazo)-1,8-dihydroxynaphthalene-3,6-disulphonate",
+            "CAS": "520-10-5",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "Acetarsol-diethylamine (1:1)",
+            "CAS": "534-33-8",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "Tryparsamide",
+            "CAS": "554-72-3",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "10-chloro-5,10-dihydrophenarsazine",
+            "CAS": "578-94-9",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "Sodium hydrogen [4-(acetamido)phenyl]arsonate",
+            "CAS": "585-54-6",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "o-phenylenediarsonic acid",
+            "CAS": "1758-48-1",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "Sodium p-[[4-[3-(2-arsono-4-nitrophenyl)triazen-1-yl]phenyl]azo]benzenesulphonate",
+            "CAS": "1772-02-7",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "3-amino-4-hydroxyphenylarsonic acid",
+            "CAS": "2163-77-1",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "Sodium methylarsonate",
+            "CAS": "2163-80-6",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "10-chloro-10H-phenoxarsine",
+            "CAS": "2865-70-5",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "Tri-p-tolylarsine",
+            "CAS": "2896-10-8",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "Allylarsonic acid",
+            "CAS": "590-34-1",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "Organostannic compounds",
+            "CAS": "N/A",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "Di-\u03bc-oxo-di-n-butylstanniohydroxyborane / Dibutyltin hydrogen borate C8H19BO3Sn (DBB)",
+            "CAS": "75113-37-0",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "Cadmium",
+            "CAS": "7440-43-9",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "Cadmium isononanoate",
+            "CAS": "84696-56-0",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "Cadmium isooctadecanoate",
+            "CAS": "84878-36-4",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "Cadmium tert-decanoate",
+            "CAS": "84878-37-5",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "Cadmium bis(nonylphenolate)",
+            "CAS": "84878-48-8",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "Cadmium bis(octylphenolate)",
+            "CAS": "84878-51-3",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "Flue dust, lead-manufg., cadmium-rich",
+            "CAS": "85117-02-8",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "Waste solids, cadmium-electrolysis, thallium-rich",
+            "CAS": "85117-20-0",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "(S)-dichloro[2-[[(2,3-dihydroxypropoxy)hydroxyphosphinyl]oxy]triethylmethylammoniumato]cadmium",
+            "CAS": "64681-08-9",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "Bis(propane-1,2-diyldiamine-N,N')cadmium(2+) bis[bis(cyano-C)aurate(1-)]",
+            "CAS": "67906-19-8",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "Cadmium dilinoleate",
+            "CAS": "67939-62-2",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "Tetrapotassium [[[nitrilotris(methylene)]tris[phosphonato]](6-)-N,O,O'',O'''']cadmate(6-)",
+            "CAS": "67989-93-9",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "Cadmium bromide",
+            "CAS": "7789-42-6",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "Cadmium fluoride",
+            "CAS": "7790-79-6",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "Cadmium iodide",
+            "CAS": "7790-80-9",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "Cadmium iodate",
+            "CAS": "7790-81-0",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "Cadmium dinitrite",
+            "CAS": "7790-83-2",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "Cadmium wolframate",
+            "CAS": "7790-85-4",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "Cadmium zinc sulfide yellow",
+            "CAS": "8048-07-5",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "Cadmium chloride",
+            "CAS": "10108-64-2",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "Cadmium sulphate",
+            "CAS": "10124-36-4",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "Cadmium myristate",
+            "CAS": "10196-67-5",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        },
+        {
+            "chemical_name": "Cadmium nitrate",
+            "CAS": "10325-94-7",
+            "regulation": "eu_1907_2006_reach_restriction-list-export"
+        }
+    ]
+}

@@ -1,9 +1,14 @@
 {
-    "chemicals": [
-        {
-            "chemical_name": "Mercury",
-            "CAS": "7439-97-6",
-            "regulation": "minamata_2024"
-        }
-    ]
+  "chemicals": [
+    {
+      "chemical_name": "Mercury",
+      "CAS": "7439-97-6",
+      "regulation": "minamata_2024"
+    },
+    {
+      "chemical_name": "Mercury",
+      "CAS": "7439-97-6",
+      "regulation": "EU_2017/852"
+    }
+  ]
 }
