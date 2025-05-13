@@ -1,0 +1,44 @@
+{
+    "chemicals": [
+        {
+            "chemical_name": "mercury",
+            "CAS": "7439-97-6",
+            "regulation": "eu_2017_852"
+        },
+        {
+            "chemical_name": "Mercury (I) chloride",
+            "CAS": "10112-91-1",
+            "regulation": "eu_2017_852"
+        },
+        {
+            "chemical_name": "Mercury (II) oxide",
+            "CAS": "21908-53-2",
+            "regulation": "eu_2017_852"
+        },
+        {
+            "chemical_name": "Cinnabar ore",
+            "CAS": "N/A",
+            "regulation": "eu_2017_852"
+        },
+        {
+            "chemical_name": "Mercury sulfide",
+            "CAS": "1344-48-5",
+            "regulation": "eu_2017_852"
+        },
+        {
+            "chemical_name": "Mercury (II) sulphate",
+            "CAS": "7783-35-9",
+            "regulation": "eu_2017_852"
+        },
+        {
+            "chemical_name": "Mercury (II) nitrate",
+            "CAS": "10045-94-0",
+            "regulation": "eu_2017_852"
+        },
+        {
+            "chemical_name": "Mixtures of mercury with other substances, including alloys of mercury, with a mercury concentration of at least 95 % by weight",
+            "CAS": "N/A",
+            "regulation": "eu_2017_852"
+        }
+    ]
+}

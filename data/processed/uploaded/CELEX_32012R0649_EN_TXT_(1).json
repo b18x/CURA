@@ -1,0 +1,2044 @@
+{
+    "chemicals": [
+        {
+            "chemical_name": "1,1,1-Trichloroethane",
+            "CAS": "71-55-6",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "1,2-Dibromoethane (Ethylene dibromide)",
+            "CAS": "106-93-4",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "1,2-Dichloroethane (ethylene dichloride)",
+            "CAS": "107-06-2",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Cis- 1,3-dichloropropene ((1Z)-1,3-dichloroprop-1-ene)",
+            "CAS": "10061-01-5",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "1,3-dichloropropene",
+            "CAS": "542-75-6",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "2-aminobutane",
+            "CAS": "13952-84-6",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "2-Naphthylamine (naphthalen-2-amine)",
+            "CAS": "91-59-8",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "2-Naphthylamine hydrochloride",
+            "CAS": "553-00-4",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "2-Naphthylamine acetate",
+            "CAS": "612-52-2",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "2-Naphthyloxyacetic acid",
+            "CAS": "120-23-0",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "2,4,5-T",
+            "CAS": "93-76-5",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Sodium trichlorophenoxyacetate",
+            "CAS": "88-85-7",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Dimethylammonium trichlorophenoxyacetate",
+            "CAS": "2008-39-1",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Isooctyl 2,4,5-trichlorophenoxyacetate",
+            "CAS": "25168-26-7",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "4-Aminobiphenyl (biphenyl-4-amine)",
+            "CAS": "92-67-1",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "4-Aminobiphenyl hydrochloride",
+            "CAS": "2113-61-3",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "4-Nitrobiphenyl",
+            "CAS": "92-93-3",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Acephate",
+            "CAS": "30560-19-1",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Acifluorfen",
+            "CAS": "50594-66-6",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Alachlor",
+            "CAS": "15972-60-8",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Aldicarb",
+            "CAS": "116-06-3",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Ametryn",
+            "CAS": "834-12-8",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Amitraz",
+            "CAS": "33089-61-1",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Anthraquinone",
+            "CAS": "84-65-1",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Arsenic compounds",
+            "CAS": "N/A",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Asbestos Fibres",
+            "CAS": "1332-21-4",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Crocidolite",
+            "CAS": "12001-28-4",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Amosite",
+            "CAS": "12172-73-5",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Anthophyllite",
+            "CAS": "77536-67-5",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Actinolite",
+            "CAS": "77536-66-4",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Tremolite",
+            "CAS": "77536-68-6",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Chrysotile",
+            "CAS": "12001-29-5",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Chrysotile",
+            "CAS": "132207-32-0",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Atrazine",
+            "CAS": "1912-24-9",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Azinphos-ethyl",
+            "CAS": "2642-71-9",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Azinphos-methyl",
+            "CAS": "86-50-0",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Benfuracarb",
+            "CAS": "82560-54-1",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Bensultap",
+            "CAS": "17606-31-4",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Benzene",
+            "CAS": "71-43-2",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Benzidine",
+            "CAS": "92-87-5",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Benzidine sulfate",
+            "CAS": "36341-27-2",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Benzidine derivatives",
+            "CAS": "92-87-5",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Benzidine derivatives",
+            "CAS": "36341-27-2",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Bifenthrin",
+            "CAS": "82657-04-3",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Binapacryl",
+            "CAS": "485-31-4",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Butralin",
+            "CAS": "33629-47-9",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Cadmium",
+            "CAS": "7440-43-9",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Cadmium compounds",
+            "CAS": "7440-43-9",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Cadusafos",
+            "CAS": "95465-99-9",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Calciferol",
+            "CAS": "50-14-6",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Captafol",
+            "CAS": "2425-06-1",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Carbaryl",
+            "CAS": "63-25-2",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Carbofuran",
+            "CAS": "1563-66-2",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Carbon tetrachloride",
+            "CAS": "56-23-5",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Carbosulfan",
+            "CAS": "55285-14-8",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Cartap",
+            "CAS": "15263-53-3",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Chinomethionat",
+            "CAS": "2439-01-2",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Chlorate sodium",
+            "CAS": "7775-09-9",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Chlorate potassium",
+            "CAS": "10137-74-3",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Chlordimeform",
+            "CAS": "6164-98-3",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Chlorfenapyr",
+            "CAS": "122453-73-0",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Chlorfenvinphos",
+            "CAS": "470-90-6",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Chlormephos",
+            "CAS": "24934-91-6",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Chlorobenzilate",
+            "CAS": "510-15-6",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Chloroform",
+            "CAS": "67-66-3",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Chlorthal-dimethyl",
+            "CAS": "1861-32-1",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Chlozolinate",
+            "CAS": "84332-86-5",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Cholecalciferol",
+            "CAS": "67-97-0",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Coumafuryl",
+            "CAS": "117-52-2",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Creosote",
+            "CAS": "8001-58-9",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Creosote oil",
+            "CAS": "61789-28-4",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Wood creosote",
+            "CAS": "8021-39-4",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Coal tar",
+            "CAS": "65996-85-2",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Coal tar creosote",
+            "CAS": "8001-58-9",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Creosote oil, acenaphthene fraction",
+            "CAS": "90640-84-9",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Creosote oil, anthracene fraction",
+            "CAS": "90640-80-5",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Creosote oil, tar acids",
+            "CAS": "65996-91-0",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Distillates (coal tar), naphthalene oils",
+            "CAS": "84650-04-4",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Anthracene oil",
+            "CAS": "122384-78-5",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Crimidine",
+            "CAS": "535-89-7",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Cyanamide",
+            "CAS": "420-04-2",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Cyanazine",
+            "CAS": "21725-46-2",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Cyhalothrine",
+            "CAS": "68085-85-8",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "DBB (Di-\u03bc-oxo-di-n-butylstannio-hydroxyborane/dioxastannaboretan-4-ol)",
+            "CAS": "75113-37-0",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Diazinon",
+            "CAS": "333-41-5",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Dichlobenil",
+            "CAS": "1194-65-6",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Dicloran",
+            "CAS": "99-30-9",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Dichlorvos",
+            "CAS": "62-73-7",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Dicofol",
+            "CAS": "115-32-2",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Dicofol containing < 78 % p, p\u2032-Dicofol or 1 g/kg of DDT and DDT related compounds",
+            "CAS": "115-32-2",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Dimethenamid",
+            "CAS": "87674-68-8",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Diniconazole-M",
+            "CAS": "83657-18-5",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Dinitro-ortho-cresol (DNOC)",
+            "CAS": "534-52-1",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Ammonium dinitro-ortho-cresolate",
+            "CAS": "2980-64-5",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Potassium dinitro-ortho-cresolate",
+            "CAS": "5787-96-2",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Sodium dinitro-ortho-cresolate",
+            "CAS": "2312-76-7",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Dinobuton",
+            "CAS": "973-21-7",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Dinoseb",
+            "CAS": "88-85-7",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Dinoterb",
+            "CAS": "1420-07-1",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Diphenylamine",
+            "CAS": "122-39-4",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Benomyl at or above 7 %",
+            "CAS": "17804-35-2",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Carbofuran at or above 10 %",
+            "CAS": "1563-66-2",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Thiram at or above 15 %",
+            "CAS": "137-26-8",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Endosulfan",
+            "CAS": "115-29-7",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Ethalfluralin",
+            "CAS": "55283-68-6",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Ethion",
+            "CAS": "563-12-2",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Ethoxyquin",
+            "CAS": "91-53-2",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Ethylene oxide (Oxirane)",
+            "CAS": "75-21-8",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Fenarimol",
+            "CAS": "60168-88-9",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Fenitrothion",
+            "CAS": "122-14-5",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Fenpropathrin",
+            "CAS": "39515-41-8",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Fenthion",
+            "CAS": "55-38-9",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Fentin acetate",
+            "CAS": "900-95-8",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Fentin hydroxide",
+            "CAS": "76-87-9",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Fenvalerate",
+            "CAS": "51630-58-1",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Ferbam",
+            "CAS": "14484-64-1",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Fluoroacetamide",
+            "CAS": "640-19-7",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Flurenol",
+            "CAS": "467-69-6",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Flurprimidol",
+            "CAS": "56425-91-3",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Furathiocarb",
+            "CAS": "65907-30-4",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Guazatine",
+            "CAS": "108173-90-6",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Guazatine",
+            "CAS": "115044-19-4",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Hexachloroethane",
+            "CAS": "67-72-1",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Hexazinone",
+            "CAS": "51235-04-2",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Iminoctadine",
+            "CAS": "13516-27-3",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Indolylacetic acid (+ )",
+            "CAS": "87-51-4",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Isoxathion",
+            "CAS": "18854-01-8",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Malathion",
+            "CAS": "121-75-5",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Maleic hydrazide",
+            "CAS": "123-33-1",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Choline salt of maleic hydrazide containing more than 1 mg/kg of free hydrazine expressed on the basis of the acid equivalent",
+            "CAS": "61167-10-0",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Potassium salt of maleic hydrazide containing more than 1 mg/kg of free hydrazine expressed on the basis of the acid equivalent",
+            "CAS": "51542-52-0",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Sodium salt of maleic hydrazide containing more than 1 mg/kg of free hydrazine expressed on the basis of the acid equivalent",
+            "CAS": "28330-26-9",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Phenylmercury acetate",
+            "CAS": "62-38-4",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Methoxyethylmercury chloride",
+            "CAS": "26545-49-3",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Metam",
+            "CAS": "144-54-7",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Metam",
+            "CAS": "137-42-8",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Methamidophos (2 ) (+ )",
+            "CAS": "10265-92-6",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Methamidophos (Soluble liquid formulations of the substance that exceed 600 g active ingredient/l) (# )",
+            "CAS": "10265-92-6",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Methidathion",
+            "CAS": "950-37-8",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Methomyl",
+            "CAS": "16752-77-5",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Methyl bromide (+ )",
+            "CAS": "74-83-9",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Methyl-parathion (+ ) (# )",
+            "CAS": "298-00-0",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Metoxuron",
+            "CAS": "19937-59-8",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Monocrotophos (# )",
+            "CAS": "6923-22-4",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Monolinuron",
+            "CAS": "1746-81-2",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Monomethyl-dibromo-diphenyl methane (DBBT)",
+            "CAS": "99688-47-8",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Monomethyl-Dichloro-Diphenyl methane (Ugilec 121)",
+            "CAS": "81161-70-8",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Monomethyl-Dichloro-Diphenyl methane (Ugilec 21)",
+            "CAS": "81161-70-8",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Monomethyl-Tetrachlorodiphenyl methane (Ugilec 141)",
+            "CAS": "76253-60-6",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Monuron",
+            "CAS": "150-68-5",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Nicotine",
+            "CAS": "54-11-5",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Nitrofen",
+            "CAS": "1836-75-5",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Nonylphenols C 6H 4(OH)C 9H 19 (phenol, nonyl-)",
+            "CAS": "25154-52-3",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Nonylphenols C 6H 4(OH)C 9H 19 (phenol, 4-nonyl-, branched)",
+            "CAS": "84852-15-3",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Nonylphenols C 6H 4(OH)C 9H 19 (isononylphenol)",
+            "CAS": "11066-49-2",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Nonylphenols C 6H 4(OH)C 9H 19 (phenol, nonyl-, branched)",
+            "CAS": "90481-04-2",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Nonylphenols C 6H 4(OH)C 9H 19 (p-nonylphenol)",
+            "CAS": "104-40-5",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Nonylphenol ethoxylates (C 2H 4O) nC 15H 24O",
+            "CAS": "9016-45-9",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Nonylphenol ethoxylates (C 2H 4O) nC 15H 24O",
+            "CAS": "26027-38-3",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Nonylphenol ethoxylates (C 2H 4O) nC 15H 24O",
+            "CAS": "68412-54-4",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Nonylphenol ethoxylates (C 2H 4O) nC 15H 24O",
+            "CAS": "37205-87-1",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Nonylphenol ethoxylates (C 2H 4O) nC 15H 24O",
+            "CAS": "127087-87-0",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Octabromodiphenyl ether",
+            "CAS": "32536-52-0",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Omethoate",
+            "CAS": "1113-02-6",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Oxydemeton-methyl",
+            "CAS": "301-12-2",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Paraquat",
+            "CAS": "4685-14-7",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Paraquat",
+            "CAS": "1910-42-5",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Paraquat",
+            "CAS": "2074-50-2",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Parathion",
+            "CAS": "56-38-2",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Pebulate",
+            "CAS": "1114-71-2",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Pentachlorophenol",
+            "CAS": "87-86-5",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Sodium pentachlorophenolate",
+            "CAS": "131-52-2",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Pentachlorophenyl laurate",
+            "CAS": "3772-94-9",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Pentachlorophenyl acetate",
+            "CAS": "131-53-3",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Perfluorooctane sulfonates (PFOS)",
+            "CAS": "1763-23-1",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Perfluorooctane sulfonates (PFOS)",
+            "CAS": "2795-39-3",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Permethrin",
+            "CAS": "52645-53-1",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Phosalone",
+            "CAS": "2310-17-0",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Phosphamidon (soluble liquid formulations of the substance that exceed 1 000 g active ingredient/l)",
+            "CAS": "13171-21-6",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Phosphamidon (soluble liquid formulations of the substance that exceed 1 000 g active ingredient/l)",
+            "CAS": "23783-98-4",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Phosphamidon (soluble liquid formulations of the substance that exceed 1 000 g active ingredient/l)",
+            "CAS": "297-99-4",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Polybrominated biphenyls (PBB) except hexabromo-biphenyl",
+            "CAS": "13654-09-6",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Polybrominated biphenyls (PBB) except hexabromo-biphenyl",
+            "CAS": "27858-07-7",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Polychlorinated terphenyls (PCT)",
+            "CAS": "61788-33-8",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Procymidone",
+            "CAS": "32809-16-8",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Propachlor",
+            "CAS": "1918-16-7",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Propanil",
+            "CAS": "709-98-8",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Propham",
+            "CAS": "122-42-9",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Propisochlor",
+            "CAS": "86763-47-5",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Pyrazophos",
+            "CAS": "13457-18-6",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Quintozene",
+            "CAS": "82-68-8",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Scilliroside",
+            "CAS": "507-60-8",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Simazine",
+            "CAS": "122-34-9",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Strychnine",
+            "CAS": "57-24-9",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Tecnazene",
+            "CAS": "117-18-0",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Terbufos",
+            "CAS": "13071-79-9",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Tetraethyl lead",
+            "CAS": "78-00-2",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Tetramethyl lead",
+            "CAS": "75-74-1",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Thallium sulphate",
+            "CAS": "7446-18-6",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Thiobencarb",
+            "CAS": "28249-77-6",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Thiocyclam",
+            "CAS": "31895-22-4",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Thiodicarb",
+            "CAS": "59669-26-0",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Tolylfluanid",
+            "CAS": "731-27-1",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Triazophos",
+            "CAS": "24017-47-8",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Tributyltin oxide",
+            "CAS": "56-35-9",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Tributyltin fluoride",
+            "CAS": "1983-10-4",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Tributyltin methacrylate",
+            "CAS": "2155-70-6",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Tributyltin benzoate",
+            "CAS": "4342-36-3",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Tributyltin chloride",
+            "CAS": "1461-22-9",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Tributyltin linoleate",
+            "CAS": "24124-25-2",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Tributyltin naphthenate",
+            "CAS": "85409-17-2",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Trichlorfon",
+            "CAS": "52-68-6",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Tricyclazole",
+            "CAS": "41814-78-2",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Tridemorph",
+            "CAS": "24602-86-6",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Trifluralin",
+            "CAS": "1582-09-8",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Triphenyltin compounds",
+            "CAS": "668-34-8",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Tricyclohexyltin compounds",
+            "CAS": "6056-50-4",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Trimethyltin compounds",
+            "CAS": "1066-45-1",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Trioctyltin compounds",
+            "CAS": "2587-76-0",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Tris (2,3-Dibromopropyl) phosphate",
+            "CAS": "126-72-7",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Tris-aziridinyl-phosphinoxide (1,1\u2032,1\u2032-phosphoryltriaziridine)",
+            "CAS": "545-55-1",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Vamidothion",
+            "CAS": "2275-23-2",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Vinclozolin",
+            "CAS": "50471-44-8",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Zineb",
+            "CAS": "12122-67-7",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "1,3-dichloropropene",
+            "CAS": "542-75-6",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "2-Naphthylamine (naphthalen-2-amine)",
+            "CAS": "91-59-8",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "2-Naphthylamine hydrochloride",
+            "CAS": "553-00-4",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "2-Naphthylamine hydrobromide",
+            "CAS": "612-52-2",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "4-Aminobiphenyl (biphenyl-4-amine)",
+            "CAS": "92-67-1",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "4-Aminobiphenyl hydrochloride",
+            "CAS": "2113-61-3",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "4-Nitrobiphenyl",
+            "CAS": "92-92-3",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Acephate",
+            "CAS": "30560-19-1",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Alachlor",
+            "CAS": "15972-60-8",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Aldicarb",
+            "CAS": "116-06-3",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Amitraz",
+            "CAS": "33089-61-1",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Anthraquinone",
+            "CAS": "84-65-1",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Asbestos fibres: Chrysotile",
+            "CAS": "12001-29-5",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Asbestos fibres: Chrysotile",
+            "CAS": "132207-32-0",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Atrazine",
+            "CAS": "1912-24-9",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Azinphos-methyl",
+            "CAS": "86-50-0",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Benfuracarb",
+            "CAS": "82560-54-1",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Benzidine",
+            "CAS": "92-87-5",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Benzidine dihydrochloride",
+            "CAS": "36341-27-2",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Benzidine derivatives",
+            "CAS": "NA",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Butralin",
+            "CAS": "33629-47-9",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Cadusafos",
+            "CAS": "95465-99-9",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Carbaryl",
+            "CAS": "63-25-2",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Carbofuran",
+            "CAS": "1563-66-2",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Carbosulfan",
+            "CAS": "55285-14-8",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Chlorate",
+            "CAS": "7775-09-9",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Chlorate",
+            "CAS": "10137-74-3",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Chlorfenapyr",
+            "CAS": "122453-73-0",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Chlorthal-dimethyl",
+            "CAS": "1861-32-1",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Chlozolinate",
+            "CAS": "84332-86-5",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Cyanamide",
+            "CAS": "420-04-2",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Diazinon",
+            "CAS": "333-41-5",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Dichlobenil",
+            "CAS": "1194-65-6",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Dicloran",
+            "CAS": "99-30-9",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Dichlorvos",
+            "CAS": "62-73-7",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Dicofol",
+            "CAS": "115-32-2",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Dicofol containing < 78 % p, p\u2032-Dicofol",
+            "CAS": "115-32-3",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Dicofol containing \u2265 1 g/kg of DDT and DDT related compounds",
+            "CAS": "115-32-3",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Dimethenamid",
+            "CAS": "87674-68-8",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Diniconazole-M",
+            "CAS": "83657-18-5",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Dinoterb",
+            "CAS": "1420-07-1",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Endosulfan",
+            "CAS": "115-29-7",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Ethalfluralin",
+            "CAS": "55283-68-6",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Ethoxyquin",
+            "CAS": "91-53-2",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Fenarimol",
+            "CAS": "60168-88-9",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Fenitrothion",
+            "CAS": "122-14-5",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Fenthion",
+            "CAS": "55-38-9",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Fentin acetate",
+            "CAS": "900-95-8",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Fentin hydroxide",
+            "CAS": "76-87-9",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Flurprimidol",
+            "CAS": "56425-91-3",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Guazatine",
+            "CAS": "108173-90-6",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Guazatine",
+            "CAS": "115044-19-4",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Indolylacetic acid",
+            "CAS": "87-51-4",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Methamidophos",
+            "CAS": "10265-92-6",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Methyl bromide",
+            "CAS": "74-83-9",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Methyl parathion",
+            "CAS": "298-00-0",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Monomethyl-dibromo-diphenyl methane (DBBT)",
+            "CAS": "99688-47-8",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Monomethyl-Dichloro-Diphenyl methane (Ugilec 121)",
+            "CAS": "81161-70-8",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Monomethyl-Dichloro-Diphenyl methane (Ugilec 21)",
+            "CAS": "81161-71-9",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Monomethyl-Tetrachlorodiphenyl methane (Ugilec 141)",
+            "CAS": "76253-60-6",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Nicotine",
+            "CAS": "54-11-5",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Nitrofen",
+            "CAS": "1836-75-5",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Nonylphenols C 6H 4(OH)C 9H 19",
+            "CAS": "25154-52-3",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Nonylphenols C 6H 4(OH)C 9H 19",
+            "CAS": "84852-15-3",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Nonylphenols C 6H 4(OH)C 9H 19",
+            "CAS": "11066-49-2",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Nonylphenols C 6H 4(OH)C 9H 19",
+            "CAS": "90481-04-2",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Nonylphenols C 6H 4(OH)C 9H 19",
+            "CAS": "104-40-5",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Nonylphenol ethoxylates (C 2H 4O) nC 15H 24O",
+            "CAS": "9016-45-9",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Nonylphenol ethoxylates (C 2H 4O) nC 15H 24O",
+            "CAS": "26027-38-3",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Nonylphenol ethoxylates (C 2H 4O) nC 15H 24O",
+            "CAS": "68412-54-4",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Nonylphenol ethoxylates (C 2H 4O) nC 15H 24O",
+            "CAS": "37205-87-1",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Nonylphenol ethoxylates (C 2H 4O) nC 15H 24O",
+            "CAS": "127087-87-0",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Octabromodiphenyl ether",
+            "CAS": "32536-52-0",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Oxydemeton-methyl",
+            "CAS": "301-12-2",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Paraquat dichloride",
+            "CAS": "1910-42-5",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Paraquat dimethyl sulfate",
+            "CAS": "2074-50-2",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Paraquat methosulfate",
+            "CAS": "4685-14-7",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Perfluorooctane sulfonic acid",
+            "CAS": "1763-23-1",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Potassium perfluorooctane sulfonate",
+            "CAS": "2795-39-3",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Phosalone",
+            "CAS": "2310-17-0",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Procymidone",
+            "CAS": "32809-16-8",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Propachlor",
+            "CAS": "1918-16-7",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Propisochlor",
+            "CAS": "86763-47-5",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Pyrazophos",
+            "CAS": "13457-18-6",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Quintozene",
+            "CAS": "82-68-8",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Simazine",
+            "CAS": "122-34-9",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Tecnazene",
+            "CAS": "117-18-0",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Thiobencarb",
+            "CAS": "28249-77-6",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Thiodicarb",
+            "CAS": "59669-26-0",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Tolylfluanid",
+            "CAS": "731-27-1",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Trichlorfon",
+            "CAS": "52-68-6",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Tricyclazole",
+            "CAS": "41814-78-2",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Trifluralin",
+            "CAS": "1582-09-8",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Triethyltin compounds",
+            "CAS": "997-50-2",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Tricyclohexyltin compounds",
+            "CAS": "3091-32-5",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Triphenyltin compounds",
+            "CAS": "668-34-8",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Vinclozolin",
+            "CAS": "50471-44-8",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "2,4,5-T",
+            "CAS": "93-76-5",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Sodium trichlorophenoxyacetate",
+            "CAS": "136-32-3",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Dimethylammonium trichlorophenoxyacetate",
+            "CAS": "2008-39-1",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Isooctyl 2,4,5-trichlorophenoxyacetate",
+            "CAS": "25168-26-7",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Aldrin",
+            "CAS": "309-00-2",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Binapacryl",
+            "CAS": "485-31-4",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Captafol",
+            "CAS": "2425-06-1",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Chlordane",
+            "CAS": "57-74-9",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Chlordimeform",
+            "CAS": "6164-98-3",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Chlorobenzilate",
+            "CAS": "510-15-6",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "DDT",
+            "CAS": "50-29-3",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Dieldrin",
+            "CAS": "60-57-1",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Dinitro-ortho-cresol (DNOC)",
+            "CAS": "534-52-1",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Ammonium dinitro-o-cresolate",
+            "CAS": "2980-64-5",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Potassium dinitro-o-cresolate",
+            "CAS": "5787-96-2",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Sodium dinitro-o-cresolate",
+            "CAS": "2312-76-7",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Dinoseb",
+            "CAS": "88-85-7",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "1,2-dibromoethane (EDB)",
+            "CAS": "106-93-4",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Ethylene dichloride (1,2-dichloroethane)",
+            "CAS": "107-06-2",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Ethylene oxide",
+            "CAS": "75-21-8",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Fluoroacetamide",
+            "CAS": "640-19-7",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "HCH (mixed isomers)",
+            "CAS": "608-73-1",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Heptachlor",
+            "CAS": "76-44-8",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Hexachlorobenzene",
+            "CAS": "118-74-1",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Lindane",
+            "CAS": "58-89-9",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Mercury chloride",
+            "CAS": "10112-91-1",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Phenylmercury acetate",
+            "CAS": "21908-53-2",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Monocrotophos",
+            "CAS": "6923-22-4",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Parathion",
+            "CAS": "56-38-2",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Pentachlorophenol",
+            "CAS": "87-86-5",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Sodium pentachlorophenate",
+            "CAS": "131-52-2",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Pentachlorophenyl laurate",
+            "CAS": "3772-94-9",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Toxaphene",
+            "CAS": "8001-35-2",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Benomyl (dustable powder formulations containing Benomyl at or above 7 %)",
+            "CAS": "17804-35-2",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Carbofuran (dustable powder formulations containing Carbofuran at or above 10 %)",
+            "CAS": "1563-66-2",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Thiram (dustable powder formulations containing Thiram at or above 15 %)",
+            "CAS": "137-26-8",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Methamidophos (soluble liquid formulations of the substance that exceed 600 g active ingredient/l)",
+            "CAS": "10265-92-6",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Methyl-parathion (emulsifiable concentrates (EC) at or above 19,5 % active ingredient and dusts at or above 1,5 % active ingredient)",
+            "CAS": "298-00-0",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Phosphamidon (Mixture (E) & (Z) isomers)",
+            "CAS": "13171-21-6",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Phosphamidon ((Z)-isomer)",
+            "CAS": "23783-98-4",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Phosphamidon ((E)-isomer)",
+            "CAS": "297-99-4",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Asbestos fibres",
+            "CAS": "1332-21-4",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Crocidolite",
+            "CAS": "12001-28-4",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Actinolite",
+            "CAS": "77536-66-4",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Anthophyllite",
+            "CAS": "77536-67-5",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Amosite",
+            "CAS": "12172-73-5",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Tremolite",
+            "CAS": "77536-68-6",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Polybrominated biphenyls (PBB) (hexa-)",
+            "CAS": "36355-01-8",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Polybrominated biphenyls (PBB) (octa-)",
+            "CAS": "27858-07-7",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Polybrominated biphenyls (PBB) (deca-)",
+            "CAS": "13654-09-6",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Polychlorinated biphenyls (PCB)",
+            "CAS": "1336-36-3",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Polychlorinated terphenyls (PCT)",
+            "CAS": "61788-33-8",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Tetraethyl lead",
+            "CAS": "78-00-2",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Tetramethyl lead",
+            "CAS": "75-74-1",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Tributyltin oxide",
+            "CAS": "56-35-9",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Tributyltin fluoride",
+            "CAS": "1983-10-4",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Tributyltin methacrylate",
+            "CAS": "2155-70-6",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Tributyltin benzoate",
+            "CAS": "4342-36-3",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Tributyltin chloride",
+            "CAS": "1461-22-9",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Tributyltin linoleate",
+            "CAS": "24124-25-2",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Tributyltin naphthenate",
+            "CAS": "85409-17-2",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Tris (2,3-dibromopropyl) phosphate",
+            "CAS": "126-72-7",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Aldrin",
+            "CAS": "309-00-2",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Chlordane",
+            "CAS": "57-74-9",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Chlordecone",
+            "CAS": "143-50-0",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Dieldrin",
+            "CAS": "60-57-1",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "DDT (1,1,1-trichloro-2,2-bis (p-chlorophenyl) ethane",
+            "CAS": "50-29-3",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Endrin",
+            "CAS": "72-20-8",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Heptabromodiphenyl ether",
+            "CAS": "68928-80-3",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Heptachlor",
+            "CAS": "76-44-8",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Hexabromobiphenyl",
+            "CAS": "36355-01-8",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Hexabromodiphenyl ether",
+            "CAS": "36483-60-0",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Hexachlorobenzene",
+            "CAS": "118-74-1",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Lindane (gamma-Hexachlorocyclohexane)",
+            "CAS": "58-89-9",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "alpha-Hexachlorocyclohexane",
+            "CAS": "319-84-6",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "beta-Hexachlorocyclohexane",
+            "CAS": "319-85-7",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "delta-Hexachlorocyclohexane",
+            "CAS": "608-73-1",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Mirex",
+            "CAS": "2385-85-5",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Pentabromodiphenyl ether",
+            "CAS": "32534-81-9",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Pentachlorobenzene",
+            "CAS": "608-93-5",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Polychlorinated biphenyls (PCBs)",
+            "CAS": "1336-36-3",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Tetrabromodiphenyl ether",
+            "CAS": "40088-47-9",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Toxaphene (camphechlor)",
+            "CAS": "8001-35-2",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Mercury (I) chloride",
+            "CAS": "10112-91-1",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Mercury (II) oxide",
+            "CAS": "21908-53-2",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Metallic mercury",
+            "CAS": "7439-97-6",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        },
+        {
+            "chemical_name": "Mixtures of metallic mercury with other substances",
+            "CAS": "7439-97-6",
+            "regulation": "CELEX_32012R0649_EN_TXT_(1)"
+        }
+    ]
+}

@@ -1,0 +1,6 @@
+pymupdf==1.25.3 
+openai
+pandas
+python-dotenv
+openpyxl
+neo4j==5.28.1

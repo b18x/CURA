@@ -1,0 +1,549 @@
+{
+    "chemicals": [
+        {
+            "chemical_name": "Trichlorofluoromethane",
+            "CAS": "75-69-4",
+            "regulation": "OJ_L_202400590_EN_TXT"
+        },
+        {
+            "chemical_name": "Dichlorodifluoromethane",
+            "CAS": "75-71-8",
+            "regulation": "OJ_L_202400590_EN_TXT"
+        },
+        {
+            "chemical_name": "Trichlorotrifluoroethane",
+            "CAS": "354-58-5",
+            "regulation": "OJ_L_202400590_EN_TXT"
+        },
+        {
+            "chemical_name": "Dichlorotetrafluoroethane",
+            "CAS": "76-14-2",
+            "regulation": "OJ_L_202400590_EN_TXT"
+        },
+        {
+            "chemical_name": "Chloropentafluoroethane",
+            "CAS": "76-15-3",
+            "regulation": "OJ_L_202400590_EN_TXT"
+        },
+        {
+            "chemical_name": "Chlorotrifluoromethane",
+            "CAS": "75-72-9",
+            "regulation": "OJ_L_202400590_EN_TXT"
+        },
+        {
+            "chemical_name": "Pentachlorofluoroethane",
+            "CAS": "76-01-7",
+            "regulation": "OJ_L_202400590_EN_TXT"
+        },
+        {
+            "chemical_name": "Tetrachlorodifluoroethane",
+            "CAS": "76-12-0",
+            "regulation": "OJ_L_202400590_EN_TXT"
+        },
+        {
+            "chemical_name": "Heptachlorofluoropropane",
+            "CAS": "N/A",
+            "regulation": "OJ_L_202400590_EN_TXT"
+        },
+        {
+            "chemical_name": "Hexachlorodifluoropropane",
+            "CAS": "N/A",
+            "regulation": "OJ_L_202400590_EN_TXT"
+        },
+        {
+            "chemical_name": "Pentachlorotrifluoropropane",
+            "CAS": "N/A",
+            "regulation": "OJ_L_202400590_EN_TXT"
+        },
+        {
+            "chemical_name": "Tetrachlorotetrafluoropropane",
+            "CAS": "N/A",
+            "regulation": "OJ_L_202400590_EN_TXT"
+        },
+        {
+            "chemical_name": "Trichloropentafluoropropane",
+            "CAS": "N/A",
+            "regulation": "OJ_L_202400590_EN_TXT"
+        },
+        {
+            "chemical_name": "Dichlorohexafluoropropane",
+            "CAS": "N/A",
+            "regulation": "OJ_L_202400590_EN_TXT"
+        },
+        {
+            "chemical_name": "Chloroheptafluoropropane",
+            "CAS": "N/A",
+            "regulation": "OJ_L_202400590_EN_TXT"
+        },
+        {
+            "chemical_name": "Bromochlorodifluoromethane",
+            "CAS": "353-59-3",
+            "regulation": "OJ_L_202400590_EN_TXT"
+        },
+        {
+            "chemical_name": "Bromotrifluoromethane",
+            "CAS": "75-63-8",
+            "regulation": "OJ_L_202400590_EN_TXT"
+        },
+        {
+            "chemical_name": "Dibromotetrafluoroethane",
+            "CAS": "124-73-2",
+            "regulation": "OJ_L_202400590_EN_TXT"
+        },
+        {
+            "chemical_name": "Dibromodifluoromethane",
+            "CAS": "75-61-6",
+            "regulation": "OJ_L_202400590_EN_TXT"
+        },
+        {
+            "chemical_name": "Tetrachloromethane (carbon tetrachloride)",
+            "CAS": "56-23-5",
+            "regulation": "OJ_L_202400590_EN_TXT"
+        },
+        {
+            "chemical_name": "1,1,1-Trichloroethane (methylchloroform)",
+            "CAS": "71-55-6",
+            "regulation": "OJ_L_202400590_EN_TXT"
+        },
+        {
+            "chemical_name": "Bromomethane",
+            "CAS": "74-83-9",
+            "regulation": "OJ_L_202400590_EN_TXT"
+        },
+        {
+            "chemical_name": "CHFBr2",
+            "CAS": "75-61-6",
+            "regulation": "OJ_L_202400590_EN_TXT"
+        },
+        {
+            "chemical_name": "Dibromofluoromethane",
+            "CAS": "1868-53-7",
+            "regulation": "OJ_L_202400590_EN_TXT"
+        },
+        {
+            "chemical_name": "CHF2Br",
+            "CAS": "75-82-1",
+            "regulation": "OJ_L_202400590_EN_TXT"
+        },
+        {
+            "chemical_name": "Bromodifluoromethane",
+            "CAS": "1511-62-2",
+            "regulation": "OJ_L_202400590_EN_TXT"
+        },
+        {
+            "chemical_name": "CH2FBr",
+            "CAS": "373-52-4",
+            "regulation": "OJ_L_202400590_EN_TXT"
+        },
+        {
+            "chemical_name": "Bromofluoromethane",
+            "CAS": "593-70-4",
+            "regulation": "OJ_L_202400590_EN_TXT"
+        },
+        {
+            "chemical_name": "C2HFBr4",
+            "CAS": "NA",
+            "regulation": "OJ_L_202400590_EN_TXT"
+        },
+        {
+            "chemical_name": "Tetrabromofluoroethane",
+            "CAS": "NA",
+            "regulation": "OJ_L_202400590_EN_TXT"
+        },
+        {
+            "chemical_name": "C2HF2Br3",
+            "CAS": "NA",
+            "regulation": "OJ_L_202400590_EN_TXT"
+        },
+        {
+            "chemical_name": "Tribromodifluoroethane",
+            "CAS": "NA",
+            "regulation": "OJ_L_202400590_EN_TXT"
+        },
+        {
+            "chemical_name": "C2HF3Br2",
+            "CAS": "NA",
+            "regulation": "OJ_L_202400590_EN_TXT"
+        },
+        {
+            "chemical_name": "Dibromotrifluoroethane",
+            "CAS": "NA",
+            "regulation": "OJ_L_202400590_EN_TXT"
+        },
+        {
+            "chemical_name": "C2HF4Br",
+            "CAS": "NA",
+            "regulation": "OJ_L_202400590_EN_TXT"
+        },
+        {
+            "chemical_name": "Bromotetrafluoroethane",
+            "CAS": "NA",
+            "regulation": "OJ_L_202400590_EN_TXT"
+        },
+        {
+            "chemical_name": "C2H2FBr3",
+            "CAS": "NA",
+            "regulation": "OJ_L_202400590_EN_TXT"
+        },
+        {
+            "chemical_name": "Tribromofluoroethane",
+            "CAS": "NA",
+            "regulation": "OJ_L_202400590_EN_TXT"
+        },
+        {
+            "chemical_name": "C2H2F2Br2",
+            "CAS": "NA",
+            "regulation": "OJ_L_202400590_EN_TXT"
+        },
+        {
+            "chemical_name": "Dibromodifluoroethane",
+            "CAS": "NA",
+            "regulation": "OJ_L_202400590_EN_TXT"
+        },
+        {
+            "chemical_name": "C2H2F3Br",
+            "CAS": "NA",
+            "regulation": "OJ_L_202400590_EN_TXT"
+        },
+        {
+            "chemical_name": "Bromotrifluoroethane",
+            "CAS": "NA",
+            "regulation": "OJ_L_202400590_EN_TXT"
+        },
+        {
+            "chemical_name": "C2H3FBr2",
+            "CAS": "NA",
+            "regulation": "OJ_L_202400590_EN_TXT"
+        },
+        {
+            "chemical_name": "Dibromofluoroethane",
+            "CAS": "NA",
+            "regulation": "OJ_L_202400590_EN_TXT"
+        },
+        {
+            "chemical_name": "C2H3F2Br",
+            "CAS": "NA",
+            "regulation": "OJ_L_202400590_EN_TXT"
+        },
+        {
+            "chemical_name": "Bromodifluoroethane",
+            "CAS": "NA",
+            "regulation": "OJ_L_202400590_EN_TXT"
+        },
+        {
+            "chemical_name": "C2H4FBr",
+            "CAS": "NA",
+            "regulation": "OJ_L_202400590_EN_TXT"
+        },
+        {
+            "chemical_name": "Bromofluoroethane",
+            "CAS": "762-49-2",
+            "regulation": "OJ_L_202400590_EN_TXT"
+        },
+        {
+            "chemical_name": "C3HFBr6",
+            "CAS": "NA",
+            "regulation": "OJ_L_202400590_EN_TXT"
+        },
+        {
+            "chemical_name": "Hexabromofluoropropane",
+            "CAS": "NA",
+            "regulation": "OJ_L_202400590_EN_TXT"
+        },
+        {
+            "chemical_name": "C3HF2Br5",
+            "CAS": "NA",
+            "regulation": "OJ_L_202400590_EN_TXT"
+        },
+        {
+            "chemical_name": "Pentabromodifluoropropane",
+            "CAS": "NA",
+            "regulation": "OJ_L_202400590_EN_TXT"
+        },
+        {
+            "chemical_name": "C3HF3Br4",
+            "CAS": "NA",
+            "regulation": "OJ_L_202400590_EN_TXT"
+        },
+        {
+            "chemical_name": "Tetrabromotrifluoropropane",
+            "CAS": "NA",
+            "regulation": "OJ_L_202400590_EN_TXT"
+        },
+        {
+            "chemical_name": "C3HF4Br3",
+            "CAS": "NA",
+            "regulation": "OJ_L_202400590_EN_TXT"
+        },
+        {
+            "chemical_name": "Tribromotetrafluoropropane",
+            "CAS": "NA",
+            "regulation": "OJ_L_202400590_EN_TXT"
+        },
+        {
+            "chemical_name": "C3HF5Br2",
+            "CAS": "NA",
+            "regulation": "OJ_L_202400590_EN_TXT"
+        },
+        {
+            "chemical_name": "Dibromopentafluoropropane",
+            "CAS": "NA",
+            "regulation": "OJ_L_202400590_EN_TXT"
+        },
+        {
+            "chemical_name": "C3HF6Br",
+            "CAS": "NA",
+            "regulation": "OJ_L_202400590_EN_TXT"
+        },
+        {
+            "chemical_name": "Bromohexafluoropropane",
+            "CAS": "NA",
+            "regulation": "OJ_L_202400590_EN_TXT"
+        },
+        {
+            "chemical_name": "C3H2FBr5",
+            "CAS": "NA",
+            "regulation": "OJ_L_202400590_EN_TXT"
+        },
+        {
+            "chemical_name": "Pentabromofluoropropane",
+            "CAS": "NA",
+            "regulation": "OJ_L_202400590_EN_TXT"
+        },
+        {
+            "chemical_name": "C3H2F2Br4",
+            "CAS": "NA",
+            "regulation": "OJ_L_202400590_EN_TXT"
+        },
+        {
+            "chemical_name": "Tetrabromodifluoropropane",
+            "CAS": "NA",
+            "regulation": "OJ_L_202400590_EN_TXT"
+        },
+        {
+            "chemical_name": "Tribromotrifluoropropane",
+            "CAS": "NA",
+            "regulation": "OJ_L_202400590_EN_TXT"
+        },
+        {
+            "chemical_name": "Dibromotetrafluoropropane",
+            "CAS": "NA",
+            "regulation": "OJ_L_202400590_EN_TXT"
+        },
+        {
+            "chemical_name": "Bromopentafluoropropane",
+            "CAS": "NA",
+            "regulation": "OJ_L_202400590_EN_TXT"
+        },
+        {
+            "chemical_name": "Tetrabromofluoropropane",
+            "CAS": "NA",
+            "regulation": "OJ_L_202400590_EN_TXT"
+        },
+        {
+            "chemical_name": "Tribromodifluoropropane",
+            "CAS": "NA",
+            "regulation": "OJ_L_202400590_EN_TXT"
+        },
+        {
+            "chemical_name": "Dibromotrifluoropropane",
+            "CAS": "NA",
+            "regulation": "OJ_L_202400590_EN_TXT"
+        },
+        {
+            "chemical_name": "Bromotetrafluoropropane",
+            "CAS": "NA",
+            "regulation": "OJ_L_202400590_EN_TXT"
+        },
+        {
+            "chemical_name": "Tribromofluoropropane",
+            "CAS": "NA",
+            "regulation": "OJ_L_202400590_EN_TXT"
+        },
+        {
+            "chemical_name": "Dibromodifluoropropane",
+            "CAS": "NA",
+            "regulation": "OJ_L_202400590_EN_TXT"
+        },
+        {
+            "chemical_name": "Bromotrifluoropropane",
+            "CAS": "NA",
+            "regulation": "OJ_L_202400590_EN_TXT"
+        },
+        {
+            "chemical_name": "Dibromofluoropropane",
+            "CAS": "NA",
+            "regulation": "OJ_L_202400590_EN_TXT"
+        },
+        {
+            "chemical_name": "Bromodifluoropropane",
+            "CAS": "NA",
+            "regulation": "OJ_L_202400590_EN_TXT"
+        },
+        {
+            "chemical_name": "Bromofluoropropane",
+            "CAS": "NA",
+            "regulation": "OJ_L_202400590_EN_TXT"
+        },
+        {
+            "chemical_name": "Dichlorofluoromethane",
+            "CAS": "75-43-4",
+            "regulation": "OJ_L_202400590_EN_TXT"
+        },
+        {
+            "chemical_name": "Chlorodifluoromethane",
+            "CAS": "75-45-6",
+            "regulation": "OJ_L_202400590_EN_TXT"
+        },
+        {
+            "chemical_name": "Chlorofluoromethane",
+            "CAS": "593-70-4",
+            "regulation": "OJ_L_202400590_EN_TXT"
+        },
+        {
+            "chemical_name": "Tetrachlorofluoroethane",
+            "CAS": "NA",
+            "regulation": "OJ_L_202400590_EN_TXT"
+        },
+        {
+            "chemical_name": "Trichlorodifluoroethane",
+            "CAS": "NA",
+            "regulation": "OJ_L_202400590_EN_TXT"
+        },
+        {
+            "chemical_name": "Dichlorotrifluoroethane",
+            "CAS": "NA",
+            "regulation": "OJ_L_202400590_EN_TXT"
+        },
+        {
+            "chemical_name": "Chlorotetrafluoroethane",
+            "CAS": "NA",
+            "regulation": "OJ_L_202400590_EN_TXT"
+        },
+        {
+            "chemical_name": "Trichlorofluoroethane",
+            "CAS": "NA",
+            "regulation": "OJ_L_202400590_EN_TXT"
+        },
+        {
+            "chemical_name": "Bromochloromethane",
+            "CAS": "74-97-5",
+            "regulation": "OJ_L_202400590_EN_TXT"
+        },
+        {
+            "chemical_name": "1-Bromopropane (n-propyl bromide)",
+            "CAS": "106-94-5",
+            "regulation": "OJ_L_202400590_EN_TXT"
+        },
+        {
+            "chemical_name": "Bromoethane (ethyl bromide)",
+            "CAS": "74-96-4",
+            "regulation": "OJ_L_202400590_EN_TXT"
+        },
+        {
+            "chemical_name": "Trifluoroiodomethane (trifluoromethyl iodide)",
+            "CAS": "2314-97-8",
+            "regulation": "OJ_L_202400590_EN_TXT"
+        },
+        {
+            "chemical_name": "Chloromethane (methyl chloride)",
+            "CAS": "74-87-3",
+            "regulation": "OJ_L_202400590_EN_TXT"
+        },
+        {
+            "chemical_name": "2-bromo-3,3,3-trifluoroprop-1-en (2-BTP)",
+            "CAS": "1514-82-5",
+            "regulation": "OJ_L_202400590_EN_TXT"
+        },
+        {
+            "chemical_name": "Dichloromethane (DCM)",
+            "CAS": "75-09-2",
+            "regulation": "OJ_L_202400590_EN_TXT"
+        },
+        {
+            "chemical_name": "Tetrachloroethene (Perchloroethylene (PCE))",
+            "CAS": "127-18-4",
+            "regulation": "OJ_L_202400590_EN_TXT"
+        },
+        {
+            "chemical_name": "carbon tetrachloride",
+            "CAS": "56-23-5",
+            "regulation": "OJ_L_202400590_EN_TXT"
+        },
+        {
+            "chemical_name": "nitrogen trichloride",
+            "CAS": "10025-85-1",
+            "regulation": "OJ_L_202400590_EN_TXT"
+        },
+        {
+            "chemical_name": "chlorine",
+            "CAS": "7782-50-5",
+            "regulation": "OJ_L_202400590_EN_TXT"
+        },
+        {
+            "chemical_name": "caustic soda",
+            "CAS": "1310-73-2",
+            "regulation": "OJ_L_202400590_EN_TXT"
+        },
+        {
+            "chemical_name": "chlorinated rubber",
+            "CAS": "9006-03-5",
+            "regulation": "OJ_L_202400590_EN_TXT"
+        },
+        {
+            "chemical_name": "poly-phenylene-terephthalamide",
+            "CAS": "26125-61-1",
+            "regulation": "OJ_L_202400590_EN_TXT"
+        },
+        {
+            "chemical_name": "CFC-12",
+            "CAS": "75-71-8",
+            "regulation": "OJ_L_202400590_EN_TXT"
+        },
+        {
+            "chemical_name": "perfluoropolyetherpolyperoxide precursors of Z-perfluoropolyethers and difunctional derivatives",
+            "CAS": "NA",
+            "regulation": "OJ_L_202400590_EN_TXT"
+        },
+        {
+            "chemical_name": "cyclodime",
+            "CAS": "NA",
+            "regulation": "OJ_L_202400590_EN_TXT"
+        },
+        {
+            "chemical_name": "CTC (reagent grade)",
+            "CAS": "56-23-5",
+            "regulation": "OJ_L_202400590_EN_TXT"
+        },
+        {
+            "chemical_name": "1,1,1-trichloroethane",
+            "CAS": "71-55-6",
+            "regulation": "OJ_L_202400590_EN_TXT"
+        },
+        {
+            "chemical_name": "CFC 11",
+            "CAS": "75-69-4",
+            "regulation": "OJ_L_202400590_EN_TXT"
+        },
+        {
+            "chemical_name": "CFC 13",
+            "CAS": "75-72-9",
+            "regulation": "OJ_L_202400590_EN_TXT"
+        },
+        {
+            "chemical_name": "CFC 12",
+            "CAS": "75-71-8",
+            "regulation": "OJ_L_202400590_EN_TXT"
+        },
+        {
+            "chemical_name": "CFC 113",
+            "CAS": "76-13-1",
+            "regulation": "OJ_L_202400590_EN_TXT"
+        },
+        {
+            "chemical_name": "CFC 114",
+            "CAS": "76-14-2",
+            "regulation": "OJ_L_202400590_EN_TXT"
+        }
+    ]
+}
