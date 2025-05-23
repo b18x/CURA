@@ -1,0 +1,189 @@
+{
+    "chemicals": [
+        {
+            "chemical_name": "CHFCl2 (HCFC-21)",
+            "CAS": "75-43-4",
+            "regulation": "montreal_2020"
+        },
+        {
+            "chemical_name": "CHF2Cl (HCFC-22)",
+            "CAS": "75-45-6",
+            "regulation": "montreal_2020"
+        },
+        {
+            "chemical_name": "CH2FCl (HCFC-31)",
+            "CAS": "593-70-4",
+            "regulation": "montreal_2020"
+        },
+        {
+            "chemical_name": "C2HFCl4",
+            "CAS": "N/A",
+            "regulation": "montreal_2020"
+        },
+        {
+            "chemical_name": "C2HF2Cl3",
+            "CAS": "N/A",
+            "regulation": "montreal_2020"
+        },
+        {
+            "chemical_name": "C2HF3Cl2",
+            "CAS": "N/A",
+            "regulation": "montreal_2020"
+        },
+        {
+            "chemical_name": "CHCl2CF3",
+            "CAS": "306-83-2",
+            "regulation": "montreal_2020"
+        },
+        {
+            "chemical_name": "C2HF4Cl",
+            "CAS": "N/A",
+            "regulation": "montreal_2020"
+        },
+        {
+            "chemical_name": "CHFClCF3",
+            "CAS": "2837-89-0",
+            "regulation": "montreal_2020"
+        },
+        {
+            "chemical_name": "C2H2FCl3",
+            "CAS": "N/A",
+            "regulation": "montreal_2020"
+        },
+        {
+            "chemical_name": "C2H2F2Cl2",
+            "CAS": "N/A",
+            "regulation": "montreal_2020"
+        },
+        {
+            "chemical_name": "C2H2F3Cl",
+            "CAS": "N/A",
+            "regulation": "montreal_2020"
+        },
+        {
+            "chemical_name": "C2H3FCl2",
+            "CAS": "N/A",
+            "regulation": "montreal_2020"
+        },
+        {
+            "chemical_name": "CH3CFCl2",
+            "CAS": "1717-00-6",
+            "regulation": "montreal_2020"
+        },
+        {
+            "chemical_name": "C2H3F2Cl",
+            "CAS": "N/A",
+            "regulation": "montreal_2020"
+        },
+        {
+            "chemical_name": "CH3CF2Cl",
+            "CAS": "75-68-3",
+            "regulation": "montreal_2020"
+        },
+        {
+            "chemical_name": "C2H4FCl",
+            "CAS": "N/A",
+            "regulation": "montreal_2020"
+        },
+        {
+            "chemical_name": "C3HFCl6",
+            "CAS": "N/A",
+            "regulation": "montreal_2020"
+        },
+        {
+            "chemical_name": "C3HF2Cl5",
+            "CAS": "N/A",
+            "regulation": "montreal_2020"
+        },
+        {
+            "chemical_name": "C3HF3Cl4",
+            "CAS": "N/A",
+            "regulation": "montreal_2020"
+        },
+        {
+            "chemical_name": "C3HF4Cl3",
+            "CAS": "N/A",
+            "regulation": "montreal_2020"
+        },
+        {
+            "chemical_name": "C3HF5Cl2",
+            "CAS": "N/A",
+            "regulation": "montreal_2020"
+        },
+        {
+            "chemical_name": "CF3CF2CHCl2",
+            "CAS": "422-56-0",
+            "regulation": "montreal_2020"
+        },
+        {
+            "chemical_name": "CF2ClCF2CHClF",
+            "CAS": "507-55-1",
+            "regulation": "montreal_2020"
+        },
+        {
+            "chemical_name": "C3HF6Cl",
+            "CAS": "N/A",
+            "regulation": "montreal_2020"
+        },
+        {
+            "chemical_name": "C3H2FCl5",
+            "CAS": "N/A",
+            "regulation": "montreal_2020"
+        },
+        {
+            "chemical_name": "C3H2F2Cl4",
+            "CAS": "N/A",
+            "regulation": "montreal_2020"
+        },
+        {
+            "chemical_name": "C3H2F3Cl3",
+            "CAS": "N/A",
+            "regulation": "montreal_2020"
+        },
+        {
+            "chemical_name": "C3H2F4Cl2",
+            "CAS": "N/A",
+            "regulation": "montreal_2020"
+        },
+        {
+            "chemical_name": "C3H2F5Cl",
+            "CAS": "N/A",
+            "regulation": "montreal_2020"
+        },
+        {
+            "chemical_name": "C3H3FCl4",
+            "CAS": "N/A",
+            "regulation": "montreal_2020"
+        },
+        {
+            "chemical_name": "C3H3F2Cl3",
+            "CAS": "N/A",
+            "regulation": "montreal_2020"
+        },
+        {
+            "chemical_name": "C3H3F3Cl2",
+            "CAS": "N/A",
+            "regulation": "montreal_2020"
+        },
+        {
+            "chemical_name": "C3H3F4Cl",
+            "CAS": "N/A",
+            "regulation": "montreal_2020"
+        },
+        {
+            "chemical_name": "C3H4FCl3",
+            "CAS": "N/A",
+            "regulation": "montreal_2020"
+        },
+        {
+            "chemical_name": "bromochloromethane",
+            "CAS": "74-97-5",
+            "regulation": "montreal_2020"
+        },
+        {
+            "chemical_name": "methyl bromide",
+            "CAS": "74-83-9",
+            "regulation": "montreal_2020"
+        }
+    ]
+}

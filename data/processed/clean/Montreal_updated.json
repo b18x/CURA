@@ -1,0 +1,580 @@
+{
+    "chemicals": [
+        {
+            "chemical_name": "CFC-11",
+            "CAS": "",
+            "regulation": "Montreal Protocol (updated)",
+            "alterantive_names": ""
+        },
+        {
+            "chemical_name": "CFC-12",
+            "CAS": "",
+            "regulation": "Montreal Protocol (updated)",
+            "alterantive_names": ""
+        },
+        {
+            "chemical_name": "CFC-113",
+            "CAS": "",
+            "regulation": "Montreal Protocol (updated)",
+            "alterantive_names": ""
+        },
+        {
+            "chemical_name": "CFC-114",
+            "CAS": "",
+            "regulation": "Montreal Protocol (updated)",
+            "alterantive_names": ""
+        },
+        {
+            "chemical_name": "CFC-115",
+            "CAS": "",
+            "regulation": "Montreal Protocol (updated)",
+            "alterantive_names": ""
+        },
+        {
+            "chemical_name": "halon-1211",
+            "CAS": "",
+            "regulation": "Montreal Protocol (updated)",
+            "alterantive_names": ""
+        },
+        {
+            "chemical_name": "halon-1301",
+            "CAS": "",
+            "regulation": "Montreal Protocol (updated)",
+            "alterantive_names": ""
+        },
+        {
+            "chemical_name": "halon-2402",
+            "CAS": "",
+            "regulation": "Montreal Protocol (updated)",
+            "alterantive_names": ""
+        },
+        {
+            "chemical_name": "CFC-13",
+            "CAS": "",
+            "regulation": "Montreal Protocol (updated)",
+            "alterantive_names": ""
+        },
+        {
+            "chemical_name": "CFC-111",
+            "CAS": "",
+            "regulation": "Montreal Protocol (updated)",
+            "alterantive_names": ""
+        },
+        {
+            "chemical_name": "CFC-112",
+            "CAS": "",
+            "regulation": "Montreal Protocol (updated)",
+            "alterantive_names": ""
+        },
+        {
+            "chemical_name": "CFC-211",
+            "CAS": "",
+            "regulation": "Montreal Protocol (updated)",
+            "alterantive_names": ""
+        },
+        {
+            "chemical_name": "CFC-212",
+            "CAS": "",
+            "regulation": "Montreal Protocol (updated)",
+            "alterantive_names": ""
+        },
+        {
+            "chemical_name": "CFC-213",
+            "CAS": "",
+            "regulation": "Montreal Protocol (updated)",
+            "alterantive_names": ""
+        },
+        {
+            "chemical_name": "CFC-214",
+            "CAS": "",
+            "regulation": "Montreal Protocol (updated)",
+            "alterantive_names": ""
+        },
+        {
+            "chemical_name": "CFC-215",
+            "CAS": "",
+            "regulation": "Montreal Protocol (updated)",
+            "alterantive_names": ""
+        },
+        {
+            "chemical_name": "CFC-216",
+            "CAS": "",
+            "regulation": "Montreal Protocol (updated)",
+            "alterantive_names": ""
+        },
+        {
+            "chemical_name": "CFC-217",
+            "CAS": "",
+            "regulation": "Montreal Protocol (updated)",
+            "alterantive_names": ""
+        },
+        {
+            "chemical_name": "Carbon tetrachloride",
+            "CAS": "",
+            "regulation": "Montreal Protocol (updated)",
+            "alterantive_names": ""
+        },
+        {
+            "chemical_name": "5 1,1,1-Trichloroethane",
+            "CAS": "",
+            "regulation": "Montreal Protocol (updated)",
+            "alterantive_names": ""
+        },
+        {
+            "chemical_name": "Dibromofluoromethane",
+            "CAS": "",
+            "regulation": "Montreal Protocol (updated)",
+            "alterantive_names": ""
+        },
+        {
+            "chemical_name": "Bromodifluoromethane",
+            "CAS": "",
+            "regulation": "Montreal Protocol (updated)",
+            "alterantive_names": ""
+        },
+        {
+            "chemical_name": "Bromofluoromethane",
+            "CAS": "",
+            "regulation": "Montreal Protocol (updated)",
+            "alterantive_names": ""
+        },
+        {
+            "chemical_name": "Tetrabromofluoroethane",
+            "CAS": "",
+            "regulation": "Montreal Protocol (updated)",
+            "alterantive_names": ""
+        },
+        {
+            "chemical_name": "Tribromodifluoroethane",
+            "CAS": "",
+            "regulation": "Montreal Protocol (updated)",
+            "alterantive_names": ""
+        },
+        {
+            "chemical_name": "Dibromotrifluoroethane",
+            "CAS": "",
+            "regulation": "Montreal Protocol (updated)",
+            "alterantive_names": ""
+        },
+        {
+            "chemical_name": "Bromotetrafluoroethane",
+            "CAS": "",
+            "regulation": "Montreal Protocol (updated)",
+            "alterantive_names": ""
+        },
+        {
+            "chemical_name": "Tribromofluoroethane",
+            "CAS": "",
+            "regulation": "Montreal Protocol (updated)",
+            "alterantive_names": ""
+        },
+        {
+            "chemical_name": "Dibromodifluoroethane",
+            "CAS": "",
+            "regulation": "Montreal Protocol (updated)",
+            "alterantive_names": ""
+        },
+        {
+            "chemical_name": "Bromotrifluoroethane",
+            "CAS": "",
+            "regulation": "Montreal Protocol (updated)",
+            "alterantive_names": ""
+        },
+        {
+            "chemical_name": "Dibromofluoroethane",
+            "CAS": "",
+            "regulation": "Montreal Protocol (updated)",
+            "alterantive_names": ""
+        },
+        {
+            "chemical_name": "Bromodifluoroethane",
+            "CAS": "",
+            "regulation": "Montreal Protocol (updated)",
+            "alterantive_names": ""
+        },
+        {
+            "chemical_name": "Bromofluoroethane",
+            "CAS": "",
+            "regulation": "Montreal Protocol (updated)",
+            "alterantive_names": ""
+        },
+        {
+            "chemical_name": "Hexabromofluoropropane",
+            "CAS": "",
+            "regulation": "Montreal Protocol (updated)",
+            "alterantive_names": ""
+        },
+        {
+            "chemical_name": "Pentabromodifluoropropane",
+            "CAS": "",
+            "regulation": "Montreal Protocol (updated)",
+            "alterantive_names": ""
+        },
+        {
+            "chemical_name": "Tetrabromotrifluoropropane",
+            "CAS": "",
+            "regulation": "Montreal Protocol (updated)",
+            "alterantive_names": ""
+        },
+        {
+            "chemical_name": "Tribromotetrafluoropropane",
+            "CAS": "",
+            "regulation": "Montreal Protocol (updated)",
+            "alterantive_names": ""
+        },
+        {
+            "chemical_name": "Dibromopentafluoropropane",
+            "CAS": "",
+            "regulation": "Montreal Protocol (updated)",
+            "alterantive_names": ""
+        },
+        {
+            "chemical_name": "Bromohexafluoropropane",
+            "CAS": "",
+            "regulation": "Montreal Protocol (updated)",
+            "alterantive_names": ""
+        },
+        {
+            "chemical_name": "Pentabromofluoropropane",
+            "CAS": "",
+            "regulation": "Montreal Protocol (updated)",
+            "alterantive_names": ""
+        },
+        {
+            "chemical_name": "Tetrabromodifluoropropane",
+            "CAS": "",
+            "regulation": "Montreal Protocol (updated)",
+            "alterantive_names": ""
+        },
+        {
+            "chemical_name": "Tribromotrifluopropane",
+            "CAS": "",
+            "regulation": "Montreal Protocol (updated)",
+            "alterantive_names": ""
+        },
+        {
+            "chemical_name": "Dibromotetrafluoropropane",
+            "CAS": "",
+            "regulation": "Montreal Protocol (updated)",
+            "alterantive_names": ""
+        },
+        {
+            "chemical_name": "Bromotetrafluoropropane",
+            "CAS": "",
+            "regulation": "Montreal Protocol (updated)",
+            "alterantive_names": ""
+        },
+        {
+            "chemical_name": "Tetrabromofluoropropane",
+            "CAS": "",
+            "regulation": "Montreal Protocol (updated)",
+            "alterantive_names": ""
+        },
+        {
+            "chemical_name": "Tribromodifluoropropane",
+            "CAS": "",
+            "regulation": "Montreal Protocol (updated)",
+            "alterantive_names": ""
+        },
+        {
+            "chemical_name": "Dibromotrifluopropane",
+            "CAS": "",
+            "regulation": "Montreal Protocol (updated)",
+            "alterantive_names": ""
+        },
+        {
+            "chemical_name": "Bromotetrafluoropropane",
+            "CAS": "",
+            "regulation": "Montreal Protocol (updated)",
+            "alterantive_names": ""
+        },
+        {
+            "chemical_name": "Tribromofluoropropane",
+            "CAS": "",
+            "regulation": "Montreal Protocol (updated)",
+            "alterantive_names": ""
+        },
+        {
+            "chemical_name": "Dibromodifluoroprapane",
+            "CAS": "",
+            "regulation": "Montreal Protocol (updated)",
+            "alterantive_names": ""
+        },
+        {
+            "chemical_name": "Bromotrifluopropane",
+            "CAS": "",
+            "regulation": "Montreal Protocol (updated)",
+            "alterantive_names": ""
+        },
+        {
+            "chemical_name": "Dibromofluoropropane",
+            "CAS": "",
+            "regulation": "Montreal Protocol (updated)",
+            "alterantive_names": ""
+        },
+        {
+            "chemical_name": "Bromodifluoropropane",
+            "CAS": "",
+            "regulation": "Montreal Protocol (updated)",
+            "alterantive_names": ""
+        },
+        {
+            "chemical_name": "Bromofluoropropane",
+            "CAS": "",
+            "regulation": "Montreal Protocol (updated)",
+            "alterantive_names": ""
+        },
+        {
+            "chemical_name": "Bromochloromethane",
+            "CAS": "",
+            "regulation": "Montreal Protocol (updated)",
+            "alterantive_names": ""
+        },
+        {
+            "chemical_name": "Methyl bromide",
+            "CAS": "",
+            "regulation": "Montreal Protocol (updated)",
+            "alterantive_names": ""
+        },
+        {
+            "chemical_name": "HCFC-21",
+            "CAS": "",
+            "regulation": "Montreal Protocol (updated)",
+            "alterantive_names": ""
+        },
+        {
+            "chemical_name": "HCFC-22",
+            "CAS": "",
+            "regulation": "Montreal Protocol (updated)",
+            "alterantive_names": ""
+        },
+        {
+            "chemical_name": "HCFC-31",
+            "CAS": "",
+            "regulation": "Montreal Protocol (updated)",
+            "alterantive_names": ""
+        },
+        {
+            "chemical_name": "HCFC-121",
+            "CAS": "",
+            "regulation": "Montreal Protocol (updated)",
+            "alterantive_names": ""
+        },
+        {
+            "chemical_name": "HCFC-122",
+            "CAS": "",
+            "regulation": "Montreal Protocol (updated)",
+            "alterantive_names": ""
+        },
+        {
+            "chemical_name": "HCFC-123",
+            "CAS": "",
+            "regulation": "Montreal Protocol (updated)",
+            "alterantive_names": ""
+        },
+        {
+            "chemical_name": "HCFC-123*",
+            "CAS": "",
+            "regulation": "Montreal Protocol (updated)",
+            "alterantive_names": ""
+        },
+        {
+            "chemical_name": "HCFC-124",
+            "CAS": "",
+            "regulation": "Montreal Protocol (updated)",
+            "alterantive_names": ""
+        },
+        {
+            "chemical_name": "HCFC-124",
+            "CAS": "",
+            "regulation": "Montreal Protocol (updated)",
+            "alterantive_names": ""
+        },
+        {
+            "chemical_name": "HCFC-131",
+            "CAS": "",
+            "regulation": "Montreal Protocol (updated)",
+            "alterantive_names": ""
+        },
+        {
+            "chemical_name": "HCFC-132",
+            "CAS": "",
+            "regulation": "Montreal Protocol (updated)",
+            "alterantive_names": ""
+        },
+        {
+            "chemical_name": "HCFC-133",
+            "CAS": "",
+            "regulation": "Montreal Protocol (updated)",
+            "alterantive_names": ""
+        },
+        {
+            "chemical_name": "HCFC-141",
+            "CAS": "",
+            "regulation": "Montreal Protocol (updated)",
+            "alterantive_names": ""
+        },
+        {
+            "chemical_name": "HCFC-141b",
+            "CAS": "",
+            "regulation": "Montreal Protocol (updated)",
+            "alterantive_names": ""
+        },
+        {
+            "chemical_name": "HCFC-142",
+            "CAS": "",
+            "regulation": "Montreal Protocol (updated)",
+            "alterantive_names": ""
+        },
+        {
+            "chemical_name": "HCFC-142b",
+            "CAS": "",
+            "regulation": "Montreal Protocol (updated)",
+            "alterantive_names": ""
+        },
+        {
+            "chemical_name": "HCFC-151",
+            "CAS": "",
+            "regulation": "Montreal Protocol (updated)",
+            "alterantive_names": ""
+        },
+        {
+            "chemical_name": "HCFC-221",
+            "CAS": "",
+            "regulation": "Montreal Protocol (updated)",
+            "alterantive_names": ""
+        },
+        {
+            "chemical_name": "HCFC-222",
+            "CAS": "",
+            "regulation": "Montreal Protocol (updated)",
+            "alterantive_names": ""
+        },
+        {
+            "chemical_name": "HCFC-223",
+            "CAS": "",
+            "regulation": "Montreal Protocol (updated)",
+            "alterantive_names": ""
+        },
+        {
+            "chemical_name": "HCFC-224",
+            "CAS": "",
+            "regulation": "Montreal Protocol (updated)",
+            "alterantive_names": ""
+        },
+        {
+            "chemical_name": "HCFC-225",
+            "CAS": "",
+            "regulation": "Montreal Protocol (updated)",
+            "alterantive_names": ""
+        },
+        {
+            "chemical_name": "HCFC-225ca",
+            "CAS": "",
+            "regulation": "Montreal Protocol (updated)",
+            "alterantive_names": ""
+        },
+        {
+            "chemical_name": "HCFC-225cb",
+            "CAS": "",
+            "regulation": "Montreal Protocol (updated)",
+            "alterantive_names": ""
+        },
+        {
+            "chemical_name": "HCFC-226",
+            "CAS": "",
+            "regulation": "Montreal Protocol (updated)",
+            "alterantive_names": ""
+        },
+        {
+            "chemical_name": "HCFC-231",
+            "CAS": "",
+            "regulation": "Montreal Protocol (updated)",
+            "alterantive_names": ""
+        },
+        {
+            "chemical_name": "HCFC-232",
+            "CAS": "",
+            "regulation": "Montreal Protocol (updated)",
+            "alterantive_names": ""
+        },
+        {
+            "chemical_name": "HCFC-233",
+            "CAS": "",
+            "regulation": "Montreal Protocol (updated)",
+            "alterantive_names": ""
+        },
+        {
+            "chemical_name": "HCFC-234",
+            "CAS": "",
+            "regulation": "Montreal Protocol (updated)",
+            "alterantive_names": ""
+        },
+        {
+            "chemical_name": "HCFC-235",
+            "CAS": "",
+            "regulation": "Montreal Protocol (updated)",
+            "alterantive_names": ""
+        },
+        {
+            "chemical_name": "HCFC-241",
+            "CAS": "",
+            "regulation": "Montreal Protocol (updated)",
+            "alterantive_names": ""
+        },
+        {
+            "chemical_name": "HCFC-242",
+            "CAS": "",
+            "regulation": "Montreal Protocol (updated)",
+            "alterantive_names": ""
+        },
+        {
+            "chemical_name": "HCFC-243",
+            "CAS": "",
+            "regulation": "Montreal Protocol (updated)",
+            "alterantive_names": ""
+        },
+        {
+            "chemical_name": "HCFC-244",
+            "CAS": "",
+            "regulation": "Montreal Protocol (updated)",
+            "alterantive_names": ""
+        },
+        {
+            "chemical_name": "HCFC-251",
+            "CAS": "",
+            "regulation": "Montreal Protocol (updated)",
+            "alterantive_names": ""
+        },
+        {
+            "chemical_name": "HCFC-252",
+            "CAS": "",
+            "regulation": "Montreal Protocol (updated)",
+            "alterantive_names": ""
+        },
+        {
+            "chemical_name": "HCFC-253",
+            "CAS": "",
+            "regulation": "Montreal Protocol (updated)",
+            "alterantive_names": ""
+        },
+        {
+            "chemical_name": "HCFC-261",
+            "CAS": "",
+            "regulation": "Montreal Protocol (updated)",
+            "alterantive_names": ""
+        },
+        {
+            "chemical_name": "HCFC-262",
+            "CAS": "",
+            "regulation": "Montreal Protocol (updated)",
+            "alterantive_names": ""
+        },
+        {
+            "chemical_name": "HCFC-271",
+            "CAS": "",
+            "regulation": "Montreal Protocol (updated)",
+            "alterantive_names": ""
+        }
+    ]
+}

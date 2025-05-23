@@ -1,0 +1,449 @@
+{
+    "chemicals": [
+        {
+            "chemical_name": "2,4,5-T and its salts and esters",
+            "CAS": "93-76-5 (*)",
+            "regulation": "Rotterdam Convention"
+        },
+        {
+            "chemical_name": "Alachlor",
+            "CAS": "15972-60-8",
+            "regulation": "Rotterdam Convention"
+        },
+        {
+            "chemical_name": "Aldicarb",
+            "CAS": "116-06-3",
+            "regulation": "Rotterdam Convention"
+        },
+        {
+            "chemical_name": "Aldrin",
+            "CAS": "309-00-2",
+            "regulation": "Rotterdam Convention"
+        },
+        {
+            "chemical_name": "Azinphos-methyl",
+            "CAS": "86-50-0",
+            "regulation": "Rotterdam Convention"
+        },
+        {
+            "chemical_name": "Binapacryl",
+            "CAS": "485-31-4",
+            "regulation": "Rotterdam Convention"
+        },
+        {
+            "chemical_name": "Captafol",
+            "CAS": "2425-06-1",
+            "regulation": "Rotterdam Convention"
+        },
+        {
+            "chemical_name": "Carbofuran",
+            "CAS": "1563-66-2",
+            "regulation": "Rotterdam Convention"
+        },
+        {
+            "chemical_name": "Chlordane",
+            "CAS": "57-74-9",
+            "regulation": "Rotterdam Convention"
+        },
+        {
+            "chemical_name": "Chlordimeform",
+            "CAS": "6164-98-3",
+            "regulation": "Rotterdam Convention"
+        },
+        {
+            "chemical_name": "Chlorobenzilate",
+            "CAS": "510-15-6",
+            "regulation": "Rotterdam Convention"
+        },
+        {
+            "chemical_name": "DDT",
+            "CAS": "50-29-3",
+            "regulation": "Rotterdam Convention"
+        },
+        {
+            "chemical_name": "Dieldrin",
+            "CAS": "60-57-1",
+            "regulation": "Rotterdam Convention"
+        },
+        {
+            "chemical_name": "Dinitro-ortho-cresol (DNOC) and its salts (such as ammonium salt, potassium salt and sodium salt)",
+            "CAS": "534-52-1",
+            "regulation": "Rotterdam Convention"
+        },
+        {
+            "chemical_name": "Dinoseb and its salts and esters",
+            "CAS": "88-85-7 (*)",
+            "regulation": "Rotterdam Convention"
+        },
+        {
+            "chemical_name": "EDB (1,2-dibromoethane)",
+            "CAS": "106-93-4",
+            "regulation": "Rotterdam Convention"
+        },
+        {
+            "chemical_name": "Endosulfan",
+            "CAS": "115-29-7",
+            "regulation": "Rotterdam Convention"
+        },
+        {
+            "chemical_name": "Ethylene dichloride",
+            "CAS": "107-06-2",
+            "regulation": "Rotterdam Convention"
+        },
+        {
+            "chemical_name": "Ethylene oxide",
+            "CAS": "75-21-8",
+            "regulation": "Rotterdam Convention"
+        },
+        {
+            "chemical_name": "Fluoroacetamide",
+            "CAS": "640-19-7",
+            "regulation": "Rotterdam Convention"
+        },
+        {
+            "chemical_name": "HCH (mixed isomers)",
+            "CAS": "608-73-1",
+            "regulation": "Rotterdam Convention"
+        },
+        {
+            "chemical_name": "Heptachlor",
+            "CAS": "76-44-8",
+            "regulation": "Rotterdam Convention"
+        },
+        {
+            "chemical_name": "Hexachlorobenzene",
+            "CAS": "118-74-1",
+            "regulation": "Rotterdam Convention"
+        },
+        {
+            "chemical_name": "Lindane (gamma-HCH)",
+            "CAS": "58-89-9",
+            "regulation": "Rotterdam Convention"
+        },
+        {
+            "chemical_name": "Mercury compounds, including inorganic mercury compounds, alkyl mercury compounds and alkyloxyalkyl and aryl mercury compounds",
+            "CAS": "99-99-9",
+            "regulation": "Rotterdam Convention"
+        },
+        {
+            "chemical_name": "Methamidophos",
+            "CAS": "10265-92-6",
+            "regulation": "Rotterdam Convention"
+        },
+        {
+            "chemical_name": "Monocrotophos",
+            "CAS": "6923-22-4",
+            "regulation": "Rotterdam Convention"
+        },
+        {
+            "chemical_name": "Parathion",
+            "CAS": "56-38-2",
+            "regulation": "Rotterdam Convention"
+        },
+        {
+            "chemical_name": "Pentachlorophenol and its salts and esters",
+            "CAS": "87-86-5 (*)",
+            "regulation": "Rotterdam Convention"
+        },
+        {
+            "chemical_name": "Phorate",
+            "CAS": "298-02-2",
+            "regulation": "Rotterdam Convention"
+        },
+        {
+            "chemical_name": "Terbufos",
+            "CAS": "13071-79-9",
+            "regulation": "Rotterdam Convention"
+        },
+        {
+            "chemical_name": "Toxaphene (Camphechlor)",
+            "CAS": "8001-35-2",
+            "regulation": "Rotterdam Convention"
+        },
+        {
+            "chemical_name": "Tributyl tin compounds",
+            "CAS": "1461-22-9",
+            "regulation": "Rotterdam Convention"
+        },
+        {
+            "chemical_name": "Tributyl tin compounds",
+            "CAS": "1983-10-4",
+            "regulation": "Rotterdam Convention"
+        },
+        {
+            "chemical_name": "Tributyl tin compounds",
+            "CAS": "2155-70-6",
+            "regulation": "Rotterdam Convention"
+        },
+        {
+            "chemical_name": "Tributyl tin compounds",
+            "CAS": "24124-25-2",
+            "regulation": "Rotterdam Convention"
+        },
+        {
+            "chemical_name": "Tributyl tin compounds",
+            "CAS": "4342-36-3",
+            "regulation": "Rotterdam Convention"
+        },
+        {
+            "chemical_name": "Tributyl tin compounds",
+            "CAS": "56-35-9",
+            "regulation": "Rotterdam Convention"
+        },
+        {
+            "chemical_name": "Tributyl tin compounds",
+            "CAS": "85409-17-2",
+            "regulation": "Rotterdam Convention"
+        },
+        {
+            "chemical_name": "Trichlorfon",
+            "CAS": "52-68-6",
+            "regulation": "Rotterdam Convention"
+        },
+        {
+            "chemical_name": "",
+            "CAS": "137-26-8",
+            "regulation": "Rotterdam Convention"
+        },
+        {
+            "chemical_name": "",
+            "CAS": "1563-66-2",
+            "regulation": "Rotterdam Convention"
+        },
+        {
+            "chemical_name": "",
+            "CAS": "17804-35-2",
+            "regulation": "Rotterdam Convention"
+        },
+        {
+            "chemical_name": "Methyl-parathion",
+            "CAS": "298-00-0",
+            "regulation": "Rotterdam Convention"
+        },
+        {
+            "chemical_name": "Phosphamidon",
+            "CAS": "13171-21-6",
+            "regulation": "Rotterdam Convention"
+        },
+        {
+            "chemical_name": "Actinolite asbestos",
+            "CAS": "77536-66-4",
+            "regulation": "Rotterdam Convention"
+        },
+        {
+            "chemical_name": "Amosite asbestos",
+            "CAS": "12172-73-5",
+            "regulation": "Rotterdam Convention"
+        },
+        {
+            "chemical_name": "Anthophyllite asbestos",
+            "CAS": "77536-67-5",
+            "regulation": "Rotterdam Convention"
+        },
+        {
+            "chemical_name": "Hexabromodiphenyl ether",
+            "CAS": "36483-60-0",
+            "regulation": "Rotterdam Convention"
+        },
+        {
+            "chemical_name": "Heptabromodiphenyl ether",
+            "CAS": "68928-80-3",
+            "regulation": "Rotterdam Convention"
+        },
+        {
+            "chemical_name": "Tetrabromodiphenyl ether",
+            "CAS": "32534-81-9",
+            "regulation": "Rotterdam Convention"
+        },
+        {
+            "chemical_name": "Pentabromodiphenyl ether",
+            "CAS": "40088-47-9",
+            "regulation": "Rotterdam Convention"
+        },
+        {
+            "chemical_name": "Crocidolite asbestos",
+            "CAS": "12001-28-4",
+            "regulation": "Rotterdam Convention"
+        },
+        {
+            "chemical_name": "Decabromodiphenyl ether (decaBDE)",
+            "CAS": "1163-19-5",
+            "regulation": "Rotterdam Convention"
+        },
+        {
+            "chemical_name": "",
+            "CAS": "134237-50-6",
+            "regulation": "Rotterdam Convention"
+        },
+        {
+            "chemical_name": "",
+            "CAS": "134237-51-7",
+            "regulation": "Rotterdam Convention"
+        },
+        {
+            "chemical_name": "",
+            "CAS": "134237-52-8",
+            "regulation": "Rotterdam Convention"
+        },
+        {
+            "chemical_name": "",
+            "CAS": "25637-99-4",
+            "regulation": "Rotterdam Convention"
+        },
+        {
+            "chemical_name": "",
+            "CAS": "3194-55-6",
+            "regulation": "Rotterdam Convention"
+        },
+        {
+            "chemical_name": "",
+            "CAS": "1691-99-2",
+            "regulation": "Rotterdam Convention"
+        },
+        {
+            "chemical_name": "",
+            "CAS": "1763-23-1",
+            "regulation": "Rotterdam Convention"
+        },
+        {
+            "chemical_name": "",
+            "CAS": "24448-09-7",
+            "regulation": "Rotterdam Convention"
+        },
+        {
+            "chemical_name": "",
+            "CAS": "251099-16-8",
+            "regulation": "Rotterdam Convention"
+        },
+        {
+            "chemical_name": "",
+            "CAS": "2795-39-3",
+            "regulation": "Rotterdam Convention"
+        },
+        {
+            "chemical_name": "",
+            "CAS": "29081-56-9",
+            "regulation": "Rotterdam Convention"
+        },
+        {
+            "chemical_name": "",
+            "CAS": "29457-72-5",
+            "regulation": "Rotterdam Convention"
+        },
+        {
+            "chemical_name": "",
+            "CAS": "307-35-7",
+            "regulation": "Rotterdam Convention"
+        },
+        {
+            "chemical_name": "",
+            "CAS": "31506-32-8",
+            "regulation": "Rotterdam Convention"
+        },
+        {
+            "chemical_name": "",
+            "CAS": "4151-50-2",
+            "regulation": "Rotterdam Convention"
+        },
+        {
+            "chemical_name": "",
+            "CAS": "56773-42-3",
+            "regulation": "Rotterdam Convention"
+        },
+        {
+            "chemical_name": "",
+            "CAS": "70225-14-8",
+            "regulation": "Rotterdam Convention"
+        },
+        {
+            "chemical_name": "Perfluorooctanoic acid (PFOA), its salts and PFOA-related compounds",
+            "CAS": "335-67-1",
+            "regulation": "Rotterdam Convention"
+        },
+        {
+            "chemical_name": "Polybrominated Biphenyls (PBBs)",
+            "CAS": "13654-09-6",
+            "regulation": "Rotterdam Convention"
+        },
+        {
+            "chemical_name": "Polybrominated Biphenyls (PBBs)",
+            "CAS": "27858-07-7",
+            "regulation": "Rotterdam Convention"
+        },
+        {
+            "chemical_name": "Polybrominated Biphenyls (PBBs)",
+            "CAS": "36355-01-8",
+            "regulation": "Rotterdam Convention"
+        },
+        {
+            "chemical_name": "Polychlorinated Biphenyls (PCBs)",
+            "CAS": "1336-36-3",
+            "regulation": "Rotterdam Convention"
+        },
+        {
+            "chemical_name": "Polychlorinated Terphenyls (PCTs)",
+            "CAS": "61788-33-8",
+            "regulation": "Rotterdam Convention"
+        },
+        {
+            "chemical_name": "Short-chain chlorinated paraffins (SCCP)",
+            "CAS": "85535-84-8",
+            "regulation": "Rotterdam Convention"
+        },
+        {
+            "chemical_name": "Tetraethyl lead",
+            "CAS": "78-00-2",
+            "regulation": "Rotterdam Convention"
+        },
+        {
+            "chemical_name": "Tetramethyl lead",
+            "CAS": "75-74-1",
+            "regulation": "Rotterdam Convention"
+        },
+        {
+            "chemical_name": "Tremolite asbestos",
+            "CAS": "77536-68-6",
+            "regulation": "Rotterdam Convention"
+        },
+        {
+            "chemical_name": "",
+            "CAS": "1461-22-9",
+            "regulation": "Rotterdam Convention"
+        },
+        {
+            "chemical_name": "",
+            "CAS": "1983-10-4",
+            "regulation": "Rotterdam Convention"
+        },
+        {
+            "chemical_name": "",
+            "CAS": "2155-70-6",
+            "regulation": "Rotterdam Convention"
+        },
+        {
+            "chemical_name": "",
+            "CAS": "24124-25-2",
+            "regulation": "Rotterdam Convention"
+        },
+        {
+            "chemical_name": "",
+            "CAS": "4342-36-3",
+            "regulation": "Rotterdam Convention"
+        },
+        {
+            "chemical_name": "",
+            "CAS": "56-35-9",
+            "regulation": "Rotterdam Convention"
+        },
+        {
+            "chemical_name": "",
+            "CAS": "85409-17-2",
+            "regulation": "Rotterdam Convention"
+        },
+        {
+            "chemical_name": "Tris(2,3-dibromopropyl) phosphate",
+            "CAS": "126-72-7",
+            "regulation": "Rotterdam Convention"
+        }
+    ]
+}

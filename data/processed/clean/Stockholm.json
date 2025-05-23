@@ -1,0 +1,474 @@
+{
+    "chemicals": [
+        {
+            "chemical_name": "Pentabromodiphenyl ether",
+            "CAS": "60348-60-9",
+            "regulation": "Stockholm Convention"
+        },
+        {
+            "chemical_name": "Hexabromo-1,1'-biphenyl",
+            "CAS": "36355-01-8",
+            "regulation": "Stockholm Convention"
+        },
+        {
+            "chemical_name": "Tetrabromodiphenyl ether",
+            "CAS": "5436-43-1",
+            "regulation": "Stockholm Convention"
+        },
+        {
+            "chemical_name": "2,2\u2032,3,4,4\u2032,5\u2032,6-Heptabromodiphenyl ether",
+            "CAS": "207122-16-5",
+            "regulation": "Stockholm Convention"
+        },
+        {
+            "chemical_name": "2,2\u2032,4,4\u2032,5,5\u2032-Hexabromodiphenyl ether",
+            "CAS": "68631-49-2",
+            "regulation": "Stockholm Convention"
+        },
+        {
+            "chemical_name": "1,2,4,7,8-Pentachlorodibenzo-p-dioxin",
+            "CAS": "58802-08-7",
+            "regulation": "Stockholm Convention"
+        },
+        {
+            "chemical_name": "Pentachlorodibenzofuran",
+            "CAS": "30402-15-4",
+            "regulation": "Stockholm Convention"
+        },
+        {
+            "chemical_name": "1,2,3,4,6,7,8,9,10,10,11,11-Dodecachloro-1,4,4a,5a,6,9,9a,9b-octahydro-1,4:6,9-dimethanodibenzofuran",
+            "CAS": "31107-44-5",
+            "regulation": "Stockholm Convention"
+        },
+        {
+            "chemical_name": "Heptachlorodibenzofuran",
+            "CAS": "38998-75-3",
+            "regulation": "Stockholm Convention"
+        },
+        {
+            "chemical_name": "Dibenzo(b,e)(1,4)dioxin, hexachloro-",
+            "CAS": "34465-46-8",
+            "regulation": "Stockholm Convention"
+        },
+        {
+            "chemical_name": "Pentachlorodibenzo-p-dioxin",
+            "CAS": "36088-22-9",
+            "regulation": "Stockholm Convention"
+        },
+        {
+            "chemical_name": "Heptachlorodibenzo-p-dioxin",
+            "CAS": "37871-00-4",
+            "regulation": "Stockholm Convention"
+        },
+        {
+            "chemical_name": "Dibenzofuran, hexachloro-",
+            "CAS": "55684-94-1",
+            "regulation": "Stockholm Convention"
+        },
+        {
+            "chemical_name": "Dibenzofuran, 2-chloro",
+            "CAS": "43047-99-0",
+            "regulation": "Stockholm Convention"
+        },
+        {
+            "chemical_name": "Dibenzofuran, 1,2,3,4,6,8,9-heptachloro-",
+            "CAS": "69698-58-4",
+            "regulation": "Stockholm Convention"
+        },
+        {
+            "chemical_name": "Nonabromodiphenyl ether",
+            "CAS": "63936-56-1",
+            "regulation": "Stockholm Convention"
+        },
+        {
+            "chemical_name": "Dibenzo[b,e][1,4]dioxin, tetrachloro-",
+            "CAS": "41903-57-5",
+            "regulation": "Stockholm Convention"
+        },
+        {
+            "chemical_name": "1,2,3,4,6,7,9-Heptachlorodibenzo-p-dioxin",
+            "CAS": "58200-70-7",
+            "regulation": "Stockholm Convention"
+        },
+        {
+            "chemical_name": "Chlorinated dibenzofurans",
+            "CAS": "136677-10-6",
+            "regulation": "Stockholm Convention"
+        },
+        {
+            "chemical_name": "Naphthalene, chloro derivatives",
+            "CAS": "70776-03-3",
+            "regulation": "Stockholm Convention"
+        },
+        {
+            "chemical_name": "o,p'-Dicofol (ISO)",
+            "CAS": "10606-46-9",
+            "regulation": "Stockholm Convention"
+        },
+        {
+            "chemical_name": "3,6,9,12,15,18,21,24-Octaoxatetratriacontan-1-ol, 27,27,28,28,29,29,30,30,31,31,32,32,33,33,34,34,34-heptadecafluorooctamethyl-",
+            "CAS": "88243-17-8",
+            "regulation": "Stockholm Convention"
+        },
+        {
+            "chemical_name": "3,6,9,12,15-Pentaoxapentacosan-1-ol, 18,18,19,19,20,20,21,21,22,22,23,23,24,24,25,25,25-heptadecafluoropentamethyl-, acetate",
+            "CAS": "88243-09-8",
+            "regulation": "Stockholm Convention"
+        },
+        {
+            "chemical_name": "1-Propanaminium, 2-hydroxy-N,N,N-trimethyl-3-[(3,3,4,4,5,5,6,6,7,7,8,8,9,9,10,10,11,11,12,12,12-heneicosafluorododecyl)thio]-, chloride (1:1)",
+            "CAS": "",
+            "regulation": "Stockholm Convention"
+        },
+        {
+            "chemical_name": "2,2',3,4,4',5'-Hexabromodiphenyl ether",
+            "CAS": "182677-30-1",
+            "regulation": "Stockholm Convention"
+        },
+        {
+            "chemical_name": "Sodium pentachlorophenolate monohydrate",
+            "CAS": "27735-64-4",
+            "regulation": "Stockholm Convention"
+        },
+        {
+            "chemical_name": "Pentachlorophenyl laurate",
+            "CAS": "3772-94-9",
+            "regulation": "Stockholm Convention"
+        },
+        {
+            "chemical_name": "tert-Butyl pentachlorophenyl carbonate",
+            "CAS": "18942-25-1",
+            "regulation": "Stockholm Convention"
+        },
+        {
+            "chemical_name": "1,3,5-Tribromo-2-(3,4-dibromophenoxy)benzene",
+            "CAS": "189084-66-0",
+            "regulation": "Stockholm Convention"
+        },
+        {
+            "chemical_name": "2,2',5,5'-Tetrachlorobiphenyl",
+            "CAS": "35693-99-3",
+            "regulation": "Stockholm Convention"
+        },
+        {
+            "chemical_name": "2,4,4'-Trichlorobiphenyl",
+            "CAS": "7012-37-5",
+            "regulation": "Stockholm Convention"
+        },
+        {
+            "chemical_name": "2,2',3,3',4,4',5-Heptachlorobiphenyl",
+            "CAS": "35065-30-6",
+            "regulation": "Stockholm Convention"
+        },
+        {
+            "chemical_name": "Chlorobiphenyl",
+            "CAS": "27323-18-8",
+            "regulation": "Stockholm Convention"
+        },
+        {
+            "chemical_name": "3,3'-Dichlorobiphenyl",
+            "CAS": "2050-67-1",
+            "regulation": "Stockholm Convention"
+        },
+        {
+            "chemical_name": "2,4',5-Trichlorobiphenyl",
+            "CAS": "16606-02-3",
+            "regulation": "Stockholm Convention"
+        },
+        {
+            "chemical_name": "2,2',3,4,4',5'-Hexachlorobiphenyl",
+            "CAS": "35065-28-2",
+            "regulation": "Stockholm Convention"
+        },
+        {
+            "chemical_name": "Phosphoric acid, 3,3,4,4,5,5,6,6,7,7,8,8,9,9,10,10,10-heptadecafluorodecyl bis(3,3,4,4,5,5,6,6,7,7,8,8,8-tridecafluorooctyl) ester",
+            "CAS": "1578186-53-4",
+            "regulation": "Stockholm Convention"
+        },
+        {
+            "chemical_name": "3,6,9,12-Tetraoxadocosan-1-ol, 15,15,16,16,17,17,18,18,19,19,20,20,21,21,22,22,22-heptadecafluorodimethyl-",
+            "CAS": "88271-22-1",
+            "regulation": "Stockholm Convention"
+        },
+        {
+            "chemical_name": "3,6,9,12-Tetraoxadocosan-1-ol, 15,15,16,16,17,17,18,18,19,19,20,20,21,21,22,22,22-heptadecafluorotetramethyl-",
+            "CAS": "88243-14-5",
+            "regulation": "Stockholm Convention"
+        },
+        {
+            "chemical_name": "3,6,9,12,15-Pentaoxapentacosan-1-ol, 18,18,19,19,20,20,21,21,22,22,23,23,24,24,25,25,25-heptadecafluoropentamethyl-",
+            "CAS": "88243-15-6",
+            "regulation": "Stockholm Convention"
+        },
+        {
+            "chemical_name": "Ethanaminium, N-ethyl-2-[[[[3-[[[[3-[[[[3-[[[(3,3,4,4,5,5,6,6,7,7,8,8,9,9,10,10,10-heptadecafluorodecyl)oxy]carbonyl]amino]methylphenyl]amino]carbonyl]amino]methylphenyl]amino]carbonyl]amino]methylphenyl]amino]carbonyl]oxy]-N,N-dimethyl-, ethyl sulfate",
+            "CAS": "100155-23-5",
+            "regulation": "Stockholm Convention"
+        },
+        {
+            "chemical_name": "1-Decanamine, 3,3,4,4,5,5,6,6,7,7,8,8,9,9,10,10,10-heptadecafluoro-N,N-dimethyl-, N-oxide",
+            "CAS": "",
+            "regulation": "Stockholm Convention"
+        },
+        {
+            "chemical_name": "1-Dodecanamine, 3,3,4,4,5,5,6,6,7,7,8,8,9,9,10,10,11,11,11-nonadecafluoro-N,N-dimethyl-, N-oxide",
+            "CAS": "",
+            "regulation": "Stockholm Convention"
+        },
+        {
+            "chemical_name": "Ethanaminium, N-ethyl-2-[[[[3-[[[3-[[[3-[[[(3,3,4,4,5,5,6,6,7,7,8,8,9,9,10,10,10-heptadecafluorodecyl)oxy]carbonyl]amino]methylphenyl]carbonimidoyl]amino]methylphenyl]carbonimidoyl]amino]methylphenyl]amino]carbonyl]oxy]-N,N-dimethyl-, ethyl sulfate",
+            "CAS": "100107-48-0",
+            "regulation": "Stockholm Convention"
+        },
+        {
+            "chemical_name": "1,1,2,2,3,3,4,4,5,5,6,6,6-Tridecafluoro-1-hexanesulfonyl bromide",
+            "CAS": "111393-39-6",
+            "regulation": "Stockholm Convention"
+        },
+        {
+            "chemical_name": "N2-Benzyl pentachlorophenyl N2-carboxy-L-(2-aminoglutaramate)",
+            "CAS": "13673-51-3",
+            "regulation": "Stockholm Convention"
+        },
+        {
+            "chemical_name": "Perchlorophenyl N-(benzyloxycarbonyl)-L-isoleucinate",
+            "CAS": "13673-53-5",
+            "regulation": "Stockholm Convention"
+        },
+        {
+            "chemical_name": "Pentachlorophenyl N-[[(4-methoxyphenyl)methoxy]carbonyl]-L-serinate",
+            "CAS": "23234-97-1",
+            "regulation": "Stockholm Convention"
+        },
+        {
+            "chemical_name": "Perchlorophenyl S-benzyl-N-(benzyloxycarbonyl)-L-cysteinate",
+            "CAS": "13673-54-6",
+            "regulation": "Stockholm Convention"
+        },
+        {
+            "chemical_name": "2,2',4,4',6,6'-Hexachlorobiphenyl",
+            "CAS": "33979-03-2",
+            "regulation": "Stockholm Convention"
+        },
+        {
+            "chemical_name": "2,2',4,4'-Tetrachlorobiphenyl",
+            "CAS": "2437-79-8",
+            "regulation": "Stockholm Convention"
+        },
+        {
+            "chemical_name": "4,4'-Dichlorobiphenyl",
+            "CAS": "2050-68-2",
+            "regulation": "Stockholm Convention"
+        },
+        {
+            "chemical_name": "Decachlorobiphenyl",
+            "CAS": "2051-24-3",
+            "regulation": "Stockholm Convention"
+        },
+        {
+            "chemical_name": "Bis(perfluorooctyl) phosphinic acid",
+            "CAS": "40143-34-5",
+            "regulation": "Stockholm Convention"
+        },
+        {
+            "chemical_name": "1,2-Undecanediol, 4,4,5,5,6,6,7,7,8,8,9,9,10,11,11,11-hexadecafluoro-10-(trifluoromethyl)-, 1-(dihydrogen phosphate), compd. with 2,2\u2032-iminobis[ethanol] (1:2)",
+            "CAS": "63295-19-2",
+            "regulation": "Stockholm Convention"
+        },
+        {
+            "chemical_name": "Diphosphoric acid, mono(3,3,4,4,5,5,6,6,7,7,8,8, 9,9,10,10,10-heptadecafluorodecyl) ester, compd. with 2,2\u2032,2\u2032\u2032-nitrilotris[ethanol] (1:3)",
+            "CAS": "98005-85-7",
+            "regulation": "Stockholm Convention"
+        },
+        {
+            "chemical_name": "Phosphoric acid, 3,3,4,4,5,5,6,6,7,7,8,8,9,9,10,10,11,11,12,12,12-heneicosafluorododecyl 3,3,4,4,5,5,6,6,7,7,8,8,9,9,10,10,10-heptadecafluorodecyl 3,3,4,4,5,5,6,6,7,7,8,8,8-tridecafluorooctyl ester",
+            "CAS": "1578186-64-7",
+            "regulation": "Stockholm Convention"
+        },
+        {
+            "chemical_name": "Propanol, [2-[(3,3,4,4,5,5,6,6,7,7,8,8,9,9,10,10,10-heptadecafluorodecyl)oxy]methylethoxy]-",
+            "CAS": "88243-13-4",
+            "regulation": "Stockholm Convention"
+        },
+        {
+            "chemical_name": "3,6,9,12,15,18-Hexaoxaoctacosan-1-ol, 21,21,22,22,23,23,24,24,25,25,26,26,27,27,28,28,28-heptadecafluoropentamethyl-",
+            "CAS": "88243-11-2",
+            "regulation": "Stockholm Convention"
+        },
+        {
+            "chemical_name": "3,6,9,12,15,18,21-Heptaoxahentriacontan-1-ol, 24,24,25,25,26,26,27,27,28,28,29,29,30,30,31,31,31-heptadecafluoropentamethyl-",
+            "CAS": "88243-10-1",
+            "regulation": "Stockholm Convention"
+        },
+        {
+            "chemical_name": "2-Propenamide, telomer with 3,3,4,4,5,5,6,6,7,7,8,8,9,9,10,10,11,11,12,12,12-heneicosafluoro-1-dodecanethiol",
+            "CAS": "121913-10-8",
+            "regulation": "Stockholm Convention"
+        },
+        {
+            "chemical_name": "Benzene, 1-nitro-4-[(1,1,2,2,3,3,4,4,5,5,6,6,6-tridecafluorohexyl)sulfonyl]-",
+            "CAS": "171561-95-8",
+            "regulation": "Stockholm Convention"
+        },
+        {
+            "chemical_name": "2,2',3,3',4,5',6-Heptabromodiphenyl ether",
+            "CAS": "446255-22-7",
+            "regulation": "Stockholm Convention"
+        },
+        {
+            "chemical_name": "Acetic acid, 2,2,2-trichloro-, 2,3,4,5,6-pentachlorophenyl ester",
+            "CAS": "2879-60-9",
+            "regulation": "Stockholm Convention"
+        },
+        {
+            "chemical_name": "Perchlorophenyl 5-oxo-L-prolinate",
+            "CAS": "28990-85-4",
+            "regulation": "Stockholm Convention"
+        },
+        {
+            "chemical_name": "1,2-Dibromo-4-(2,4-dibromophenoxy)benzene",
+            "CAS": "189084-61-5",
+            "regulation": "Stockholm Convention"
+        },
+        {
+            "chemical_name": "1,2-Dibromo-4-(2,6-dibromophenoxy)benzene",
+            "CAS": "189084-62-6",
+            "regulation": "Stockholm Convention"
+        },
+        {
+            "chemical_name": "Nonachlorobiphenyl",
+            "CAS": "53742-07-7",
+            "regulation": "Stockholm Convention"
+        },
+        {
+            "chemical_name": "Heptachlorobiphenyl",
+            "CAS": "28655-71-2",
+            "regulation": "Stockholm Convention"
+        },
+        {
+            "chemical_name": "2-Chlorobiphenyl",
+            "CAS": "2051-60-7",
+            "regulation": "Stockholm Convention"
+        },
+        {
+            "chemical_name": "4-Chlorobiphenyl",
+            "CAS": "2051-62-9",
+            "regulation": "Stockholm Convention"
+        },
+        {
+            "chemical_name": "2,2',4,5,5'-Pentachlorobiphenyl",
+            "CAS": "37680-73-2",
+            "regulation": "Stockholm Convention"
+        },
+        {
+            "chemical_name": "2,4,5-Trichlorobiphenyl",
+            "CAS": "15862-07-4",
+            "regulation": "Stockholm Convention"
+        },
+        {
+            "chemical_name": "Methoxychlor",
+            "CAS": "72-43-5",
+            "regulation": "Stockholm Convention"
+        },
+        {
+            "chemical_name": "Diphosphoric acid, mono(3,3,4,4,5,5,6,6,7,7,8,8,9,9,10,10,10-heptadecafluorodecyl) ester, compd. with 2-aminoethanol (1:3)",
+            "CAS": "98005-84-6",
+            "regulation": "Stockholm Convention"
+        },
+        {
+            "chemical_name": "Phosphoric acid, bis(3,3,4,4,5,5,6,6,7,7,8,8,9,9,10,10,10-heptadecafluorodecyl)-3,3,4,4,5,5,6,6,7,7,8,8,8-tridecafluorooctyl ester",
+            "CAS": "1578186-56-7",
+            "regulation": "Stockholm Convention"
+        },
+        {
+            "chemical_name": "Phosphoric acid, 3,3,4,4,5,5,6,6,7,7,8,8,9,9,10,10,11,11,12,12,12-heneicosafluorododecyl bis(3,3,4,4,5,5,6,6,7,7,8,8,8-tridecafluorooctyl) ester",
+            "CAS": "1578186-57-8",
+            "regulation": "Stockholm Convention"
+        },
+        {
+            "chemical_name": "Ethanol, 2-[2-[2-[(3,3,4,4,5,5,6,6,7,7,8,8,9,9,10,10,10-heptadecafluorodecyl)oxy]methylethoxy]methylethoxy]-",
+            "CAS": "88243-12-3",
+            "regulation": "Stockholm Convention"
+        },
+        {
+            "chemical_name": "3,6,9,12,15,18-Hexaoxaoctacosan-1-ol, 21,21,22,22,23,23,24,24,25,25,26,26,27,27,28,28,28-heptadecafluorohexamethyl-",
+            "CAS": "88243-16-7",
+            "regulation": "Stockholm Convention"
+        },
+        {
+            "chemical_name": "2-Propenamide, telomer with 3,3,4,4,5,5,6,6,7,7,8,8,9,9,10,10,10-heptadecafluoro-1-decanethiol",
+            "CAS": "76830-13-2",
+            "regulation": "Stockholm Convention"
+        },
+        {
+            "chemical_name": "2,2\u2032,4,4\u2032,5,6\u2032-Hexabromodiphenyl ether",
+            "CAS": "207122-15-4",
+            "regulation": "Stockholm Convention"
+        },
+        {
+            "chemical_name": "Acetic acid, 2,2-dichloro-, 2,3,4,5,6-pentachlorophenyl ester",
+            "CAS": "19745-69-8",
+            "regulation": "Stockholm Convention"
+        },
+        {
+            "chemical_name": "Zinc bis(pentachlorophenolate)",
+            "CAS": "2917-32-0",
+            "regulation": "Stockholm Convention"
+        },
+        {
+            "chemical_name": "1,2-Dibromo-4-(3,4-dibromophenoxy)benzene",
+            "CAS": "93703-48-1",
+            "regulation": "Stockholm Convention"
+        },
+        {
+            "chemical_name": "1,3,5-Tribromo-2-(4-bromophenoxy)benzene",
+            "CAS": "189084-63-7",
+            "regulation": "Stockholm Convention"
+        },
+        {
+            "chemical_name": "1,2,3-Tribromo-4-(2,4-dibromophenoxy)benzene",
+            "CAS": "182346-21-0",
+            "regulation": "Stockholm Convention"
+        },
+        {
+            "chemical_name": "2,4'-Dichlorobiphenyl",
+            "CAS": "34883-43-7",
+            "regulation": "Stockholm Convention"
+        },
+        {
+            "chemical_name": "Pentachlorobiphenyl",
+            "CAS": "25429-29-2",
+            "regulation": "Stockholm Convention"
+        },
+        {
+            "chemical_name": "3-Chlorobiphenyl",
+            "CAS": "2051-61-8",
+            "regulation": "Stockholm Convention"
+        },
+        {
+            "chemical_name": "Dichlorobiphenyl",
+            "CAS": "25512-42-9",
+            "regulation": "Stockholm Convention"
+        },
+        {
+            "chemical_name": "2,2',3,4,4',5,5'-Heptachlorobiphenyl",
+            "CAS": "35065-29-3",
+            "regulation": "Stockholm Convention"
+        },
+        {
+            "chemical_name": "2,4,6-Trichlorobiphenyl",
+            "CAS": "35693-92-6",
+            "regulation": "Stockholm Convention"
+        },
+        {
+            "chemical_name": "Tetrachloro(tetrachlorophenyl)benzene",
+            "CAS": "31472-83-0",
+            "regulation": "Stockholm Convention"
+        },
+        {
+            "chemical_name": "4,4,5,5,6,6,7,7,8,8,9,9,10,10,11,11,12,12,12-Nonadecafluorododecanoic acid",
+            "CAS": "143260-97-3",
+            "regulation": "Stockholm Convention"
+        }
+    ]
+}

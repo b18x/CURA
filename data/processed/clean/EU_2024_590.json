@@ -1,0 +1,616 @@
+{
+    "chemicals": [
+        {
+            "chemical_name": "Trichlorofluoromethane",
+            "CAS": "",
+            "regulation": "EU 2024 (590)",
+            "alterantive_names": "CFC-11"
+        },
+        {
+            "chemical_name": "Dichlorodifluoromethane",
+            "CAS": "",
+            "regulation": "EU 2024 (590)",
+            "alterantive_names": "CFC-12"
+        },
+        {
+            "chemical_name": "Trichlorotrifluoroethane",
+            "CAS": "",
+            "regulation": "EU 2024 (590)",
+            "alterantive_names": "CFC-113"
+        },
+        {
+            "chemical_name": "Dichlorotetrafluoroethane",
+            "CAS": "",
+            "regulation": "EU 2024 (590)",
+            "alterantive_names": "CFC-114"
+        },
+        {
+            "chemical_name": "Chloropentafluoroethane",
+            "CAS": "",
+            "regulation": "EU 2024 (590)",
+            "alterantive_names": "CFC-115"
+        },
+        {
+            "chemical_name": "Chlorotrifluoromethane",
+            "CAS": "",
+            "regulation": "EU 2024 (590)",
+            "alterantive_names": "CFC-13"
+        },
+        {
+            "chemical_name": "Pentachlorofluoroethane",
+            "CAS": "",
+            "regulation": "EU 2024 (590)",
+            "alterantive_names": "CFC-111"
+        },
+        {
+            "chemical_name": "Tetrachlorodifluoroethane",
+            "CAS": "",
+            "regulation": "EU 2024 (590)",
+            "alterantive_names": "CFC-112"
+        },
+        {
+            "chemical_name": "Heptachlorofluoropropane",
+            "CAS": "",
+            "regulation": "EU 2024 (590)",
+            "alterantive_names": "CFC-211"
+        },
+        {
+            "chemical_name": "Hexachlorodifluoropropane",
+            "CAS": "",
+            "regulation": "EU 2024 (590)",
+            "alterantive_names": "CFC-212"
+        },
+        {
+            "chemical_name": "Pentachlorotrifluoropropane",
+            "CAS": "",
+            "regulation": "EU 2024 (590)",
+            "alterantive_names": "CFC-213"
+        },
+        {
+            "chemical_name": "Tetrachlorotetrafluoropropane",
+            "CAS": "",
+            "regulation": "EU 2024 (590)",
+            "alterantive_names": "CFC-214"
+        },
+        {
+            "chemical_name": "Trichloropentafluoropropane",
+            "CAS": "",
+            "regulation": "EU 2024 (590)",
+            "alterantive_names": "CFC-215"
+        },
+        {
+            "chemical_name": "Dichlorohexafluoropropane",
+            "CAS": "",
+            "regulation": "EU 2024 (590)",
+            "alterantive_names": "CFC-216"
+        },
+        {
+            "chemical_name": "Chloroheptafluoropropane",
+            "CAS": "",
+            "regulation": "EU 2024 (590)",
+            "alterantive_names": "CFC-217"
+        },
+        {
+            "chemical_name": "Bromochlorodifluoromethane",
+            "CAS": "",
+            "regulation": "EU 2024 (590)",
+            "alterantive_names": "halon-1211"
+        },
+        {
+            "chemical_name": "Bromotrifluoromethane",
+            "CAS": "",
+            "regulation": "EU 2024 (590)",
+            "alterantive_names": "halon-1301"
+        },
+        {
+            "chemical_name": "Dibromotetrafluoroethane",
+            "CAS": "",
+            "regulation": "EU 2024 (590)",
+            "alterantive_names": "halon-2402"
+        },
+        {
+            "chemical_name": "Dibromodifluoromethane",
+            "CAS": "",
+            "regulation": "EU 2024 (590)",
+            "alterantive_names": "halon- 1202"
+        },
+        {
+            "chemical_name": "Tetrachloromethane",
+            "CAS": "",
+            "regulation": "EU 2024 (590)",
+            "alterantive_names": "CTC; carbon tetrachloride"
+        },
+        {
+            "chemical_name": "1,1,1-Trichloroethane",
+            "CAS": "",
+            "regulation": "EU 2024 (590)",
+            "alterantive_names": "1,1,1-TCA; methylchloroform"
+        },
+        {
+            "chemical_name": "Bromomethane",
+            "CAS": "",
+            "regulation": "EU 2024 (590)",
+            "alterantive_names": "methyl bromide"
+        },
+        {
+            "chemical_name": "Dibromofluoromethane",
+            "CAS": "",
+            "regulation": "EU 2024 (590)",
+            "alterantive_names": "HBFC-21 B2"
+        },
+        {
+            "chemical_name": "Bromodifluoromethane",
+            "CAS": "",
+            "regulation": "EU 2024 (590)",
+            "alterantive_names": "HBFC-22 B1"
+        },
+        {
+            "chemical_name": "Bromofluoromethane",
+            "CAS": "",
+            "regulation": "EU 2024 (590)",
+            "alterantive_names": "HBFC-31 B1"
+        },
+        {
+            "chemical_name": "Tetrabromofluoroethane",
+            "CAS": "",
+            "regulation": "EU 2024 (590)",
+            "alterantive_names": "HBFC-121 B4"
+        },
+        {
+            "chemical_name": "Tribromodifluoroethane",
+            "CAS": "",
+            "regulation": "EU 2024 (590)",
+            "alterantive_names": "HBFC-122 B3"
+        },
+        {
+            "chemical_name": "Dibromotrifluoroethane",
+            "CAS": "",
+            "regulation": "EU 2024 (590)",
+            "alterantive_names": "HBFC-123 B2"
+        },
+        {
+            "chemical_name": "Bromotetrafluoroethane",
+            "CAS": "",
+            "regulation": "EU 2024 (590)",
+            "alterantive_names": "HBFC-124 B1"
+        },
+        {
+            "chemical_name": "Tribromofluoroethane",
+            "CAS": "",
+            "regulation": "EU 2024 (590)",
+            "alterantive_names": "HBFC-131 B3"
+        },
+        {
+            "chemical_name": "Dibromodifluoroethane",
+            "CAS": "",
+            "regulation": "EU 2024 (590)",
+            "alterantive_names": "HBFC-132 B2"
+        },
+        {
+            "chemical_name": "Bromotrifluoroethane",
+            "CAS": "",
+            "regulation": "EU 2024 (590)",
+            "alterantive_names": "HBFC-133 B1"
+        },
+        {
+            "chemical_name": "Dibromofluoroethane",
+            "CAS": "",
+            "regulation": "EU 2024 (590)",
+            "alterantive_names": "HBFC-141 B2"
+        },
+        {
+            "chemical_name": "Bromodifluoroethane",
+            "CAS": "",
+            "regulation": "EU 2024 (590)",
+            "alterantive_names": "HBFC-142 B1"
+        },
+        {
+            "chemical_name": "Bromofluoroethane",
+            "CAS": "",
+            "regulation": "EU 2024 (590)",
+            "alterantive_names": "HBFC-151 B1"
+        },
+        {
+            "chemical_name": "Hexabromofluoropropane",
+            "CAS": "",
+            "regulation": "EU 2024 (590)",
+            "alterantive_names": "HBFC-221 B6"
+        },
+        {
+            "chemical_name": "Pentabromodifluoropropane",
+            "CAS": "",
+            "regulation": "EU 2024 (590)",
+            "alterantive_names": "HBFC-222 B5"
+        },
+        {
+            "chemical_name": "Tetrabromotrifluoropropane",
+            "CAS": "",
+            "regulation": "EU 2024 (590)",
+            "alterantive_names": "HBFC-223 B4"
+        },
+        {
+            "chemical_name": "Tribromotetrafluoropropane",
+            "CAS": "",
+            "regulation": "EU 2024 (590)",
+            "alterantive_names": "HBFC-224 B3"
+        },
+        {
+            "chemical_name": "Dibromopentafluoropropane",
+            "CAS": "",
+            "regulation": "EU 2024 (590)",
+            "alterantive_names": "HBFC-225 B2"
+        },
+        {
+            "chemical_name": "Bromohexafluoropropane",
+            "CAS": "",
+            "regulation": "EU 2024 (590)",
+            "alterantive_names": "HBFC-226 B1"
+        },
+        {
+            "chemical_name": "Pentabromofluoropropane",
+            "CAS": "",
+            "regulation": "EU 2024 (590)",
+            "alterantive_names": "HBFC-231 B5"
+        },
+        {
+            "chemical_name": "Tetrabromodifluoropropane",
+            "CAS": "",
+            "regulation": "EU 2024 (590)",
+            "alterantive_names": "HBFC-232 B4"
+        },
+        {
+            "chemical_name": "Tribromotrifluoropropane",
+            "CAS": "",
+            "regulation": "EU 2024 (590)",
+            "alterantive_names": "HBFC-233 B3"
+        },
+        {
+            "chemical_name": "Dibromotetrafluoropropane",
+            "CAS": "",
+            "regulation": "EU 2024 (590)",
+            "alterantive_names": "HBFC-234 B2"
+        },
+        {
+            "chemical_name": "Bromopentafluoropropane",
+            "CAS": "",
+            "regulation": "EU 2024 (590)",
+            "alterantive_names": "HBFC-235 B1"
+        },
+        {
+            "chemical_name": "Tetrabromofluoropropane",
+            "CAS": "",
+            "regulation": "EU 2024 (590)",
+            "alterantive_names": "HBFC-241 B4"
+        },
+        {
+            "chemical_name": "Tribromodifluoropropane",
+            "CAS": "",
+            "regulation": "EU 2024 (590)",
+            "alterantive_names": "HBFC-242 B3"
+        },
+        {
+            "chemical_name": "Dibromotrifluoropropane",
+            "CAS": "",
+            "regulation": "EU 2024 (590)",
+            "alterantive_names": "HBFC-243 B2"
+        },
+        {
+            "chemical_name": "Bromotetrafluoropropane",
+            "CAS": "",
+            "regulation": "EU 2024 (590)",
+            "alterantive_names": "HBFC-244 B1"
+        },
+        {
+            "chemical_name": "Tribromofluoropropane",
+            "CAS": "",
+            "regulation": "EU 2024 (590)",
+            "alterantive_names": "HBFC-251 B1"
+        },
+        {
+            "chemical_name": "Dibromodifluoropropane",
+            "CAS": "",
+            "regulation": "EU 2024 (590)",
+            "alterantive_names": "HBFC-252 B2"
+        },
+        {
+            "chemical_name": "Bromotrifluoropropane",
+            "CAS": "",
+            "regulation": "EU 2024 (590)",
+            "alterantive_names": "HBFC-253 B1"
+        },
+        {
+            "chemical_name": "Dibromofluoropropane",
+            "CAS": "",
+            "regulation": "EU 2024 (590)",
+            "alterantive_names": "HBFC-261 B2"
+        },
+        {
+            "chemical_name": "Bromodifluoropropane",
+            "CAS": "",
+            "regulation": "EU 2024 (590)",
+            "alterantive_names": "HBFC-262 B1"
+        },
+        {
+            "chemical_name": "Bromofluoropropane",
+            "CAS": "",
+            "regulation": "EU 2024 (590)",
+            "alterantive_names": "HBFC-271 B1"
+        },
+        {
+            "chemical_name": "HCFC-21",
+            "CAS": "",
+            "regulation": "EU 2024 (590)",
+            "alterantive_names": "Dichlorofluoromethane"
+        },
+        {
+            "chemical_name": "HCFC-22",
+            "CAS": "",
+            "regulation": "EU 2024 (590)",
+            "alterantive_names": "Chlorodifluoromethane"
+        },
+        {
+            "chemical_name": "HCFC-31",
+            "CAS": "",
+            "regulation": "EU 2024 (590)",
+            "alterantive_names": "Chlorofluoromethane"
+        },
+        {
+            "chemical_name": "HCFC-121",
+            "CAS": "",
+            "regulation": "EU 2024 (590)",
+            "alterantive_names": "Tetrachlorofluoroethane"
+        },
+        {
+            "chemical_name": "HCFC-122",
+            "CAS": "",
+            "regulation": "EU 2024 (590)",
+            "alterantive_names": "Trichlorodifluoroethane"
+        },
+        {
+            "chemical_name": "HCFC-123",
+            "CAS": "",
+            "regulation": "EU 2024 (590)",
+            "alterantive_names": "Dichlorotrifluoroethane"
+        },
+        {
+            "chemical_name": "HCFC-124",
+            "CAS": "",
+            "regulation": "EU 2024 (590)",
+            "alterantive_names": "Chlorotetrafluoroethane"
+        },
+        {
+            "chemical_name": "HCFC-131",
+            "CAS": "",
+            "regulation": "EU 2024 (590)",
+            "alterantive_names": "Trichlorofluoroethane"
+        },
+        {
+            "chemical_name": "HCFC-132",
+            "CAS": "",
+            "regulation": "EU 2024 (590)",
+            "alterantive_names": "Dichlorodifluoroethane"
+        },
+        {
+            "chemical_name": "HCFC-133",
+            "CAS": "",
+            "regulation": "EU 2024 (590)",
+            "alterantive_names": "Chlorotrifluoroethane"
+        },
+        {
+            "chemical_name": "HCFC-141",
+            "CAS": "",
+            "regulation": "EU 2024 (590)",
+            "alterantive_names": "Dichlorofluoroethane"
+        },
+        {
+            "chemical_name": "HCFC-141b",
+            "CAS": "",
+            "regulation": "EU 2024 (590)",
+            "alterantive_names": "1,1-Dichloro-1-fluoroethane"
+        },
+        {
+            "chemical_name": "HCFC-142",
+            "CAS": "",
+            "regulation": "EU 2024 (590)",
+            "alterantive_names": "Chlorodifluoroethane"
+        },
+        {
+            "chemical_name": "HCFC-142b",
+            "CAS": "",
+            "regulation": "EU 2024 (590)",
+            "alterantive_names": "1-Chloro\u20131,1 -difluoroethane"
+        },
+        {
+            "chemical_name": "HCFC-151",
+            "CAS": "",
+            "regulation": "EU 2024 (590)",
+            "alterantive_names": "Chlorofluoroethane"
+        },
+        {
+            "chemical_name": "HCFC-221",
+            "CAS": "",
+            "regulation": "EU 2024 (590)",
+            "alterantive_names": "Hexachlorofluoropropane"
+        },
+        {
+            "chemical_name": "HCFC-222",
+            "CAS": "",
+            "regulation": "EU 2024 (590)",
+            "alterantive_names": "Pentachlorodifluoropropane"
+        },
+        {
+            "chemical_name": "HCFC-223",
+            "CAS": "",
+            "regulation": "EU 2024 (590)",
+            "alterantive_names": "Tetrachlorotrifluoropropane"
+        },
+        {
+            "chemical_name": "HCFC-224",
+            "CAS": "",
+            "regulation": "EU 2024 (590)",
+            "alterantive_names": "Trichlorotetrafluoropropane"
+        },
+        {
+            "chemical_name": "HCFC-225",
+            "CAS": "",
+            "regulation": "EU 2024 (590)",
+            "alterantive_names": "Dichloropentafluoropropane"
+        },
+        {
+            "chemical_name": "HCFC-225ca",
+            "CAS": "",
+            "regulation": "EU 2024 (590)",
+            "alterantive_names": "3,3-Dichloro-1,1,1,2,2-pentafluoropropane"
+        },
+        {
+            "chemical_name": "HCFC-225cb",
+            "CAS": "",
+            "regulation": "EU 2024 (590)",
+            "alterantive_names": "1,3-Dichloro-1,1,2,2,3-pentafluoropropane"
+        },
+        {
+            "chemical_name": "HCFC-226",
+            "CAS": "",
+            "regulation": "EU 2024 (590)",
+            "alterantive_names": "Chlorohexafluoropropane"
+        },
+        {
+            "chemical_name": "HCFC-231",
+            "CAS": "",
+            "regulation": "EU 2024 (590)",
+            "alterantive_names": "Pentachlorofluoropropane"
+        },
+        {
+            "chemical_name": "HCFC-232",
+            "CAS": "",
+            "regulation": "EU 2024 (590)",
+            "alterantive_names": "Tetrachlorodifluoropropane"
+        },
+        {
+            "chemical_name": "HCFC-233",
+            "CAS": "",
+            "regulation": "EU 2024 (590)",
+            "alterantive_names": "Trichlorotrifluoropropane"
+        },
+        {
+            "chemical_name": "HCFC-234",
+            "CAS": "",
+            "regulation": "EU 2024 (590)",
+            "alterantive_names": "Dichlorotetrafluoropropane"
+        },
+        {
+            "chemical_name": "HCFC-235",
+            "CAS": "",
+            "regulation": "EU 2024 (590)",
+            "alterantive_names": "Chloropentafluoropropane"
+        },
+        {
+            "chemical_name": "HCFC-241",
+            "CAS": "",
+            "regulation": "EU 2024 (590)",
+            "alterantive_names": "Tetrachlorofluoropropane"
+        },
+        {
+            "chemical_name": "HCFC-242",
+            "CAS": "",
+            "regulation": "EU 2024 (590)",
+            "alterantive_names": "Trichlorodifluoropropane"
+        },
+        {
+            "chemical_name": "HCFC-243",
+            "CAS": "",
+            "regulation": "EU 2024 (590)",
+            "alterantive_names": "Dichlorotrifluoropropane"
+        },
+        {
+            "chemical_name": "HCFC-244",
+            "CAS": "",
+            "regulation": "EU 2024 (590)",
+            "alterantive_names": "Chlorotetrafluoropropane"
+        },
+        {
+            "chemical_name": "HCFC-251",
+            "CAS": "",
+            "regulation": "EU 2024 (590)",
+            "alterantive_names": "Trichlorofluoropropane"
+        },
+        {
+            "chemical_name": "HCFC-252",
+            "CAS": "",
+            "regulation": "EU 2024 (590)",
+            "alterantive_names": "Dichlorodifluoropropane"
+        },
+        {
+            "chemical_name": "HCFC-253",
+            "CAS": "",
+            "regulation": "EU 2024 (590)",
+            "alterantive_names": "Chlorotrifluoropropane"
+        },
+        {
+            "chemical_name": "HCFC-261",
+            "CAS": "",
+            "regulation": "EU 2024 (590)",
+            "alterantive_names": "Dichlorofluoropropane"
+        },
+        {
+            "chemical_name": "HCFC-262",
+            "CAS": "",
+            "regulation": "EU 2024 (590)",
+            "alterantive_names": "Chlorodifluoropropane"
+        },
+        {
+            "chemical_name": "HCFC-271",
+            "CAS": "",
+            "regulation": "EU 2024 (590)",
+            "alterantive_names": "Chlorofluoropropane"
+        },
+        {
+            "chemical_name": "Bromochloromethane",
+            "CAS": "",
+            "regulation": "EU 2024 (590)",
+            "alterantive_names": "BCM"
+        },
+        {
+            "chemical_name": "1-Bromopropane",
+            "CAS": "",
+            "regulation": "EU 2024 (590)",
+            "alterantive_names": "n-propyl bromide"
+        },
+        {
+            "chemical_name": "Bromoethane",
+            "CAS": "",
+            "regulation": "EU 2024 (590)",
+            "alterantive_names": "ethyl bromide"
+        },
+        {
+            "chemical_name": "Trifluoroiodomethane",
+            "CAS": "",
+            "regulation": "EU 2024 (590)",
+            "alterantive_names": "trifluoromethyl iodide"
+        },
+        {
+            "chemical_name": "Chloromethane",
+            "CAS": "",
+            "regulation": "EU 2024 (590)",
+            "alterantive_names": "methyl chloride"
+        },
+        {
+            "chemical_name": "2-bromo-3,3,3-trifluoroprop-1-en",
+            "CAS": "",
+            "regulation": "EU 2024 (590)",
+            "alterantive_names": "2-BTP"
+        },
+        {
+            "chemical_name": "Dichloromethane",
+            "CAS": "",
+            "regulation": "EU 2024 (590)",
+            "alterantive_names": "DCM"
+        },
+        {
+            "chemical_name": "Tetrachloroethene",
+            "CAS": "",
+            "regulation": "EU 2024 (590)",
+            "alterantive_names": "Perchloroethylene; PCE"
+        }
+    ]
+}

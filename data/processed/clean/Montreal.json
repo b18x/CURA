@@ -1,0 +1,719 @@
+{
+    "chemicals": [
+        {
+            "chemical_name": "1,1-Difluoroethane",
+            "CAS": "75-37-6",
+            "regulation": "Montreal Protocol"
+        },
+        {
+            "chemical_name": "Dibromotetrafluoroethane",
+            "CAS": "25497-30-7",
+            "regulation": "Montreal Protocol"
+        },
+        {
+            "chemical_name": "Bromochlorodifluoromethane",
+            "CAS": "353-59-3",
+            "regulation": "Montreal Protocol"
+        },
+        {
+            "chemical_name": "1,2-Dibromo-1,1,2-trifluoroethane",
+            "CAS": "354-04-1",
+            "regulation": "Montreal Protocol"
+        },
+        {
+            "chemical_name": "Bromotrifluoromethane",
+            "CAS": "75-63-8",
+            "regulation": "Montreal Protocol"
+        },
+        {
+            "chemical_name": "Trichlorofluoromethane",
+            "CAS": "75-69-4",
+            "regulation": "Montreal Protocol"
+        },
+        {
+            "chemical_name": "Dichlorodifluoromethane",
+            "CAS": "75-71-8",
+            "regulation": "Montreal Protocol"
+        },
+        {
+            "chemical_name": "Chlorotrifluoromethane",
+            "CAS": "75-72-9",
+            "regulation": "Montreal Protocol"
+        },
+        {
+            "chemical_name": "Fluorohexabromopropane",
+            "CAS": "",
+            "regulation": "Montreal Protocol"
+        },
+        {
+            "chemical_name": "Difluorobromoethane",
+            "CAS": "",
+            "regulation": "Montreal Protocol"
+        },
+        {
+            "chemical_name": "Fluorotribromoethane",
+            "CAS": "",
+            "regulation": "Montreal Protocol"
+        },
+        {
+            "chemical_name": "Tetrafluorobromoethane",
+            "CAS": "",
+            "regulation": "Montreal Protocol"
+        },
+        {
+            "chemical_name": "Difluorodibromopropane",
+            "CAS": "",
+            "regulation": "Montreal Protocol"
+        },
+        {
+            "chemical_name": "Difluorotribromopropane",
+            "CAS": "",
+            "regulation": "Montreal Protocol"
+        },
+        {
+            "chemical_name": "Fluorotetrabromopropane",
+            "CAS": "",
+            "regulation": "Montreal Protocol"
+        },
+        {
+            "chemical_name": "Tetrafluorotribromopropane",
+            "CAS": "",
+            "regulation": "Montreal Protocol"
+        },
+        {
+            "chemical_name": "Tetrachlorofluoroethane",
+            "CAS": "130879-71-9",
+            "regulation": "Montreal Protocol"
+        },
+        {
+            "chemical_name": "Tetrachlorodifluoropropane",
+            "CAS": "127564-82-3",
+            "regulation": "Montreal Protocol"
+        },
+        {
+            "chemical_name": "Trichlorotrifluoropropane",
+            "CAS": "134237-40-4",
+            "regulation": "Montreal Protocol"
+        },
+        {
+            "chemical_name": "Hexachlorodifluoropropane",
+            "CAS": "134452-44-1",
+            "regulation": "Montreal Protocol"
+        },
+        {
+            "chemical_name": "Dichlorotetrafluoropropane",
+            "CAS": "127564-83-4",
+            "regulation": "Montreal Protocol"
+        },
+        {
+            "chemical_name": "Heptachlorofluoropropane",
+            "CAS": "135401-87-5",
+            "regulation": "Montreal Protocol"
+        },
+        {
+            "chemical_name": "1,1,2-Trichloro-1-fluoroethane",
+            "CAS": "811-95-0",
+            "regulation": "Montreal Protocol"
+        },
+        {
+            "chemical_name": "Trichloropentafluoropropane",
+            "CAS": "28109-69-5",
+            "regulation": "Montreal Protocol"
+        },
+        {
+            "chemical_name": "1,2-Dichloro-1,2-difluoroethane",
+            "CAS": "431-06-1",
+            "regulation": "Montreal Protocol"
+        },
+        {
+            "chemical_name": "Chlorotrifluoroethane",
+            "CAS": "1330-45-6",
+            "regulation": "Montreal Protocol"
+        },
+        {
+            "chemical_name": "Ethane, 2-bromo-1,1,1-trifluoro-",
+            "CAS": "421-06-7",
+            "regulation": "Montreal Protocol"
+        },
+        {
+            "chemical_name": "1,2,3-Trichloro-1,1,2,3,3-pentafluoropropane",
+            "CAS": "76-17-5",
+            "regulation": "Montreal Protocol"
+        },
+        {
+            "chemical_name": "2-Fluorobromoethane",
+            "CAS": "762-49-2",
+            "regulation": "Montreal Protocol"
+        },
+        {
+            "chemical_name": "1,1,2-Trichloro-1,2,2-trifluoroethane",
+            "CAS": "76-13-1",
+            "regulation": "Montreal Protocol"
+        },
+        {
+            "chemical_name": "Trifluorotetrabromopropane",
+            "CAS": "",
+            "regulation": "Montreal Protocol"
+        },
+        {
+            "chemical_name": "Trifluorodibromopropane",
+            "CAS": "",
+            "regulation": "Montreal Protocol"
+        },
+        {
+            "chemical_name": "Dichlorofluoromethane",
+            "CAS": "75-43-4",
+            "regulation": "Montreal Protocol"
+        },
+        {
+            "chemical_name": "Chlorodifluoromethane",
+            "CAS": "75-45-6",
+            "regulation": "Montreal Protocol"
+        },
+        {
+            "chemical_name": "Chlorofluoromethane",
+            "CAS": "593-70-4",
+            "regulation": "Montreal Protocol"
+        },
+        {
+            "chemical_name": "Fluoropentabromopropane",
+            "CAS": "",
+            "regulation": "Montreal Protocol"
+        },
+        {
+            "chemical_name": "Trifluorotribromopropane",
+            "CAS": "",
+            "regulation": "Montreal Protocol"
+        },
+        {
+            "chemical_name": "Pentafluorobromopropane",
+            "CAS": "",
+            "regulation": "Montreal Protocol"
+        },
+        {
+            "chemical_name": "Trifluorobromopropane",
+            "CAS": "",
+            "regulation": "Montreal Protocol"
+        },
+        {
+            "chemical_name": "Trichlorofluoropropane",
+            "CAS": "134190-51-5",
+            "regulation": "Montreal Protocol"
+        },
+        {
+            "chemical_name": "Dichlorodifluoropropane",
+            "CAS": "134190-52-6",
+            "regulation": "Montreal Protocol"
+        },
+        {
+            "chemical_name": "Chlorotrifluoropropane",
+            "CAS": "134237-44-8",
+            "regulation": "Montreal Protocol"
+        },
+        {
+            "chemical_name": "1,2-Dichloro-2-fluoropropane",
+            "CAS": "134237-45-9",
+            "regulation": "Montreal Protocol"
+        },
+        {
+            "chemical_name": "Pentachlorodifluoropropane",
+            "CAS": "116867-32-4",
+            "regulation": "Montreal Protocol"
+        },
+        {
+            "chemical_name": "1,2,2,3-Tetrachloro-1,1,3-trifluoropropane",
+            "CAS": "29470-95-9",
+            "regulation": "Montreal Protocol"
+        },
+        {
+            "chemical_name": "Trichlorotetrafluoropropane",
+            "CAS": "127564-91-4",
+            "regulation": "Montreal Protocol"
+        },
+        {
+            "chemical_name": "Dichloropentafluoropropane",
+            "CAS": "127564-92-5",
+            "regulation": "Montreal Protocol"
+        },
+        {
+            "chemical_name": "Pentachlorotrifluoropropane",
+            "CAS": "134237-31-3",
+            "regulation": "Montreal Protocol"
+        },
+        {
+            "chemical_name": "Bromodifluoromethane",
+            "CAS": "1511-62-2",
+            "regulation": "Montreal Protocol"
+        },
+        {
+            "chemical_name": "1,1,1,2,2-Pentachloro-2-fluoroethane",
+            "CAS": "354-56-3",
+            "regulation": "Montreal Protocol"
+        },
+        {
+            "chemical_name": "1,2-Dibromo-1-fluoroethane",
+            "CAS": "358-97-4",
+            "regulation": "Montreal Protocol"
+        },
+        {
+            "chemical_name": "Dichlorohexafluoropropane",
+            "CAS": "42560-98-5",
+            "regulation": "Montreal Protocol"
+        },
+        {
+            "chemical_name": "1,1-Difluoro-1,2-dibromoethane",
+            "CAS": "75-82-1",
+            "regulation": "Montreal Protocol"
+        },
+        {
+            "chemical_name": "1,1,2,2-Tetrachloro-1,2-difluoroethane",
+            "CAS": "76-12-0",
+            "regulation": "Montreal Protocol"
+        },
+        {
+            "chemical_name": "Difluoropentabromopropane",
+            "CAS": "",
+            "regulation": "Montreal Protocol"
+        },
+        {
+            "chemical_name": "Fluorotetrabromoethane",
+            "CAS": "",
+            "regulation": "Montreal Protocol"
+        },
+        {
+            "chemical_name": "Fluorodibromomethane",
+            "CAS": "",
+            "regulation": "Montreal Protocol"
+        },
+        {
+            "chemical_name": "Difluorobromopropane",
+            "CAS": "",
+            "regulation": "Montreal Protocol"
+        },
+        {
+            "chemical_name": "Tetrafluorodibromopropane",
+            "CAS": "",
+            "regulation": "Montreal Protocol"
+        },
+        {
+            "chemical_name": "Pentafluorodibromopropane",
+            "CAS": "",
+            "regulation": "Montreal Protocol"
+        },
+        {
+            "chemical_name": "Tetrafluorobromopropane",
+            "CAS": "",
+            "regulation": "Montreal Protocol"
+        },
+        {
+            "chemical_name": "Chlorodifluoropropane",
+            "CAS": "134190-53-7",
+            "regulation": "Montreal Protocol"
+        },
+        {
+            "chemical_name": "Trichlorodifluoropropane",
+            "CAS": "127564-90-3",
+            "regulation": "Montreal Protocol"
+        },
+        {
+            "chemical_name": "1-Chloro-1,1-difluoroethane",
+            "CAS": "75-68-3",
+            "regulation": "Montreal Protocol"
+        },
+        {
+            "chemical_name": "Chlorodifluoroethane",
+            "CAS": "25497-29-4",
+            "regulation": "Montreal Protocol"
+        },
+        {
+            "chemical_name": "Chloroheptafluoropropane",
+            "CAS": "30143-46-5",
+            "regulation": "Montreal Protocol"
+        },
+        {
+            "chemical_name": "1,1,1,2-Tetrachloro-2,2-difluoroethane",
+            "CAS": "76-11-9",
+            "regulation": "Montreal Protocol"
+        },
+        {
+            "chemical_name": "1,2-Dichloro-1,1,2,2-tetrafluoroethane",
+            "CAS": "76-14-2",
+            "regulation": "Montreal Protocol"
+        },
+        {
+            "chemical_name": "1,2,2-Trichloro-1,1-difluoro-ethane",
+            "CAS": "354-21-2",
+            "regulation": "Montreal Protocol"
+        },
+        {
+            "chemical_name": "Difluorotribromoethane",
+            "CAS": "",
+            "regulation": "Montreal Protocol"
+        },
+        {
+            "chemical_name": "Fluorobromomethane",
+            "CAS": "",
+            "regulation": "Montreal Protocol"
+        },
+        {
+            "chemical_name": "Fluorodibromopropane",
+            "CAS": "",
+            "regulation": "Montreal Protocol"
+        },
+        {
+            "chemical_name": "1-Bromo-3-fluoropropane",
+            "CAS": "",
+            "regulation": "Montreal Protocol"
+        },
+        {
+            "chemical_name": "Difluorotetrabromopropane",
+            "CAS": "",
+            "regulation": "Montreal Protocol"
+        },
+        {
+            "chemical_name": "Fluorotribromopropane",
+            "CAS": "",
+            "regulation": "Montreal Protocol"
+        },
+        {
+            "chemical_name": "Hexafluorobromopropane",
+            "CAS": "",
+            "regulation": "Montreal Protocol"
+        },
+        {
+            "chemical_name": "Tetrachlorofluoropropane",
+            "CAS": "134190-49-1",
+            "regulation": "Montreal Protocol"
+        },
+        {
+            "chemical_name": "Dichlorotrifluoropropane",
+            "CAS": "116890-51-8",
+            "regulation": "Montreal Protocol"
+        },
+        {
+            "chemical_name": "Chlorofluoropropane",
+            "CAS": "134190-54-8",
+            "regulation": "Montreal Protocol"
+        },
+        {
+            "chemical_name": "Chlorofluoroethane",
+            "CAS": "110587-14-9",
+            "regulation": "Montreal Protocol"
+        },
+        {
+            "chemical_name": "Dichlorofluoroethane",
+            "CAS": "25167-88-8",
+            "regulation": "Montreal Protocol"
+        },
+        {
+            "chemical_name": "Pentachlorofluoropropane",
+            "CAS": "134190-48-0",
+            "regulation": "Montreal Protocol"
+        },
+        {
+            "chemical_name": "Hexachlorofluoropropane",
+            "CAS": "134237-35-7",
+            "regulation": "Montreal Protocol"
+        },
+        {
+            "chemical_name": "1,2-Difluoroethane",
+            "CAS": "624-72-6",
+            "regulation": "Montreal Protocol"
+        },
+        {
+            "chemical_name": "Fluoroethane",
+            "CAS": "353-36-6",
+            "regulation": "Montreal Protocol"
+        },
+        {
+            "chemical_name": "Difluoromethane",
+            "CAS": "75-10-5",
+            "regulation": "Montreal Protocol"
+        },
+        {
+            "chemical_name": "Fluoromethane",
+            "CAS": "593-53-3",
+            "regulation": "Montreal Protocol"
+        },
+        {
+            "chemical_name": "Trifluoromethane",
+            "CAS": "75-46-7",
+            "regulation": "Montreal Protocol"
+        },
+        {
+            "chemical_name": "1,1,2-Trifluoroethane",
+            "CAS": "430-66-0",
+            "regulation": "Montreal Protocol"
+        },
+        {
+            "chemical_name": "1,1,2,2-Tetraflouroethane",
+            "CAS": "359-35-3",
+            "regulation": "Montreal Protocol"
+        },
+        {
+            "chemical_name": "1,1,1-Trichloro-2-fluoroethane",
+            "CAS": "2366-36-1",
+            "regulation": "Montreal Protocol"
+        },
+        {
+            "chemical_name": "Trichlorofluoroethane",
+            "CAS": "27154-33-2",
+            "regulation": "Montreal Protocol"
+        },
+        {
+            "chemical_name": "Dichlorodifluoroethane",
+            "CAS": "25915-78-0",
+            "regulation": "Montreal Protocol"
+        },
+        {
+            "chemical_name": "1,1-Dichloro-2,2-difluoroethane",
+            "CAS": "471-43-2",
+            "regulation": "Montreal Protocol"
+        },
+        {
+            "chemical_name": "Trichlorotrifluoroethane",
+            "CAS": "26523-64-8",
+            "regulation": "Montreal Protocol"
+        },
+        {
+            "chemical_name": "Tetrachlorodifluoroethane",
+            "CAS": "28605-74-5",
+            "regulation": "Montreal Protocol"
+        },
+        {
+            "chemical_name": "1,1,1,2,2,3,3-Heptachloro-3-fluoropropane",
+            "CAS": "422-78-6",
+            "regulation": "Montreal Protocol"
+        },
+        {
+            "chemical_name": "1,1,1,2,3,3,3-Heptachloro-2-fluoropropane",
+            "CAS": "422-81-1",
+            "regulation": "Montreal Protocol"
+        },
+        {
+            "chemical_name": "1,1,3,3-Tetrachloro-1,2,2,3-tetrafluoropropane",
+            "CAS": "",
+            "regulation": "Montreal Protocol"
+        },
+        {
+            "chemical_name": "1,1,1,2-Tetrachloro-2,3,3,3-tetrafluoropropane",
+            "CAS": "",
+            "regulation": "Montreal Protocol"
+        },
+        {
+            "chemical_name": "1,2,2-Trichloro-1,1,3,3,3-pentafluoropropane",
+            "CAS": "1599-41-3",
+            "regulation": "Montreal Protocol"
+        },
+        {
+            "chemical_name": "1,1,2-Trichloro-1,2,3,3,3-pentafluoropropane",
+            "CAS": "",
+            "regulation": "Montreal Protocol"
+        },
+        {
+            "chemical_name": "1,1,1,2,3,3-Hexachloro-2-fluoropropane",
+            "CAS": "422-40-2",
+            "regulation": "Montreal Protocol"
+        },
+        {
+            "chemical_name": "1,1,1,3,3,3-Hexachloro-2-fluoropropane",
+            "CAS": "",
+            "regulation": "Montreal Protocol"
+        },
+        {
+            "chemical_name": "1,1,1,2,3,3-Hexachloro-3-fluoropropane",
+            "CAS": "431-79-8",
+            "regulation": "Montreal Protocol"
+        },
+        {
+            "chemical_name": "1,1,1,2,2,3-Hexachloro-3-fluoropropane",
+            "CAS": "422-26-4",
+            "regulation": "Montreal Protocol"
+        },
+        {
+            "chemical_name": "1-Chloro-1,2,2-trifluoroethane",
+            "CAS": "431-07-2",
+            "regulation": "Montreal Protocol"
+        },
+        {
+            "chemical_name": "1-Chloro-1,1,2-trifluoroethane",
+            "CAS": "421-04-5",
+            "regulation": "Montreal Protocol"
+        },
+        {
+            "chemical_name": "1,1,1,2-Tetrachloro-2-fluoroethane",
+            "CAS": "354-11-0",
+            "regulation": "Montreal Protocol"
+        },
+        {
+            "chemical_name": "1,1,2,2-Tetrachloro-1-fluoroethane",
+            "CAS": "354-14-3",
+            "regulation": "Montreal Protocol"
+        },
+        {
+            "chemical_name": "Trichlorodifluoroethane",
+            "CAS": "41834-16-6",
+            "regulation": "Montreal Protocol"
+        },
+        {
+            "chemical_name": "1,1,2-Trichloro-1,2-difluoroethane",
+            "CAS": "354-15-4",
+            "regulation": "Montreal Protocol"
+        },
+        {
+            "chemical_name": "1,1,2,3,3-Pentachloro-1,2,3-trifluoropropane",
+            "CAS": "1652-74-0",
+            "regulation": "Montreal Protocol"
+        },
+        {
+            "chemical_name": "1,1,1,2,2-Pentachloro-3,3,3-trifluoropropane",
+            "CAS": "1652-89-7",
+            "regulation": "Montreal Protocol"
+        },
+        {
+            "chemical_name": "1,1,1,2,3-Pentachloro-2,3,3-trifluoropropane",
+            "CAS": "2354-05-4",
+            "regulation": "Montreal Protocol"
+        },
+        {
+            "chemical_name": "1,1,1,3,3-Pentachloro-2,2,3-trifluoropropane",
+            "CAS": "2354-06-5",
+            "regulation": "Montreal Protocol"
+        },
+        {
+            "chemical_name": "1,1,2,2,3-Pentachloro-1,3,3-trifluoropropane",
+            "CAS": "",
+            "regulation": "Montreal Protocol"
+        },
+        {
+            "chemical_name": "Dichlorotrifluoroethane",
+            "CAS": "34077-87-7",
+            "regulation": "Montreal Protocol"
+        },
+        {
+            "chemical_name": "1,1-Dichloro-1,2,2-trifluoroethane",
+            "CAS": "812-04-4",
+            "regulation": "Montreal Protocol"
+        },
+        {
+            "chemical_name": "1,1,1-Trichloro-2,2-difluoroethane",
+            "CAS": "354-12-1",
+            "regulation": "Montreal Protocol"
+        },
+        {
+            "chemical_name": "1,1-Dichloro-1,2-difluoroethane",
+            "CAS": "1842-05-3",
+            "regulation": "Montreal Protocol"
+        },
+        {
+            "chemical_name": "1,1,3,3-Tetrachloro-1,2,2-trifluoropropane",
+            "CAS": "422-52-6",
+            "regulation": "Montreal Protocol"
+        },
+        {
+            "chemical_name": "1,1,1,3,3,3-Hexachloro-2,2-difluoropropane",
+            "CAS": "3182-26-1",
+            "regulation": "Montreal Protocol"
+        },
+        {
+            "chemical_name": "1,1,1,2,2,3-Hexachloro-3,3-difluoropropane",
+            "CAS": "661-96-1",
+            "regulation": "Montreal Protocol"
+        },
+        {
+            "chemical_name": "Tetrachlorotetrafluoropropane",
+            "CAS": "29255-31-0",
+            "regulation": "Montreal Protocol"
+        },
+        {
+            "chemical_name": "1,2,2,3-Tetrachloro-1,1,3,3-tetrafluoropropane",
+            "CAS": "677-68-9",
+            "regulation": "Montreal Protocol"
+        },
+        {
+            "chemical_name": "1,2-Dichloro-1-fluoroethane",
+            "CAS": "430-57-9",
+            "regulation": "Montreal Protocol"
+        },
+        {
+            "chemical_name": "1-Chloro-1,2-difluoroethane",
+            "CAS": "338-64-7",
+            "regulation": "Montreal Protocol"
+        },
+        {
+            "chemical_name": "1-Chloro-1-fluoroethane",
+            "CAS": "1615-75-4",
+            "regulation": "Montreal Protocol"
+        },
+        {
+            "chemical_name": "1,1,2,2,3,3-Hexachloro-1-fluoropropane",
+            "CAS": "422-28-6",
+            "regulation": "Montreal Protocol"
+        },
+        {
+            "chemical_name": "Bromochloromethane",
+            "CAS": "74-97-5",
+            "regulation": "Montreal Protocol"
+        },
+        {
+            "chemical_name": "1,2-Dichloro-1,1,2-trifluoroethane",
+            "CAS": "354-23-4",
+            "regulation": "Montreal Protocol"
+        },
+        {
+            "chemical_name": "1-Chloro-1,1,2,2-tetrafluoroethane",
+            "CAS": "354-25-6",
+            "regulation": "Montreal Protocol"
+        },
+        {
+            "chemical_name": "1,1,2-Trichloro-2-fluoroethane",
+            "CAS": "359-28-4",
+            "regulation": "Montreal Protocol"
+        },
+        {
+            "chemical_name": "1,2-Dichloro-1,1-difluoroethane",
+            "CAS": "1649-08-7",
+            "regulation": "Montreal Protocol"
+        },
+        {
+            "chemical_name": "1,1,2,2,3,3-Hexachloro-1,3-difluoropropane",
+            "CAS": "1599-44-6",
+            "regulation": "Montreal Protocol"
+        },
+        {
+            "chemical_name": "1,1,1,2,3,3-Hexachloro-2,3-difluoropropane",
+            "CAS": "",
+            "regulation": "Montreal Protocol"
+        },
+        {
+            "chemical_name": "1,1,2,2-Tetrachloro-1,3,3,3-tetrafluoropropane",
+            "CAS": "2268-44-2",
+            "regulation": "Montreal Protocol"
+        },
+        {
+            "chemical_name": "1,1,2,3-Tetrachloro-1,2,3,3-tetrafluoropropane",
+            "CAS": "2268-45-3",
+            "regulation": "Montreal Protocol"
+        },
+        {
+            "chemical_name": "1,2-Dibromo-1,1,2,2-tetrafluoroethane",
+            "CAS": "124-73-2",
+            "regulation": "Montreal Protocol"
+        },
+        {
+            "chemical_name": "1,1-Dichloro-2-fluoroethane",
+            "CAS": "430-53-9",
+            "regulation": "Montreal Protocol"
+        },
+        {
+            "chemical_name": "1-Chloro-2,2-difluoroethane",
+            "CAS": "338-65-8",
+            "regulation": "Montreal Protocol"
+        },
+        {
+            "chemical_name": "1-Chloro-2-fluoroethane",
+            "CAS": "762-50-5",
+            "regulation": "Montreal Protocol"
+        }
+    ]
+}

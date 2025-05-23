@@ -1,0 +1,298 @@
+{
+    "chemicals": [
+        {
+            "chemical_name": "Tetrabromodiphenyl ether",
+            "CAS": "40088-47-9",
+            "regulation": "EU 2021 (1021)",
+            "alterantive_names": ""
+        },
+        {
+            "chemical_name": "Pentabromodiphenyl ether",
+            "CAS": "32534-81-9",
+            "regulation": "EU 2021 (1021)",
+            "alterantive_names": ""
+        },
+        {
+            "chemical_name": "Hexabromodiphenyl ether",
+            "CAS": "36483-60-0",
+            "regulation": "EU 2021 (1021)",
+            "alterantive_names": ""
+        },
+        {
+            "chemical_name": "Heptabromodiphenyl ether",
+            "CAS": "68928-80-3",
+            "regulation": "EU 2021 (1021)",
+            "alterantive_names": ""
+        },
+        {
+            "chemical_name": "Bis(pentabromophenyl) ether",
+            "CAS": "1163-19-5",
+            "regulation": "EU 2021 (1021)",
+            "alterantive_names": "decabromodiphenyl ether; decaBDE"
+        },
+        {
+            "chemical_name": "Perfluorooctane sulfonic acid",
+            "CAS": "1763-23-1",
+            "regulation": "EU 2021 (1021)",
+            "alterantive_names": "PFOS"
+        },
+        {
+            "chemical_name": "",
+            "CAS": "2795-39-3",
+            "regulation": "EU 2021 (1021)",
+            "alterantive_names": "PFOS"
+        },
+        {
+            "chemical_name": "",
+            "CAS": "29457-72-5",
+            "regulation": "EU 2021 (1021)",
+            "alterantive_names": "PFOS"
+        },
+        {
+            "chemical_name": "",
+            "CAS": "29081-56-9",
+            "regulation": "EU 2021 (1021)",
+            "alterantive_names": "PFOS"
+        },
+        {
+            "chemical_name": "",
+            "CAS": "70225-14-8",
+            "regulation": "EU 2021 (1021)",
+            "alterantive_names": "PFOS"
+        },
+        {
+            "chemical_name": "",
+            "CAS": "56773-42-3",
+            "regulation": "EU 2021 (1021)",
+            "alterantive_names": "PFOS"
+        },
+        {
+            "chemical_name": "",
+            "CAS": "251099-16-8",
+            "regulation": "EU 2021 (1021)",
+            "alterantive_names": "PFOS"
+        },
+        {
+            "chemical_name": "",
+            "CAS": "4151-50-2",
+            "regulation": "EU 2021 (1021)",
+            "alterantive_names": "PFOS"
+        },
+        {
+            "chemical_name": "",
+            "CAS": "31506-32-8",
+            "regulation": "EU 2021 (1021)",
+            "alterantive_names": "PFOS"
+        },
+        {
+            "chemical_name": "",
+            "CAS": "1691-99-2",
+            "regulation": "EU 2021 (1021)",
+            "alterantive_names": "PFOS"
+        },
+        {
+            "chemical_name": "",
+            "CAS": "24448-09-7",
+            "regulation": "EU 2021 (1021)",
+            "alterantive_names": "PFOS"
+        },
+        {
+            "chemical_name": "",
+            "CAS": "307-35-7",
+            "regulation": "EU 2021 (1021)",
+            "alterantive_names": "PFOS"
+        },
+        {
+            "chemical_name": "1,1,1-trichloro-2,2-bis(4-chlorophenyl)ethane",
+            "CAS": "50-29-3",
+            "regulation": "EU 2021 (1021)",
+            "alterantive_names": "DDT"
+        },
+        {
+            "chemical_name": "Chlordane",
+            "CAS": "57-74-9",
+            "regulation": "EU 2021 (1021)",
+            "alterantive_names": ""
+        },
+        {
+            "chemical_name": "",
+            "CAS": "58-89-9",
+            "regulation": "EU 2021 (1021)",
+            "alterantive_names": "Hexachlorocyclohexanes"
+        },
+        {
+            "chemical_name": "",
+            "CAS": "206-270-8",
+            "regulation": "EU 2021 (1021)",
+            "alterantive_names": "Hexachlorocyclohexanes"
+        },
+        {
+            "chemical_name": "",
+            "CAS": "206-271-3",
+            "regulation": "EU 2021 (1021)",
+            "alterantive_names": "Hexachlorocyclohexanes"
+        },
+        {
+            "chemical_name": "",
+            "CAS": "210-168-9",
+            "regulation": "EU 2021 (1021)",
+            "alterantive_names": "Hexachlorocyclohexanes"
+        },
+        {
+            "chemical_name": "",
+            "CAS": "319-84-6",
+            "regulation": "EU 2021 (1021)",
+            "alterantive_names": "Hexachlorocyclohexanes"
+        },
+        {
+            "chemical_name": "",
+            "CAS": "319-85-7",
+            "regulation": "EU 2021 (1021)",
+            "alterantive_names": "Hexachlorocyclohexanes"
+        },
+        {
+            "chemical_name": "",
+            "CAS": "608-73-1",
+            "regulation": "EU 2021 (1021)",
+            "alterantive_names": "Hexachlorocyclohexanes"
+        },
+        {
+            "chemical_name": "Dieldrin",
+            "CAS": "60-57-1",
+            "regulation": "EU 2021 (1021)",
+            "alterantive_names": ""
+        },
+        {
+            "chemical_name": "Endrin",
+            "CAS": "72-20-8",
+            "regulation": "EU 2021 (1021)",
+            "alterantive_names": ""
+        },
+        {
+            "chemical_name": "Heptachlor",
+            "CAS": "76-44-8",
+            "regulation": "EU 2021 (1021)",
+            "alterantive_names": ""
+        },
+        {
+            "chemical_name": "",
+            "CAS": "115-29-7",
+            "regulation": "EU 2021 (1021)",
+            "alterantive_names": "Endosulfan"
+        },
+        {
+            "chemical_name": "",
+            "CAS": "959-98-8",
+            "regulation": "EU 2021 (1021)",
+            "alterantive_names": "Endosulfan"
+        },
+        {
+            "chemical_name": "",
+            "CAS": "33213-65-9",
+            "regulation": "EU 2021 (1021)",
+            "alterantive_names": "Endosulfan"
+        },
+        {
+            "chemical_name": "Hexachlorobenzene",
+            "CAS": "118-74-1",
+            "regulation": "EU 2021 (1021)",
+            "alterantive_names": ""
+        },
+        {
+            "chemical_name": "Chlordecone",
+            "CAS": "143-50-0",
+            "regulation": "EU 2021 (1021)",
+            "alterantive_names": ""
+        },
+        {
+            "chemical_name": "Aldrin",
+            "CAS": "309-00-2",
+            "regulation": "EU 2021 (1021)",
+            "alterantive_names": ""
+        },
+        {
+            "chemical_name": "Pentachlorobenzene",
+            "CAS": "608-93-5",
+            "regulation": "EU 2021 (1021)",
+            "alterantive_names": ""
+        },
+        {
+            "chemical_name": "Polychlorinated Biphenyls (PCB)",
+            "CAS": "1336-36-3",
+            "regulation": "EU 2021 (1021)",
+            "alterantive_names": ""
+        },
+        {
+            "chemical_name": "Mirex",
+            "CAS": "2385-85-5",
+            "regulation": "EU 2021 (1021)",
+            "alterantive_names": ""
+        },
+        {
+            "chemical_name": "Toxaphene",
+            "CAS": "8001-35-2",
+            "regulation": "EU 2021 (1021)",
+            "alterantive_names": ""
+        },
+        {
+            "chemical_name": "Hexabromobiphenyl",
+            "CAS": "36355-01-8",
+            "regulation": "EU 2021 (1021)",
+            "alterantive_names": ""
+        },
+        {
+            "chemical_name": "Hexabromocyclododecane",
+            "CAS": "25637-99-4",
+            "regulation": "EU 2021 (1021)",
+            "alterantive_names": ""
+        },
+        {
+            "chemical_name": "1,2,5,6,9,10-hexabromocyclododecane",
+            "CAS": "3194-55-6",
+            "regulation": "EU 2021 (1021)",
+            "alterantive_names": ""
+        },
+        {
+            "chemical_name": "alpha-hexabromocyclododecane",
+            "CAS": "134237-50-6",
+            "regulation": "EU 2021 (1021)",
+            "alterantive_names": ""
+        },
+        {
+            "chemical_name": "beta-hexabromocyclododecane",
+            "CAS": "134237-51-7",
+            "regulation": "EU 2021 (1021)",
+            "alterantive_names": ""
+        },
+        {
+            "chemical_name": "gamma-hexabromocyclododecane",
+            "CAS": "134237-52-8",
+            "regulation": "EU 2021 (1021)",
+            "alterantive_names": ""
+        },
+        {
+            "chemical_name": "Hexachlorobutadiene",
+            "CAS": "87-68-3",
+            "regulation": "EU 2021 (1021)",
+            "alterantive_names": ""
+        },
+        {
+            "chemical_name": "Pentachlorophenol and its salts and esters",
+            "CAS": "87-86-5",
+            "regulation": "EU 2021 (1021)",
+            "alterantive_names": ""
+        },
+        {
+            "chemical_name": "Polychlorinated naphthalenes",
+            "CAS": "70776-03-3",
+            "regulation": "EU 2021 (1021)",
+            "alterantive_names": ""
+        },
+        {
+            "chemical_name": "short-chain chlorinated paraffins",
+            "CAS": "85535-84-8",
+            "regulation": "EU 2021 (1021)",
+            "alterantive_names": "Alkanes C10-C13, chloro; SCCPs"
+        }
+    ]
+}

@@ -1,0 +1,280 @@
+{
+    "chemicals": [
+        {
+            "chemical_name": "trifluoromethane",
+            "CAS": "",
+            "regulation": "EU 2024 (573)",
+            "alterantive_names": "HFC-23; fluoroform"
+        },
+        {
+            "chemical_name": "difluoromethane",
+            "CAS": "",
+            "regulation": "EU 2024 (573)",
+            "alterantive_names": "HFC-32"
+        },
+        {
+            "chemical_name": "Fluoromethane",
+            "CAS": "",
+            "regulation": "EU 2024 (573)",
+            "alterantive_names": "HFC-41; methyl fluoride"
+        },
+        {
+            "chemical_name": "pentafluoroethane",
+            "CAS": "",
+            "regulation": "EU 2024 (573)",
+            "alterantive_names": "HFC-125"
+        },
+        {
+            "chemical_name": "1,1,2,2-tetrafluoroethane",
+            "CAS": "",
+            "regulation": "EU 2024 (573)",
+            "alterantive_names": "HFC-134"
+        },
+        {
+            "chemical_name": "1,1,1,2-tetrafluoroethane",
+            "CAS": "",
+            "regulation": "EU 2024 (573)",
+            "alterantive_names": "HFC-134a"
+        },
+        {
+            "chemical_name": "1,1,2-trifluoroethane",
+            "CAS": "",
+            "regulation": "EU 2024 (573)",
+            "alterantive_names": "HFC-143"
+        },
+        {
+            "chemical_name": "1,1,1-trifluoroethane",
+            "CAS": "",
+            "regulation": "EU 2024 (573)",
+            "alterantive_names": "HFC-143a"
+        },
+        {
+            "chemical_name": "1,2-difluoroethane",
+            "CAS": "",
+            "regulation": "EU 2024 (573)",
+            "alterantive_names": "HFC-152"
+        },
+        {
+            "chemical_name": "1,1-difluoroethane",
+            "CAS": "",
+            "regulation": "EU 2024 (573)",
+            "alterantive_names": "HFC-152a"
+        },
+        {
+            "chemical_name": "Fluoroethane (ethyl fluoride)",
+            "CAS": "",
+            "regulation": "EU 2024 (573)",
+            "alterantive_names": "HFC-161"
+        },
+        {
+            "chemical_name": "1,1,1,2,3,3,3-heptafluoropropane",
+            "CAS": "",
+            "regulation": "EU 2024 (573)",
+            "alterantive_names": "HFC-227ea"
+        },
+        {
+            "chemical_name": "1,1,1,2,2,3-hexafluoropropane",
+            "CAS": "",
+            "regulation": "EU 2024 (573)",
+            "alterantive_names": "HFC-236cb"
+        },
+        {
+            "chemical_name": "1,1,1,2,3,3-hexafluoropropane",
+            "CAS": "",
+            "regulation": "EU 2024 (573)",
+            "alterantive_names": "HFC-236ea"
+        },
+        {
+            "chemical_name": "1,1,1,3,3,3-hexafluoropropane",
+            "CAS": "",
+            "regulation": "EU 2024 (573)",
+            "alterantive_names": "HFC-236fa"
+        },
+        {
+            "chemical_name": "1,1,2,2,3-pentafluoropropane",
+            "CAS": "",
+            "regulation": "EU 2024 (573)",
+            "alterantive_names": "HFC-245ca"
+        },
+        {
+            "chemical_name": "1,1,1,3,3-pentafluoropropane",
+            "CAS": "",
+            "regulation": "EU 2024 (573)",
+            "alterantive_names": "HFC-245fa"
+        },
+        {
+            "chemical_name": "1,1,1,3,3-pentafluorobutane",
+            "CAS": "",
+            "regulation": "EU 2024 (573)",
+            "alterantive_names": "HFC-365mfc"
+        },
+        {
+            "chemical_name": "1,1,1,2,2,3,4,5,5,5 decafluoropentane",
+            "CAS": "",
+            "regulation": "EU 2024 (573)",
+            "alterantive_names": "HFC-43-10mee"
+        },
+        {
+            "chemical_name": "tetrafluoromethane",
+            "CAS": "",
+            "regulation": "EU 2024 (573)",
+            "alterantive_names": "PFC-14; perfluoromethane; carbon tetrafluoride)"
+        },
+        {
+            "chemical_name": "Hexafluoroethane",
+            "CAS": "",
+            "regulation": "EU 2024 (573)",
+            "alterantive_names": "PFC-116; perfluoroethane"
+        },
+        {
+            "chemical_name": "octafluoropropane",
+            "CAS": "",
+            "regulation": "EU 2024 (573)",
+            "alterantive_names": "PFC-218; perfluoropropane"
+        },
+        {
+            "chemical_name": "decafluorobutane",
+            "CAS": "",
+            "regulation": "EU 2024 (573)",
+            "alterantive_names": "PFC-3-1-10 (R-31-10); perfluorobutane"
+        },
+        {
+            "chemical_name": "dodecafluoropentane",
+            "CAS": "",
+            "regulation": "EU 2024 (573)",
+            "alterantive_names": "PFC-4-1-12 (R-41-12); perfluoropentane"
+        },
+        {
+            "chemical_name": "tetradecafluorohexane",
+            "CAS": "",
+            "regulation": "EU 2024 (573)",
+            "alterantive_names": "PFC-5-1-14 (R-51-14); perfluorohexane"
+        },
+        {
+            "chemical_name": "octafluorocyclobutane",
+            "CAS": "",
+            "regulation": "EU 2024 (573)",
+            "alterantive_names": "PFC-c-318; perfluorocyclobutane"
+        },
+        {
+            "chemical_name": "Perfluorodecalin",
+            "CAS": "",
+            "regulation": "EU 2024 (573)",
+            "alterantive_names": "PFC-9-1-18 (R-91-18)"
+        },
+        {
+            "chemical_name": "perfluoro-2-methylpentane",
+            "CAS": "",
+            "regulation": "EU 2024 (573)",
+            "alterantive_names": "PFC-4-1-14 (R-41-14)"
+        },
+        {
+            "chemical_name": "sulphur hexafluoride",
+            "CAS": "",
+            "regulation": "EU 2024 (573)",
+            "alterantive_names": ""
+        },
+        {
+            "chemical_name": "Heptafluoroisobutyronitrile",
+            "CAS": "",
+            "regulation": "EU 2024 (573)",
+            "alterantive_names": "2,3,3,3-tetrafluoro-2-(trifluoromethyl)-propanenitrile"
+        },
+        {
+            "chemical_name": "HCFC-1224yd",
+            "CAS": "",
+            "regulation": "EU 2024 (573)",
+            "alterantive_names": ""
+        },
+        {
+            "chemical_name": "Trans\u20131,2 -difluoroethylene (HFC-1132) and isomers",
+            "CAS": "",
+            "regulation": "EU 2024 (573)",
+            "alterantive_names": ""
+        },
+        {
+            "chemical_name": "1,1-difluoroethylene",
+            "CAS": "",
+            "regulation": "EU 2024 (573)",
+            "alterantive_names": "HFC-1132a"
+        },
+        {
+            "chemical_name": "1,1,1,2,3,4,5,5,5(Or1,1,1,3,4,4,5,5,5)-nonafluoro-4(or2)-(trifluoromethyl)pent-2-ene",
+            "CAS": "",
+            "regulation": "EU 2024 (573)",
+            "alterantive_names": ""
+        },
+        {
+            "chemical_name": "HFC-1234yf",
+            "CAS": "",
+            "regulation": "EU 2024 (573)",
+            "alterantive_names": ""
+        },
+        {
+            "chemical_name": "HFC-1234ze",
+            "CAS": "",
+            "regulation": "EU 2024 (573)",
+            "alterantive_names": ""
+        },
+        {
+            "chemical_name": "HFC-1336mzz(E)",
+            "CAS": "",
+            "regulation": "EU 2024 (573)",
+            "alterantive_names": ""
+        },
+        {
+            "chemical_name": "HFC-1336mzz(Z)",
+            "CAS": "",
+            "regulation": "EU 2024 (573)",
+            "alterantive_names": ""
+        },
+        {
+            "chemical_name": "HCFC-1233zd",
+            "CAS": "",
+            "regulation": "EU 2024 (573)",
+            "alterantive_names": ""
+        },
+        {
+            "chemical_name": "HCFC-1233xf",
+            "CAS": "",
+            "regulation": "EU 2024 (573)",
+            "alterantive_names": ""
+        },
+        {
+            "chemical_name": "sevoflurane",
+            "CAS": "",
+            "regulation": "EU 2024 (573)",
+            "alterantive_names": ""
+        },
+        {
+            "chemical_name": "enflurane",
+            "CAS": "",
+            "regulation": "EU 2024 (573)",
+            "alterantive_names": "HFE-347mmz1"
+        },
+        {
+            "chemical_name": "isoflurane",
+            "CAS": "",
+            "regulation": "EU 2024 (573)",
+            "alterantive_names": "HCFE-235ca2"
+        },
+        {
+            "chemical_name": "desflurane",
+            "CAS": "",
+            "regulation": "EU 2024 (573)",
+            "alterantive_names": "HCFE-235da2"
+        },
+        {
+            "chemical_name": "nitrogen trifluoride",
+            "CAS": "",
+            "regulation": "EU 2024 (573)",
+            "alterantive_names": "HFE-236ea2"
+        },
+        {
+            "chemical_name": "sulfuryl fluoride",
+            "CAS": "",
+            "regulation": "EU 2024 (573)",
+            "alterantive_names": ""
+        }
+    ]
+}
